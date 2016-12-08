@@ -1,0 +1,20 @@
+<div class="top-bar">
+  <div class="top-bar-left">
+    <ul class="dropdown menu" data-dropdown-menu>
+      <li class="show-for-large"><a href="{{ site.url }}/#inicio"><img src="{{ site.url }}assets/img/final-logo-copy.jpg" width="196" height="auto" alt="logo lasaspiradoras.com"></a></li>
+      <li class="show-for-medium-only"><a href="{{ site.url }}/#inicio"><img src="{{ site.url }}assets/img/logo-las-aspiradoras-imagen.png" width="140" height="auto" alt="logo lasaspiradoras.com"></a></li>
+      <li class="show-for-small-only"><a href="{{ site.url }}/#inicio"><img src="{{ site.url }}assets/img/logo-las-aspiradoras-imagen.png" width="100" height="auto" alt="logo lasaspiradoras.com"></a></li>
+      <li class="show-for-small-only">
+        <a href="#">Menu</a>
+        <ul class="menu vertical">
+          {% for item in site.data.nav-main %}
+            <li><a href="{{ item.url }}">{{ item.link }}</a></li>
+          {% endfor %}
+        </ul>
+      </li>
+      {% for item in site.data.nav-main %}
+        <li class="hide-for-small-only"><a href="{{ item.url }}">{{ item.link }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

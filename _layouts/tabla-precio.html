@@ -1,0 +1,193 @@
+---
+layout: default
+---
+
+<main>
+  <span class="go-to-section" id="Os presentamos"></span>
+  <div class="row">
+    <div class="small-8 small-centered columns intro text-center">
+      <p class="lead">Os presentamos la lista de los mejores aspiradores ordenada según las promociones más interesantes en Amazon para que de un vistazo sepáis que modelos tienen más descuento.</p>
+    </div>
+  </div>
+  <table class="stack">
+    <thead>
+      <tr>
+        <th width="200">Imagen</th>
+        <th width="250">Modelo</th>
+        <th width="100">Precio anterior</th>
+        <th width="100">Precio actual</th>
+        <th width="80">Ahorro</th>
+        <th>Comprar</th>
+        <th width="80">Nota</th>
+        <th width="150"></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% assign categories = site.categories.product | sort: 'discount' | reverse %}
+      {% for post in categories %}
+        <tr>
+          <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
+          <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
+          <th><span class="show-for-small-only">Precio anterior: </span>{{ post.price-before }}</th>
+          <th><span class="show-for-small-only">Precio actual: </span>{{ post.price-now }}</th>
+          <th><span class="show-for-small-only">Descuento </span>{{ post.discount }}</th>
+          <th> <a href="{{ post.link }}" class="button">Comprar</a></th>
+          <th>{{ post.clasification }}</th>
+          <th>
+            {% if post.stars == "5" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+            {% elsif post.stars == "4.5" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <defs>
+                      <path d="M0 0h24v24H0V0z" id="a"/>
+                  </defs>
+                  <clipPath id="b">
+                      <use overflow="visible" xlink:href="#a"/>
+                  </clipPath>
+                  <path clip-path="url(#b)" d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4V6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
+              </svg>
+            {% elsif post.stars == "4" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+            {% elsif post.stars == "3.5" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <defs>
+                      <path d="M0 0h24v24H0V0z" id="a"/>
+                  </defs>
+                  <clipPath id="b">
+                      <use overflow="visible" xlink:href="#a"/>
+                  </clipPath>
+                  <path clip-path="url(#b)" d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4V6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
+              </svg>
+            {% elsif post.stars == "3" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+            {% elsif post.stars == "2.5" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                  <defs>
+                      <path d="M0 0h24v24H0V0z" id="a"/>
+                  </defs>
+                  <clipPath id="b">
+                      <use overflow="visible" xlink:href="#a"/>
+                  </clipPath>
+                  <path clip-path="url(#b)" d="M22 9.24l-7.19-.62L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21 12 17.27 18.18 21l-1.63-7.03L22 9.24zM12 15.4V6.1l1.71 4.04 4.38.38-3.32 2.88 1 4.28L12 15.4z"/>
+              </svg>
+            {% elsif post.stars == "2" %}
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+              <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M0 0h24v24H0z" fill="none"/>
+                  <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
+                  <path d="M0 0h24v24H0z" fill="none"/>
+              </svg>
+            {% else %}
+            {% endif %}
+          </th>
+        </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</main>
