@@ -1,5 +1,5 @@
 ---
-permalink: "/test-Dyson-DC62-animal-pro/"
+permalink: "test-Dyson-DC62-animal-pro/"
 layout: "product-page"
 title: "Test Dyson DC62 Animal Pro"
 categories:

@@ -1,5 +1,5 @@
 ---
-permalink: "/test-polti-forzaspira-MC330-turbo/"
+permalink: "test-polti-forzaspira-MC330-turbo/"
 layout: "product-page"
 title: "Test Polti Forzaspira MC330 Turbo"
 categories:

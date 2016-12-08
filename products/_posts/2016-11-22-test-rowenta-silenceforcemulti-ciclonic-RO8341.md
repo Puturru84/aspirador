@@ -1,5 +1,5 @@
 ---
-permalink: "/test-rowenta-silenceforce-multi-ciclonic-RO8341/"
+permalink: "test-rowenta-silenceforce-multi-ciclonic-RO8341/"
 layout: "product-page"
 title: "Test Rowenta Silence Force Multi-Cyclonic RO8341"
 categories:

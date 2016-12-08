@@ -1,5 +1,5 @@
 ---
-permalink: "/test-2016-12-01-test-iRobot-Braava-Jet-240/"
+permalink: "test-2016-12-01-test-iRobot-Braava-Jet-240/"
 layout: "product-page"
 title: "Test iRobot Braava Jet 240"
 categories:

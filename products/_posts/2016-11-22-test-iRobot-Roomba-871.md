@@ -1,5 +1,5 @@
 ---
-permalink: "/test-iRobot-roomba-871/"
+permalink: "test-iRobot-roomba-871/"
 layout: "product-page"
 title: "Test iRobot Roomba 871"
 categories:

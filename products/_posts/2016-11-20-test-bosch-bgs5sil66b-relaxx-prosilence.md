@@ -1,5 +1,5 @@
 ---
-permalink: "/test-bosch-bgs5sil66b-relaxx-prosilence/"
+permalink: "test-bosch-bgs5sil66b-relaxx-prosilence/"
 layout: "product-page"
 title: "Test Bosch BGS5SIL66B Relaxx'x ProSilence"
 categories:

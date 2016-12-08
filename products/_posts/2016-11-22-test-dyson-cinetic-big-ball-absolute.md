@@ -1,5 +1,5 @@
 ---
-permalink: "/test-dyson-cinetic-big-ball-absolute/"
+permalink: "test-dyson-cinetic-big-ball-absolute/"
 layout: "product-page"
 title: "Test Dyson Cinetic Big Ball Absolute"
 categories:

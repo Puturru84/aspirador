@@ -1,5 +1,5 @@
 ---
-permalink: "/test-Dyson-V6-Total-Clean/"
+permalink: "test-Dyson-V6-Total-Clean/"
 layout: "product-page"
 title: "Test Dyson V6 total clean"
 categories:
