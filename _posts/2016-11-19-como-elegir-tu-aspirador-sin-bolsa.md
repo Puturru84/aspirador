@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "¿Cómo elegir correctamente tu aspirador sin bolsa?"
-categories: blog-updates 
+categories: blog-updates
 ---
 
 La aspiradora es el aparato que utilizamos a diario en muchos casos para mantener la limpieza de nuestra casa. Se trata de una una compra que nos durará varios años, o por lo menos eso esperamos, una inversión,  así que requiere una atención especial.
