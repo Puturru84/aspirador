@@ -1,5 +1,5 @@
 ---
-permalink: "test-Rowenta-airforzeextreme-25.2v-vision-pro/"
+permalink: "test-Rowenta-airforzeextreme-25-2v-vision-pro/"
 layout: "product-page"
 title: "Test Rowenta Airforze Extreme 25.2v vision-pro"
 categories:
