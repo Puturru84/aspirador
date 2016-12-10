@@ -66,7 +66,7 @@ A continuación os cuento todo sobre el Total Clean que he podido probar recient
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/Dyson_V6_ambiente.jpg" width="400" height="auto" alt="Dyson V6 total clean">
+  <img src="{{ site.url }}/assets/img/DysonV6/Dyson_V6_ambiente.jpg" width="400" height="auto" alt="Dyson V6 total clean">
 </div>
 
 #### Comodidad de uso
@@ -86,7 +86,7 @@ El cepillo a rodillo suave Fluffy : El V6 Total Clean dispone también del cepil
 El mini cepillo motorizado: este mini cepillo está dedicado a la desincrustación del polvo y de los pelos de los animales. Además funciona especialmente bien en superficies que parezcan ante o terciopelo. Estas superficies con micropelo presentan problemas para limpiarlas ya que los pelos se quedan enganchados y no quieren salir. Con este cepillo motorizado meneamos todos los micropelos y al polvo no le queda otra que dejarse aspirar. Este cepillo permite limpiar mejor los asientos, sofás y todas las superficies que tengan pelos de animales.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/Dyson-V6-Absolute-usos.jpg" width="400" height="auto" alt="Dyson V6 total clean">
+  <img src="{{ site.url }}/assets/img/DysonV6/Dyson-V6-Absolute-usos.jpg" width="400" height="auto" alt="Dyson V6 total clean">
 </div>
 
 #### Aspirado
@@ -98,7 +98,7 @@ Se entrega con un largo tubo de succión para aspirar los bordes y los lugares d
 Dado que es uno de los mejores aspiradores de los que he probado, no puedo deciros muchas cosas que no me gusten en cuanto a su uso. Sin embargo una mejora interesante sería crear un cepillo eficaz para todo tipo de suelos y evitar tener que cambiarlo según la superficie que aspiramos.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/DysonV6-Total-Clean-cocina.jpg" width="400" height="auto" alt="aspiradora Dyson V6">
+  <img src="{{ site.url }}/assets/img/DysonV6/DysonV6-Total-Clean-cocina.jpg" width="400" height="auto" alt="aspiradora Dyson V6">
 </div>
 
 #### Ruido
@@ -106,7 +106,7 @@ Dado que es uno de los mejores aspiradores de los que he probado, no puedo decir
 Como a menudo con Dyson, el handicap del Total Clean, es el ruido. De hecho, es particularmente ruidoso;  obtenemos un ruido de 80 dB colocando el control en posición "max" e incluso en modo normal es muy ruidoso con 78 dB. Esta característica puede resultar un freno para algunos usuarios, otros sin embargo se olvidaran del rudido con las ventajas de la eficiencia y la comodidad de uso en general.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/DysonV6_Total_Clean__multiples_usos_y_coche.jpg" width="1000" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/DysonV6/DysonV6_Total_Clean__multiples_usos_y_coche.jpg" width="1000" height="auto" alt="">
 </div>
 
 #### Manejabilidad
@@ -117,7 +117,7 @@ El V6 Absolute ofrece una excelente manejabilidad, como sus predecesores de los 
 Su cabezal es flexible, incluso la del cepillo de parquet y el aparato esta bien equilibrado. Las sesiones de limpieza son comodas gracias a su tubo fino que facilita la limpieza debajo de los muebles, lo que no es el caso de otros modelos de la competencia.
 
 <div class="text-center">
-<img src="{{ site.url }}assets/img/DysonV6/V6_Total_Clean__en_ambiente_con_perro.jpg" width="400" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/DysonV6/V6_Total_Clean__en_ambiente_con_perro.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Mantenimiento

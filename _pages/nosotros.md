@@ -14,7 +14,7 @@ title:  "Nosotros"
         </p>
       </div>
       <div class="small-3 columns">
-        <img src="{{ site.url }}assets/img/sara.jpg" width="150" height="auto" alt="las aspiradoras">
+        <img src="{{ site.url }}/assets/img/sara.jpg" width="150" height="auto" alt="las aspiradoras">
       </div>
     <div class="row intro">
       <div class="small-12 columns">
@@ -33,5 +33,3 @@ title:  "Nosotros"
         </p>
        </div>
      </div>
-  </body>
-</main>

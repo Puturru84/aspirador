@@ -26,7 +26,7 @@ categories: blog-updates
   Esta tecnología ha sido desarrollada por James Dyson bajo el nombre de Dual Cyclone y utiliza el principio de la separación ciclónica.
 </p>
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/varias/Dyson_Big_Ball_21.jpg" width="400" height="auto" alt="tecnología doble ciclón o multiciclon">
+  <img src="{{ site.url }}/assets/img/varias/Dyson_Big_Ball_21.jpg" width="400" height="auto" alt="tecnología doble ciclón o multiciclon">
 </div>
 <p>
   La tecnología de doble ciclón separa el polvo del aire en dos etapas de filtración:
@@ -39,7 +39,7 @@ categories: blog-updates
   <h4>2. El aspirador trineo sin bolsa</h4>
 </p>
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/varias/cleaning-1224832.jpg" width="400" height="auto" alt="aspirador trineo sin bolsa">
+  <img src="{{ site.url }}/assets/img/varias/cleaning-1224832.jpg" width="400" height="auto" alt="aspirador trineo sin bolsa">
 </div>
 <br>
 <p>
@@ -54,7 +54,7 @@ categories: blog-updates
   <h4>3. Aspirador escoba sin bolsa</h4>
 </p>
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/V6-Fluffy.jpg" width="200" height="auto" alt="Aspirador escoba sin bolsa">
+  <img src="{{ site.url }}/assets/img/DysonV6/V6-Fluffy.jpg" width="200" height="auto" alt="Aspirador escoba sin bolsa">
 </div>
 <br>
 <p>
@@ -73,7 +73,7 @@ categories: blog-updates
   <h4>4. El aspirador de mano sin bolsa</h4>
 </p>
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonV6/V6_Total_Clean__coche.jpg" width="400" height="auto" alt="El aspirador de mano sin bolsa">
+  <img src="{{ site.url }}/assets/img/DysonV6/V6_Total_Clean__coche.jpg" width="400" height="auto" alt="El aspirador de mano sin bolsa">
 </div>
 <br>
 <p>

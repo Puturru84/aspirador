@@ -67,7 +67,7 @@ Este aspirador sin bolsa ofrece un motor de 700W A-eficiencia, un contenedor de 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/polti-forza-ambiente.jpg" width="500" height="auto" alt="Test Polti Forzaspira MC330 Turbo las aspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/polti-forza-ambiente.jpg" width="500" height="auto" alt="Test Polti Forzaspira MC330 Turbo las aspiradoras.com">
 </div>
 
 #### Comodidad de uso
@@ -80,7 +80,7 @@ Curiosamente, el mando a distancia es de infrarrojos (como el mando a distancia 
 No tuvimos ningún problema durante su funcionamiento, incluso si estás de pie entre el mango y el aspirador.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/PBEU0078 MC330_Comandi.jpg" width="500" height="auto" alt="Test Polti Forzaspira MC330 Turbo las aspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/PBEU0078 MC330_Comandi.jpg" width="500" height="auto" alt="Test Polti Forzaspira MC330 Turbo las aspiradoras.com">
 </div>
 
 #### Aspirado
@@ -96,7 +96,7 @@ Con el cepillo para suelos duros el resultado fue más positivo y logró recoger
 A pesar de prometer mucho para nuestros amigos peludos, el rendimiento del Polti en una casa con perro hace recordar que hay un perro en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/PBEU0078_MC330_Auto.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/PBEU0078_MC330_Auto.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo aspirado lasaspiradoras.com">
 </div>
 
 #### Ruido
@@ -108,7 +108,7 @@ Con 78 dBA declarados por la casa, este aspirador se sitúa ligeramente por deba
 Una de sus ventajas de este modelo es el consumo ya que el Polti Forzaspira MC330 Turbo está clasificado A en la etiqueta energética, lo que siempre suma puntos, siendo su consumo anual muy correcto con 27,2 Kw al año.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/PBEU0078 MC330_Aspirazione.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/PBEU0078 MC330_Aspirazione.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo consumo lasaspiradoras.com">
 </div>
 
 #### Robustez
@@ -128,7 +128,7 @@ Si quieres que un cepillo haga todo el trabajo, Polti ofrece una solución para 
 Para aquellos con un montón de suelo duro, y en particular suelos más suaves, como parquet, la MC330 Turbo tiene una herramienta especial parquet que es una opción interesante.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/Acc_Forzaspira_MC330_accesorios.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/Acc_Forzaspira_MC330_accesorios.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
@@ -144,7 +144,7 @@ Polti recomienda lavar los filtros una vez cada 4 meses.
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/polti-forza/PBEU0078 MC330_SvuotaSecchio.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/polti-forza/PBEU0078 MC330_SvuotaSecchio.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo manejabilidad lasaspiradoras.com">
 </div>
 
 #### Opinión de los clientes

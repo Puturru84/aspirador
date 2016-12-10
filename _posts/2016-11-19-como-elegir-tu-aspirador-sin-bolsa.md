@@ -11,7 +11,7 @@ Con una oferta tan amplia y variada, es fácil perderse, por eso te ofrecemos es
 A continuación os explicamos las características principales que se deben tener en cuenta.
 
   <div class="text-center">
-    <img src="{{ site.url }}assets/img/blog-aspiradora-sin-bolsa.jpg" width="400" height="auto" alt="">
+    <img src="{{ site.url }}/assets/img/blog-aspiradora-sin-bolsa.jpg" width="400" height="auto" alt="">
   </div>
 <p>
 <h4>1. La configuración de tu hogar</h4>
@@ -107,7 +107,7 @@ Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50%
 Desde 2014, cada modelo de aspirador con bolsa o sin bolsa, debe tener etiquetado un indicador energético, donde se encuentra cierta información muy útil, relativa al consumo, al ruido y la eficacia en cada tipo de superficie.
 </p>
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/etiqueta-energetica-ejemplo.jpg" width="240" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/etiqueta-energetica-ejemplo.jpg" width="240" height="auto" alt="">
 </div><br>
 <p>
  - La clase de eficiencia energética expresado en una escala de A a G.<br>

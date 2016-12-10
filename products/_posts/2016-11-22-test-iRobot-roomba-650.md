@@ -60,7 +60,7 @@ Modelo de la serie 600 de la marca, mejor venta en Amazon en varias ocasiones, p
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotroomba650/iRobot-650-ambiente.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-ambiente.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Comodidad de uso
@@ -69,7 +69,7 @@ El aspirador Roomba 650 utiliza la tecnología iAdapt. ¿No sabes lo que es? El 
 Una vez que la cartografía se realiza el procesador se hace cargo y dibuja un recorrido de limpieza inteligente. El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en lugar de moverse al azar como los modelos de gama baja. Esto ofrece muchas ventajas, la eficiencia del dispositivo, por ejemplo, como la bateria es limitada, es importante que la aspiradora tenga un comportamiento eficaz en un período determinado de tiempo, gracias a la cartografía, la aspiradora puede calcular cuánto tiempo necesita para terminar una habitación antes de pasar a la siguiente. La calidad de la limpieza también se ve afectada, la aspiradora no tiene que pasar 2 veces por el mismo lugar para un resultado perfecto.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotroomba650/iRobot-650-alfombra.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-alfombra.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Aspirado
@@ -80,7 +80,7 @@ Cuenta con un parachoque de sensibilidad táctil. Esto ayuda a absorber los golp
 Por último, su mango te permite transportarlo fácilmente.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotroomba650/iRobot-650-cocina.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-cocina.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Ruido
@@ -88,7 +88,7 @@ Por último, su mango te permite transportarlo fácilmente.
 Los aspiradores robots están muy por debajo de la media de los aspiradores sin bolsa, este modelo hace un ruido de 70 dB, lo que tampoco supone un problema porque como puedes programarlo puedes aprovechar a conectarlo cuando estés fuera de casa y así no lo oyes.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotroomba650/iRobot-650-muro.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-muro.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Manejabilidad
@@ -97,7 +97,7 @@ Se puede programar hasta 7 días para usar cuando lo desees y cuando mejor te co
 La programación se aprende rápida y fácilmente y se pondrá en marcha cuando no estés en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotroomba650/iRobot-650-escaleras.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-escaleras.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Mantenimiento

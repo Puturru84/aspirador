@@ -45,7 +45,6 @@ discount: "36%"
 stars: "4.5"
 ---
 
-
 <div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FMUVfMxuD70" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -69,11 +68,7 @@ Según lo prometido este aspirador sin bolsa es el más silencioso del mercado c
 A pesar de tener una buena reputación por sus aspiradoras, Bosch no se duerme en los laureles y ofrece equipos con características técnicas elaboradas. Tal es el caso de este modelo de alta gama Relaxx'x BGS5SIL66C, nombre extraño, pero con promesas tentadoras. Lanzado a 350 €, promete un nivel de ruido muy bajo para una aspiradora sin bolsa y un filtro de limpieza automático, para ofrecer una succión siempre a punto, con sensores que supervisan constantemente el flujo de aire. Además, Bosch equipa el dispositivo de varios filtros, incluido un filtro HEPA 13. Primer aspirador de la marca alemana que pruebo ha sabido estar a la altura de mis expectativas.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
-</div>
-
-<div class="text-center">
-<img src="{{ site.url }}assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_tigre.jpg" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_tigre.jpg" width="600" height="auto" alt="">
 </div>
 <div class="callout alert">
   <h5>Promoción de “Prueba 100 días” Bosch</h5>
@@ -93,7 +88,7 @@ No hay unidad de arranque o control de potencia en el asa. El Relaxx'x ofrece 5 
 Una luz indica que el "control del sensor" está presente en el cuerpo de la aspiradora. Iluminado en azul durante la aspiración, se asegura que el flujo de aire se controla constantemente y no que no hay una pérdida significativa. Si la hubiera, el Relaxx'x detiene la aspiración, el LED parpadea en rojo y el sistema de limpieza automática del filtro se activa.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_vista_lateral.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_vista_lateral.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Aspirado
@@ -108,7 +103,7 @@ El BGS5SIL66C Relaxx'x está bien dotado de accesorios. Se entrega con un cepill
 Otros cepillos opcionales están disponibles como el turbocepillo que puede interesar los dueños de mascotas. Los accesorios están bien acabados y son de plástico de buena calidad.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_relaxx.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_relaxx.jpg" width="400" height="auto" alt="">
 </div>
 #### Ruido
 
@@ -119,7 +114,7 @@ Otros cepillos opcionales están disponibles como el turbocepillo que puede inte
 Bosch anuncia el consumo de 700 W, muy por debajo de lo requerido por la etiqueta energética (menos de 1600 W). Medimos un consumo más conmenido de 620 W (a plena potencia), que incluso se reduce en la potencia más baja.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_detalle_filtros_avanzados.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_detalle_filtros_avanzados.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Robustez
@@ -133,7 +128,7 @@ No hay nada que reprochar al Bosch Relaxx'x en su uso, ya que todo está bien pe
 Hay que tener en cuenta que en algunas superficies, para aspirar con comodidad, tienes que jugar con el control, que es fácil, gracias a las recomendaciones del fabricante indicadas en la ruedecilla.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_autolimpieza_filtro.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/BGS5SIL66B_autolimpieza_filtro.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Mantenimiento
@@ -145,7 +140,7 @@ Bosch ha decidido conceder el acceso a filtro permanente que normalmente no requ
 El único mantenimiento requerido es vaciar el depósito y el filtro de pelusas que rodea el filtro de laminas - un mantenimiento raramente tan fácil, muy apreciable.
 
 <div class="text-center">
-<a class="button" href="{{ site.url }}>Comprar</a>
+  <a href="about.html" class="button">Comprar</a>
 </div>
 
 #### Opinión de los clientes

@@ -64,7 +64,7 @@ Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso  
@@ -87,7 +87,7 @@ Desde mi punto de vista este modelo carece de dos cosas importantes. En primer l
 Otro detalle que no nos ha convencido es la aplicación, en caso de problemas muestra un icono rojo "atención", sin especificar cuál es el problema. En nuestro caso se trataba de que se había quedado sin la batería. Al tocar este icono se llega en una página de asistencia que no es muy detallada.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/Braava+jet_FillTank.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_FillTank.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Aspirado
@@ -101,7 +101,7 @@ Este modelo deja una fragancia agradable en el modo limpiar (bayetas azules). Po
 El Braava 380 es completamente silencioso. Incluso se le puede dejar funcionando de noche sin perturbar el sueño de los residentes. Sin embargo el Braava Jet 240 es un poco ruidoso. Sus movimientos son en sí mismos igual de silenciosos, sin embargo la vibración del lavado de la toallita en modo lavado aumenta el nivel de ruido (46 dB), así como la proyección de agua que hace un sonido “robótico”, haciendo subir puntualmente el nivel a 53 dB. Este ruido sigue siendo discreto si evitamos hacer que funcione en la habitación mientras uno duerme. Puede funcionar en la habitación de al lado del dormitorio sin problemas o en presencia de los habitantes de la casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/Braava+jet_Kitchen_Dog.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_Kitchen_Dog.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -109,7 +109,7 @@ El Braava 380 es completamente silencioso. Incluso se le puede dejar funcionando
 Hemos medido un consumo de 5,3 W mientras carga, lo que es poco. Cuando la batería esta cargada el consumo no es cero pero es muy bajo (0,1 W). Por otra parte, ademas del bajo consumo hay que tener en cuenta el tiempo de carga que en este caso es muy rápido (sólo 2 horas), y la autonomia, 60 min. En conjunto el consumo del Braava Jet es bajito.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/Braava_jet_Bathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava_jet_Bathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Modos y funciones complementarias
@@ -119,7 +119,7 @@ El Braava Jet propone tres modos: barrer en seco, barrer en humedo y limpiar, re
 Se entrega con una batería y un cargador externo. Con este modelo no necesitamos el cubo de geolocalización. Se proporcionan tres paquetes de toallitas (dos para cada tipo de suelo).
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/Braava+jet+240+floor.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet+240+floor.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
@@ -140,7 +140,7 @@ Es capaz de moverse tanto en una habitación sin luz como en una habitación con
 El Braava Jet trabaja con eficacia, siempre que no le confiamos una superficie demasiado grande.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Braava-jet/Braava-jet_InsertPad.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava-jet_InsertPad.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Gestión de obstáculos

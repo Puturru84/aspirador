@@ -71,7 +71,7 @@ El líder mundial Dyson te propone el DC33C Origin, un modelo que ya tiene un ti
 </div>
 
 <div class="text-center">
-<img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC33c Origin/DC33corigin.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
+<img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33corigin.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
 </div>
 
 #### Comodidad de uso
@@ -81,7 +81,7 @@ El depósito tiene una capacidad total de 2 litros lo que permite limpiar una su
 El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder transportarlo y subir fácilmente escaleras. También suficientemente ligero  como para poder tirar del trineo sin apenas esfuerzo. Además su sistema Ball facilita todavía más los desplazamientos. Por eso este aspirador ha recibido la mejor nota en nuestros test en la categoría movilidad, no he tenido ningún problema en desplazarme por las diferentes habitaciones.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC33c Origin/DC33c-origin.jpg" width="400" height="auto" alt="aspirador sin bolsa Dyson DC33c">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33c-origin.jpg" width="300" height="auto" alt="aspirador sin bolsa Dyson DC33c">
 </div>
 
 #### Aspirado
@@ -89,7 +89,7 @@ El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder 
 En su lanzamiento fue coronado con una cuádruple A, pero poco después el fabricante tuvo que actualizar la información, a causa de una demanda de un competidor. Tras esta pequeña anécdota encontrareis su etiqueta energética de triple A, que también es muy completa:
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonDC33c Origin/etiqueta-energetica-Dysondc33c.jpg" width="200" height="auto" alt="aspirador sin bolsa Dyson DC33c lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/etiqueta-energetica-Dysondc33c.jpg" width="200" height="auto" alt="aspirador sin bolsa Dyson DC33c lasaspiradoras.com">
 </div>
 
 Equipado de un sistema de última generación: el Radial Root Cyclone. Este aspirador tiene una nota excelente en la calidad de la filtración. Este nivel de filtración se consigue a través del filtro de espuma y un micro filtro que captura el polvo fino. Son realmente eficaces para garantizar una limpieza perfecta. Quizas no esta optimizada como los aspiradores Dyson de la gama Allergie de los que hablaremos más adelante pero captura el polvo y el pelo de los animales.
@@ -103,7 +103,7 @@ Por último encontrarás un clásico cepillo para tapicerías muy efectivo.
 El tamaño del tubo de succión y el cable del dispositivo DC33C son bastante buenos, con un radio de acción total de 9,8 metros.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonDC33c Origin/cepillo-dyson-dc33c.jpg" width="300" height="auto" alt="cepillo dyson DC33C">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/cepillo-dyson-dc33c.jpg" width="300" height="auto" alt="cepillo dyson DC33C">
 </div>
 
 #### Ruido
@@ -115,7 +115,7 @@ Sin embargo el ruido que produce es un pelín alto para mi gusto con 84dB y 79dB
 Las características técnicas de este aspirador demuestran su potencia. Con unas dimensiones de 50,7 x 26,2 x 36,8 cm tiene un motor eléctrico de 750 vatios, la potencia útil de este aspirador es de 244 vatios. Sin embargo cabe destacar que su consumo anual es bajo, de 28 kWh, lo que hace este aparato económico y ecológico, algo que personalmente me parece importante.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonDC33c Origin/vaciado-dc33c.jpg" width="300" height="auto" alt="accesorios aspiradora Dyson DC33C">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/vaciado-dc33c.jpg" width="300" height="auto" alt="accesorios aspiradora Dyson DC33C">
 </div>
 
 #### Robustez
@@ -130,14 +130,14 @@ Dyson ha creado una gama de aspiradoras que utilizan esta tecnología diseñada 
 Esta bola gira sobre un punto, lo que ayuda al aspirador a realizar giros cerrados. Además la bola aloja el motor del aspirador, un elemento pesado, que hace que el centro de gravedad del aparato baje aportandole mayor estabilidad.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonDC33c Origin/accesorios-dyson-dc33c.jpg" width="300" height="auto" alt="accesorios aspiradora Dyson DC33C">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/accesorios-dyson-dc33c.jpg" width="300" height="auto" alt="accesorios aspiradora Dyson DC33C">
 </div>
 
 #### Mantenimiento
 
 Respecto al mantenimiento poco que señalar, sus filtros pueden lavarse con agua cada 4 o 6 meses.
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/DysonDC33c Origin/filtro-dc33c.jpg" width="300" height="auto" alt="filtro aspiradora Dyson DC33C">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/filtro-dc33c.jpg" width="300" height="auto" alt="filtro aspiradora Dyson DC33C">
 </div>
 
 <div class="text-center">

@@ -67,7 +67,7 @@ Hoy vamos a probar el iRobot Roomba 871, un dispositivo hermoso que promete ser 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotRoomba871/iRobotroomba-871-ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobotroomba-871-ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso  
@@ -90,7 +90,7 @@ Aspira hasta cinco veces más que los modelos anteriores, el robot se compara ca
 Con sus 61 dB este modelo Roomba no es un aspirador molesto y ofrece una mejora significativa respecto a modelos anteriores ya que reduce un 13% el niveld de ruido. Además como se puede programar para toda la semana puedes dejarlo en funcionamiento cuando estás fuera de casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotRoomba871/iRobot-Roomba-871-aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -98,7 +98,7 @@ Con sus 61 dB este modelo Roomba no es un aspirador molesto y ofrece una mejora 
 Con una autonomía de 3 horas (lo que representa una superficie de unos 120 m²), el Roomba 871 comenzará a cargar por sí solo como muchos de sus hermanos grandes y pequeños de la misma marca. La batería tardará 3 horas en cargarse completamente.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
 </div>
 
 #### Manejabilidad
@@ -107,7 +107,7 @@ Esta aspiradora robot utiliza la tecnología combinada iAdapt de sensores infrar
 También está dotada de 6 sensores vacíos gracias al sistema Cliff Detect, con lo que no hay riesgo de que caiga por las escaleras.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/iRobotRoomba871/iRobot-Roomba-870-4.png" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-870-4.png" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento

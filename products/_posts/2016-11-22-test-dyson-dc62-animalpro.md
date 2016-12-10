@@ -62,7 +62,7 @@ El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al 
 </div>
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC62AnimalPro/DysonDC62animalpro.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro en las aspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62animalpro.jpg" width="200" height="auto" alt="Dyson DC 62 animal pro en las aspiradoras.com">
 </div>
 
 #### Comodidad de uso
@@ -99,7 +99,7 @@ En la alfombra fina, recogio casi todos los elementos también en 30 s y siempre
 La alfombra gruesa es una cuestión más difícil, pero el DC62 ofrece buenos resultados.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC62AnimalPro/DysonDC62AnimalPro-aspirado.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro aspirado en las aspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62AnimalPro-aspirado.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro aspirado en las aspiradoras.com">
 </div>
 
 #### Ruido
@@ -111,7 +111,7 @@ El ruido sigue siendo un punto débil del modelo. Medimos 75 dB en modo normal, 
 El consumo de la carga DC62 es un poco más alto que el promedio. El punto positivo de este producto es que puede permanecer siempre conectado, sobre todo si está instalado en el soporte de pared ya que su consumo una vez cargada es casi cero.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC62AnimalPro/DysonDC62-animal-pro-demano.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro consumo en las aspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62-animal-pro-demano.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro consumo en las aspiradoras.com">
 </div>
 
 #### Manejabilidad
@@ -120,7 +120,7 @@ La cabeza del cepillo es flexible, el producto esta mejor equilibrado y es más 
 A diferencia de modelos de la competencia, el cepillo está conectado directamente al tubo telescópico, mucho más fino en la parte bajo, lo que permite limpiar debajo de los muebles con mucha más libertad que otros aspiradores escoba mas gruesos que se bloquean fácilmente.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}assets/img/DysonDC62AnimalPro/Dyson-DC62-AnimalPro-3.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro en las aspiradoras manejabilidad">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC62AnimalPro/Dyson-DC62-AnimalPro-3.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro en las aspiradoras manejabilidad">
 </div>
 
 #### Mantenimiento

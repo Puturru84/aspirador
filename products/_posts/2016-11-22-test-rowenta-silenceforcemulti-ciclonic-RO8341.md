@@ -71,7 +71,7 @@ El aspirador Rowenta RO8314EA es un aparato de muy buena calidad. Situado en la 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-ambiente.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-ambiente.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso
@@ -83,7 +83,7 @@ En lo que se refiere a su calidad de filtración, esta es de 99,98% gracias a su
 Por otro lado, gracias al sistema Clean Express Ergo 1/2/3, puedes vaciar más rápido y fácilmente el contenedor de polvo del aparato sin ensuciarte.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-frente.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-frente.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 lasaspiradoras.com">
 </div>
 
 #### Aspirado
@@ -92,7 +92,7 @@ Su tecnología multiciclones de doble nivel te permite aprovecharte de un aspira
 La Rowenta Silence Force Multi-Cyclonic RO8341 además de una aspecto dinámico y funcional ofrece acabados de calidad, y da sensación de robustez y durabilidad.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-cepillos.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 etiqueta energetica lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-cepillos.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 etiqueta energetica lasaspiradoras.com">
 </div>
 
 #### Ruido
@@ -100,7 +100,7 @@ La Rowenta Silence Force Multi-Cyclonic RO8341 además de una aspecto dinámico 
 El índice es de 68 dB, lo que hace a este aspirador más bien silencioso. Según la norma internacional podemos clasificar a un aspirador como silencioso cuando está por debajo de 70 dB.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-silencio.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 silencio lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-silencio.jpg" width="300" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 silencio lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -108,7 +108,7 @@ El índice es de 68 dB, lo que hace a este aspirador más bien silencioso. Segú
 Otra ventaja de esta aspiradora es su bajísimo consumo energético con una clasificación energética de « A ».
 
 <div class="text-center">
-<img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-etiqueta.jpg" width="200" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 etiqueta energetica consumo lasaspiradoras.com">
+<img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-etiqueta.jpg" width="200" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 etiqueta energetica consumo lasaspiradoras.com">
 </div>
 
 #### Manejabilidad
@@ -117,7 +117,7 @@ Cómoda de manejar gracias a la estructura de sus ruedas ultra deslizantes. Rowe
 Este modelo dispone de un cordón eléctrico de 6 m, ofreciendo un radio de acción de 9m.
 
 <div class="text-center">
-  <img src="{{ site.url }}assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-armario.jpg" width="400" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 manejabilidad lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Rowenta-RO8314EA/Rowenta-RO8314EA-armario.jpg" width="400" height="auto" alt="Aspiradora Rowenta Silence Force Multi-Cyclonic RO8341 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
