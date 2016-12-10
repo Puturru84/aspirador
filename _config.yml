@@ -9,6 +9,7 @@ url: "http://www.lasaspiradoras.com"
 include:
   - ".htaccess"
   - "_pages"
+  - "/assets/"
 
 exclude:
   - "bower.json"
@@ -27,17 +28,9 @@ exclude:
   - "README.md"
   - "rev-manifest.json"
 
-# Plugins
-gems:             ["jekyll-sitemap", "jekyll-paginate"]
-
 # Conversion
 incremental:      true
 
 # Serving
 # url:            ""
 # baseurl:        "" # does not include hostname
-
-# Outputting
-permalink:        "/blog/:year/:title/"
-paginate_path:    "/blog/page:num"
-paginate:         5
