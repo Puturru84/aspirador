@@ -5,7 +5,7 @@ title: "Test iRobot Braava Jet 240"
 categories:
   - product
   - robot
-image: "mini-Braava.jpg"
+image: "mini-braava.jpg"
 model: "iRobot Braava Jet 240"
 type-vacuum: "Aspirador robot"
 technology: "iAdapt 2.0"

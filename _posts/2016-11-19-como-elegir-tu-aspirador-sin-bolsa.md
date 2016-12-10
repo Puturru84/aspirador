@@ -24,7 +24,7 @@ La composición de tu familia, si hay personas en casa que tienen alergia o si t
 El tipo de suelo que se va a aspirar con mayor frecuencia, piso liso, alfombras, tapicería, muebles, parqué. Hay algunos modelos que funcionan y que estan más adaptados a ciertas superficies que otros.
 </p>
 <div class="text-center">
-<a class="button" href="{{ site.url }}">Lista de los mejores aspiradores</a>
+  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 <p>
 <h4>2.Las características importantes de la aspiradora sin bolsa.</h4>
@@ -86,6 +86,7 @@ En lasaspiradoras.com hemos preparado una tabla comparativa que agrupa las mejor
 <div class="text-center">
   <a class="" href="{{ site.url }}/tabla-precios-mejores-aspiradoras/"> Consulta nuestra tabla con las mejores ofertas</a>
 </div>
+
 <p>
 <h5>2.9 Los accesorios:</h5>
 </p>

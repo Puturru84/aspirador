@@ -3,7 +3,6 @@ layout: default
 ---
 
 <main>
-  <span class="go-to-section" id="Os presentamos"></span>
   <div class="row">
     <div class="small-8 small-centered columns intro text-center">
       <p class="lead">Os presentamos la lista de los mejores aspiradores ordenada según las promociones más interesantes en Amazon para que de un vistazo sepáis que modelos tienen más descuento.</p>
@@ -28,9 +27,9 @@ layout: default
         <tr>
           <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
           <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
-          <th><span class="show-for-small-only">Precio anterior: </span>{{ post.price-before }}</th>
-          <th><span class="show-for-small-only">Precio actual: </span>{{ post.price-now }}</th>
-          <th><span class="show-for-small-only">Descuento </span>{{ post.discount }}</th>
+          <th><span class="hide-for-large">Precio anterior: </span>{{ post.price-before }}</th>
+          <th><span class="hide-for-large">Precio actual: </span>{{ post.price-now }}</th>
+          <th><span class="hide-for-large">Descuento </span>{{ post.discount }}</th>
           <th> <a href="{{ post.link }}" class="button">Comprar</a></th>
           <th>{{ post.clasification }}</th>
           <th>
@@ -189,5 +188,5 @@ layout: default
         </tr>
     {% endfor %}
   </tbody>
-</table>
+  </table>
 </main>

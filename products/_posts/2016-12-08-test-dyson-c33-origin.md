@@ -39,7 +39,7 @@ wheels: "Dyson Ball"
 clasification: "4,3"
 comments: "Comodidad y resistencia, un valor seguro a un precio increible"
 price-before: "329,00 €"
-price-now: "297,61 €"
+price-now: "296,83 €"
 discount: "10%"
 stars: "4.5"
 ---

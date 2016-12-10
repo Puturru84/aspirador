@@ -32,7 +32,7 @@ charge-op: "5"
 clasification: "4,8"
 comments: "El robot aspiradora más tecnologico del mercado"
 price-before: "1.499,00 €"
-price-now: "1.499,00 €"
+price-now: "1.250,00 €"
 discount: "0%"
 stars: "5"
 ---
@@ -64,7 +64,7 @@ Lanzado a 1180 €, el Roomba 980 es uno de los modelos de gama alta más caros 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}//assets/img/iRobotRoomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso  
