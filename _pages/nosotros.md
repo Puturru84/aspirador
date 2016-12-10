@@ -4,7 +4,6 @@ layout: "page"
 title:  "Nosotros"
 ---
 <main>
-  <span class="go-to-section" id="Hola"></span>
   <body>
     <div class="row intro">
       <div class="small-9 columns">
