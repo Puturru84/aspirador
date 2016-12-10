@@ -64,7 +64,7 @@ Lanzado a 1180 €, el Roomba 980 es uno de los modelos de gama alta más caros 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso  
@@ -102,7 +102,7 @@ En la alfombra fina, recoge todos los materiales de prueba. El modo "eco" es suf
 En alfombra de pelo grueso, sin embargo, una superficie delicada, aspiro el 96% de nuestro arroz de prueba en "eco". Sorprendentemente, el "automático" aspiro un poco menos (91%).
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba980/Roomba-980aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 #### Ruido
@@ -110,7 +110,7 @@ En alfombra de pelo grueso, sin embargo, una superficie delicada, aspiro el 96% 
 En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las superficies limpiadas y de acuerdo con el modo. En "eco", emite de 64 a 66 dB; en el modo "automático", las emisiones llegan hasta 70 dB un poco limite. Sin embargo como el Roomba es totalmente autónomo esto no presenta ningun problema porque puede funcionar cuando no estes en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -118,7 +118,7 @@ En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las 
 Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay que ponerlo en perspectiva con la autonomia de la batería y la carga rápida. Incluso programandole dos pasadas en unos 60 m², no hemos agotado su batería. Lamentamos sin embargo el consumo una vez que la batería está cargada que lejos de cero es de 4,4 W.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
 </div>
 
 #### Modos y funciones complementarias
@@ -134,7 +134,7 @@ El Roomba 980 viene con accesorios suficientes.
 En cuanto a los modos (automático, rendimiento o eco) y opciones (dos pasadas, regreso a la base cuando el deposito está lleno, limpiar las esquinas), son programables desde la aplicación.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotRoomba980/iRobot-HOME-App.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/iRobot-HOME-App.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
@@ -161,7 +161,7 @@ iRobot promete haber mezclado dos sistemas de navegación de modo que el Roomba 
 Este nuevo sistema de navegación proporciona una cobertura de superficie mucho más eficaz; iRobot da un gran paso.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotRoomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Gestion de obstaculos
