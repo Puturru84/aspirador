@@ -43,10 +43,11 @@ price-before: "250,00 €"
 price-now: "107,00 €"
 discount: "57%"
 stars: "4"
+link: "http://amzn.to/2gt6YP6"
 ---
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt6YP6">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -63,7 +64,7 @@ La tradicional marca italiana Polti es más conocida por sus limpiadores de vapo
 Este aspirador sin bolsa ofrece un motor de 700W A-eficiencia, un contenedor de 1.8 litros y cuatro etapas de filtración para un aire emitido más limpio. Fabricada con tubos telescópicos lo que le da un toque de diseño y con un montón de herramientas.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt6YP6">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -140,7 +141,7 @@ Los filtros de la tapa  son de espuma, con una tercera capa de espuma antes del 
 Polti recomienda lavar los filtros una vez cada 4 meses.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gt6YP6">Buscar el mejor precio</a>
 </div>
 
 <div class="text-center">
@@ -158,7 +159,7 @@ En general, el Polti Forzaspira MC330 Turbo ofrece una buena mezcla de rendimien
 Si no tienes mascota y necesitas un aspirador correcto a un precio muy competitivo aprovéchate de la superoferta Amazon y consiguelo a un 60% más barato.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gt6YP6">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado.

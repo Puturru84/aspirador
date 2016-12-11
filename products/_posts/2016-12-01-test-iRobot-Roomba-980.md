@@ -35,6 +35,7 @@ price-before: "1.499,00 €"
 price-now: "1.250,00 €"
 discount: "0%"
 stars: "5"
+link: "https://www.amazon.es/gp/product/B01BCE15VA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B01BCE15VA&linkCode=as2&tag=lasaspirad-21"
 ---
 
 <div class="flex-video">
@@ -42,7 +43,7 @@ stars: "5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="https://www.amazon.es/gp/product/B01BCE15VA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B01BCE15VA&linkCode=as2&tag=lasaspirad-21">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -60,7 +61,7 @@ El Roomba 980 es el nuevo buque insignia de iRobot, líder mundial de las aspira
 Lanzado a 1180 €, el Roomba 980 es uno de los modelos de gama alta más caros del mercado. Con una batería de ión-litio y Wi-Fi, se diferencia de su predecesor por la presencia de una cámara que cartografia las habitaciones.Lo que le hace decir a Colin Angle (cofundador de iRobot) que este modelo es el Roomba mas importante que han lanzado desde la creación de la empresa. este Roomba navega de manera sistemática, mientras los otros Roomba lo hacen de manera aleatoria. Asi esta nueva joya de iRobot limpia las habitaciones como los modelos Neato Robotics o Vorwerk. Para ello, transporta una cámara como no habiamos visto hasta ahora en otros robots, esta inclinada a 30° para tomar como referencia los puntos de la pieza a limpiar, especialmente el mobiliario.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="https://www.amazon.es/gp/product/B01BCE15VA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B01BCE15VA&linkCode=as2&tag=lasaspirad-21">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -175,7 +176,7 @@ Delgado, pasa por debajo de la mayoría de muebles, lo que incluye una mesa de c
 Por último, monta sin problemas en las alfombras, incluso en las que son un poco gruesas, proporcionando además una eficiencia de succión muy valiosa.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/gp/product/B01BCE15VA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B01BCE15VA&linkCode=as2&tag=lasaspirad-21">Buscar el mejor precio</a>
 </div>
 
 
@@ -184,7 +185,7 @@ Por último, monta sin problemas en las alfombras, incluso en las que son un poc
 Si no tienes un smartphone, pasa de largo, ya que el Roomba 980 está diseñado para trabajar con él. Muy inteligente, autónomo en un entorno doméstico, el Roomba 980 ofrece una excelente cobertura de las superficies y la eficiencia de succión se acerca a la perfección. Aunque queramos buscarle pegas no hay mucho de qué quejarse excepto del precio que puede echar a mas de uno para tras. iRobot no ha mentido, con esta nueva Roomba, el fabricante va un paso por delante. La parte más difícil será hacerlo mejor en la próxima versión.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/gp/product/B01BCE15VA/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=B01BCE15VA&linkCode=as2&tag=lasaspirad-21">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

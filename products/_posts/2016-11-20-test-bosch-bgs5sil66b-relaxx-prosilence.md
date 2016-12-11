@@ -43,6 +43,7 @@ price-before: "349,00 €"
 price-now: "224,09 €"
 discount: "36%"
 stars: "4.5"
+link: "http://amzn.to/2hiRT2h"
 ---
 
 <div class="flex-video">
@@ -50,7 +51,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hiRT2h">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -140,7 +141,7 @@ Bosch ha decidido conceder el acceso a filtro permanente que normalmente no requ
 El único mantenimiento requerido es vaciar el depósito y el filtro de pelusas que rodea el filtro de laminas - un mantenimiento raramente tan fácil, muy apreciable.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hiRT2h">Comprar</a>
 </div>
 
 #### Opinión de los clientes
@@ -152,7 +153,7 @@ El Bosch BGS5SIL66B Relaxx'x ProSilence ha recibido una nota de 4,4 puntos sobre
 No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo sucede en completa relajación. El BGS5SIL66C es cómodo, bien pensado y sólo requiere un mantenimiento mínimo. Hace realmente poco ruido, con lo que lo aconsejamos a las personas que quieran dar prioridad a esta característica. La única pega es que el cepillo de doble posición tiene tendencia a llevarse mal con los residuos gruesos en ciertas superficies.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2hiRT2h">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

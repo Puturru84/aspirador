@@ -33,6 +33,7 @@ price-before: "391,14 €"
 price-now: "391,14 €"
 discount: "0%"
 stars: "4.5"
+link: "http://amzn.to/2gOG54v"
 ---
 
 <div class="flex-video">
@@ -40,7 +41,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gOG54v">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -58,7 +59,7 @@ Bajo consumo|
 El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al igual que sus predecesores, adopta un formato diferente de la competencia, todo el peso se encuentra en el mango, para que sea más versátil, ya que con tal equilibrio puede limpiar tanto el suelo como las alturas. Esta nueva joya se presenta como el aspirador escoba inalámbrico "más potente del mercado." Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un nuevo cepillo principal con cerdas hechas de fibras de carbono. Su autonomía es idéntica a la de su predecesor DC45, 20 minutos a potencia normal y 8 minutos al máximo.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gOG54v">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -135,7 +136,7 @@ En cuanto al depósito, se expulsa pulsando de nuevo en la apertura de la trampi
 Por último, el cepillo turbo se abre en todas partes, con bastante facilidad (siempre que tengas a mano una moneda), lo que hace su mantenimiento fácil.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gOG54v">Buscar el mejor precio</a>
 </div>
 
 
@@ -144,7 +145,7 @@ Por último, el cepillo turbo se abre en todas partes, con bastante facilidad (s
 Dyson ha hecho esfuerzos para mejorar la comodidad y la eficiencia de la DC62. No solo más agradable de usar, más equilibrada y más fácil de mantener sino que también ofrece buenos resultados en todo tipo de superficie. Estas caracteristicas hacen que sea un compañero ideal y versátil tanto para un piso, una casa o un apartamento pequeño copiosamente amueblado. La unica pega que podemos ponerle es el ruido.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gOG54v">Comprar en Amazon</a>
 </div>
 
 Si quieres consultar otro modelo, vuelve a nuestra lista.

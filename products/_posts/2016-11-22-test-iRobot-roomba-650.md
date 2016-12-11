@@ -34,6 +34,7 @@ price-before: "469,00 €"
 price-now: "355,25 €"
 discount: "24%"
 stars: "4"
+link: "http://amzn.to/2gt3kVz"
 ---
 
 <div class="flex-video">
@@ -41,7 +42,7 @@ stars: "4"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -56,7 +57,7 @@ Rendimiento eficaz en suelos duros y alfombras finas|
 Modelo de la serie 600 de la marca, mejor venta en Amazon en varias ocasiones, programable y con un precio tentador a 348,00 (en promoción ahora te ahorras 121,00 €), esta aspiradora robot tiene muy buenas ventajas sobre el papel. Pero ¿Cumple todas sus promesas? Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -107,7 +108,7 @@ Se recomienda limpiar los cepillos una vez por semana para evitar la acumulacion
 Eso si, segun el número de veces que lo programes hay que pensar a vaciar el depósito, de nada sirve que trabaje si no puede recoger nada.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gt3kVz">Buscar el mejor precio</a>
 </div>
 
 #### Opinión de los clientes
@@ -122,7 +123,7 @@ Me gusta la programación y la facilidad de uso. El ruido que produce es correct
 Tiene una excelente relación calidad precio.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gt3kVz">Comprar en Amazon</a>
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

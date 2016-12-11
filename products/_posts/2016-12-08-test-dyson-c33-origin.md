@@ -42,6 +42,7 @@ price-before: "329,00 €"
 price-now: "296,83 €"
 discount: "10%"
 stars: "4.5"
+link: "http://amzn.to/2hjeJUt"
 ---
 
 <div class="flex-video">
@@ -49,7 +50,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hjeJUt">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -67,7 +68,7 @@ Buen radio de acción.|
 El líder mundial Dyson te propone el DC33C Origin, un modelo que ya tiene un tiempo pero que sigue ofreciendo un rendimiento excepcional. Vamos a ver juntos porque me ha gustado tanto. Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filtración con un alto rendimiento, y de la tecnología Ball, que permite optimizar el manejo del aparato, esta aspiradora es práctica y agradable de usar.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hjeJUt">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -141,7 +142,7 @@ Respecto al mantenimiento poco que señalar, sus filtros pueden lavarse con agua
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2hjeJUt">Buscar el mejor precio</a>
 </div>
 
 #### Opinión de los clientes
@@ -155,7 +156,7 @@ Durante nuestras pruebas, realmente disfrutamos del comportamiento de succión d
 En resumen recomendamos esta aspiradora por su alto rendimiento, su funcionalidad y la excelente relación calidad / precio si la compras ahora. (Estamos hablando de un Dyson!)
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2hjeJUt">Comprar en Amazon</a>
 </div>
 
 ¿Tienes dudas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta mas modelos.

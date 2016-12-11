@@ -33,6 +33,7 @@ price-before: "549,00 €"
 price-now: "445,20  €"
 discount: "19%"
 stars: "4.5"
+link: "http://amzn.to/2hmlhCc"
 ---
 
 
@@ -41,7 +42,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hmlhCc">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -62,7 +63,7 @@ Es aspirador Dyson V6 Total Clean es un aspirador sin cable y sin bolsa que se p
 A continuación os cuento todo sobre el Total Clean que he podido probar recientemente.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hmlhCc">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -127,7 +128,7 @@ El depósito, de 0,4 l, se vacía como los antiguos modelos de Dyson. Un pequeñ
 En cuanto a los filtros, el V6 Total Clean dispone de un segundo filtro, apenas detrás del bloque que tiene los ciclones y el motor. Se trata de un filtro de escape, a través del cual Dyson dice que este aspirador, no contento con retener el polvo más fino, el polen y los alérgenos, devuelve un aire "más saludable que el que se respira ". El aire en nuestros hogares está contaminado, en eso todos estamos de acuerdo, no sólo los fabricantes de electrodomésticos, sino también los alergólogos. Parece ser que cuando el aire pasa a través del sistema de filtración, el MultiCyclonic y por los dos filtros el aspirador lo limpiaria.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor</a>
+  <a class="button" href="http://amzn.to/2hmlhCc">Buscar el mejor</a>
 </div>
 
 #### Opinión de los clientes
@@ -141,7 +142,7 @@ La verdad es que este aspirador me ha convencido. Aunque soy adepta de los aspir
 Los cepillos son super completos, y como todos los Dyson un aspirador fácil de limpiar.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hmlhCc">Comprar</a>
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

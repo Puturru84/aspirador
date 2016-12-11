@@ -30,7 +30,7 @@ layout: default
           <th><span class="hide-for-large">Precio anterior: </span>{{ post.price-before }}</th>
           <th><span class="hide-for-large">Precio actual: </span>{{ post.price-now }}</th>
           <th><span class="hide-for-large">Descuento </span>{{ post.discount }}</th>
-          <th> <a href="{{ post.link }}" class="button">Comprar</a></th>
+          <th> <a class="button" href="{{ post.link }}">Comprar</a></th>
           <th>{{ post.clasification }}</th>
           <th>
             {% if post.stars == "5" %}

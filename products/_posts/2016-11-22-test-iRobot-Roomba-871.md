@@ -32,6 +32,7 @@ price-before: "699,00 €"
 price-now: "642,97 €"
 discount: "8%"
 stars: "4.5"
+link: "http://amzn.to/2gP6vmv"
 ---
 
 <div class="flex-video">
@@ -39,7 +40,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -63,7 +64,7 @@ Roomba es el nombre que le dio a la marca iRobot a sus aspiradoras robot con un 
 Hoy vamos a probar el iRobot Roomba 871, un dispositivo hermoso que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700 de Roomba.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -117,7 +118,7 @@ El mantenimiento y limpieza de este robot son menos frecuentes, este modelo inco
 Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpieza que las baterías anteriores de Roomba, lo que duplica su vida útil antes de que necesite un reemplazo.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gP6vmv">Buscar el mejor precio</a>
 </div>
 
 #### Opinión de los clientes
@@ -129,7 +130,7 @@ Este aspirador robot tiene una puntuacion de 4,4 / 5 en Amazon, esta echa un ojo
 Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perfecta para quienes olvidarse de pasar el aspirador y dejar que este trabaje por ellos. Mantiene la limpieza diaria del hogar y cumple con el pelo de las mascotas. Servicio y eficacia se aunan en este producto.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gP6vmv">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

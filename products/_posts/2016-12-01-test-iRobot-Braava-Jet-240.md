@@ -35,6 +35,7 @@ price-before: "249,00 €"
 price-now: "249,00 €"
 discount: "0%"
 stars: "4.5"
+link: "http://amzn.to/2gta2ec"
 ---
 
 <div class="flex-video">
@@ -42,7 +43,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gta2ec">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -61,7 +62,7 @@ La evolución del robot escoba Braava 380, el Braava Jet 240 va un poco más lej
 Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos ilusionemos tan rápido, iRobot lo destina a los baños y cocinas. De hecho, sólo puede cubrir unos veinte metros cuadrados. Por último, está conectado y puede ser controlado desde una aplicación propia.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gta2ec">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -152,7 +153,7 @@ Sin embargo, los obstáculos como los pies de las sillas o las mesas no le plant
 En cuanto a la alfombra, las detecta y la trata como un obstáculo, sin pasar por encima. Son los umbrales de las puertas con los que ha tenido a veces problemas. No son lo suficientemente gruesos como para ser considerados como obstáculos así que el Braava Jet tropieza e insiste sin poder pasar sobre ellos. Siempre termina por apañarse y continuar, pero pierde tiempo, mientras que su autonomía es limitada (unos 60 minutos). Aun así, tenemos que reconocerle el mérito de no quedarse bloqueado durante un ciclo.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gta2ec">Buscar el mejor precio</a>
 </div>
 
 #### Conclusión  4.5 pts  / 5
@@ -160,7 +161,7 @@ En cuanto a la alfombra, las detecta y la trata como un obstáculo, sin pasar po
 No debemos engañarnos: si deseas dejar de fregar el suelo en tu casa al completo, este producto no es para ti. El Braava Jet está pensado sólo para zonas “concretas” (de aproximadamente 20 m²). Si limitamos su uso a un aseo, un baño, una cocina e incluso una pequeña habitación, y si uno está dispuesto a asumir el coste de toallitas, la Braava Jet hace muy buen trabajo. Todas las promesas se cumplen y se aprecia especialmente la eficacia del nuevo modo proponiendo el lavado de suelos.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gta2ec">Comprar en Amazon</a>
 </div>
 
 ¿No es lo que buscas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

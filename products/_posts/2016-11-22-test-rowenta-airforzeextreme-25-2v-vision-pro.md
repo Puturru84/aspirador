@@ -31,6 +31,7 @@ price-before: "215,00 €"
 price-now: "199,00 €"
 discount: "23%"
 stars: "4"
+link: "http://amzn.to/2gt2Rm4"
 ---
 
 
@@ -39,7 +40,7 @@ stars: "4"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt2Rm4">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -56,7 +57,7 @@ Más potente que su predecesor de la misma gama, este aspirador escoba es presen
 Más barato que el Dyson V6 Total Clean y el Dyson DC45 Digital Slim, ¿estamos ante un producto de alta calidad? os invito a leer este artículo del Rowenta Air Forze Extreme para averiguarlo.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2gt2Rm4">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -113,7 +114,7 @@ El depósito tiene una escotilla, lo que es de agradecer, pero no tiene asa. El 
 La propia casa recomienda limpiar el filtro de espuma, no HEPA, que protege el motor con agua tibia y jabón. El filtro debe dejarse secar por lo menos 12h antes de colocarlo de nuevo en la aspiradora. En la caja viene un segundo filtro de recambio.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2gt2Rm4">Buscar el mejor precio</a>
 </div>
 
 #### Opinión de los clientes
@@ -128,7 +129,7 @@ Sin embargo es una pena que no pueda convertirse en una aspiradora de mano. Otro
 Si buscas una relación calidad precio correcta para una aspiradora escoba la Rowenta RH887101 es una buena opción.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2gt2Rm4">Comprar en Amazon</a>
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

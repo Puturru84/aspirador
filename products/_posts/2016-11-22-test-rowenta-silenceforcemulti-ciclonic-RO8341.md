@@ -43,6 +43,7 @@ price-before: "279,99 €"
 price-now: "199,00 €"
 discount: "29%"
 stars: "4.5"
+link: "http://amzn.to/2hmohyy"
 ---
 
 <div class="flex-video">
@@ -50,7 +51,7 @@ stars: "4.5"
 </div>
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hmohyy">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -67,7 +68,7 @@ Rowenta nos propone un aspirador sin bolsa muy eficaz: el RO8314EA Silence Force
 El aspirador Rowenta RO8314EA es un aparato de muy buena calidad. Situado en la parte alta de la gama media de aspiradores, propone ventajas muy interesantes. Este aspirador se aconseja a personas que tengan un presupuesto consecuente y estén buscando un producto muy funcional y duradero.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar</a>
+  <a class="button" href="http://amzn.to/2hmohyy">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -125,7 +126,7 @@ Este modelo dispone de un cordón eléctrico de 6 m, ofreciendo un radio de acci
 A pesar de los ciclone que realizan la separación  entre el aire y la suciedad y evitan que se pierda succión con su uso, se aconseja un pequeño mantenimiento que consiste en una limpieza de los filtros cada 6 meses.
 
 <div class="text-center">
-  <a href="about.html" class="button">Buscar el mejor precio</a>
+  <a class="button" href="http://amzn.to/2hmohyy">Buscar el mejor precio</a>
 </div>
 
 #### Opinión de los clientes
@@ -139,7 +140,7 @@ Para mi el valor añadido de este aspirador es su bajo consumo, que además de a
 Como comencé este post, aconsejo este aspirador a las personas que quieran invertir un presupuesto medio y deseen un producto funcional y duradero.
 
 <div class="text-center">
-  <a href="about.html" class="button">Comprar en Amazon</a>
+  <a class="button" href="http://amzn.to/2hmohyy">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
