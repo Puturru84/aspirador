@@ -3,13 +3,10 @@ layout: default
 ---
 
 <main>
-  <div class="row intro">
-    <div class="small-9 columns">
+  <div class="row">
+    <div class="small-8 small-centered columns intro text-center">
       <p class="lead">Hola, me llamo Sara, y tras haber tenido que estudiar el mercado de las aspiradoras para comprar varias para mi familia, he decidido aprovechar mi experiencia y compartirla con vosotros.<br>
         Leo, comparo, pruebo y resumo toda esa información para ayudaros a elegir la aspiradora que queréis comprar.</p>
-    </div>
-    <div class="small-3 columns">
-      <img src="{{ site.url }}assets/img/sara.jpg" width="160" height="auto" alt="las aspiradoras">
     </div>
   </div>
   <table class="stack">
@@ -27,11 +24,11 @@ layout: default
       {% assign categories = site.categories.product | sort: 'clasification' | reverse %}
       {% for post in categories %}
           <tr>
-            <th width="200"><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
-            <th th width="300"><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
-            <th width="600"><span class="show-for-small-only">Promesa</span> {{ post.comments }}</th>
-            <th width="80"><span class="show-for-small-only">Nota</span> {{ post.clasification }}</th>
-            <th width="150">
+            <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
+            <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
+            <th><span class="show-for-small-only">Promesa</span> {{ post.comments }}</th>
+            <th><span class="show-for-small-only">Nota</span> {{ post.clasification }}</th>
+            <th>
               {% if post.stars == "5" %}
                 <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
                     <path d="M0 0h24v24H0z" fill="none"/>
@@ -184,7 +181,7 @@ layout: default
               {% else %}
               {% endif %}
             </th>
-            <th width="100"><a class="button" href="{{ post.link }}">Comprar</a></th>
+            <th><a class="button" href="{{ post.link }}">Comprar</a></th>
           </tr>
       {% endfor %}
     </tbody>
