@@ -8,8 +8,16 @@ layout: default
       <table class="stack">
         <thead>
          <tr>
-          <th width="200" class="text-center">Imagen</th>
-          <th width="200" class="text-center">Modelo</th>
+           <th width="200" class="text-center">
+             <svg fill="#999" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+             </svg>
+               <p class="subheader">Imagen</p>
+           </th>
+           <th width="200" class="text-center">
+             <svg fill="#999" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+             </svg>
+               <p class="subheader">Modelo</p>
+           </th>
           <th width="200" class="text-center">
             <svg fill="#999" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <defs>
@@ -98,7 +106,7 @@ layout: default
                   <path d="M0 0h24v24H0z" fill="none"/>
               </svg>
               <br>
-                <a class="button" href="{{ post.link }}">Comprar</a>
+                <p class="subheader">Comprar</p>
             </th>
      </tr>
     </thead>
@@ -116,7 +124,7 @@ layout: default
          <th class="text-center"><span class="hide-for-large">Filtro</span> {{ post.filter }}</th>
          <th class="text-center"><span class="hide-for-large">Radio de accion</span> {{ post.radius }}</th>
          <th class="text-center"><span class="hide-for-large">Capacidad</span> {{ post.capacity }}</th>
-         <th class="text-center"><a href="{{ post.link }}" class="button">Comprar</a></th>
+         <th class="text-center"><a class="button" href="{{ post.link }}">Comprar</a></th>
         </tr>
       {% endfor %}
     </tbody>

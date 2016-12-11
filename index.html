@@ -12,12 +12,12 @@ layout: default
   <table class="stack">
     <thead>
       <tr>
-        <th width="200">Imagen</th>
-        <th width="250">Modelo</th>
-        <th width="250">Promesa</th>
-        <th width="80">Nota</th>
-        <th width="90"></th>
-        <th width="90"></th>
+        <th width="200" class="text-center">Imagen</th>
+        <th width="250" class="text-center">Modelo</th>
+        <th width="250" class="text-center">Promesa</th>
+        <th width="80" class="text-center">Nota</th>
+        <th width="90" class="text-center"></th>
+        <th width="90" class="text-center"></th>
       </tr>
     </thead>
     <tbody>
@@ -26,8 +26,8 @@ layout: default
           <tr>
             <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
             <th><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
-            <th><span class="show-for-small-only">Promesa</span> {{ post.comments }}</th>
-            <th><span class="show-for-small-only">Nota</span> {{ post.clasification }}</th>
+            <th><span class="show-for-small-only">Promesa:</span> {{ post.comments }}</th>
+            <th><span class="show-for-small-only">Nota:</span> {{ post.clasification }}</th>
             <th>
               {% if post.stars == "5" %}
                 <svg fill="#ffe908" height="18" viewBox="0 0 24 24" width="18" xmlns="http://www.w3.org/2000/svg">
