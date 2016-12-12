@@ -111,7 +111,7 @@ En alfombra de pelo grueso, sin embargo, una superficie delicada, aspiro el 96% 
 En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las superficies limpiadas y de acuerdo con el modo. En "eco", emite de 64 a 66 dB; en el modo "automático", las emisiones llegan hasta 70 dB un poco limite. Sin embargo como el Roomba es totalmente autónomo esto no presenta ningun problema porque puede funcionar cuando no estes en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 aspirado lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -119,7 +119,7 @@ En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las 
 Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay que ponerlo en perspectiva con la autonomia de la batería y la carga rápida. Incluso programandole dos pasadas en unos 60 m², no hemos agotado su batería. Lamentamos sin embargo el consumo una vez que la batería está cargada que lejos de cero es de 4,4 W.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 consumo lasaspiradoras.com">
 </div>
 
 #### Modos y funciones complementarias
@@ -135,12 +135,12 @@ El Roomba 980 viene con accesorios suficientes.
 En cuanto a los modos (automático, rendimiento o eco) y opciones (dos pasadas, regreso a la base cuando el deposito está lleno, limpiar las esquinas), son programables desde la aplicación.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/iRobot-HOME-App.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/iRobot-HOME-App.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
 
-Este nuevo modelo hereda de la serie 800 el sistema AeroForce . iRobot ha reemplazado el cepillo principal por los "extractores de escombros". Estos rodillos de caucho flexible que giran en direccion opuesta evitan los enredos del pelo y los pelos de los animales domésticos para un fácil mantenimiento. Cosa que ya habiamos notado en la Roomba 871, el mantenimiento es en realidad muy limitado.
+Este nuevo modelo hereda de la serie 800 el sistema AeroForce . iRobot ha reemplazado el cepillo principal por los "extractores de escombros". Estos rodillos de caucho flexible que giran en direccion opuesta evitan los enredos del pelo y los pelos de los animales domésticos para un fácil mantenimiento. Cosa que ya habiamos notado en la Roomba 980, el mantenimiento es en realidad muy limitado.
 Los extractores todavía deben limpiarse de vez en cuando. Se pueden quitar fácilmente y se colocan con la misma sencillez.
 
 En cuanto al deposito, está casi completamente cerrado. Por lo tanto, no hay "fugas" cuando se mueva, a diferencia de otros robots.
@@ -162,7 +162,7 @@ iRobot promete haber mezclado dos sistemas de navegación de modo que el Roomba 
 Este nuevo sistema de navegación proporciona una cobertura de superficie mucho más eficaz; iRobot da un gran paso.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Gestion de obstaculos
