@@ -52,7 +52,7 @@ javascript:
     # - "assets/vendor/foundation-sites/js/foundation.equalizer.js"
     # - "assets/vendor/foundation-sites/js/foundation.interchange.js"
     # - "assets/vendor/foundation-sites/js/foundation.magellan.js"
-    # - "assets/vendor/foundation-sites/js/foundation.offcanvas.js"
+    - "assets/vendor/foundation-sites/js/foundation.offcanvas.js"
     # - "assets/vendor/foundation-sites/js/foundation.orbit.js"
     # - "assets/vendor/foundation-sites/js/foundation.responsiveMenu.js"
     - "assets/vendor/foundation-sites/js/foundation.responsiveToggle.js"
@@ -65,11 +65,11 @@ javascript:
     - "assets/vendor/foundation-sites/js/foundation.util.box.js"
     - "assets/vendor/foundation-sites/js/foundation.util.keyboard.js"
     - "assets/vendor/foundation-sites/js/foundation.util.mediaQuery.js"
-    # - "assets/vendor/foundation-sites/js/foundation.util.motion.js"
+    - "assets/vendor/foundation-sites/js/foundation.util.motion.js"
     - "assets/vendor/foundation-sites/js/foundation.util.nest.js"
     # - "assets/vendor/foundation-sites/js/foundation.util.timerAndImageLoader.js"
     # - "assets/vendor/foundation-sites/js/foundation.util.touch.js"
-    # - "assets/vendor/foundation-sites/js/foundation.util.triggers.js"
+    - "assets/vendor/foundation-sites/js/foundation.util.triggers.js"
 
     # Paths to your own project code are here
     # All the files in this list and in the js dir are concatenated into all.js
