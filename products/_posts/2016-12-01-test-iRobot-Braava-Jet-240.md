@@ -167,5 +167,5 @@ No debemos engañarnos: si deseas dejar de fregar el suelo en tu casa al complet
 ¿No es lo que buscas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>

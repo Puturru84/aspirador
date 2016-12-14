@@ -159,7 +159,7 @@ No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo suced
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Te interesa el medioambiente? Si quieres conocer la politica de Bosch con el medioambiente te dejamos el link a su web: <a href="http://www.bosch-home.es/conoce-bosch/produccion-sostenible.html">Bosch sostenible.</a>

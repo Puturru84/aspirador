@@ -151,7 +151,7 @@ Dyson ha hecho esfuerzos para mejorar la comodidad y la eficiencia de la DC62. N
 Si quieres consultar otro modelo, vuelve a nuestra lista.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Te interesas por el medio ambiente? Te dejamos el link a la pagina de <a href="http://www.dyson.es/acerca-de-dyson/ingenieria-sostenible.aspx"> ingenieria sostenible de Dyson</a>

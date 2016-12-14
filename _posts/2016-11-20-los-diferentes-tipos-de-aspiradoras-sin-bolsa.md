@@ -87,5 +87,5 @@ categories: blog-updates
 </p>
 
 <div class="text-center">
-<a class="button" href="{{ site.url }}">Consulta nuestra lista de los mejores aspiradores</a>
+<a class="warning hollow button" href="{{ site.url }}">Consulta nuestra lista de los mejores aspiradores</a>
 </div>

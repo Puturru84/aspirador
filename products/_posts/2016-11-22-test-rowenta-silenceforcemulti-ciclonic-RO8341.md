@@ -146,7 +146,7 @@ Como comencé este post, aconsejo este aspirador a las personas que quieran inve
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Quieres conocer la politica de Rowenta con el medioambiente? Aqui te dejamos el link a su web: <a href="http://www.groupeseb.com/en-en/content/sustainable-development">Groupe Seb desarrollo sostenible.</a>

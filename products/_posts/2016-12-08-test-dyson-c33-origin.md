@@ -162,7 +162,7 @@ En resumen recomendamos esta aspiradora por su alto rendimiento, su funcionalida
 ¿Tienes dudas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta mas modelos.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Te interesas por el medio ambiente? Entonces elige productos duraderos e informate sobre las marcas que consumes, te dejamos un link a la pagina de <a href="http://www.dyson.es/acerca-de-dyson/ingenieria-sostenible.aspx"> ingenieria sostenible de Dyson</a>

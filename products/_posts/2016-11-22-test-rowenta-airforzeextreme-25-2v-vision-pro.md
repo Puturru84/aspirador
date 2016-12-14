@@ -135,7 +135,7 @@ Si buscas una relación calidad precio correcta para una aspiradora escoba la Ro
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Quieres conocer la politica de Rowenta con el medioambiente? Aqui te dejamos el link a su web: <a href="http://www.groupeseb.com/en-en/content/sustainable-development">Groupe Seb desarrollo sostenible.</a>

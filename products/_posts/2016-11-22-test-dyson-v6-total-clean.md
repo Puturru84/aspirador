@@ -148,7 +148,7 @@ Los cepillos son super completos, y como todos los Dyson un aspirador fácil de 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 ¿Te interesas por el medio ambiente? Entonces elige productos duraderos e informate sobre las marcas que consumes, te dejamos un link a la pagina de <a href="http://www.dyson.es/acerca-de-dyson/ingenieria-sostenible.aspx"> ingenieria sostenible de Dyson</a>

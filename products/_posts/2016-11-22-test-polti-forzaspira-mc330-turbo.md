@@ -165,7 +165,7 @@ Si no tienes mascota y necesitas un aspirador correcto a un precio muy competiti
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 Si quieres conocer la politica de Polti con el medioambiente te dejamos el link a su web: <a href="http://www.polti.es/es/show/1000291/Medio%20ambiente">Polti y el medio ambiente.</a>

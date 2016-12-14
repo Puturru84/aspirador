@@ -15,7 +15,6 @@ title:  "Nosotros"
       <div class="small-3 columns">
         <img src="{{ site.url }}/assets/img/sara.jpg" width="150" height="auto" alt="las aspiradoras">
       </div>
-    <div class="row intro">
       <div class="small-12 columns">
         <p class="lead">
           He comenzado esta web con una lista de los 10 mejores aspiradores del mercado. Más adelante voy a ir incorporando el análisis y la opinión de otros modelos, artículos interesantes sobre el mundo de los aspiradores y datos curiosos.

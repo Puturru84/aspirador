@@ -191,5 +191,5 @@ Si no tienes un smartphone, pasa de largo, ya que el Roomba 980 está diseñado 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>

@@ -108,7 +108,7 @@ Esta aspiradora robot utiliza la tecnología combinada iAdapt de sensores infrar
 También está dotada de 6 sensores vacíos gracias al sistema Cliff Detect, con lo que no hay riesgo de que caiga por las escaleras.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-870-4.png" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-870-4.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 manejabilidad lasaspiradoras.com">
 </div>
 
 #### Mantenimiento
@@ -136,5 +136,5 @@ Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perf
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>

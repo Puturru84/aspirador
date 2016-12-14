@@ -129,5 +129,5 @@ Tiene una excelente relación calidad precio.
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.
 
 <div class="text-center">
-  <a class="button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
