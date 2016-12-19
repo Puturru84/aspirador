@@ -31,7 +31,7 @@ clasification: "4,3"
 comments: "Resultados excelentes y comodidad"
 price-before: "391,14 €"
 price-now: "323,92 €"
-discount: "17%"
+discount: "17%" 
 stars: "4.5"
 link: "http://amzn.to/2gOG54v"
 ---
