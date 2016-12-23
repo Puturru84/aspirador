@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Guia de compra del aspirador robot"
+title:  "Guia de compra de una aspiradora robot"
 categories: blog-updates
 ---
 
-El uso de los robots aspirador va viento en popa desde hace unos meses y con razón. Llenos de tecnología hacen el trabajo por ti, este producto está cambiando nuestros hábitos en las misma medida que lo hizo la lavadora en los años 70 y 80.
+El uso de las aspiradoras robot va viento en popa desde hace unos meses y con razón. Llenos de tecnología hacen el trabajo por ti, este producto está cambiando nuestros hábitos en la misma medida que lo hizo la lavadora en los años 70 y 80.
 
 Con la creciente popularidad de este aparato han ido apareciendo poco a poco más fabricantes de robots aspiradora, incluso alguno chino. Esta guía de compras ha sido creada para ayudaros a elegir correctamente el aspirador robot que mejor responda a tus necesidades.
 
@@ -12,8 +12,9 @@ Con la creciente popularidad de este aparato han ido apareciendo poco a poco má
 <a class="warning hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-robot/">Consulta nuestra lista de los mejores aspiradores robot</a>
 </div>
 
-Un robot aspirador de calidad es un aspirador que no tiras a los dos días de haberlo comprado ni dejas almacenado en el armario después de varios usos. Tiene un coste, que oscila entre € 120 para la gama baja y de 500 € o más para los robots de última generación.
-En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes aspiradoras robots de calidad en las que la gama, las opciones y la tecnologia varia de robot en robot. ¿Qué tener en cuenta a la hora de elegir un robot aspirador? Sigue la guia de compras para descubrirlo.
+Un robot aspirador de calidad es un aspirador que no tiras a los dos días de haberlo comprado ni dejas almacenado en el armario después de varios usos. Tiene un coste, que oscila entre € 120 para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación.
+En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes aspiradoras robots de calidad en las que la gama, las opciones y la tecnologia varia de robot en robot. <br>
+¿Qué tener en cuenta a la hora de elegir un robot aspirador? Sigue leyendo para descubrirlo.
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d792__roomba_cat.png" width="400" height="auto" alt="Roomba cat by piperthibodeau.com">
