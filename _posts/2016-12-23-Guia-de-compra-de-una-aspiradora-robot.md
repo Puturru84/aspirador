@@ -35,7 +35,7 @@ Del mismo modo, se debe mirar la eficiencia de succión, verdadero corazón del 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/iRobot-Roomba-760.jpg" width="400" height="auto" alt="robot aspiradora en lasaspiradoras.com">
 </div>
-
+<p class="text-center"><a href="http://amzn.to/2hkDFxb">Consultar Robot aspiradora iRobot Roomba 760 en Amazon</a></p>
 <p>
 Último elemento: algunas aspiradoras robot están equipadas con un filtro de partículas alérgenas, por lo general de tecnología HEPA, y algunos tienen lámparas UV en esta función. La calidad de filtración forma parte de la eficiencia de un robot aspirador. <br>
 → El poder de limpieza, el sistema de filtración y la calidad de los cepillos son elementos cruciales a considerar.
@@ -49,7 +49,7 @@ Ya sabes que una aspiradora robot se pasea por tu casa. Sin embargo hay diferent
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/R960_Multi-Room.jpg" width="400" height="auto" alt="aspirador robot Roomba">
 </div>
-
+<p class="text-center"><a href="http://amzn.to/2he3Mm8">Consultar Robot aspiradora iRobot Roomba 960 en Amazon</a></p>
 <p>
 El modo conducción preprogramada, el más simple. El robot aspirador está programado por el fabricante para entrar en una habitación, siguiendo una cierta lógica optimizada: por ejemplo, espiral, o cambiando de dirección a 90 ° cuando se encuentra con un obstáculo, etc. Hay modelos que son moderadamente eficaces y poco eficientes energéticamente que pasan dos veces por el mismo lugar. Con lo cual, la batería se agota antes de permitir que el robot aspire una gran área.<br>
 Con una autonomía de una a dos horas y dependiendo de la inteligencia de los diseños, los robots aspiradora son adecuados para pisos de unos 60m² y para los usuarios más pacientes.
@@ -96,7 +96,7 @@ Después de cada sesión, el robot aspirador requiere un mínimo de mantenimient
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d80d85backangle-hi.jpg" width="400" height="auto" alt="aspirador robot neato D85">
 </div>
-
+<p class="text-center"><a href="http://amzn.to/2hNOzNq">Consultar Robot aspiradora Neato D85 en Amazon</a></p>
 <p>
 Ten en cuenta estos hechos para realizar tu compra:
 </p>
