@@ -156,6 +156,12 @@ No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo suced
   <a class="button" href="http://amzn.to/2hiRT2h">Comprar en Amazon</a>
 </div>
 
+¿Quieres recibir tu Bosch Relax Prosilence en un dia? Prueba Amazon Premium, recibiras tus compras en 24h y GRATIS.
+<div class="text-center">
+<iframe src="//rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=288&l=ur1&category=premium&banner=1WF3JJFCASB5J6YZBYG2&f=ifr" width="320" height="50" scrolling="no" border="0" marginwidth="0" style="border:none;max-width:800px;max-height:600px;" frameborder="0">
+</iframe>
+</div>
+
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.
 
 <div class="text-center">
