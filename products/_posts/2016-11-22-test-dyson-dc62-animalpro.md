@@ -68,7 +68,7 @@ El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al 
 
 #### Comodidad de uso
 
-La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. Probamos la versión animal Pro.
+La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. La gama esta compuesta por la aspiradora DC62 digital Slim <a href="http://amzn.to/2hOSgB2"> (ver en Amazon)</a>, la aspiradora DC62 en version estándar <a href="http://amzn.to/2hOaFQ9">(ver en Amazon) </a> y la versión animal Pro, que es la que vamos a comentar a continuación.
 
 El DC62 animalpro de tubo violeta viene con el nuevo turbo-cepillo motorizado con los pelos retorcidos, que alterna cerdas de nylon y pelo de fibra de carbono, un mini cepillo turbo y dos pequeños accesorios: una larga boquilla y un cepillo que se transforma en un succionador plano.
 

@@ -8,7 +8,7 @@ categories:
 image: "neatod85-mini.jpg"
 model: "Neato Robotics Botvac D85"
 type-vacuum: "Aspirador robot"
-technology: "LaserSmart"
+technology: "LaserSmart, Tecnología Spinflow"
 power: "43 V"
 power-op: "5"
 capacity: "0,7 L"
@@ -23,7 +23,7 @@ dimensions: "33,5 x 32,1 x 10 cm"
 radius: " 140 m²"
 radius-op: "4,5"
 garanty: "2 años"
-brush: "Tecnología Spinflow"
+brush: "2 filtros + escobilla Spiral blade, herramienta limpieza"
 brush-op: "4,5"
 charge: "2h - 3h"
 charge-op: "5"
@@ -52,7 +52,6 @@ Muy autónomo en el ambiente del hogar (buena gestión de los obstáculos) | Con
 Excelente en todos los suelos duros |
 Facilidad de uso |
 Pack de accesorios completo |
-
 
 #### Presentación
 
