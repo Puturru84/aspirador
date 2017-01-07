@@ -31,8 +31,8 @@ Battery: "iRobot XLife"
 clasification: "4,2"
 comments: "Ya tiene unos años y sigue ofreciendo comodidad a un precio muy accesible"
 price-before: "469,00 €"
-price-now: "348,00 €"
-discount: "26%"
+price-now: "417,98 €"
+discount: "11%"
 stars: "4"
 link: "http://amzn.to/2gt3kVz"
 ---
@@ -110,10 +110,6 @@ Eso si, segun el número de veces que lo programes hay que pensar a vaciar el de
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gt3kVz">Buscar el mejor precio</a>
 </div>
-
-#### Opinión de los clientes
-
-No siempre es fácil elegir un robot aspirador eficaz y de buena calidad. Si quieres ver mas opiniones te propongo leer a los comentarios de otros usuarios en Amazon donde cuenta con una puntuacion de 4,5 / 5.
 
 #### Conclusión   pts 4,3 / 5
 

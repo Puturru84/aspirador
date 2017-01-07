@@ -140,11 +140,6 @@ En cuanto al nuevo sistema de vaciado, tiene su efecto. En los modelos anteriore
   <a class="button" href="http://amzn.to/2gOFIXF">Buscar el mejor precio</a>
 </div>
 
-#### Opinión de los clientes
-
-El Dyson cinetic big ball absolute ha recibido una nota de 5 puntos sobre 5 en Amazon, te invitamos a leer
-los comentarios sobre esta aspiradora.
-
 #### Conclusión 4,1 pts / 5
 
 Sin ofender a sus detractores, Dyson se las arregla siempre para innovar, mejorar y dar más comodidad al usuario. Este Cinetic Big Ball Absolute es un ejemplo obvio. Es un poco ruidoso, sin duda, y un poco caro, pero hace bien su trabajo. Apreciamos los cambios como el sistema de enganche de los  accesorios que ofrece  más comodidad así como sus accesorios prácticos y sorprendente. En cuanto al sistema de vaciado "limpio" del depósito es más bien un éxito, al igual que la Big Ball que hace que este aspirador sea único y práctico. Por último, el mantenimiento mínimo es una gran ventaja.

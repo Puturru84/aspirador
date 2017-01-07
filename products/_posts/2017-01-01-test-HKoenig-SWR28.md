@@ -109,10 +109,6 @@ Su algoritmo permite que se mueva de forma inteligente y logra dividir y aspirar
 Para un resultado óptimo conviene ayudarle un poquito y apartar de su camino los claves.
 A veces vuelve a pasar por zonas que ya ha aspirado anteriormente.
 
-#### Opinión de los clientes
-
-Este aspirador tiene una nota de 3.9 sobre 5 en Amazon, consulta los comentarios de los clientes para averiguar porque recibe esa nota.
-
 #### Conclusión  pts 4 / 5
 
 Con una excelente relación calidad / precio, este robot aspirador es potente y fácil de usar. <br>

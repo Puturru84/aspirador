@@ -40,8 +40,8 @@ power-regulation: "Desde el mango"
 clasification: "4"
 comments: "Buenos resultados para un aspirador de gama media"
 price-before: "250,00 €"
-price-now: "99,00 €"
-discount: "60%"
+price-now: "104,00 €"
+discount: "58%"
 stars: "4"
 link: "http://amzn.to/2gt6YP6"
 ---
@@ -147,10 +147,6 @@ Polti recomienda lavar los filtros una vez cada 4 meses.
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/polti-forza/PBEU0078 MC330_SvuotaSecchio.jpg" width="500" height="auto" alt="Aspiradora Polti Forzaspira MC330 Turbo manejabilidad lasaspiradoras.com">
 </div>
-
-#### Opinión de los clientes
-
-Con mas de 340 opiniones en Amazon y una nota global de 4,3 sobre 5 te recomendamos echar un ojo a lso comentarios de Amazon por si todavia et quedan dudas.
 
 #### Conclusión 4 pts / 5
 

@@ -121,10 +121,6 @@ Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpi
   <a class="button" href="http://amzn.to/2gP6vmv">Buscar el mejor precio</a>
 </div>
 
-#### Opinión de los clientes
-
-Este aspirador robot tiene una puntuacion de 4,4 / 5 en Amazon, esta echa un ojo a los comentarios de los clientes de Amazon.
-
 #### Conclusión   pts 4,4 / 5
 
 Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perfecta para quienes olvidarse de pasar el aspirador y dejar que este trabaje por ellos. Mantiene la limpieza diaria del hogar y cumple con el pelo de las mascotas. Servicio y eficacia se aunan en este producto.

@@ -27,9 +27,9 @@ brush: "Power Brush: cepillo eléctrico de alta velocidad"
 brush-op: "5"
 clasification: "4"
 comments: "La bateria mas duradera de los aspiradores escoba"
-price-before: "215,00 €"
+price-before: "259,00 €"
 price-now: "199,00 €"
-discount: "23%"
+discount: "29%"
 stars: "4"
 link: "http://amzn.to/2gt2Rm4"
 ---
@@ -54,7 +54,7 @@ Nivel de ruido correcto |
 #### Presentación
 
 Más potente que su predecesor de la misma gama, este aspirador escoba es presentado por la marca como uno de los mejores de su generación. Con una buena autonomía y un conjunto de características que parecen interesantes es cierto que este modelo tiene pinta de ofrecer altas prestaciones.
-Más barato que el Dyson V6 Total Clean y el Dyson DC45 Digital Slim, ¿estamos ante un producto de alta calidad? os invito a leer este artículo del Rowenta Air Forze Extreme para averiguarlo.
+Más barato que el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">Dyson V6 Total Clean</a> y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/">Dyson DC62 Animal Pro</a>, ¿estamos ante un producto de alta calidad? os invito a leer este artículo del Rowenta Air Forze Extreme para averiguarlo.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gt2Rm4">Comprar</a>
@@ -116,10 +116,6 @@ La propia casa recomienda limpiar el filtro de espuma, no HEPA, que protege el m
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gt2Rm4">Buscar el mejor precio</a>
 </div>
-
-#### Opinión de los clientes
-
-¿Todavía no te has decidido a comprar la aspiradora Rowenta Air Forze Extreme? Te invito a echar un ojo a las opiniones de los clientes de Amazon donde recibe 4.2 puntos sobre 5.
 
 #### Conclusión   pts 4 / 5
 

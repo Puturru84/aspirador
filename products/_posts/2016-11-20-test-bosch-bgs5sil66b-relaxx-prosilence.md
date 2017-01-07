@@ -144,9 +144,6 @@ El único mantenimiento requerido es vaciar el depósito y el filtro de pelusas 
   <a class="button" href="http://amzn.to/2hiRT2h">Comprar</a>
 </div>
 
-#### Opinión de los clientes
-
-El Bosch BGS5SIL66B Relaxx'x ProSilence ha recibido una nota de 4,4 puntos sobre 5 en Amazon, con lo que además de a nosotros ha convencido a más gente. En la página puedes consultar todos los comentarios, aquí te dejamos algunos que consideramos representativos.
 
 #### Conclusión   pts 4,5/ 5
 

@@ -145,10 +145,6 @@ Respecto al mantenimiento poco que señalar, sus filtros pueden lavarse con agua
   <a class="button" href="http://amzn.to/2hjeJUt">Buscar el mejor precio</a>
 </div>
 
-#### Opinión de los clientes
-
-El Dyson DC33C Origin ha recibido una nota de 4,7 puntos sobre 5 en Amazon, con lo que además de a nosotros ha convencido a más gente. En la página puedes consultar todos los comentarios, aquí te dejamos algunos que consideramos representativos.
-
 #### Conclusión 4,4 pts / 5
 
 Este aspirador logra asociar potencia con su motor de 700 vatios, filtración de alto rendimiento con sus dos sistemas de filtración y capacidad de maniobra con el sistema de bola de Dyson.

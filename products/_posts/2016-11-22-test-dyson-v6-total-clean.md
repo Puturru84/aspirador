@@ -131,10 +131,6 @@ En cuanto a los filtros, el V6 Total Clean dispone de un segundo filtro, apenas 
   <a class="button" href="http://amzn.to/2hmlhCc">Buscar el mejor</a>
 </div>
 
-#### Opinión de los clientes
-
-Este aspirador cuenta con muchos comentarios positivos de la parte de usuarios de Amazon que lo han comprado. Puedes consultarlo en Amazon, donde le han dado una nota de 4.5.
-
 #### Conclusión   pts 4,3 / 5
 
 Eficacia, potencia y manejabilidad son las principales cualidades de la aspiradora Dyson V6 Total Clean. Sus cepillos permiten aspirar todo tipo de suelos y su aspirador de mano te permite quitar todo el polvo que se aloja en lugares de difícil acceso, como los sillones, las alfombrillas del coche, o los asientos del coche, etc.

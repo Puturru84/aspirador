@@ -129,10 +129,6 @@ A pesar de los ciclone que realizan la separación  entre el aire y la suciedad 
   <a class="button" href="http://amzn.to/2hmohyy">Buscar el mejor precio</a>
 </div>
 
-#### Opinión de los clientes
-
-El Silence Force Multi-Cyclonic RO8341 ha recibido una nota de 4,4 puntos sobre 5 en Amazon, en la página puedes consultar todos los comentarios, aquí te dejamos algunos que consideramos representativos.
-
 #### Conclusión   pts 4,3 / 5
 
 La potencia del aspirador es buena, la filtración también (aunque no sea suficiente para las personas alérgicas) y el diseño cuidado, además el aparato dispone de una protección integral para evitar dañar los muebles cuando chocamos con ellos.

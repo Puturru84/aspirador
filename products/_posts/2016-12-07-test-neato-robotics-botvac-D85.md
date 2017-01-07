@@ -164,11 +164,6 @@ No se engancha practicamente en los cables eléctricos, aunque siempre es mejor 
 
 Por último, una vez más, observamos el cuidado especial con el que bordea los objetos con precisión.
 
-
-#### Opinión de los clientes
-
-El Neato Robotics Botvac D85 ha recibido una nota de 4,7 puntos sobre 5 en Amazon donde puedes consultar todos los comentarios.
-
 #### Conclusión 4.4 pts / 5
 
 Es una lástima que no cumpla la promesa de hacer menos ruido y que el BotVac 85 sea un poco ruidoso. Todas las demás promesas se cumplen y alcanzan un nivel de eficiencia y precisión en la cobertura de las áreas que haran inncesario el uso de un aspirador trineo. Autónomo en la zona del hogar y eficaz en todos los suelos el BotVac D85 lo tiene todo para gustar.
