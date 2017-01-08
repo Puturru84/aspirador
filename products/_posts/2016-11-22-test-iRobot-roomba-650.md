@@ -31,8 +31,8 @@ Battery: "iRobot XLife"
 clasification: "4,2"
 comments: "Ya tiene unos años y sigue ofreciendo comodidad a un precio muy accesible"
 price-before: "469,00 €"
-price-now: "417,98 €"
-discount: "11%"
+price-now: "399,74 €"
+discount: "15%"
 stars: "4"
 link: "http://amzn.to/2gt3kVz"
 ---
@@ -54,20 +54,26 @@ Rendimiento eficaz en suelos duros y alfombras finas|
 
 #### Presentación
 
-Modelo de la serie 600 de la marca, mejor venta en Amazon en varias ocasiones, programable y con un precio tentador a 348,00 (en promoción ahora te ahorras 121,00 €), esta aspiradora robot tiene muy buenas ventajas sobre el papel. Pero ¿Cumple todas sus promesas? Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales.
+Modelo de la serie 600 de la marca, mejor venta en Amazon en varias ocasiones, programable y con un precio tentador, esta aspiradora robot tiene muy buenas ventajas sobre el papel. Pero, ¿Cumple todas sus promesas?
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
-</div>
+Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-ambiente.jpg" width="400" height="auto" alt="">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
+</div>
+
 #### Comodidad de uso
 
-El aspirador Roomba 650 utiliza la tecnología iAdapt. ¿No sabes lo que es? El aspirador analiza el entorno que debe limpiar 60 veces por segundo gracias no sólo a sus numerosos sensores, sino también a sus más de 40 comportamientos robóticos. Esto significa que es capaz de cartografiar su entorno para una mejor limpieza. De hecho, son los sensores de distancia que se encuentran en el robot los que le permite determinar la distancia de los obstáculos que lo rodean.
-Una vez que la cartografía se realiza el procesador se hace cargo y dibuja un recorrido de limpieza inteligente. El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en lugar de moverse al azar como los modelos de gama baja. Esto ofrece muchas ventajas, la eficiencia del dispositivo, por ejemplo, como la bateria es limitada, es importante que la aspiradora tenga un comportamiento eficaz en un período determinado de tiempo, gracias a la cartografía, la aspiradora puede calcular cuánto tiempo necesita para terminar una habitación antes de pasar a la siguiente. La calidad de la limpieza también se ve afectada, la aspiradora no tiene que pasar 2 veces por el mismo lugar para un resultado perfecto.
+El aspirador Roomba 650 utiliza la tecnología iAdapt. ¿No sabes lo que es? El aspirador analiza el entorno que debe limpiar 60 veces por segundo gracias no sólo a sus numerosos sensores, sino también a sus más de 40 comportamientos robóticos. Esto significa que es capaz de cartografiar su entorno para una mejor limpieza. De hecho, son los sensores de distancia que se encuentran en el robot los que le permite determinar la distancia de los obstáculos que lo rodean.<br>
+Una vez que la cartografía se realiza el procesador se hace cargo y dibuja un recorrido de limpieza inteligente.
+
+El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en lugar de moverse al azar como los modelos de gama baja. Esto ofrece muchas ventajas, la eficiencia del dispositivo, por ejemplo, como la bateria es limitada, es importante que la aspiradora tenga un comportamiento eficaz en un período determinado de tiempo, gracias a la cartografía, la aspiradora puede calcular cuánto tiempo necesita para terminar una habitación antes de pasar a la siguiente.
+
+La calidad de la limpieza también se ve afectada, la aspiradora no tiene que pasar 2 veces por el mismo lugar para un resultado perfecto.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-alfombra.jpg" width="400" height="auto" alt="">
@@ -76,8 +82,11 @@ Una vez que la cartografía se realiza el procesador se hace cargo y dibuja un r
 #### Aspirado
 
 Su cabezal de limpieza avanzado promete un gran rendimiento en suelos duros y alfombras. Es totalmente autónomo, ya que se recarga automáticamente entre dos usos.
+
 Su pared virtual le permitirá crear una barrera invisible. El Roomba 650 no irá por lo tanto nunca a lugares prohibidos que has definido de antemano.
+
 Cuenta con un parachoque de sensibilidad táctil. Esto ayuda a absorber los golpes cuando se encuentra algo en su camino desde las paredes a los muebles.
+
 Por último, su mango te permite transportarlo fácilmente.
 
 <div class="text-center">
@@ -90,6 +99,10 @@ Los aspiradores robots están muy por debajo de la media de los aspiradores sin 
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-muro.jpg" width="400" height="auto" alt="">
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gt3kVz">Comprar en Amazon</a>
 </div>
 
 #### Manejabilidad
@@ -105,6 +118,7 @@ La programación se aprende rápida y fácilmente y se pondrá en marcha cuando 
 
 Se entrega con un filtro + 2 en suplemento y una herramienta de limpieza.
 Se recomienda limpiar los cepillos una vez por semana para evitar la acumulacion de pelos que podria dañar el producto.
+
 Eso si, segun el número de veces que lo programes hay que pensar a vaciar el depósito, de nada sirve que trabaje si no puede recoger nada.
 
 <div class="text-center">
@@ -114,8 +128,13 @@ Eso si, segun el número de veces que lo programes hay que pensar a vaciar el de
 #### Conclusión   pts 4,3 / 5
 
 Programable, eficaz, fácil de usar, eficaz para suelos duros, esta Roomba 650 tiene todas las cualidades para trabajar en tu lugar!
+
 La aspiradora iRobot Roomba 650 desempeña su papel de forma independiente y es muy eficaz en pisos duros y alfombras finas. Para alfombras gruesas y alfombras de pelo largo no va siempre por encima y las considera como obstáculos.
-Me gusta la programación y la facilidad de uso. El ruido que produce es correcto, la limpieza es fácil y, en general, es eficaz para aspirar todo. Aunque a veces puede olvidar las esquinas y la zona alrededor de los muebles. Por lo demás, se trata de un robot aspirador que mantiene sus promesas y se merece el éxito que tiene.
+
+Me gusta la programación y la facilidad de uso.
+
+El ruido que produce es correcto, la limpieza es fácil y, en general, es eficaz para aspirar todo. Aunque a veces puede olvidar las esquinas y la zona alrededor de los muebles. Por lo demás, se trata de un robot aspirador que mantiene sus promesas y se merece el éxito que tiene.
+
 Tiene una excelente relación calidad precio.
 
 <div class="text-center">

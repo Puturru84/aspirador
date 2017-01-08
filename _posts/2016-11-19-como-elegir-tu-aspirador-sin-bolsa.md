@@ -84,7 +84,7 @@ Sin embargo los modelos de gama alta son mucho más caros y valen casi  3-4 vece
 En lasaspiradoras.com hemos preparado una tabla comparativa que agrupa las mejores ofertas.
 </p>
 <div class="text-center">
-  <a class="" href="{{ site.url }}/tabla-precios-mejores-aspiradoras/"> Consulta nuestra tabla con las mejores ofertas</a>
+  <a class="alert success button" href="{{ site.url }}/tabla-precios-mejores-aspiradoras/"> Consulta nuestra tabla con las mejores ofertas</a>
 </div>
 
 <p>

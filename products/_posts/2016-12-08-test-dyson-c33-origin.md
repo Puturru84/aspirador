@@ -65,14 +65,16 @@ Buen radio de acción.|
 
 #### Presentación
 
-El líder mundial Dyson te propone el DC33C Origin, un modelo que ya tiene un tiempo pero que sigue ofreciendo un rendimiento excepcional. Vamos a ver juntos porque me ha gustado tanto. Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filtración con un alto rendimiento, y de la tecnología Ball, que permite optimizar el manejo del aparato, esta aspiradora es práctica y agradable de usar.
+El líder mundial Dyson te propone el DC33C Origin, un modelo que ya tiene un tiempo pero que sigue ofreciendo un rendimiento excepcional. Vamos a ver juntos porque me ha gustado tanto.
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2hjeJUt">Comprar</a>
-</div>
+Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filtración con un alto rendimiento, y de la tecnología Ball, que permite optimizar el manejo del aparato, esta aspiradora es práctica y agradable de usar.
 
 <div class="text-center">
 <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33corigin.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hjeJUt">Comprar</a>
 </div>
 
 #### Comodidad de uso
@@ -82,7 +84,7 @@ El depósito tiene una capacidad total de 2 litros lo que permite limpiar una su
 El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder transportarlo y subir fácilmente escaleras. También suficientemente ligero  como para poder tirar del trineo sin apenas esfuerzo. Además su sistema Ball facilita todavía más los desplazamientos. Por eso este aspirador ha recibido la mejor nota en nuestros test en la categoría movilidad, no he tenido ningún problema en desplazarme por las diferentes habitaciones.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33c-origin.jpg" width="300" height="auto" alt="aspirador sin bolsa Dyson DC33c">
+  <img src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33c-origin.jpg" width="400" height="auto" alt="aspirador sin bolsa Dyson DC33c">
 </div>
 
 #### Aspirado
@@ -107,6 +109,10 @@ El tamaño del tubo de succión y el cable del dispositivo DC33C son bastante bu
   <img src="{{ site.url }}/assets/img/DysonDC33c Origin/cepillo-dyson-dc33c.jpg" width="300" height="auto" alt="cepillo dyson DC33C">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hjeJUt">Comprar</a>
+</div>
+
 #### Ruido
 
 Sin embargo el ruido que produce es un pelín alto para mi gusto con 84dB y 79dB a una distancia de 1.6 metros. En este punto este modelo no ofrece una mejora importante respecto a modelos precedentes, sigue dentro de la media de las aspiradoras con bolsa.
@@ -122,6 +128,10 @@ Las características técnicas de este aspirador demuestran su potencia. Con una
 #### Robustez
 
 Siendo una marca líder en el mercado de gama alta de aspiradoras, Dyson no defrauda en este modelo. Sin embargo he notado una ligera disminución en la robustez del aspirador, si la comparo con la antigua Dyson de mi madre, que debe tener 12 años.
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hjeJUt">Buscar el mejor precio</a>
+</div>
 
 #### Manejabilidad
 
@@ -141,14 +151,12 @@ Respecto al mantenimiento poco que señalar, sus filtros pueden lavarse con agua
   <img src="{{ site.url }}/assets/img/DysonDC33c Origin/filtro-dc33c.jpg" width="300" height="auto" alt="filtro aspiradora Dyson DC33C">
 </div>
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2hjeJUt">Buscar el mejor precio</a>
-</div>
-
 #### Conclusión 4,4 pts / 5
 
 Este aspirador logra asociar potencia con su motor de 700 vatios, filtración de alto rendimiento con sus dos sistemas de filtración y capacidad de maniobra con el sistema de bola de Dyson.
+
 Durante nuestras pruebas, realmente disfrutamos del comportamiento de succión de esta aspiradora. Gracias a sus dos filtros y la tecnología sin bolsa Dyson, este aspirador permite la filtración muy fina de las partículas.
+
 En resumen recomendamos esta aspiradora por su alto rendimiento, su funcionalidad y la excelente relación calidad / precio si la compras ahora. (Estamos hablando de un Dyson!)
 
 <div class="text-center">

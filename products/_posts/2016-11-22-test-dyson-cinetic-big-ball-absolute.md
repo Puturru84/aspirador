@@ -65,22 +65,31 @@ Mejoras en muchos puntos (accesorios del sistema de fijación, montaje del depó
 
 #### Presentación
 
-La nueva gama Big Ball incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro). Las referencias se diferencian por el color de su trineo y su paquete de accesorios. Lanzado a 629 €, el Big Ball Absolute proporciona el paquete de accesorios más completo. Los principales cambios de los que  goza en relación con el DC52 Cinetic son el sistema de drenaje que expulsa el polvo y el equilibrio del aparato. El sistema Big Ball es una nueva evolución de la tecnología de Ball: estos aspiradores son capaces de volver a su posición inicial, incluso si basculan hacia un lado, gracias a un equilibrio especial. Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos de los fabricantes británicos de mejorar la comodidad de uso.
+La nueva gama Big Ball incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro). Las referencias se diferencian por el color de su trineo y su paquete de accesorios. Lanzado a 629 €, el Big Ball Absolute proporciona el paquete de accesorios más completo.
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2gOFIXF">Comprar</a>
-</div>
+Los principales cambios de los que  goza en relación con el DC52 Cinetic son el sistema de drenaje que expulsa el polvo y el equilibrio del aparato.
+
+El sistema Big Ball es una nueva evolución de la tecnología de Ball: estos aspiradores son capaces de volver a su posición inicial, incluso si basculan hacia un lado, gracias a un equilibrio especial. Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos de los fabricantes británicos de mejorar la comodidad de uso.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_ambiente.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gOFIXF">Comprar</a>
+</div>
+
 #### Comodidad de uso
 
 En una primera impresión, el Cinetic Big Ball Absolute se parece bastante al DC52 Cinetic, con su "corona" llena de ciclones. Pero un vistazo es suficiente para detectar el sistema Big Ball: el bloque del motor es más redondeado y el depósito no está instalado en la cara frontal sino en un chasis articulado en la parte superior.
+
 Hay que decir que el Cinetic Big Ball no tiene un tamaño pequeño y no es adecuado para espacios pequeños, menos incluso si estos están muy amueblados. En cuanto a su peso, es normal, un poco más de 6 kg, dentro de la media de los aspiradores de gama alta.
 
-Para el suelo, hay tres cepillos: Cepillo para parquet, cepillo turbo (para alfombras o moqueta) con el pelo trenzado de nylon y fibra de carbono (el mismo que viene con el Cinetic DC52) y un cepillo "Musclehead" (para todos los tipos de suelo). El Musclehead es una evolución de un cepillo de Dyson ya comercializado, que es capaz de ajustar automáticamente la altura cuando sube a una alfombra. También tiene un controlador para aspirar más o menos fuerte de acuerdo con las condiciones del suelo.
+Para el suelo, hay tres cepillos:
+
+Cepillo para parquet, cepillo turbo (para alfombras o moqueta) con el pelo trenzado de nylon y fibra de carbono (el mismo que viene con el Cinetic DC52) y un cepillo "Musclehead" (para todos los tipos de suelo).
+
+El Musclehead es una evolución de un cepillo de Dyson ya comercializado, que es capaz de ajustar automáticamente la altura cuando sube a una alfombra. También tiene un controlador para aspirar más o menos fuerte de acuerdo con las condiciones del suelo.
 
 Como pequeños accesorios incluye la boquilla larga combinado con su cepillito y la boquilla plana para tapicería, el sistema de fijación de los accesorios en el tubo telescópico del aspirador ha evolucionado. Ahora se colocan con un clip facilitando la retirada y evitando que se pierdan. En el kit encontramos también el cepillo de auto-desenredado que funciona de maravilla en los tejidos invadidos de pelo de animales.
 
@@ -89,6 +98,7 @@ Por último, un nuevo accesorio práctico para limpiar la parte superior de los 
 Sin embargo, lamentamos que el cepillo de parquet no está equipado con un pequeño "carril" para instalar el Big Ball Absolute en posición de parking, una lastima para los usuarios que lo utilice con frecuencia.
 
 En cuanto a los cierres de seguridad para conectar los accesorios al tubo telescópico y el mango al tubo, han cambiado de forma y son ahora mucho más flexibles y cómodos.
+
 Hemos notado que el depósito se coloca de nuevo en su lugar con mucha facilidad: basta con deslizarlo en la ranura. Este sistema es mucho más cómodo. Lo mismo ocurre en cuanto a la forma y el posicionamiento detrás del botón de inicio / parada y rebobinar el cable, que permite controlarlos con el pie fácilmente sin necesidad de agacharse.
 
 La evolución del asa, totalmente articulada es también un éxito. Hace la limpieza más fácil, especialmente en las esquinas o entre los muebles sin tener que retorcerse.
@@ -98,10 +108,18 @@ En cuanto al sistema de vaciado del depósito, si bien hace maravillas en cuanto
  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_bola.jpg" width="400" height="auto" alt="">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gOFIXF">Comprar</a>
+</div>
+
 #### Aspirado
 
 Hemos probado todos los accesorios en los suelos para los que estan adaptados. Con su paquete completo, El Absolute se adapta a cualquier superficie.
-En un suelo duro, el cepillo más eficaz es el de parquet que absorbe todos los materiales en 30 segundos, sin dificultad y sin que se pegue al suelo. El cepillo turbo recoge casi todos de los granos de arroz, ya que arroja algunos. En cuanto al cepillo Musclehead, nos complace que Dyson ha resuelto los problemas con la doble posición del modelo DC37C que se pegaba firmemente al suelo y empujaba una gran cantidad de residuos.
+
+En un suelo duro, el cepillo más eficaz es el de parquet que absorbe todos los materiales en 30 segundos, sin dificultad y sin que se pegue al suelo.
+
+El cepillo turbo recoge casi todos de los granos de arroz, ya que arroja algunos. En cuanto al cepillo Musclehead, nos complace que Dyson ha resuelto los problemas con la doble posición del modelo DC37C que se pegaba firmemente al suelo y empujaba una gran cantidad de residuos.
+
 En la alfombra fina, el mejor resultado lo obtenemos con el cepillo turbo que puede aspirar todo 30 seg.
 Por último, en alfombra gruesa, el Musclehead es el cepillo que recoge más suciedad en menos tiempo.
 
@@ -111,7 +129,9 @@ Por último, en alfombra gruesa, el Musclehead es el cepillo que recoge más suc
 
 #### Ruido
 
-Aunque Dyson dice hacer esfuerzos en el nivel de ruido, la aspiradora Cinetic Big Ball sigue siendo bastante ruidosa, especialmente en algunos suelos duros, se escucha ligeramente la resonancia del motor. El nivel de ruido también varía dependiendo de los cepillos usados. No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo duro). Hemos medimos 74 dB 73 dB sobre parquet con el cepillo Musclehead.
+Aunque Dyson dice hacer esfuerzos en el nivel de ruido, la aspiradora Cinetic Big Ball sigue siendo bastante ruidosa, especialmente en algunos suelos duros, se escucha ligeramente la resonancia del motor. El nivel de ruido también varía dependiendo de los cepillos usados.
+
+No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo duro). Hemos medimos 74 dB 73 dB sobre parquet con el cepillo Musclehead.
 
 #### Consumo
 
@@ -119,6 +139,10 @@ Aunque Dyson dice hacer esfuerzos en el nivel de ruido, la aspiradora Cinetic Bi
 
  <div class="text-center">
   <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball.jpg" width="400" height="auto" alt="">
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gOFIXF">Buscar el mejor precio</a>
 </div>
 
 #### Manejabilidad
@@ -134,11 +158,9 @@ El asa articulada en todas las direcciones también mejora el manejo, ya sea par
 
 En cuanto al mantenimiento, Dyson obtiene una gran nota con el Cinetic Big Ball gracias al eficaz sistema de filtración de aire / polvo del fabricante, junto con los pequeños conos ciclones (la tecnología Cinetic). Con este sistema, el filtro no se ensucia y el Cinetic Big Ball  es una de las raras aspiradoras del mercado que no necesita ningún mantenimiento (ni cambio ni lavado) del filtro a lo largo de su vida.
 
-En cuanto al nuevo sistema de vaciado, tiene su efecto. En los modelos anteriores, un botón de la parte superior del depósito abria la compuerta de vaciado. Ahora este botón es un poco más prominente, y cuando se pulsa, además de abrir la escotilla, una varilla hace descender una junta de goma a lo largo de toda la altura de la unidad de filtración con el efecto de tirar el polvo hacia abajo. Este detalle es importante para las personas que esperan a que el depósito este lleno antes de vaciarlo, especialmente si tienen mascotas que pierden pelo. Una vez que el depósito esta lleno, los residuos gruesos tienden a atascarse entre el compartimento del filtro y la pared del colector.
+En cuanto al nuevo sistema de vaciado, tiene su efecto. En los modelos anteriores, un botón de la parte superior del depósito abria la compuerta de vaciado. Ahora este botón es un poco más prominente, y cuando se pulsa, además de abrir la escotilla, una varilla hace descender una junta de goma a lo largo de toda la altura de la unidad de filtración con el efecto de tirar el polvo hacia abajo. Este detalle es importante para las personas que esperan a que el depósito este lleno antes de vaciarlo, especialmente si tienen mascotas que pierden pelo.
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2gOFIXF">Buscar el mejor precio</a>
-</div>
+Una vez que el depósito esta lleno, los residuos gruesos tienden a atascarse entre el compartimento del filtro y la pared del colector.
 
 #### Conclusión 4,1 pts / 5
 

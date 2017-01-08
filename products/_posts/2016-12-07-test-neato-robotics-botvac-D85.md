@@ -57,7 +57,11 @@ Pack de accesorios completo |
 
 Buque insignia de la gama de Neato Robotics serie D, el BotVac D85 - que no debe confundirse con el antiguo modelo BotVac 85 - es un robot aspirador lanzado a 599 €. Incorpora las características que hicieron el éxito de sus predecesores y presenta algunas mejoras.
 
-Nos encontramos una navegación sistemática servida por un telémetro láser que mapea las habitaciones, un cepillo lateral heredado de la última generación BotVac y ciertos accesorios relacionados, incluyendo indicadores de límites magnéticos en forma de D. La principal novedad de esta máquina cuyo precio es bastante conmedido -  en comparación con iRobot que lanzó el <b><a href="http://amzn.to/2gP6vmv">Roomba 871</a></b> a 699 € - es su nuevo diseño, un cepillo central con láminas de caucho retorcidas para mejorar la recogida de desechos en todos los tipos de suelo y un sistema de aspirado revisado. Por último, Neato promete menos ruido y una limpieza de cepillos de fácil. Este Neato promete, te invitamos a leer este artículo para descubrir si cumple.
+Nos encontramos una navegación sistemática servida por un telémetro láser que mapea las habitaciones, un cepillo lateral heredado de la última generación BotVac y ciertos accesorios relacionados, incluyendo indicadores de límites magnéticos en forma de D.
+
+La principal novedad de esta máquina cuyo precio es bastante conmedido -  en comparación con iRobot que lanzó el <b><a href="http://amzn.to/2gP6vmv">Roomba 871</a></b> a 699 € - es su nuevo diseño, un cepillo central con láminas de caucho retorcidas para mejorar la recogida de desechos en todos los tipos de suelo y un sistema de aspirado revisado.
+
+Por último, Neato promete menos ruido y una limpieza de cepillos de fácil. Este Neato promete, te invitamos a leer este artículo para descubrir si cumple.
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7824-hi.jpg" width="600" height="auto" alt="">
@@ -69,7 +73,9 @@ Observamos en primer lugar que el diseño ha evolucionado. Si el último BotVac 
 
 Incluso si todo es cuestión de gustos, hay una brecha estética innegable entre el XV-15 y el D85, que dejamos más fácilmente visible en casa. Sin embargo, la forma en D se mantiene, Neato garantiza que esta es la mejor opción para optimizar la limpieza de esquinas.
 
-A los mandos del aparato encontramos el mismo funcionamiento que en los BotVac 85: 2 botones principales muy explícitos para iniciar la limpieza automática de toda la casa (a la derecha) o una limpieza de un área localizada (a la izquierda). En cuanto a la programación, se realiza a través de una pequeña pantalla sensible al tacto y reactiva. El botón central debajo de la pantalla se utiliza para validar un pedido, las flechas para navegar por el menú hacia arriba, hacia abajo y hacia atrás. El menú sigue siendo claro y ergonómico. El ajuste del idioma, la hora y la programación diaria nunca ha sido más fácil que en los Neato, y el D85 no es una excepcion.
+A los mandos del aparato encontramos el mismo funcionamiento que en los BotVac 85: 2 botones principales muy explícitos para iniciar la limpieza automática de toda la casa (a la derecha) o una limpieza de un área localizada (a la izquierda).
+
+En cuanto a la programación, se realiza a través de una pequeña pantalla sensible al tacto y reactiva. El botón central debajo de la pantalla se utiliza para validar un pedido, las flechas para navegar por el menú hacia arriba, hacia abajo y hacia atrás. El menú sigue siendo claro y ergonómico. El ajuste del idioma, la hora y la programación diaria nunca ha sido más fácil que en los Neato, y el D85 no es una excepcion.
 
 Por último, cabe destacar que el dispositivo viene con un paquete completo de accesorios que incluye un nuevo cepillo principal. Si, de hecho, el cepillo combinado (recomendado para los dueños de mascotas) es el mismo que el BotVac 85, es el cepillo con las paletas de goma el que es nuevo.
 
@@ -79,6 +85,14 @@ Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin e
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7876-hi.jpg" width="600" height="auto" alt="">
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
 </div>
 
 #### Aspirado
@@ -127,6 +141,10 @@ Siempre valoramos la posibilidad de realizar actualizaciones del software para i
   <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85bottom-hi.jpg" width="600" height="auto" alt="">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2hNOzNq">Buscar el mejor precio</a>
+</div>
+
 #### Mantenimiento
 
 Como el BotVac 85, la D85 tiene un cepillo lateral magnetizado, evitando así de manera muy sencilla de deshacerse del pelo que se ha metido por debajo.
@@ -151,7 +169,9 @@ Navegación del Neato
 
 Ha limpiado todo con mucha precisión. La precisión con la que rodea cada objeto y lo sigue de cerca es siempre sorprendente, lo que ya nos había sorprendido agradablemente en los modelos anteriores.
 
-A pesar de que utiliza un telémetro láser e incluso si se desplaza de manera sistemática, hemos tenido la impresión de que este nuevo modelo corta las habitaciones en zonas más pequeñas y las limpieza con mayor precisión. En concreto, navega en banda ancha (zigzag) cuando tiene espacio, pero divide el espacio en las zonas cuando este es más complejo - pequeñas áreas que cubre en cada  pequeño zigzag. La limpieza empieza automáticamente (como en los modelos más antiguos) por el contorno de la habitación.
+A pesar de que utiliza un telémetro láser e incluso si se desplaza de manera sistemática, hemos tenido la impresión de que este nuevo modelo corta las habitaciones en zonas más pequeñas y las limpieza con mayor precisión.
+
+En concreto, navega en banda ancha (zigzag) cuando tiene espacio, pero divide el espacio en las zonas cuando este es más complejo - pequeñas áreas que cubre en cada  pequeño zigzag. La limpieza empieza automáticamente (como en los modelos más antiguos) por el contorno de la habitación.
 
 Funciona cuarto por cuarto sin olvidar ninguno (incluso en la oscuridad). El retorno a la base también lo hace sin dudar. Una vez que ha completado la limpieza, el D85 detiene la aspiración y atraviesa las diferentes habitaciones limpias para recuperar su base de carga sin dudar.
 
@@ -160,6 +180,7 @@ El resultado es una precisión asombrosa, tanto en la cobertura de la superficie
 #### Gestión de obstaculos
 
 La gestión de los obstáculos es también casi perfecta. El D85 no pasa por debajo de nuestra mesa de café, mientras que otros robots aspiradora del mercado lo consiguen. Sin embargo, es capaz de pasar por debajo de algunos muebles, como nuestra biblioteca o el sofá.
+
 No se engancha practicamente en los cables eléctricos, aunque siempre es mejor retirarlos.
 
 Por último, una vez más, observamos el cuidado especial con el que bordea los objetos con precisión.
@@ -169,7 +190,7 @@ Por último, una vez más, observamos el cuidado especial con el que bordea los 
 Es una lástima que no cumpla la promesa de hacer menos ruido y que el BotVac 85 sea un poco ruidoso. Todas las demás promesas se cumplen y alcanzan un nivel de eficiencia y precisión en la cobertura de las áreas que haran inncesario el uso de un aspirador trineo. Autónomo en la zona del hogar y eficaz en todos los suelos el BotVac D85 lo tiene todo para gustar.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
+  <a href="http://amzn.to/2hNOzNq"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.
@@ -177,5 +198,3 @@ Es una lástima que no cumpla la promesa de hacer menos ruido y que el BotVac 85
 <div class="text-center">
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
-
-¿Te interesa el medioambiente? Si quieres conocer la politica de Bosch con el medioambiente te dejamos el link a su web: <a href="http://www.bosch-home.es/conoce-bosch/produccion-sostenible.html">Bosch sostenible.</a>

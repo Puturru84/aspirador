@@ -29,8 +29,8 @@ Battery: "estandar"
 clasification: "4,4"
 comments: "Suelta la bestia y despreocupate, comodidad + resultados"
 price-before: "699,00 €"
-price-now: "642,97 €"
-discount: "8%"
+price-now: "653,90 €"
+discount: "6%"
 stars: "4.5"
 link: "http://amzn.to/2gP6vmv"
 ---
@@ -40,7 +40,7 @@ link: "http://amzn.to/2gP6vmv"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
+  <a class="button" href="http://amzn.to/2gP6vmv">Encontrar el mejor precio</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -57,11 +57,15 @@ Fácil de mantener |
 
 #### Presentación  
 
-Muy prácticos y eficaces, los robot  aspiradoras nos permiten ahorrar tiempo en la limpieza del hogar para hacer cosas que nos gustan, o que uno debe hacer mientras que la máquina solita se ocupa de limpiar el suelo. Con el reciente aumento de las aspiradoras robots los últimos años, los precios de estas maravillas tecnológicas han bajado y podemos ver la presencia de aparatos de gama baja más accesibles y que permiten mantener cierta limpieza diaria en una casa aunque no proporcionan todas las ventajas de los equipos más profesionales o de gama alta.
+Muy prácticos y eficaces, los robot  aspiradoras nos permiten ahorrar tiempo en la limpieza del hogar para hacer cosas que nos gustan, o que uno debe hacer mientras que la máquina solita se ocupa de limpiar el suelo.
 
-Roomba es el nombre que le dio a la marca iRobot a sus aspiradoras robot con un juego de palabras entre "room" habitacion en Inglés, y "Rumba", el famoso baile para describir de alguna manera a sus robots como si estuvieran bailando rumba a la vez que limpian a fondo tu habitación. Además esta marca de aspiradoras es muy popular en los EE.UU., y también en todo el mundo porque encarnan fuerza, durabilidad y eficiencia. Ten en cuenta que con todas estas características y tecnología las aspiradoras Roomba son a menudo bastante caras.
+Con el reciente aumento de las aspiradoras robots los últimos años, los precios de estas maravillas tecnológicas han bajado y podemos ver la presencia de aparatos de gama baja más accesibles y que permiten mantener cierta limpieza diaria en una casa aunque no proporcionan todas las ventajas de los equipos más profesionales o de gama alta.
 
-Hoy vamos a probar el iRobot Roomba 871, un dispositivo hermoso que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700 de Roomba.
+Roomba es el nombre que le dio a la marca iRobot a sus aspiradoras robot con un juego de palabras entre "room" habitacion en Inglés, y "Rumba", el famoso baile para describir de alguna manera a sus robots como si estuvieran bailando rumba a la vez que limpian a fondo tu habitación.
+
+Además esta marca de aspiradoras es muy popular en los EE.UU., y también en todo el mundo porque encarnan fuerza, durabilidad y eficiencia. Ten en cuenta que con todas estas características y tecnología las aspiradoras Roomba son a menudo bastante caras.
+
+Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a>.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
@@ -73,12 +77,19 @@ Hoy vamos a probar el iRobot Roomba 871, un dispositivo hermoso que promete ser 
 
 #### Comodidad de uso  
 
-El Roomba 871 es un dispositivo de gama alta que sustituye a la serie 700 y  proporciona un sistema de succión "AeroForce" que realiza la succión en 3 etapas con una eficacia aumentada del 50% . Varios programas están disponibles para adaptarse a tus habitaciones y tus necesidades. También se puede programar para 7 días, lo cual es ideal para ir a casa y encontrar toda la limpieza hecha, al menos en lo que respecta al suelo. Tiene la misma forma que la mayoría de los robot aspiradores, es decir, una plataforma circular con un panel de usuario tactil en la parte superior y acabado de plástico negro, gris y plata, ideal para que se mezcle entre la decoración de tu hogar.
+El Roomba 871 es un dispositivo de gama alta que sustituye a la serie 700 y  proporciona un sistema de succión "AeroForce" que realiza la succión en 3 etapas con una eficacia aumentada del 50% . Dispone de varios programas para adaptarse a tus habitaciones y tus necesidades.
+
+También se puede programar para 7 días, lo cual es ideal para ir a casa y encontrar toda la limpieza hecha, al menos en lo que respecta al suelo. Tiene la misma forma que la mayoría de los robot aspiradores, es decir, una plataforma circular con un panel de usuario tactil en la parte superior y acabado de plástico negro, gris y plata, ideal para que se mezcle entre la decoración de tu hogar.
 
 #### Aspirado  
 
 La principal particularidad de este modelo es que sus cepillos son ahora de caucho, a diferencia de los modelos de la serie 700, que eran de pelo sintético. Este cambio radical ha sido pensado para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.
-Aspira hasta cinco veces más que los modelos anteriores, el robot se compara casi un aspirador convencional. Por lo tanto será capaz de aspirar en todos los tipos de suelo, además puede ajustar la altura de la suspensión de acuerdo con el tipo de superficie a la que debe enfrentarse para garantizar el mejor resultado. Una luz te indica cuándo debes vaciar el deposito de basura de 0,6 L. Este modelo está provisto con un filtro HEPA, apto para alérgicos,
+
+Aspira hasta cinco veces más que los modelos anteriores, el robot se compara casi un aspirador convencional.
+Por lo tanto será capaz de aspirar en todos los tipos de suelo, además puede ajustar la altura de la suspensión de acuerdo con el tipo de superficie a la que debe enfrentarse para garantizar el mejor resultado.
+
+Una luz te indica cuándo debes vaciar el deposito de basura de 0,6 L.
+Este modelo está provisto con un filtro HEPA, apto para alérgicos,
 
 <div class="flex-video">
   <iframe width="560" height="315"
@@ -102,9 +113,16 @@ Con una autonomía de 3 horas (lo que representa una superficie de unos 120 m²)
   <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
+</div>
+
 #### Manejabilidad
 
-Esta aspiradora robot utiliza la tecnología combinada iAdapt de sensores infrarrojos y un parachoques táctiles, la combinación de movimientos aleatorios, los desplazamientos a lo largo de las paredes o en espiral. Hace hincapié en cada zona para obtener una limpieza óptima e impecable. Rodeará suavemente las barreras para limpiar a lo largo de las paredes y debajo de los muebles sin dañarlos. Equipada con el sistema Aeroforce, aspira con un 50% más de eficacia que sus predecesores.
+Esta aspiradora robot utiliza la tecnología combinada iAdapt de sensores infrarrojos y un parachoques táctiles, la combinación de movimientos aleatorios, los desplazamientos a lo largo de las paredes o en espiral.
+
+Hace hincapié en cada zona para obtener una limpieza óptima e impecable. Rodeará suavemente las barreras para limpiar a lo largo de las paredes y debajo de los muebles sin dañarlos. Equipada con el sistema Aeroforce, aspira con un 50% más de eficacia que sus predecesores.
+
 También está dotada de 6 sensores vacíos gracias al sistema Cliff Detect, con lo que no hay riesgo de que caiga por las escaleras.
 
 <div class="text-center">
@@ -114,7 +132,9 @@ También está dotada de 6 sensores vacíos gracias al sistema Cliff Detect, con
 #### Mantenimiento
 
 Sus extractores AeroForce eliminan los problemas de obstrucción y bloqueo y son más rápidos de limpiar que las escobillas tradicionales.
+
 El mantenimiento y limpieza de este robot son menos frecuentes, este modelo incorpora un indicador de depósito que te permite saber cuándo hay que vaciarlo.
+
 Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpieza que las baterías anteriores de Roomba, lo que duplica su vida útil antes de que necesite un reemplazo.
 
 <div class="text-center">
