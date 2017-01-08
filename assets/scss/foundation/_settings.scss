@@ -62,3 +62,36 @@ $header-sizes: (
     'h6': 14,
   ),
 );
+
+// Newsletter
+// ------------------
+
+.section-index-wide-carte {
+    max-width: 57.75rem;
+    margin-top: 3rem;
+}
+.section-carte-panel {
+        padding: 1rem;
+        color: #444;
+        margin-bottom: 0;
+}
+.section-carte-newsletter {
+    margin-bottom: 1.5rem;
+    padding: 1.5rem;
+}
+.section-carte-index-panel, .section-carte-panel {
+    border-style: solid;
+    border-width: 1px 1px .125rem;
+    border-color: #ededed;
+    background: #FFF;
+}
+.section-carte-newsletter-description {
+    margin-bottom: 16px;
+    line-height: 1.5rem;
+}
+.news {
+    margin-top: 0.5rem;
+}
+.peque {
+    margin-left: 6rem;
+}

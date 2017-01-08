@@ -59,18 +59,19 @@ Navegacion autonoma|
 
 El Roomba 980 es el nuevo buque insignia de iRobot, líder mundial de las aspiradoras robot. <br>
 Este modelo es un punto de inflexión para el fabricante americano, no sólo porque es su primer modelo conectado, sino además porque es el primero en desarrollar una cámara para mapear las habitaciones.
+
 Lanzado a 1180 €, el Roomba 980 es uno de los modelos de gama alta más caros del mercado.
 
-Con una batería de ión-litio y Wi-Fi, se diferencia de su predecesor por la presencia de una cámara que cartografia las habitaciones.Lo que le hace decir a Colin Angle (cofundador de iRobot) que este modelo es el Roomba mas importante que han lanzado desde la creación de la empresa.
+Con una batería de ión-litio y Wi-Fi, se diferencia de su predecesor por la presencia de una cámara que cartografia las habitaciones. Lo que le hace decir a Colin Angle (cofundador de iRobot) que este modelo es el Roomba mas importante que han lanzado desde la creación de la empresa.
 
 Este Roomba navega de manera sistemática, mientras los otros Roomba lo hacen de manera aleatoria. Asi esta nueva joya de iRobot limpia las habitaciones como los modelos Neato Robotics o Vorwerk. Para ello, transporta una cámara como no habiamos visto hasta ahora en otros robots, esta inclinada a 30° para tomar como referencia los puntos de la pieza a limpiar, especialmente el mobiliario.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvHlxD">Comprar</a>
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <a class="button" href="http://amzn.to/2hvHlxD">Comprar</a>
 </div>
 
 #### Comodidad de uso  
@@ -79,7 +80,9 @@ Debido a la presencia de una camara inclinada en su armazón, el Roomba 980 pres
 
 Además de este control, sólo dos pequeños botones están presentes en el armazón del robot. A la izquierda del botón de "limpieza", el que muestra el logotipo de una casa le ordena volver a la base, mientras que el boton de la derecha, el que lleva un dibujo de un objetivo similar pone en marcha una limpieza específica (modo "spot").
 
-A parte de estos tres botones, no hay ninguno más en el armazón del Roomba 980. Este aspirador ya no se puede programar directamente a diferencia de los antiguos modelos, lo que también puede ser un poco tedioso. Esta función se regula ahora a través de su aplicación, el smartphone se convierte en una especie de "super mando a distancia". Por lo tanto, el Roomba 980 esta destinado a los usuarios de teléfonos móviles, ya que sin este equipo ni la programación es posible.
+A parte de estos tres botones, no hay ninguno más en el armazón del Roomba 980. Este aspirador ya no se puede programar directamente como los antiguos modelos, lo que puede ser un poco tedioso. La programación se regula ahora a través de su aplicación, el smartphone se convierte en una especie de "super mando a distancia".
+
+El Roomba 980 esta destinado a los usuarios de teléfonos móviles, ya que sin este equipo ni la programación es posible.
 
 En el armazon, también encontramos el estado de carga de la batería: el indicador es de color verde cuando se está cargando, naranja cuando se empieza a cargar y rojo cuando no tiene bateria.
 
@@ -87,19 +90,25 @@ Práctica, cuando el deposito está lleno, el Roomba tiene en su armazon una luz
 
 Como habiamos visto en la serie 800, la estación de carga es compacta y ya no cuenta con un transformador; lo que es más discreto si el robot tiene que estar en el salon.
 
-##### Conectividad y aplicaciones
+#### Conectividad y aplicaciones
 
-Conectar el Roomba al router de casa es muy simple, basta con dejarse guiar por la aplicación iRobot Inicio. Por otra parte, una vez que la instalación se ha completado, una voz femenina nos asegura: "Ahora está conectado a la iRobot Roomba. Por favor utiliza la App iRobot para completar la configuración". Alguna manipulación más y voila!
-Como a menudo, la aplicación está disponible en Android y el IOS.
+Conectar el Roomba al router de casa es muy simple, basta con dejarse guiar por la aplicación iRobot Inicio.
+
+Una vez que la instalación se ha completado, una voz femenina nos asegura: "Ahora está conectado a la iRobot Roomba. Por favor utiliza la App iRobot para completar la configuración". Alguna manipulación más y voila! ya estas conectado.
+
+Como ocurre a menudo la aplicación está disponible en Android y el IOS.
 
 La aplicación permite poner en marcha el robot a distancia para pedirle que haga la limpieza y seguir su evolución. La limpieza también puede ser interrumpida o ponerse en pausa.
 
 La Home propone también un historico de las "salidas" del robot (superficie, longitud, tiempo ...). La parte dedicada al mantenimiento - muy oportuna - informa sobre el estado de cada parte del robot y envía notificaciones cuando es necesario limpiarlo (el cuerpo del robot, extractores y deposito).
 
-Por último, es posible activar algunos modos para personalizar la limpieza dependiendo de la casa: <br>
-El primero, "automático", asegura al Roomba una aumentacion automática de la potencia de aspiración en las alfombras.<br>
+Por último, es posible activar algunos modos para personalizar la limpieza dependiendo de la casa:
+
+El primero, "automático", asegura al Roomba una aumentacion automática de la potencia de aspiración en las alfombras.
+
 El segundo,"rendimiento", promete esta misma adaptación en función del tipo de suelo. <br>
-El modo "eco" minimiza la potencia de succión para maximizar la duración de la batería y aspirar con menos ruido.<br>
+El modo "eco" minimiza la potencia de succión para maximizar la duración de la batería y aspirar con menos ruido.
+
 Por último Home, permite activar dos pasadas para una limpieza óptima o pedir al Roomba que llegue a su base cuando el deposito está lleno.
 
 <div class="text-center">
@@ -122,8 +131,9 @@ En alfombra de pelo grueso, sin embargo, una superficie delicada, aspiro el 96% 
 
 #### Ruido
 
-En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las superficies limpiadas y de acuerdo con el modo. <br>
-En "eco", emite de 64 a 66 dB; en el modo "automático", las emisiones llegan hasta 70 dB un poco limite. Sin embargo como el Roomba es totalmente autónomo esto no presenta ningun problema porque puede funcionar cuando no estes en casa.
+En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las superficies limpiadas y de acuerdo con el modo.
+
+En "eco", emite de 64 a 66 dB, en el modo "automático", las emisiones llegan hasta 70 dB un poco limite. Sin embargo, como el Roomba es totalmente autónomo esto no presenta ningun problema porque puede funcionar cuando no estes en casa.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 aspirado lasaspiradoras.com">
@@ -131,7 +141,9 @@ En "eco", emite de 64 a 66 dB; en el modo "automático", las emisiones llegan ha
 
 #### Consumo
 
-Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay que ponerlo en perspectiva con la autonomia de la batería y la carga rápida. Incluso programandole dos pasadas en unos 60 m², no hemos agotado su batería. Lamentamos sin embargo el consumo una vez que la batería está cargada que lejos de cero es de 4,4 W.
+Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay que ponerlo en perspectiva con la autonomia de la batería y la carga rápida. Incluso programandole dos pasadas en unos 60 m², no hemos agotado su batería.
+
+Lamentamos sin embargo el consumo una vez que la batería está cargada que lejos de cero es de 4,4 W.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 consumo lasaspiradoras.com">
@@ -139,7 +151,9 @@ Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay 
 
 #### Modos y funciones complementarias
 
-Es el smartphone que sirve de mando a distancia y la aplicación iRobot Home te permite programar el Roomba, lo que explica la ausencia de un mando de control remoto convencional. La programación - disposible todos los días de la semana en diferentes momentos - tal como se presenta en la aplicacion es muy fácil.
+Es el smartphone que sirve de mando a distancia y la aplicación iRobot Home te permite programar el Roomba, lo que explica la ausencia de un mando de control remoto convencional.
+
+La programación - disposible todos los días de la semana en diferentes momentos - tal como se presenta en la aplicacion es muy fácil.
 
 Con el robot, iRobot entrega un filtro HEPA y un reemplazo del cepillo lateral.
 

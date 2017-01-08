@@ -65,11 +65,15 @@ Mejoras en muchos puntos (accesorios del sistema de fijación, montaje del depó
 
 #### Presentación
 
-La nueva gama Big Ball incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro). Las referencias se diferencian por el color de su trineo y su paquete de accesorios. Lanzado a 629 €, el Big Ball Absolute proporciona el paquete de accesorios más completo.
+La nueva gama Big Ball incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro). Las referencias se diferencian por el color de su trineo y su paquete de accesorios.
+
+Lanzado a 629 €, el Big Ball Absolute proporciona el paquete de accesorios más completo.
 
 Los principales cambios de los que  goza en relación con el DC52 Cinetic son el sistema de drenaje que expulsa el polvo y el equilibrio del aparato.
 
-El sistema Big Ball es una nueva evolución de la tecnología de Ball: estos aspiradores son capaces de volver a su posición inicial, incluso si basculan hacia un lado, gracias a un equilibrio especial. Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos de los fabricantes británicos de mejorar la comodidad de uso.
+El sistema Big Ball es una nueva evolución de la tecnología de Ball: estos aspiradores son capaces de volver a su posición inicial, incluso si basculan hacia un lado, gracias a un equilibrio especial.
+
+Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos de los fabricantes británicos de mejorar la comodidad de uso.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_ambiente.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
@@ -99,9 +103,12 @@ Sin embargo, lamentamos que el cepillo de parquet no está equipado con un peque
 
 En cuanto a los cierres de seguridad para conectar los accesorios al tubo telescópico y el mango al tubo, han cambiado de forma y son ahora mucho más flexibles y cómodos.
 
-Hemos notado que el depósito se coloca de nuevo en su lugar con mucha facilidad: basta con deslizarlo en la ranura. Este sistema es mucho más cómodo. Lo mismo ocurre en cuanto a la forma y el posicionamiento detrás del botón de inicio / parada y rebobinar el cable, que permite controlarlos con el pie fácilmente sin necesidad de agacharse.
+Hemos notado que el depósito se coloca de nuevo en su lugar con mucha facilidad: basta con deslizarlo en la ranura. Este sistema es mucho más cómodo.
+
+Lo mismo ocurre en cuanto a la forma y el posicionamiento detrás del botón de inicio / parada y rebobinar el cable, que permite controlarlos con el pie fácilmente sin necesidad de agacharse.
 
 La evolución del asa, totalmente articulada es también un éxito. Hace la limpieza más fácil, especialmente en las esquinas o entre los muebles sin tener que retorcerse.
+
 En cuanto al sistema de vaciado del depósito, si bien hace maravillas en cuanto a la expulsión de polvo, a veces permanece bloqueado abierto (la parte inferior de la pared que queda atrapada en la última muesca). Para desbloquearlo, sólo hay que pulsar de nuevo el botón rojo en la parte superior del depósito. El sistema, sin embargo, parece suavizarce a base de manipulaciones.
 
 <div class="text-center">
@@ -148,6 +155,7 @@ No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo d
 #### Manejabilidad
 
 Una vez más, Dyson obtiene buena nota. No sólamente el Absolute camina como un perro tras su dueño por todas partes, si no que el sistema Big Ball resulta muy eficaz. Lo hemos “maltratado”, nos lo hemos pasado como si de una pelota de fútbol se tratase y siempre se ha enderezado sin problema.
+
 El asa articulada en todas las direcciones también mejora el manejo, ya sea para una limpieza de suelos convencional o para el uso de los pequeños accesorios para la limpieza de muebles en altura.
 
 <div class="text-center">
@@ -164,7 +172,13 @@ Una vez que el depósito esta lleno, los residuos gruesos tienden a atascarse en
 
 #### Conclusión 4,1 pts / 5
 
-Sin ofender a sus detractores, Dyson se las arregla siempre para innovar, mejorar y dar más comodidad al usuario. Este Cinetic Big Ball Absolute es un ejemplo obvio. Es un poco ruidoso, sin duda, y un poco caro, pero hace bien su trabajo. Apreciamos los cambios como el sistema de enganche de los  accesorios que ofrece  más comodidad así como sus accesorios prácticos y sorprendente. En cuanto al sistema de vaciado "limpio" del depósito es más bien un éxito, al igual que la Big Ball que hace que este aspirador sea único y práctico. Por último, el mantenimiento mínimo es una gran ventaja.
+Sin ofender a sus detractores, Dyson se las arregla siempre para innovar, mejorar y dar más comodidad al usuario. Este Cinetic Big Ball Absolute es un ejemplo obvio. Es un poco ruidoso, sin duda, y un poco caro, pero hace bien su trabajo.
+
+Apreciamos los cambios como el sistema de enganche de los  accesorios que ofrece  más comodidad así como sus accesorios prácticos y sorprendente.
+
+En cuanto al sistema de vaciado "limpio" del depósito es más bien un éxito, al igual que la Big Ball que hace que este aspirador sea único y práctico.
+
+Por último, el mantenimiento mínimo es una gran ventaja.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gOFIXF">Comprar en Amazon</a>

@@ -54,7 +54,7 @@ Rendimiento eficaz en suelos duros y alfombras finas|
 
 #### Presentación
 
-Modelo de la serie 600 de la marca, mejor venta en Amazon en varias ocasiones, programable y con un precio tentador, esta aspiradora robot tiene muy buenas ventajas sobre el papel. Pero, ¿Cumple todas sus promesas?
+Modelo de la serie 600 de la marca, <b>mejor venta en Amazon</b> en varias ocasiones, programable y con un precio tentador, esta aspiradora robot tiene muy buenas ventajas sobre el papel. Pero, ¿Cumple todas sus promesas?
 
 Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales.
 
@@ -71,7 +71,7 @@ Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales
 El aspirador Roomba 650 utiliza la tecnología iAdapt. ¿No sabes lo que es? El aspirador analiza el entorno que debe limpiar 60 veces por segundo gracias no sólo a sus numerosos sensores, sino también a sus más de 40 comportamientos robóticos. Esto significa que es capaz de cartografiar su entorno para una mejor limpieza. De hecho, son los sensores de distancia que se encuentran en el robot los que le permite determinar la distancia de los obstáculos que lo rodean.<br>
 Una vez que la cartografía se realiza el procesador se hace cargo y dibuja un recorrido de limpieza inteligente.
 
-El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en lugar de moverse al azar como los modelos de gama baja. Esto ofrece muchas ventajas, la eficiencia del dispositivo, por ejemplo, como la bateria es limitada, es importante que la aspiradora tenga un comportamiento eficaz en un período determinado de tiempo, gracias a la cartografía, la aspiradora puede calcular cuánto tiempo necesita para terminar una habitación antes de pasar a la siguiente.
+El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en lugar de moverse al azar como los modelos de gama baja. Esto ofrece muchas ventajas, la eficiencia del dispositivo, por ejemplo, como la bateria es limitada, es importante que la aspiradora tenga un comportamiento eficaz en un período determinado de tiempo, gracias a la cartografía, la <b>aspiradora puede calcular cuánto tiempo necesita para terminar una habitación</b> antes de pasar a la siguiente.
 
 La calidad de la limpieza también se ve afectada, la aspiradora no tiene que pasar 2 veces por el mismo lugar para un resultado perfecto.
 
@@ -107,7 +107,7 @@ Los aspiradores robots están muy por debajo de la media de los aspiradores sin 
 
 #### Manejabilidad
 
-Se puede programar hasta 7 días para usar cuando lo desees y cuando mejor te convenga. Sus sensores de audio detectan pequeñas partículas para una limpieza profunda y la tecnología Aerovac proporciona una poderosa succión para eliminar el pelo y  la suciedad del cepillo y soltarlos en el tanque.
+Se puede programar hasta 7 días para usar cuando lo desees y cuando mejor te convenga. Sus sensores de audio detectan pequeñas partículas para una limpieza profunda y la tecnología Aerovac proporciona una <b>poderosa succión</b> para eliminar el pelo y  la suciedad del cepillo y soltarlos en el tanque.
 La programación se aprende rápida y fácilmente y se pondrá en marcha cuando no estés en casa.
 
 <div class="text-center">
@@ -127,7 +127,7 @@ Eso si, segun el número de veces que lo programes hay que pensar a vaciar el de
 
 #### Conclusión   pts 4,3 / 5
 
-Programable, eficaz, fácil de usar, eficaz para suelos duros, esta Roomba 650 tiene todas las cualidades para trabajar en tu lugar!
+<b>Programable, eficaz, fácil de usar, eficaz para suelos duros,</b> esta Roomba 650 tiene todas las cualidades para trabajar en tu lugar!
 
 La aspiradora iRobot Roomba 650 desempeña su papel de forma independiente y es muy eficaz en pisos duros y alfombras finas. Para alfombras gruesas y alfombras de pelo largo no va siempre por encima y las considera como obstáculos.
 

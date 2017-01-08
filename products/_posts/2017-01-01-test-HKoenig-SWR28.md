@@ -55,6 +55,7 @@ Su relacion calidad precio |
 Una mejor relacion calidad / precio que el <b><a href="{{ site.url }}/test-iRobot-roomba-650"> iRobot Roomba 650 </a></b>, y mayor autonomía que el <b><a href="http://amzn.to/2hC7TgJ">Taurus Striker</a></b>, esta aspiradora robot lo tiene todo para seducir.
 
 Echa un vistazo a nuestro articulo completo para conocer todos los detalles del modelo H.Koenig SWR28.
+
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/hkoening/SWR28_1_1500.jpg" width="600" height="auto" alt="">
 </div>
@@ -116,6 +117,7 @@ La batería no viene puesta, tenemos que colocarla cuando recibimos la aspirador
 #### Sistema de Navegación y gestión de obstaculos
 
 Su algoritmo permite que se mueva de forma inteligente y logra dividir y aspirar una habitación en una sola pasada. Los sensores de obstáculos y  de vacío permiten la circulación fluida y sobre todo evitan que el robot se caiga por las escaleras o deje marcas en los muebles.
+
 Para un resultado óptimo conviene ayudarle un poquito y apartar de su camino los claves.
 A veces vuelve a pasar por zonas que ya ha aspirado anteriormente.
 

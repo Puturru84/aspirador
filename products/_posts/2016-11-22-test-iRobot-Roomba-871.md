@@ -65,7 +65,7 @@ Roomba es el nombre que le dio a la marca iRobot a sus aspiradoras robot con un 
 
 Además esta marca de aspiradoras es muy popular en los EE.UU., y también en todo el mundo porque encarnan fuerza, durabilidad y eficiencia. Ten en cuenta que con todas estas características y tecnología las aspiradoras Roomba son a menudo bastante caras.
 
-Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a>.
+Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <b><a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a></b>.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
@@ -77,13 +77,13 @@ Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser 
 
 #### Comodidad de uso  
 
-El Roomba 871 es un dispositivo de gama alta que sustituye a la serie 700 y  proporciona un sistema de succión "AeroForce" que realiza la succión en 3 etapas con una eficacia aumentada del 50% . Dispone de varios programas para adaptarse a tus habitaciones y tus necesidades.
+El Roomba 871 es un dispositivo de gama alta que sustituye a la serie 700 y  proporciona un sistema de succión "AeroForce" que realiza la succión en 3 etapas con una <b>eficacia aumentada del 50%</b> . Dispone de varios programas para adaptarse a tus habitaciones y tus necesidades.
 
 También se puede programar para 7 días, lo cual es ideal para ir a casa y encontrar toda la limpieza hecha, al menos en lo que respecta al suelo. Tiene la misma forma que la mayoría de los robot aspiradores, es decir, una plataforma circular con un panel de usuario tactil en la parte superior y acabado de plástico negro, gris y plata, ideal para que se mezcle entre la decoración de tu hogar.
 
 #### Aspirado  
 
-La principal particularidad de este modelo es que sus cepillos son ahora de caucho, a diferencia de los modelos de la serie 700, que eran de pelo sintético. Este cambio radical ha sido pensado para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.
+La principal particularidad de este modelo es que <b>sus cepillos son ahora de caucho/<b>, a diferencia de los modelos de la serie 700, que eran de pelo sintético. Este cambio radical ha sido pensado para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.
 
 Aspira hasta cinco veces más que los modelos anteriores, el robot se compara casi un aspirador convencional.
 Por lo tanto será capaz de aspirar en todos los tipos de suelo, además puede ajustar la altura de la suspensión de acuerdo con el tipo de superficie a la que debe enfrentarse para garantizar el mejor resultado.
@@ -121,7 +121,7 @@ Con una autonomía de 3 horas (lo que representa una superficie de unos 120 m²)
 
 Esta aspiradora robot utiliza la tecnología combinada iAdapt de sensores infrarrojos y un parachoques táctiles, la combinación de movimientos aleatorios, los desplazamientos a lo largo de las paredes o en espiral.
 
-Hace hincapié en cada zona para obtener una limpieza óptima e impecable. Rodeará suavemente las barreras para limpiar a lo largo de las paredes y debajo de los muebles sin dañarlos. Equipada con el sistema Aeroforce, aspira con un 50% más de eficacia que sus predecesores.
+Hace hincapié en cada zona para <b>obtener una limpieza óptima e impecable</b>. Rodeará suavemente las barreras para limpiar a lo largo de las paredes y debajo de los muebles sin dañarlos. Equipada con el sistema Aeroforce, aspira con un 50% más de eficacia que sus predecesores.
 
 También está dotada de 6 sensores vacíos gracias al sistema Cliff Detect, con lo que no hay riesgo de que caiga por las escaleras.
 
@@ -143,7 +143,9 @@ Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpi
 
 #### Conclusión   pts 4,4 / 5
 
-Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perfecta para quienes olvidarse de pasar el aspirador y dejar que este trabaje por ellos. Mantiene la limpieza diaria del hogar y cumple con el pelo de las mascotas. Servicio y eficacia se aunan en este producto.
+Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perfecta para quienes olvidarse de pasar el aspirador y dejar que este trabaje por ellos.
+
+Mantiene la limpieza diaria del hogar y <b>cumple con el pelo de las mascotas</b>. Servicio y eficacia se aunan en este producto.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gP6vmv">Comprar en Amazon</a>

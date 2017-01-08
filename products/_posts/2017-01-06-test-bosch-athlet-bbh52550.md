@@ -61,7 +61,9 @@ Con su batería de iones de litio de 25,2 V, el Bosch Athlet BBH52550 (289 €) 
 El modelo en cuestión muestra un controlador con tres niveles de potencia, incluyendo un modo turbo.
 
 Promete ser ligero y práctico, con un cabezal flexible, esta aspiradora parece diseñado para la comodidad del usuario. <br>
-Agradecemos la presencia de sistema del Sensor Bagless, que el fabricante también ofrece a sus aspiradoras trineo sin bolsa. Para asegurar una succión constante sin pérdida, BBH 52550 está equipado con sensores que monitorizan la consistencia del flujo de aire. En caso de que se bloquee o el filtro se ensucie la eficacia de succión disminuye, la potencia de aspiración se reduce automáticamente y se avisa al usuario.
+Agradecemos la presencia de sistema del Sensor Bagless, que el fabricante también ofrece a sus aspiradoras trineo sin bolsa.
+
+Para asegurar una succión constante sin pérdida, BBH 52550 está equipado con sensores que monitorizan la consistencia del flujo de aire. En caso de que se bloquee o el filtro se ensucie la eficacia de succión disminuye, la potencia de aspiración se reduce automáticamente y se avisa al usuario.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2j5BcJ1">Comprar</a>
@@ -73,7 +75,9 @@ Agradecemos la presencia de sistema del Sensor Bagless, que el fabricante tambi�
 
 #### Comodidad de uso
 
-El diseño de la Athlet es bastante estándar, y, de hecho, no parece una gran atleta, ya que adopta el diseño clásico de un aspirador vertical, ni más fino o delgado de lo normal. Además, aunque promete ligereza, no es tan ligero como lo pensábamos, pesa 3,2 kg. En comparación, el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">Dyson V6 Total Clean</a> pesa 2.3 kilos, y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/">Dyson DC62 Animal Pro</a> 2 kilos.
+El diseño de la Athlet es bastante estándar, y, de hecho, no parece una gran atleta, ya que adopta el diseño clásico de un aspirador vertical, ni más fino o delgado de lo normal.
+
+Además, aunque promete ligereza, no es tan ligero como lo pensábamos, pesa 3,2 kg. En comparación, el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/"><b>Dyson V6 Total Clean</b></a> pesa 2.3 kilos, y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/"><b>Dyson DC62 Animal Pro</b></a> 2 kilos.
 
 Observamos desde el principio que el aparato se mantiene solo en la posición de aparcamiento, lo que es muy útil, sobre todo porque es relativamente estable. Así se puede apoyar cuando estamos limpiando sin preocuparnos.
 
@@ -103,13 +107,19 @@ Como veremos más adelante en el apartado manejabilidad, la comodidad sufre el p
   <img src="{{ site.url }}/assets/img/BBH625W60 Athlet/BBH625W60_frontal.png" width="400" height="auto" alt="Bosch Athlet BBH52550 aspiradora sin cable">
 </div>
 
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2j5BcJ1">Comprar</a>
+</div>
+
 #### Aspirado
 
 Hemos observado que los residuos espesos no son aquellos con los que la Athlet este más a gusto. Tienden a permanecer atrapados en el cepillo y caer una vez que liberamos la succión, que no es suficientemente fuerte.
 
 La mayor parte del tiempo, es necesario el uso de la potencia del turbo, lo que no es suficiente para revertir completamente esta situación. Nos dimos cuenta de que funciona mejor con el polvo fino, aspirando por ejemplo tierra. También hemos notado que la potencia 2 y el cepillo turbo crean una resistencia al suelo en las alfombras y moquetas, incluso finas.
 
-En un suelo duro, la potencia 1 es insuficiente y la potencia de 2 no es mucho mejor. El cepillo turbo recoge la basura, pero no todos son arrastrados al depósito y tienden a caer cuando la aspiración se detiene. A plena potencia, el resultado mejora. Si bien el polvo fino no supone ningún problema, el Athlet carece de "fuerza" para aspirar los residuos con más espesor.
+En un suelo duro, la potencia 1 es insuficiente y la potencia de 2 no es mucho mejor. El cepillo turbo recoge la basura, pero no todos son arrastrados al depósito y tienden a caer cuando la aspiración se detiene. A plena potencia, el resultado mejora.
+
+Si bien el polvo fino no supone ningún problema, el Athlet carece de "fuerza" para aspirar los residuos con más espesor.
 
 En la alfombra fina, para obtener los mejores resultados, tenemos que escoger la potencia del turbo. En general los resultados son mejores en alfombra gruesa.
 
@@ -120,7 +130,9 @@ En la alfombra fina, para obtener los mejores resultados, tenemos que escoger la
 
 #### Ruido
 
-Según lo prometido por Bosch, en la potencia más baja, este aspirador escoba no es muy ruidoso ya que mide 62 dB. Por desgracia, nuestras pruebas muestran que este nivel de potencia suficiente en raras ocasiones. Tan pronto como se incrementa la potencia el nivel de ruido también aumenta: 72 dB cuando se hace clic el cepillo turbo y 76 dB en modo "turbo".
+Según lo prometido por Bosch, en la potencia más baja, este aspirador escoba no es muy ruidoso ya que mide 62 dB. Por desgracia, nuestras pruebas muestran que este nivel de potencia suficiente en raras ocasiones.
+
+Tan pronto como se incrementa la potencia el nivel de ruido también aumenta: 72 dB cuando se hace clic el cepillo turbo y 76 dB en modo "turbo".
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/BBH625W60 Athlet/MCSA00803905_D9055.png" width="1000" height="auto" alt="">
@@ -128,13 +140,19 @@ Según lo prometido por Bosch, en la potencia más baja, este aspirador escoba n
 
 #### Manejabilidad
 
-Al contrario de lo que promete el fabricante, este aspirador no es tan ágil o dócil. Su peso (3.2 kg) es mucho. Cuando haces una sesión larga de limpieza el brazo lo nota. Por otra parte, incluso si la cabeza es relativamente flexible, cuando se activa el cepillo turbo, tiende a enredarse en las alfombras,  incluso de pelo corto, lo que afecta a la comodidad.
+Al contrario de lo que promete el fabricante, este aspirador no es tan ágil o dócil. Su peso (3.2 kg) es mucho. Cuando haces una sesión larga de limpieza el brazo lo nota.
+
+Por otra parte, incluso si la cabeza es relativamente flexible, cuando se activa el cepillo turbo, tiende a enredarse en las alfombras,  incluso de pelo corto, lo que afecta a la comodidad.
 
 Bosch anunció una autonomía de hasta 50 minutos, que se respeta con la potencia más baja. Tan pronto como se empieza a usar el cepillo turbo con la potencia 2 la autonomía baja a 30 minutos y poco más de 14 minutos en el modo turbo. Sin embargo, esto puede ser suficiente para una casa de tamaño medio.
 
-Si comparamos con otros modelos, el<a href="http://www.lasaspiradoras.com/test-Rowenta-airforzeextreme-25-2v-vision-pro/"> Rowenta Airforze Extreme 25.2v</a>, es el campeon, ofreciendo 30 minutos de autonomia a potencia maxima. Los modelos <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">Dyson </a>ofrecen 20 minutos en modo normal y 8 minutos a máxima potencia sin desventajas.
+Si comparamos con otros modelos, el<a href="http://www.lasaspiradoras.com/test-Rowenta-airforzeextreme-25-2v-vision-pro/"><b> Rowenta Airforze Extreme 25.2v</b></a>, es el campeon, ofreciendo 30 minutos de autonomia a potencia maxima. Los modelos <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/"><b>Dyson</b> </a>ofrecen 20 minutos en modo normal y 8 minutos a máxima potencia sin desventajas.
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/BBH625W60 Athlet/BBH625W60_Detalle_SensorBagless.png" width="400" height="auto" alt="Bosch Athlet BBH52550">
+</div>
+
+<div class="text-center">
+  <a class="button" href="http://amzn.to/2j5BcJ1">Buscar el mejor</a>
 </div>
 
 #### Mantenimiento
@@ -143,7 +161,7 @@ El vaciado del depósito es bastante simple. Una vez que el deposito está separ
 
 Quitamos el doble filtro de la pantalla externa - que puede ser lavada con agua. En cuanto al filtro, basta con separar la pieza exterior de espuma que también se puede lavar con agua. Bosch señala que esto no debería ser necesario, excepto en caso de suciedad extrema.
 
-Atención, si bien el sistema Sensor Bagless asegura una limpieza automática de los filtros en los aspiradores trineo sin bolsa de la marca, este no es el caso aquí. En este modelo la luz indica que es necesario limpiar el filtro pero su limpieza no arranca automáticamente, como en el caso del <a href="http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/"> Bosch BGS5SIL66B Relaxx'x ProSilence</a>.
+Atención, si bien el sistema Sensor Bagless asegura una limpieza automática de los filtros en los aspiradores trineo sin bolsa de la marca, este no es el caso aquí. En este modelo la luz indica que es necesario limpiar el filtro pero su limpieza no arranca automáticamente, como en el caso del <a href="http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/"><b> Bosch BGS5SIL66B Relaxx'x ProSilence</b></a>.
 
 En cuanto al cepillo turbo, se puede desmontar fácilmente para su limpieza. Sin embargo, sus cerdas rígidas y largas hacen que se enreden muchas cosas (pelo, alfombras flecos ...) y se bloquea con bastante rapidez.
 
@@ -155,13 +173,14 @@ El consumo es contenido. De hecho, se ha medido un consumo de casi cero cuando l
 
 En cuanto al tiempo de carga es de 6 horas para la primera carga. A continuación, una carga completa requiere aproximadamente 4 horas.
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2j5BcJ1">Buscar el mejor</a>
-</div>
 
 #### Conclusión 4,2  pts  / 5
 
-Bosch ha implementado buenas ideas en este modelo que hacen que sea relativamente cómodo de usar, como por ejemplo la información claramente legible (en la batería) y el sistema Sensor Bagless que vigila el flujo de aire para asegurar la succión constante. Afortunadamente, ya que la aspiración es un tanto decepcionante, proporcionando resultados muy mediocre en suelos duros cuando hay residuos pesados. También vemos un hándicap su peso. El Athlet pone de manifiesto buenas ideas que deben explorarse así como puntos a mejorar.
+Bosch ha implementado buenas ideas en este modelo que hacen que sea relativamente cómodo de usar, como por ejemplo la información claramente legible (en la batería) y el sistema Sensor Bagless que vigila el flujo de aire para asegurar la succión constante.
+
+Sin embargo la aspiración es un tanto decepcionante, proporcionando resultados muy mediocre en suelos duros cuando hay residuos pesados. También vemos un hándicap su peso.
+
+El Athlet pone de manifiesto buenas ideas que deben explorarse así como puntos a mejorar.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2j5BcJ1">Comprar</a>

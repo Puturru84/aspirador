@@ -56,7 +56,11 @@ Bajo consumo|
 
 #### Presentación
 
-El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al igual que sus predecesores, adopta un formato diferente de la competencia, todo el peso se encuentra en el mango, para que sea más versátil, ya que con tal equilibrio puede limpiar tanto el suelo como las alturas. Esta nueva joya se presenta como el aspirador escoba inalámbrico "más potente del mercado." Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un nuevo cepillo principal con cerdas hechas de fibras de carbono. Su autonomía es idéntica a la de su predecesor DC45, 20 minutos a potencia normal y 8 minutos al máximo.
+El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al igual que sus predecesores, adopta un formato diferente de la competencia, todo el peso se encuentra en el mango, para que sea más versátil, ya que con tal equilibrio puede limpiar tanto el suelo como las alturas.
+
+Esta nueva joya <b>se presenta</b> como el aspirador escoba inalámbrico <b>"más potente del mercado"</b>.
+
+Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un nuevo cepillo principal con cerdas hechas de fibras de carbono. Su <b>autonomía</b> es idéntica a la de su predecesor DC45,<b>20 minutos a potencia normal</b> y 8 minutos al máximo.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gOG54v">Comprar</a>
@@ -68,7 +72,7 @@ El DC62 Animalpro es la última generación de aspiradoras verticales Dyson. Al 
 
 #### Comodidad de uso
 
-La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. La gama esta compuesta por la aspiradora DC62 digital Slim <a href="http://amzn.to/2hOSgB2"> (ver en Amazon)</a>, la aspiradora DC62 en version estándar <a href="http://amzn.to/2hOaFQ9">(ver en Amazon) </a> y la versión animal Pro, que es la que vamos a comentar a continuación.
+La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. La gama esta compuesta por la <b>aspiradora DC62 digital Slim <a href="http://amzn.to/2hOSgB2"> (ver en Amazon)</a></b>, <b>la aspiradora DC62 en version estándar <a href="http://amzn.to/2hOaFQ9">(ver en Amazon) </a></b> y la versión animal Pro, que es la que vamos a comentar a continuación.
 
 El DC62 animalpro de tubo violeta viene con el nuevo turbo-cepillo motorizado con los pelos retorcidos, que alterna cerdas de nylon y pelo de fibra de carbono, un mini cepillo turbo y dos pequeños accesorios: una larga boquilla y un cepillo que se transforma en un succionador plano.
 
@@ -76,10 +80,11 @@ El paquete se completa con una superficie mural que se debe instalar para manten
 
 Podemos elegir entre cargarlo en la base o simplemente conectarlo a la red eléctrica.
 
-Si bien Dyson ha elegido un equilibrio particular para este DC62, esa elección le priva de una posición de parking. De hecho, no se tiene de pie solo. Se recomienda usar el soporte de pared, que ofrece una posición de almacenamiento más práctica.
+Si bien Dyson ha elegido un equilibrio particular para este DC62, esa elección le priva de una posición de parking. De hecho, <b>no se tiene de pie solo</b>. Se recomienda usar el soporte de pared, que ofrece una posición de almacenamiento más práctica.
 
-Como se había prometido, gracias al centro de gravedad en el mango, la versatilidad es perfecta: se puede limpiar el suelo, el techo, las zonas altas, las escaleras y convertirlo en una aspiradora de mano simplemente quitando el tubo telescópico (ideal para sofás, coche ...).
+Como se había prometido, gracias al centro de gravedad en el mango, la <b>versatilidad es perfecta</b>: se puede limpiar el suelo, el techo, las zonas altas, las escaleras y <b>convertirlo en una aspiradora de mano</b> simplemente quitando el tubo telescópico (ideal para sofás, coche ...).
 Para este uso, encontramos las ventajas que nos habían conquistado del modelo DC45, y con 200 gramos menos de peso en el DC 62 la limpieza se hace mas comoda.
+
 La capacidad del depósito ha aumentado y ahora podemos recoger 0,4 litros de suciedad. Apreciamos el vaciado con una trampilla ya que limita el contacto con el polvo.
 La pestaña de apertura ha cambiado de lugar, haciéndola más práctica.
 
@@ -91,7 +96,7 @@ Hemos notado los esfuerzos del fabricante en mejorar la experiencia del usuario 
 
 #### Aspirado
 
-La promesa de eficiencia del cepillo se mantiene: responde bien en todas las superficies, incluso en el modo normal, el DC62 es casi impecable durante nuestras pruebas.
+La promesa de eficiencia del cepillo se mantiene: responde bien en todas las superficies, incluso en el modo normal, el DC62 es casi <b>impecable durante nuestras pruebas</b>.
 
 En un suelo duro, se recogieron todos los elementos de prueba en 30 segundos en el modo normal.
 
@@ -117,7 +122,8 @@ El consumo de la carga DC62 es un poco más alto que el promedio. El punto posit
 
 #### Manejabilidad
 
-La cabeza del cepillo es flexible, el producto esta mejor equilibrado y es más ligero que sus predecesores. Con su cuerpo delgado, el formato elegido por Dyson tiene varias ventajas, incluyendo la manipulación.
+La cabeza del cepillo es flexible, el producto esta mejor equilibrado y es <b>más ligero que sus predecesores</b>. Con su cuerpo delgado, el formato elegido por Dyson tiene varias ventajas, incluyendo la manipulación.
+
 A diferencia de modelos de la competencia, el cepillo está conectado directamente al tubo telescópico, mucho más fino en la parte bajo, lo que permite limpiar debajo de los muebles con mucha más libertad que otros aspiradores escoba mas gruesos que se bloquean fácilmente.
 
 <div class="text-center">
