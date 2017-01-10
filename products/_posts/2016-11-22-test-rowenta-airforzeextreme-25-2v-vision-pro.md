@@ -27,9 +27,9 @@ brush: "Power Brush: cepillo eléctrico de alta velocidad"
 brush-op: "5"
 clasification: "4"
 comments: "La bateria mas duradera de los aspiradores escoba"
-price-before: "259,00 €"
-price-now: "241,24 €"
-discount: "7%"
+price-before: "283,48 €"
+price-now: "283,48 €"
+discount: "0%"
 stars: "4"
 link: "http://amzn.to/2gt2Rm4"
 ---
@@ -70,7 +70,7 @@ Más barato que el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Cl
 
 Esta aspiradora vertical tiene una potencia de 25 voltios y una <b>batería de 55 minutos a potencia baja</b>, algo que es más bien raro para un aspirador escoba, 35 minutos en potencia media y <b>30 a potencia máxima<b>.
 
-Otras aspiradoras de la misma gama como la<a href="http://www.lasaspiradoras.com/test-bosch-athlet-bbh52550/"><b> Bosch Athlet BBH52550</b></a>, presentan la mitad de autonomía a potencia máxima. 
+Otras aspiradoras de la misma gama como la<a href="http://www.lasaspiradoras.com/test-bosch-athlet-bbh52550/"><b> Bosch Athlet BBH52550</b></a>, presentan la mitad de autonomía a potencia máxima.
 
 Está equipada con una batería de litio que se carga en 6 horas. Se recomienda que la primera carga que se realiza antes de usar la aspiradora sea también de 6 horas. Una luz indicada el nivel de carga que le queda lo que es bastante práctico. Cuando el nivel de batería es muy bajo el indicador luminoso parpadea. Cuando la batería se ha agotado completamente se aconseja un tiempo de carga mínimo de 10 minutos antes de volver a usarla.
 
