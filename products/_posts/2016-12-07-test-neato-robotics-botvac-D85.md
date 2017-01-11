@@ -91,9 +91,6 @@ Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin e
   <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
 </div>
 
-<div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
-</div>
 
 #### Aspirado
 

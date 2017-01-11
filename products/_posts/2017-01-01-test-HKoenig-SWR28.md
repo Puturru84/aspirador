@@ -118,15 +118,16 @@ La batería no viene puesta, tenemos que colocarla cuando recibimos la aspirador
 
 Su algoritmo permite que se mueva de forma inteligente y logra dividir y aspirar una habitación en una sola pasada. Los sensores de obstáculos y  de vacío permiten la circulación fluida y sobre todo evitan que el robot se caiga por las escaleras o deje marcas en los muebles.
 
-Para un resultado óptimo conviene ayudarle un poquito y apartar de su camino los claves.
-A veces vuelve a pasar por zonas que ya ha aspirado anteriormente.
+Para un resultado óptimo conviene ayudarle un poquito y apartar de su camino los cables.
+A veces hemos notado que vuelve a pasar por zonas que ya ha aspirado anteriormente.
 
 #### Conclusión  pts 4 / 5
 
 Con una excelente relación calidad / precio, este robot aspirador es potente y fácil de usar. <br>
 No es perfecto, algunas opciones o características de más habrían estado bien, pero a este precio no se puede pedir más.
 
-Aspira bien en todo tipo de suelos, pasa por debajo de los muebles, se puede definir su área de trabajo y además es fácil de limpiar. Para dejar de tener que pasar la escoba a diario hace su papel.<br>
+Aspira bien en todo tipo de suelos, pasa por debajo de los muebles, se puede definir su área de trabajo y además es fácil de limpiar. Para dejar de tener que pasar la escoba a diario hace su papel.
+
 Su mando a distancia me encanta. Puedo usarlo para dirigirlo cuando quiero que aspire algo concreto o para aspirar algo que haya olvidado.
 
 Sus cepillos son eficaces sobre todo para aspirar cerca de las paredes. <br>

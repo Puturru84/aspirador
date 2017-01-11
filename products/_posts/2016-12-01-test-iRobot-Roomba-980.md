@@ -51,7 +51,7 @@ link: "http://amzn.to/2hvHlxD"
 Facil de usar | Podria estar bien poder programarlo sin smartphone
 Aplicacion iRobot Home ergonomica (alertas de mantenimiento, activacion de modos).| Consume un poco para mantener la carga de la bateria
 Eficaz en todo tipo de suelos|
-perfecta cobertura de superficies|
+Perfecta cobertura de superficies|
 Navegacion autonoma|
 
 
