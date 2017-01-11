@@ -24,7 +24,7 @@ radius: "120 m²"
 radius-op: "4"
 garanty: "2 años"
 brush: "1 Virtual Wall + 2 cepillos + 1 bayeta"
-brush-op: ""
+brush-op: "3"
 charge: "4 h"
 charge-op: "3,5"
 Battery: "90 min"
@@ -57,7 +57,7 @@ Una mejor relacion calidad / precio que el <b><a href="{{ site.url }}/test-iRobo
 Echa un vistazo a nuestro articulo completo para conocer todos los detalles del modelo H.Koenig SWR28.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/hkoening/SWR28_1_1500.jpg" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/hkoening/SWR28_1_1500.jpg" width="400" height="auto" alt="Test H.Koenig SWR28">
 </div>
 
 <div class="text-center">
@@ -69,7 +69,7 @@ Echa un vistazo a nuestro articulo completo para conocer todos los detalles del 
 Esta aspiradora está equipada con sensores que permiten identificar no sólo los obstáculos, sino también el vacío. No hay riesgo de que se caiga por las escaleras o que de repente se golpee con la cómoda de tu habitación. Viene con una pared virtual, lo que te permite definir su área de acción.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR28_2_1500.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR28_2_1500.jpg" width="400" height="auto" alt="Opinion H.Koenig SWR28">
 </div>
 
 #### Aspirado
@@ -86,7 +86,7 @@ Su autonomía es de 90 minutos, lo que le hace capable de aspirar varias habitac
 Su tiempo de carga es de 4 horas, lo que está dentro de la media para un robot aspirador.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR28_3_1500.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR28_3_1500.jpg" width="400" height="auto" alt="Comprar H.Koenig SWR28">
 </div>
 
 #### Ruido
@@ -94,7 +94,7 @@ Su tiempo de carga es de 4 horas, lo que está dentro de la media para un robot 
 A nivel de ruido, el H.Koenig SWR28 produce 60 dB. No es super tranquilo, pero tampoco demasiado ruidoso, ya sea en comparación con una aspiradora robot o convencional.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR28_4_1500.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR28_4_1500.jpg" width="400" height="auto" alt="Test H.Koenig SWR28">
 </div>
 
 <div class="text-center">
@@ -106,7 +106,7 @@ A nivel de ruido, el H.Koenig SWR28 produce 60 dB. No es super tranquilo, pero t
 Si eliges esta aspiradora robot puedes irte tranquilamente de casa dejandolo sólo ya que puede ser programado. Además, cuenta con un programa especial para suelos sensibles y el modo Full-Go para funcionar tan pronto como la batería esté cargada.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR28_5_1500.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR28_5_1500.jpg" width="400" height="auto" alt="">
 </div>
 
 #### Mantenimiento

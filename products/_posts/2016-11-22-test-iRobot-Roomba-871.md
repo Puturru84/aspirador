@@ -107,7 +107,7 @@ Con sus 61 dB este modelo Roomba no es un aspirador molesto y ofrece una mejora 
 
 #### Consumo
 
-Con una autonomía de 3 horas (lo que representa una superficie de unos 120 m²), el Roomba 871 comenzará a cargar por sí solo como muchos de sus hermanos grandes y pequeños de la misma marca. La batería tardará 3 horas en cargarse completamente.
+Con una autonomía de 2 horas (lo que representa una superficie de unos 120 m²), el Roomba 871 comenzará a cargar por sí solo como muchos de sus hermanos grandes y pequeños de la misma marca. La batería tardará 3 horas en cargarse completamente.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
