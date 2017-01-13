@@ -21,21 +21,6 @@ th {
     font-weight: normal;
     font-size:1em;
 }
-.button-newsletter {
-  background-color: #ED5668;
-  border-color: #ED5668;
-  line-height: 1;
-  cursor: pointer;
-  -webkit-appearance: none;
-  transition: background-color 0.25s ease-out, color 0.25s ease-out;
-  vertical-align: middle;
-  border: 1px solid transparent;
-  border-radius: 0;
-  padding: 0.85em 1em;
-  margin: 0 0 1rem 0;
-  font-size: 0.9rem;
-  color: #fff;
-}
 
 .mine{
   font-family: Georgia;
@@ -78,6 +63,16 @@ $header-sizes: (
   ),
 );
 
+.peque {
+    margin-left: 6rem;
+}
+a {
+    color: #27a79b;
+}
+a:hover {
+    color: #17625B;
+}
+
 // Newsletter
 // ------------------
 
@@ -88,7 +83,7 @@ $header-sizes: (
 .section-carte-panel {
         padding: 1rem;
         color: #444;
-        margin-bottom: 0;
+        margin-bottom: 1rem;
 }
 .section-carte-newsletter {
     margin-bottom: 1.5rem;
@@ -104,9 +99,22 @@ $header-sizes: (
     margin-bottom: 16px;
     line-height: 1.5rem;
 }
+.button-newsletter {
+  background-color: #ED5668;
+  border-color: #ED5668;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-appearance: none;
+  transition: background-color 0.25s ease-out, color 0.25s ease-out;
+  vertical-align: middle;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  padding: 0.85em 1em;
+  margin: 0 0 1rem 0;
+  font-size: 0.9rem;
+  color: #fff;
+}
+
 .news {
     margin-top: 0.8rem;
-}
-.peque {
-    margin-left: 6rem;
 }

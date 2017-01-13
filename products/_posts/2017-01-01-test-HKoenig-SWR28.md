@@ -77,7 +77,7 @@ Esta aspiradora está equipada con sensores que permiten identificar no sólo lo
 Se puede programar, dispone de 3 modos de limpieza incluyendo uno adaptado para las personas alérgicas. Vuelve solo a su base cuando ha terminado de aspirar o está a punto de acabarsele la batería. Además viene con dos cepillos que le permiten limpiar todo tipo de suelos y zócalos ras o paredes.
 
 En términos de su desempeño en nuestras pruebas, esta aspiradora robot nos ha convencido en suelos duros.
-Gracias a su pequeño tamaño y en particular a su altura (8 cm), cabe en todas partes y especialmente debajo de los muebles, camas, etc. Esta es una característica importante que no todos los aspiradores tienen, como el<a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"><b> Neato D85</b>, que si bien ofrece una cobertura de superficie casi perfecta peca de ser un poco alto.</a>
+Gracias a su pequeño tamaño y en particular a su altura (8 cm), cabe en todas partes y especialmente debajo de los muebles, camas, etc. Esta es una característica importante que no todos los aspiradores tienen, como el<a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"><b> Neato D85</b></a>, que si bien ofrece una cobertura de superficie casi perfecta peca de ser un poco alto.
 
 La guinda del pastel es su mando a distancia, que te permite controlar de forma remota una zona que necesites limpiar de manera prioritaria.
 
