@@ -189,7 +189,7 @@ Ademas, como promote, ofrece resultados perfectos y nos libra de los pelos de nu
   <a class="button" href="http://amzn.to/2jfGgtv">Comprar en Amazon</a>
 </div>
 
-¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.
+¿Quieres seguir mirando? Consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.
 
 <div class="text-center">
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
