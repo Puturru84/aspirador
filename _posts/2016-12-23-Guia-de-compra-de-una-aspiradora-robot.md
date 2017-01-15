@@ -16,7 +16,9 @@ Un robot aspirador de calidad es un aspirador que no tiras a los dos días de ha
 
 Tiene un coste, que oscila entre € 120 para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación.
 
-En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes aspiradoras robots de calidad en las que la gama, las opciones y la tecnologia varia de robot en robot. <br>
+Uno de los robots aspiradora más vendidos en España es el <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-650/">iRobot Roomba 650</a> gracias a una combinacion de comodidad, resultados y a buen precio.
+
+En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes aspiradoras robots de calidad en las que la gama, las opciones y la tecnología varía de robot en robot. <br>
 
 ¿Qué tener en cuenta a la hora de elegir un robot aspirador? Sigue leyendo para descubrirlo.
 
@@ -31,12 +33,12 @@ Básicamente, tienes que mirar cinco criterios principales para una elección co
 
 <h4>Criterio 1: La eficacia de la limpieza</h4>
 
-La mayoría de las veces, un aspirador robot limpia los suelos utilizando la rotación de uno o varios cepillos que repliegan la suciedad hacia el interior de la unidad, donde son aspiradas. La pregunta que debemos hacernos es ¿Los cepillos  son fiables y barren el suelo rigurosamente?
+La mayoría de las veces, un aspirador robot limpia los suelos utilizando la <b>rotación de uno o varios cepillos</b> que repliegan la suciedad hacia el interior de la unidad, donde son aspiradas. La pregunta que debemos hacernos es ¿Los cepillos  son fiables y barren el suelo rigurosamente?
 
 
-El segundo elemento que debe mirar es la eficiencia de succión, verdadero corazón del rendimiento de un robot aspirador. Los robots de gama baja aspiran con una potencia de 30 a 40 mW, pero las aspiradoras robots más recientes y de gama alta van muy por encima.
+El segundo elemento que debe mirar es la <b>eficiencia de succión</b>, verdadero corazón del rendimiento de un robot aspirador. Los robots de gama baja aspiran con una potencia de 30 a 40 mW, pero las aspiradoras robots más recientes y de gama alta van muy por encima.
 
-Algunos modelos ofrecen ahora desplazamientos robustos y perfeccionados, que les permiten ser eficaces tanto en suelos como en las alfombras y moquetas.
+Algunos modelos ofrecen ahora <b>desplazamientos</b> robustos y <b>perfeccionados</b>, que les permiten ser eficaces tanto en suelos como en las alfombras y moquetas.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/iRobot-Roomba-760.jpg" width="400" height="auto" alt="robot aspiradora en lasaspiradoras.com">
@@ -44,7 +46,7 @@ Algunos modelos ofrecen ahora desplazamientos robustos y perfeccionados, que les
 
 <p class="text-center"><a href="http://amzn.to/2hkDFxb">Consultar Robot aspiradora iRobot Roomba 760 en Amazon</a></p>
 
-Último elemento: algunas aspiradoras robot están equipadas con un filtro de partículas alérgenas, por lo general de tecnología HEPA, y algunos tienen lámparas UV en esta función. La calidad de filtración forma parte de la eficiencia de un robot aspirador.
+Último elemento: algunas aspiradoras robot están equipadas con un filtro de partículas alérgenas, por lo general de <b>tecnología HEPA</b>, y algunos tienen lámparas UV en esta función. La calidad de filtración forma parte de la eficiencia de un robot aspirador.
 
 → El poder de limpieza, el sistema de filtración y la calidad de los cepillos son elementos cruciales a considerar.
 
@@ -57,7 +59,7 @@ Ya sabes que una aspiradora robot se pasea por tu casa. Sin embargo hay diferent
 </div>
 <p class="text-center"><a href="http://amzn.to/2he3Mm8">Consultar Robot aspiradora iRobot Roomba 960 en Amazon</a></p>
 
-El <b>modo conducción preprogramada</b>, el más simple. El robot aspirador está programado por el fabricante para entrar en una habitación, siguiendo una cierta lógica optimizada: por ejemplo, espiral, o cambiando de dirección a 90 ° cuando se encuentra con un obstáculo, etc.
+El <b>modo conducción preprogramada</b>, el más simple. El robot aspirador está programado por el fabricante para entrar en una habitación, siguiendo una cierta <b>lógica optimizada</b>: por ejemplo, espiral, o cambiando de dirección a 90 ° cuando se encuentra con un obstáculo, etc.
 
 Hay modelos que son moderadamente eficaces y poco eficientes energéticamente que pasan dos veces por el mismo lugar. Con lo cual, la batería se agota antes de permitir que el robot aspire una gran área.
 
@@ -67,11 +69,13 @@ El modo de orientación más elaborado: <b>el movimiento metódico</b>. Estos ro
 
 Por lo general le cuesta entre 50 y 80 minutos limpiar totalmente un piso de 100m², dependiendo de si se tiene o no una gran cantidad de obstáculos o de alfombras.
 
-Otra ventaja: la gran mayoría de estos dispositivos son capaces de volver a su propia base, y recargarse.  Los mejores pueden incluso una vez recargados, volver al trabajo para cubrir el doble de la superficie. Rápidos y eficaces, estos robots también consumen más energía, e inevitablemente requieren un vaciado más frecuente del depósito.
+Otra ventaja: la gran mayoría de estos dispositivos son <b>capaces de volver</b> a su propia <b>base, y recargarse</b>.
+
+Los mejores pueden incluso una vez recargados, volver al trabajo para cubrir el doble de la superficie, como el <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-980/"> iRobot Roomba 980</a>. Rápidos y eficaces, estos robots también consumen más energía, e inevitablemente requieren un vaciado más frecuente del depósito.
 
 Pero en términos de navegación, eso no es todo:
 
-- La mayoría de los modelos vienen con dos o tres paredes virtuales que permiten limitar el alcance de la aspiradora robot, por ejemplo, a algunas habitaciones o partes de una habitación. Algunas de estas paredes se pueden eliminar de forma automática después de un cierto tiempo, útil si se desea dividir la limpieza habitación por habitación.
+- La mayoría de los modelos vienen con dos o tres <b>paredes virtuales</b> que permiten limitar el alcance de la aspiradora robot, por ejemplo, a algunas habitaciones o partes de una habitación. Algunas de estas paredes se pueden eliminar de forma automática después de un cierto tiempo, útil si se desea dividir la limpieza habitación por habitación.
 
 <div>
 <img src="{{ site.url }}/assets/img/varias/SWR28_3_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa">
@@ -80,17 +84,19 @@ Pero en términos de navegación, eso no es todo:
 </div>
 <p class="text-center"><a href="http://amzn.to/2hvnURx">Consultar Robot aspiradora H.Koenig SWR28 en Amazon</a></p>
 
-- Algunos fabricantes proponen cintas magnéticas para fijar en el suelo, estas realizan la misma función que las paredes virtuales.
+- Algunos fabricantes proponen <b>cintas magnéticas</b> para fijar en el suelo, estas realizan la misma función que las paredes virtuales.
+
 Disponer de un mando a distancia o conexión con tu smartphone podría ser útil para dirigir a tu robot, pero no es esencial, en nuestra opinión.
 
-Los robots aspiradores más recientes están equipados con detectores de escalera para no caer por ella.
+Los robots aspiradores más recientes están equipados con <b>detectores de escalera</b> para no caer por ella.
+
 Todas las aspiradoras robots están equipadas con un sistema de frenado cuando se aproximan a un obstáculo para un contacto muy suave con tus muebles o con tu mascota que esté dormida.
 
 → Escoger un desplazamiento metódico es aconsejable para superficies de 80m² y más.
 
 <h4>Criterio 3: Facilidad de mantenimiento</h4>
 
-Después de cada sesión, el robot aspirador requiere un mínimo de mantenimiento: Esto consiste en vaciar el depósito de la suciedad y limpiar el filtro y los cepillos (a menudo hechos de pelo de animal o pelusa). Por último, periódicamente, se tendrá que reemplazar ciertos elementos: la batería, filtro HEPA para la alergia, cepillos, etc.
+Después de cada sesión, el robot aspirador requiere un mínimo de <b>mantenimiento</b>: Esto consiste en <b>vaciar el depósito de la suciedad y limpiar el filtro y los cepillos</b> (a menudo hechos de pelo de animal o pelusa). Por último, periódicamente, se tendrá que reemplazar ciertos elementos: la batería, filtro HEPA para la alergia, cepillos, etc.
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d80d85backangle-hi.jpg" width="400" height="auto" alt="aspirador robot neato D85">
@@ -103,7 +109,7 @@ Algunos dispositivos se desmontan con mucha facilidad para quitar los pelos: sus
 
 Algunos filtros y cepillos recogen el pelo mejor que otros: lo que quiere decir que tendréis que retirar más pelo.
 
-La capacidad del depósito, es una indicación de la frecuencia con la que hay que vaciarlo. Estas capacidades van desde 0,3 L a 2L, debemos anticipar su uso para elegir bien. Obviamente, si tienes mascotas, es importante elegir un robot aspiradora de depósito grande.
+La capacidad del depósito, es una indicación de la frecuencia con la que hay que vaciarlo. Estas <b>capacidades</b> van desde <b>0,3 L a 2L</b>, debemos anticipar su uso para elegir bien. Obviamente, si tienes mascotas, es importante elegir un robot aspiradora de depósito grande.
 
 Algunas marcas o modelos son conocidos por su longevidad: elegir la calidad te evitará tener que cambiar con frecuencia piezas o consumibles.
 
@@ -113,7 +119,7 @@ Algunas marcas o modelos son conocidos por su longevidad: elegir la calidad te e
 
 Esto es en última instancia por lo que compramos un aspirador robot “X” u otro: volvemos a casa después del trabajo y queremos encontrar una casa limpia gracias a una aspiradora que haya limpiado por nosotros. Este sueño está a tu alcance! Simplemente, hay que poner atencion:
 
-Algunos dispositivos pueden ser programados para limpiar tu casa ciertos días de la semana a ciertas horas.
+Algunos dispositivos pueden ser <b>programados</b> para limpiar tu casa <b>ciertos días</b> de la semana a <b>ciertas horas.</b>
 En la gama baja, los aspiradores solo cuentan con un inicio diferido: puedes programarlos para empezar a trabajar una hora después de que te hayas ido, por ejemplo.
 
 La programación va a la par con la autonomía, ya que solo se puede programar si el robot aspirador cuenta con la autonomía suficiente para realizar el trabajo. Así, mientras que el tiempo de carga de la batería puede variar ampliamente (de una a cinco horas), la autonomía a plena carga también varía (por lo general entre una y dos horas).
@@ -124,7 +130,7 @@ La programación va a la par con la autonomía, ya que solo se puede programar s
 
 Si bien una aspiradora robot es mucho más silenciosa que una de trineo convencional, el nivel de ruido sigue siendo un reto.
 
-Alrededor de 55 dB, aceptable: se puede escuchar la radio mientras funciona el aspirador.<br>
+Alrededor de <b>55 dB, aceptable</b>: se puede escuchar la radio mientras funciona el aspirador.<br>
 75 dB o más, mejor no estar en casa en ese momento para mayor comodidad!
 
 El tamaño puede influir también en la toma de decisiones. Pero hoy en día el tamaño es estándar: todas las aspiradoras caben más o menos en el equipaje de mano!

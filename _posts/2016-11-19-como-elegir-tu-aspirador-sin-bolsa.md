@@ -98,24 +98,22 @@ Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50%
 <h4>3. La etiqueta energética</h4>
 
 Desde 2014, cada modelo de aspirador con bolsa o sin bolsa, debe tener etiquetado un indicador energético, donde se encuentra cierta información muy útil, relativa al consumo, al ruido y la eficacia en cada tipo de superficie.
-</p>
+
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/etiqueta-energetica-ejemplo.jpg" width="240" height="auto" alt="">
 </div><br>
-<p>
+
  - La clase de eficiencia energética expresado en una escala de A a G.<br>
  - El consumo de energía promedio anual en kWh / año.<br>
  - La clase de emisión de polvo expresado en una escala de A a G<br>
  - El nivel de potencia acústica (ruido) expresado en decibelios (dB)<br>
  - Eficacia de limpieza en alfombras expresada en una escala de A a G<br>
  - Eficacia de lavado en suelos duros, expresada en una escala de A a G<br>
- </p>
- <p>
+
 <h4> 4. Los comentarios de los consumidores</h4>
-</p>
-<p>
-Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas las pruebas en el mundo no se pueden hacer en todos los productos, por tanto, es esencial seguir los consejos y las opiniones de los usuarios como puedes hacerlo en Amazon, por ejemplo, para tener una idea de las ventajas y desventajas del aspirador que vas a comprar.<br>
-</p>
+
+Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas las pruebas en el mundo no se pueden hacer en todos los productos, por tanto, es esencial seguir los consejos y las opiniones de los usuarios como puedes hacerlo en <a href="http://amzn.to/2iu35Wi">Amazon</a>, por ejemplo, para tener una idea de las ventajas y desventajas del aspirador que vas a comprar.
+
 <div class="text-center">
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
