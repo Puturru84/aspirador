@@ -50,7 +50,7 @@ Programable|
 Evita los obstáculos|
 Virtual Wall|
 Filtro HEPA 11 |
-Buena duración de batería de 3 h |
+Buena duración de batería |
 No consume mucha energía |  
 Fácil de mantener |  
 

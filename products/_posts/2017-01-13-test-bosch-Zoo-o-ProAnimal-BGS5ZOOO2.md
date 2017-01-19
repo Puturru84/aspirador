@@ -179,7 +179,7 @@ Gracias a su tecnología SelfClean este aspirador tiene un sistema de limpieza a
 
 Cuando el indicador muestra una luz azul significa que el nivel de rendimiento del aspirador es óptimo. Si se enciende una luz roja, el aparato se desconectará automáticamente y se activará la limpieza del filtro, ejecutada por el motor de limpieza integrado.
 
-#### Conclusión 4,2  pts / 5
+#### Conclusión 4,2 pts / 5
 
 El Bosch Relaxx'x Zoo'o ProAnimal ha cumplido nuestras expectativas. Este aspirador cumple muy bien como aspirador para una casa o un piso grandes por su radio de accion y capacidad.
 

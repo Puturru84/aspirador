@@ -104,6 +104,7 @@ layout: default
                </th>
         </thead>
         <tbody>
+          {% assign categories = site.categories.escoba | sort: 'clasification' | reverse %}
           {% for post in site.categories.escoba %}
             <tr>
              <th class="text-center"><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>

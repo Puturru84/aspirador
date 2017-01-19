@@ -5,33 +5,33 @@ title: "Test iRobot Roomba 776"
 categories:
   - product
   - robot
-image: "mini-iRobot-Roomba-776.png"
+image: "mini-iRobot-Roomba-776.jpg"
 model: "iRobot Roomba 776"
 type-vacuum: "Aspirador robot"
-technology: "Sistema Aeroforce, con sensores acústicos y ópticos"
+technology: "Sistema Aeroforce, navegación sensible iAdapt, filtros AeroVac"
 power: "33 V"
 power-op: "5"
 capacity: "0,4 L"
-capacity-op: ""
+capacity-op: "4"
 sound: "65 dB"
-sound-op: ""
+sound-op: "4,5"
 filter: "filtro HEPA"
-filter-op: ""
+filter-op: "5"
 weight: "3,8 kg"
-weight-op: ""
+weight-op: "4"
 dimensions: "34,3 x 34,3 x 9 cm"
-radius: ""
-radius-op: ""
+radius: "120 m²"
+radius-op: "5"
 garanty: "2 años"
-brush: ""
+brush: "1 Virtual Wal + 1 Virtual Wall Halo"
 brush-op: "4"
 Battery: "estandar"
-clasification: ""
-comments: ""
+clasification: "4,5"
+comments: "Elimina por ti el pelo de tus mascotas"
 price-before: "399,99 €"
 price-now: "399,99 €"
 discount: "0%"
-stars: ""
+stars: "4.5"
 link: "http://amzn.to/2jnHTTV"
 ---
 
@@ -45,17 +45,13 @@ link: "http://amzn.to/2jnHTTV"
 
 ✔️ Puntos fuertes  | ❌ Debilidades
 --|--
-El rendimiento AeroForce | Su precio
-Programable|
-Evita los obstáculos|
-Virtual Wall|
-Filtro HEPA 11 |
-Buena duración de batería de 3 h |
-No consume mucha energía |  
-Fácil de mantener |  
+Se puede programar dia a dia | Deposito semiabierto.
+Facil de usar | Capacidad justa.
+Buena gestion de obstaculos, no se queda bloqueado y encuentra la base | La covertura no es perfecta
+Eficaz en suelos |
 
 
-#### Presentación  
+#### Presentación
 
 El Roomba 776p - p por "pet", "animales" en español - es uno de los aspiradores iRobot como líder del mercado de Estados Unidos con destino a los propietarios de animales de compañía.
 
@@ -69,7 +65,7 @@ Los principales cambios en comparación con el Roomba 765: está dotado de un si
 
  Otra novedad: la batería ("Xlife"), de la cual se ha dotado a esta generación de robots del fabricante. iRobot asegura su durabilidad se ha visto mejorada.
 
-Aquí está nuestra opinión de este modelo.  
+Aquí está nuestra opinión de este modelo.
 
 
 <div class="text-center">
@@ -77,10 +73,10 @@ Aquí está nuestra opinión de este modelo.
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot-Roomba-760-2.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot-Roomba-760-2.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 776p lasaspiradoras.com">
 </div>
 
-#### Comodidad de uso  
+#### Comodidad de uso
 
 Si hay una cosa que es simple en iRobot, es comenzar la limpieza. La aspiradora 776p ofrece la ergonomía que se encuentran en todo Roomba, con un gran botón central "clean", que sólo tienes que pulsar para iniciar una sesión de limpieza. No puede ser más práctico. Los clientes habituales de la marca no estarán desorientados.
 
@@ -92,10 +88,10 @@ Tiene un asa que permite moverlo fácilmente de una habitación a otra, si es ne
 
 Hay que tener cuidado con el depósito, es semiabierto y cuando tenemos que quitarlo para vaciarlo se puede verter fácilmente - igual que si cogemos el robot inclinandolo.
 
-Su capacidad es de “sólo” 0,4 l. Si tienes animales en casa lo mejor será que pienses en vaciarlo después de cada uso o cada dos usos.  
+Su capacidad es de “sólo” 0,4 l. Si tienes animales en casa lo mejor será que pienses en vaciarlo después de cada uso o cada dos usos.
 Este modelo, contrariamente Roomba 765, viene sin mando a distancia, lo que no se echa de menos.
 
-#### Aspirado  
+#### Aspirado
 
 Los resultados son buenos, incluso con una cobertura de las superficies no siempre perfecta ya que se deja alguna zona olvidada.
 
@@ -105,19 +101,13 @@ En la alfombra fina el resultado es más que correcto, lo que te ayudará a limp
 
 Por último en alfombra de pelo grueso, la superficie más difícil,  no ofrece  los mejores resultados pero llega a recoger un 90% de la suciedad.
 
-<div class="flex-video">
-  <iframe width="560" height="315"
-    src="http://media.irobot.com/video/1527/71934161_dc_Roomba_800_series_AeroForce_Performance_Cleaning_System.mp4" frameborder="0" allowfullscreen>
-  </iframe>
+<div class="text-center">
+  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot-Roomba-760-3.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 776p aspirado lasaspiradoras.com">
 </div>
 
 #### Ruido
 
 iRobot anuncia 61 dB, lo cual es poco. Pero en seguida el oído se da cuenta que el 776p hace un poco más de ruido. Según nuestras medidas de 65 dB en suelo duro lo que representa un nivel de ruido normal.
-
-<div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot+Roomba-760-3.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
-</div>
 
 #### Consumo
 
@@ -136,7 +126,7 @@ Se entrega con dos indicadores de límites para evitar el acceso a ciertas habit
 Por último, iRobot ofrece accesorios pequeños para facilitar la limpieza.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot-Roomba-760.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRoboot-700 Series/iRobot-Roomba-760.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 776p consumo lasaspiradoras.com">
 </div>
 
 <div class="text-center">
@@ -180,11 +170,11 @@ Este modelo tiene un sistema antienredo. Cuando se detecta un embrollo (cables o
 
 Si bien el contorno de los objetos de la casa no se limpia con un cuidado meticuloso tal como lo hacen otros robots (alrededor de las patas de la silla o un sofá, por ejemplo), navega por toda la casa sin quedarse bloqueado y regresa a la base después de la limpieza; Por lo tanto, es bastante autónomo.
 
-#### Conclusión   pts 4,4 / 5
+#### Conclusión 4,5 pts / 5
 
 El 776p Roomba diseñado para los propietarios de los animales cumple con su función, con el apoyo de los indicadores de límites.
 
-Siempre apreciamos su facilidad de uso y la posibilidad de programar el día a día. Si bien su cobertura de las superficies no es absolutamente perfecto, haciendo el trabajo diario con la eficiencia de aspiración que ofrece, que mantiene el suelo de la propia casa sin problemas, incluso con los animales.
+Apreciamos su facilidad de uso y la posibilidad de programar día a día. Si bien su cobertura de superficies no es absolutamente perfecta, hace el trabajo diario con eficiencia, mantiene el suelo de la casa limpio sin problemas incluso con los animales.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2jnHTTV">Comprar en Amazon</a>
