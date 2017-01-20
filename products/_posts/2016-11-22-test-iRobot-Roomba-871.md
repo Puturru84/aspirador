@@ -65,7 +65,7 @@ Roomba es el nombre que le dio a la marca iRobot a sus aspiradoras robot con un 
 
 Además esta marca de aspiradoras es muy popular en los EE.UU., y también en todo el mundo porque encarnan fuerza, durabilidad y eficiencia. Ten en cuenta que con todas estas características y tecnología las aspiradoras Roomba son a menudo bastante caras.
 
-Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <b><a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a></b>.
+Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a>.
 
 <div class="text-center">
   <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>

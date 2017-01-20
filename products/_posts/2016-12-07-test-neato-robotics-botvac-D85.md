@@ -38,7 +38,7 @@ link: "http://amzn.to/2hNOzNq"
 ---
 
 <div class="flex-video">
-  <<iframe width="560" height="315" src="https://www.youtube.com/embed/FYOhl_0cSuQ" frameborder="0" allowfullscreen></iframe>></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FYOhl_0cSuQ" frameborder="0" allowfullscreen></iframe>></iframe>
 </div>
 
 <div class="text-center">
