@@ -9,7 +9,7 @@ Felices propietarios de perros y, por lo tanto, inevitablemente, de pelos de per
 Esta herramienta, que cuenta con un par de años en el mercado ha sido creada para eliminar el pelo de nuestros amigos caninos de forma higiénica y minimizar las alergias.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/dyson-groom/Dyson_Groom_3-low_definition.jpg" width="500" height="auto" alt="cepillo para perros Dyson Groom">
+  <img src="{{ site.url }}/assets/img/dyson-groom/Dyson_Groom_3-low_definition.jpg" width="500" height="auto" alt="cepillo para perros Dyson Groom">
 </div>
 <div class="text-center">
   <a class="button" href="http://amzn.to/2iJsjTV">Comprar en Amazon</a>
