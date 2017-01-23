@@ -95,18 +95,18 @@ $header-sizes: (
     line-height: 1.5rem;
 }
 .button-newsletter {
-  background-color: #ED5668;
+  background-color: #fff;
   border-color: #ED5668;
   line-height: 1;
   cursor: pointer;
   -webkit-appearance: none;
   transition: background-color 0.25s ease-out, color 0.25s ease-out;
   vertical-align: middle;
-  border: 1px solid transparent;
+  border: 1px solid;
   padding: 0.85em 1em;
   margin: 0 0 1rem 0;
   font-size: 0.9rem;
-  color: #fff;
+  color: #ED5668;
   border-radius: 20%;
 }
 
