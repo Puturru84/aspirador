@@ -43,6 +43,7 @@ price-before: "626,50 €"
 price-now: "626,50 €"
 discount: "0%"
 stars: "4"
+description: "El Dyson Cinetic Big Ball Absolute incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro) y la tecnología Ball, es capaz de volver a su posición inicial aunque bascule. Un completo juego de cepillos completan la oferta."
 link: "http://amzn.to/2gOFIXF"
 ---
 
@@ -76,7 +77,7 @@ El sistema Big Ball es una nueva evolución de la tecnología de Ball: estos asp
 Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos de los fabricantes británicos de mejorar la comodidad de uso.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_ambiente.jpg" width="400" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
+  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_ambiente.jpg" width="500" height="auto" alt="aspirador sin bolsa DysonDC33c Origin">
 </div>
 
 <div class="text-center">
@@ -100,6 +101,10 @@ Como pequeños accesorios incluye la boquilla larga combinado con su cepillito y
 Por último, un nuevo accesorio práctico para limpiar la parte superior de los muebles frágiles o de difícil acceso. Se trata de un accesorio de succión plano recubierto de bandas de material suave (piel sintética) cuya punta larga gira.
 
 Sin embargo, lamentamos que el cepillo de parquet no está equipado con un pequeño "carril" para instalar el Big Ball Absolute en posición de parking, una lastima para los usuarios que lo utilice con frecuencia.
+
+<div class="text-center">
+ <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_14.jpg" width="400" height="auto" alt="">
+</div>
 
 En cuanto a los cierres de seguridad para conectar los accesorios al tubo telescópico y el mango al tubo, han cambiado de forma y son ahora mucho más flexibles y cómodos.
 
@@ -131,7 +136,7 @@ En la alfombra fina, el mejor resultado lo obtenemos con el cepillo turbo que pu
 Por último, en alfombra gruesa, el Musclehead es el cepillo que recoge más suciedad en menos tiempo.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_uso.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_uso.jpg" width="500" height="auto" alt="">
 </div>
 
 #### Ruido

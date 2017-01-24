@@ -28,11 +28,12 @@ garanty: "2 años"
 brush: "Cepillo Direct-Drive, cepillo Fluffy, cepillo minimotorizado y accesorio multifunción"
 brush-op: "5"
 clasification: "4,3"
-comments: "Resultados excelentes y comodidad"
+comments: "Una de las aspiradoras escoba más completas"
 price-before: "549,00 €"
 price-now: "518,71 €"
 discount: "6%"
 stars: "4.5"
+description: "La aspirador escoba Dyson V6 total clean es potente, viene con filtro HEPA. Carga rápida. Una de las aspiradoras escoba más completas."
 link: "http://amzn.to/2hmlhCc"
 ---
 

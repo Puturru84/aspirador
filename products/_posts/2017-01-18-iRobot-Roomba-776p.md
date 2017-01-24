@@ -6,7 +6,7 @@ categories:
   - product
   - robot
 image: "mini-iRobot-Roomba-776.jpg"
-model: "iRobot Roomba 776"
+model: "iRobot Roomba 776p"
 type-vacuum: "Aspirador robot"
 technology: "Sistema Aeroforce, navegación sensible iAdapt, filtros AeroVac"
 power: "33 V"
@@ -166,7 +166,7 @@ Un icono iluminado aparece en la estructura del robot. El Roomba  776p  comienza
 
 El sistema de navegación es muy eficiente ya que el 776p Roomba logra navegar por las diferentes habitaciones, cubriendo la superficies bastante correctamente y encontrando su base sin fallos.
 
-La cobertura no es perfecta, pero el Dirt Detect 2 cumple con su propósito y la limpieza general del suelo es satisfactoria (se hace hincapié en determinadas zonas mediante la detección de la suciedad aspirada por los sensores ópticos y acústicos). El modelo superior, <a href="http://localhost:3000/test-iRobot-roomba-980/">el Roomba 980</a>, ofrece una cobertura mejorada, es muy potente (eficacia aumentada un 50%) y también acaba con el pelo de las mascotas. 
+La cobertura no es perfecta, pero el Dirt Detect 2 cumple con su propósito y la limpieza general del suelo es satisfactoria (se hace hincapié en determinadas zonas mediante la detección de la suciedad aspirada por los sensores ópticos y acústicos). El modelo superior, <a href="http://localhost:3000/test-iRobot-roomba-980/">el Roomba 980</a>, ofrece una cobertura mejorada, es muy potente (eficacia aumentada un 50%) y también acaba con el pelo de las mascotas.
 
 #### Gestión de obstáculos
 
