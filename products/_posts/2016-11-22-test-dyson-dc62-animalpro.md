@@ -33,7 +33,7 @@ price-before: "382,47 €"
 price-now: "382,47 €"
 discount: "0%"
 stars: "4.5"
-description: "La aspirador escoba escoba Dyson DC62 Animal Pro ofrece resultados excelentes y comodidad. Ligero, práctico, convertible en aspiradora de mano. Una de las aspiradoras escoba más completos."
+description: "El aspirador escoba Dyson DC62 Animal Pro ofrece resultados excelentes y te ayudará a acabar con el pelo de tus mascotas. Consulta nuestro test completo."
 link: "http://amzn.to/2gOG54v"
 ---
 

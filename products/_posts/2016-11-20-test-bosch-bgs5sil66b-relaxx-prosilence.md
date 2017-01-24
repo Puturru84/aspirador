@@ -43,7 +43,7 @@ price-before: "349,00 €"
 price-now: " 219,91  €"
 discount: "37%"
 stars: "4.5"
-description: "El Bosch BGS5SIL66B Relaxx'x ProSilence, la aspiradora más silenciosa del mercado. Con un muchos accesorios para un buen aspirado. Tripe A."
+description: "El Bosch BGS5SIL66B Relaxx'x ProSilence es la aspiradora trineo más silenciosa del mercado. Consulta nuestro test donde te desvelamos todas sus características."
 link: "http://amzn.to/2hiRT2h"
 ---
 
