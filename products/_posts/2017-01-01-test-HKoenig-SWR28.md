@@ -34,6 +34,7 @@ price-before: "379,00 €"
 price-now: "162,80 €"
 discount: "57 %"
 stars: "4"
+description: "Guia de compra del H.Koenig SWR28, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2hvnURx"
 ---
 

@@ -43,6 +43,7 @@ price-before: "412,70 €"
 price-now: " 247,87  €"
 discount: "40%"
 stars: "4"
+description: "Guia de compra del Bosch Zoo o ProAnimal BGS5ZOOO2, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2jfGgtv"
 ---
 

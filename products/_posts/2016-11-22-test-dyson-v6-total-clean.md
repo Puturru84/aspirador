@@ -33,7 +33,7 @@ price-before: "549,00 €"
 price-now: "518,71 €"
 discount: "6%"
 stars: "4.5"
-description: "La aspirador escoba Dyson V6 total clean es potente, viene con filtro HEPA. Carga rápida. Una de las aspiradoras escoba más completas."
+description: "La aspirador escoba Dyson V6 total clean es potente, viene con filtro HEPA y se carga rápido. Conoce nuestra opinión de una de las aspiradoras escoba más completas."
 link: "http://amzn.to/2hmlhCc"
 ---
 

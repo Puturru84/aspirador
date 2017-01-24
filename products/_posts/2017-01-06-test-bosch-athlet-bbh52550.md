@@ -33,6 +33,7 @@ price-before: "289,00 €"
 price-now: "185,00€"
 discount: "36%"
 stars: "4"
+description: "Guia de compra de la Bosch Athlet BBH52550, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2j5BcJ1"
 ---
 

@@ -32,7 +32,7 @@ price-before: "699,00 €"
 price-now: "- €"
 discount: "0%"
 stars: "4.5"
-description: “iRobot Roomba 871, autonomía aumentada, eficacia aumentada del 50%, programable, evita los obstáculos, una máquina dispuesta a trabajar por ti.”
+description: "Hemos probado el iRobot Roomba 871, autonomía aumentada, eficacia aumentada del 50%, programable, evita los obstáculos, te lo contamos todo aquí."
 link: "http://amzn.to/2gP6vmv"
 ---
 

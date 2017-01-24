@@ -31,6 +31,7 @@ price-before: "259,99 €"
 price-now: "199,00 €"
 discount: "23%"
 stars: "4"
+description: "Te explicamos qué resultados ofrece la aspiradora escoba con más batería del mercado, la Rowenta airforze extreme 25.2v vision-pro"
 link: "http://amzn.to/2gt2Rm4"
 ---
 

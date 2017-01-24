@@ -34,6 +34,7 @@ price-before: "399,00 €"
 price-now: "179,00 €"
 discount: "55 %"
 stars: "4"
+description: "Guia de compra del H.Koenig SWR38, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2ijCz5h"
 ---
 

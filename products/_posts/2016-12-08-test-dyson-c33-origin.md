@@ -42,6 +42,7 @@ price-before: "329,00 €"
 price-now: "309,00€"
 discount: "6%"
 stars: "4.5"
+description: "Guia de compra del Dyson DC33C Origin, funcionamiento, aspirado, manejabilidad y las mejores ofertas."
 link: "http://amzn.to/2hjeJUt"
 ---
 

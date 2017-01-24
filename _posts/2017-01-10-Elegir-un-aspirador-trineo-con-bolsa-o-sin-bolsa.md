@@ -2,6 +2,7 @@
 layout: post
 title:  "Elegir un aspirador trineo con bolsa o sin bolsa? Ventajas y desventajas de las dos tecnologías."
 categories: blog-updates
+description: “Guia para decidir si prefieres comprar un aspirador trineo con o sin bolsa, ventajas y desventajas de las dos tecnologías”
 ---
 
 Presente en el 76% de los hogares, la aspiradora es el pequeño electrodoméstico de más vendido. Pero antes de comprarlo uno se pregunta inevitablemente, con bolsa o sin bolsa?

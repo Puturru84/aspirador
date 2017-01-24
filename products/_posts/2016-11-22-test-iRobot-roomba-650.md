@@ -34,7 +34,7 @@ price-before: "469,00 €"
 price-now: "359,00 €"
 discount: "23%"
 stars: "4"
-description: "Bestseller entre las aspiradoras robot, el iRobot Roomba 650 se ha hecho muy popular y envejece bien con el paso del tiempo. Ofrece comodidad a un precio accesible"
+description: "Bestseller entre las aspiradoras robot, el iRobot Roomba 650 se ha hecho muy popular. Aquí te contamos porqué tanto éxito."
 link: "http://amzn.to/2gt3kVz"
 ---
 

@@ -43,6 +43,7 @@ price-before: "250,00 €"
 price-now: "104,00 €"
 discount: "58%"
 stars: "4"
+description:"Conoce todas las características del modelo Polti Forzaspira MC330 Turbo que hemos probado"
 link: "http://amzn.to/2gt6YP6"
 ---
 

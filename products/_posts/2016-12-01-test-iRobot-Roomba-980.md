@@ -35,6 +35,7 @@ price-before: "1.116,00 €"
 price-now: "1.116,00 €"
 discount: "0%"
 stars: "5"
+description: "¿Cuales son las novedades del iRobot Roomba 980? te las contamos en nuestro análisis con todo detalle."
 link: "http://amzn.to/2hvHlxD"
 ---
 

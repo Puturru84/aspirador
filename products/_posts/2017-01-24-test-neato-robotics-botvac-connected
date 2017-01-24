@@ -6,7 +6,7 @@ categories:
   - product
   - robot
 image: "neato-connected-mini.png"
-model: "Neato Neato Robotics Botvac Connected"
+model: "Neato Robotics Botvac Connected"
 type-vacuum: "Aspirador robot"
 technology: "Wi-fi y LaserSmart"
 power: "40 V"
@@ -34,6 +34,7 @@ price-before: "759,00 €"
 price-now: "759,00"
 discount: "0%"
 stars: ""
+description: "Guia de compra del Neato Robotics Botvac Connected, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2j0CVjf"
 ---
 

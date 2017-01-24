@@ -34,6 +34,7 @@ price-before: "599,00 €"
 price-now: "575,38"
 discount: "4%"
 stars: "4.5"
+description: "Guia de compra del Neato Robotics Botvac D85, funcionamiento, aspirado, manejabilidad y las mejores ofertas."
 link: "http://amzn.to/2hNOzNq"
 ---
 

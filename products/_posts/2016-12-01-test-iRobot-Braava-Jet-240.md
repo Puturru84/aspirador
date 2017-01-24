@@ -35,6 +35,7 @@ price-before: "249,00 €"
 price-now: "249,00 €"
 discount: "0%"
 stars: "4.5"
+description: ¿Quieres conocer las ventajas de la iRobot Braava jet 240? te lo contamos en el análisis de este producto que hemos podido probar.
 link: "http://amzn.to/2gta2ec"
 ---
 

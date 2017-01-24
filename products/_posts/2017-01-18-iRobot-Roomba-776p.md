@@ -34,6 +34,7 @@ price-before: "399,99 €"
 price-now: "399,99 €"
 discount: "0%"
 stars: "4.5"
+description: "Guia de compra del iRobot Roomba 776p, funcionamiento, aspirado, características y las mejores ofertas."
 link: "http://amzn.to/2jnHTTV"
 ---
 

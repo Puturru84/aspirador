@@ -43,6 +43,7 @@ price-before: "259,99 €"
 price-now: "209,92 €"
 discount: "25%"
 stars: "4.5"
+description: "Análisis de la Rowenta Silence Force Multi-Cyclonic RO8341, ventajas, desventajas, resultados. Todo lo que necesitas saber."
 link: "http://amzn.to/2hmohyy"
 ---
 

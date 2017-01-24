@@ -2,6 +2,7 @@
 layout: post
 title:  "10 ventajas de las aspiradoras escoba sin cable"
 categories: blog-updates
+description: “10 Ventajas que te ofrece la aspiradora sin cable. Libertad, comodidad, accesibilidad...”
 ---
 
 A todos nos encanta descubrir que algo que usamos todos los días ha sido mejorado para hacer la vida aún más fácil. Esa es la razon por la que la tecnología de la aspiradora inalámbrica se ha vuelto tan popular.

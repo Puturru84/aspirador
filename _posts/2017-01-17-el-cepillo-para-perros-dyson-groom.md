@@ -2,6 +2,7 @@
 layout: post
 title:  "El cepillo para perros Dyson Groom"
 categories: blog-updates
+description: “Explicamos como funciona el cepillo para perros de Dyson, el dyson Groom”
 ---
 
 Felices propietarios de perros y, por lo tanto, inevitablemente, de pelos de perro, hoy vamos a hablaros del cepillo especial Dyson para perros, el Dyson GROOM.
