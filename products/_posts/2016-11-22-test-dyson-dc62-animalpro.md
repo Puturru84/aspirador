@@ -106,7 +106,7 @@ En la alfombra fina, recogio casi todos los elementos también en 30 s y siempre
 La alfombra gruesa es una cuestión más difícil, pero el DC62 ofrece buenos resultados.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62AnimalPro-aspirado.jpg" width="400" height="auto" alt="Dyson DC 62 animal pro aspirado en las aspiradoras.com">
+  <img src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62AnimalPro-aspirado.jpg" width="500" height="auto" alt="Dyson DC 62 animal pro aspirado en las aspiradoras.com">
 </div>
 
 #### Ruido
@@ -118,7 +118,7 @@ El ruido sigue siendo un punto débil del modelo. Medimos 75 dB en modo normal, 
 El consumo de la carga DC62 es un poco más alto que el promedio. El punto positivo de este producto es que puede permanecer siempre conectado, sobre todo si está instalado en el soporte de pared ya que su consumo una vez cargada es casi cero.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62-animal-pro-demano.png" width="300" height="auto" alt="Dyson DC 62 animal pro consumo en las aspiradoras.com">
+  <img src="{{ site.url }}/assets/img/DysonDC62AnimalPro/DysonDC62-animal-pro-demano.png" width="400" height="auto" alt="Dyson DC 62 animal pro consumo en las aspiradoras.com">
 </div>
 
 #### Manejabilidad
