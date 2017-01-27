@@ -126,6 +126,8 @@ layout: default
          <th class="text-center"><span class="hide-for-large">Radio de accion</span> {{ post.radius }}</th>
          <th class="text-center"><span class="hide-for-large">Capacidad</span> {{ post.capacity }}</th>
          <th class="text-center"><a class="button" href="{{ post.link }}">Comprar</a></th>
+         <th class="hide"><span class="show-for-small-only">Nota:</span> {{ post.clasification }}</th>
+         <th class="hide">{{ post.clasification }}</th>
         </tr>
       {% endfor %}
     </tbody>
