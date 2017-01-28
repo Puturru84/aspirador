@@ -104,9 +104,10 @@ layout: default
                </th>
         </thead>
         <tbody>
-          {% assign categories = site.categories.escoba | sort: 'clasification' | reverse %}
+          {% assign categories = site.categories.escoba %}
           {% for post in site.categories.escoba %}
             <tr>
+             <th class="hide"><span class="hide"></span> {{ post.clasification }}</th>
              <th class="text-center"><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}"> <img src="{{site.url}}/assets/img/{{ post.image }}" width="100" height="auto" alt="{{ post.model }}"></a></th>
              <th class="text-center"><a href="{{ site.url }}{{ post.url }}" title= "{{ post.title }}">{{ post.model }}</a></th>
              <th class="text-center"><span class="hide-for-large">Potencia</span> {{ post.power }}</th>
@@ -119,7 +120,6 @@ layout: default
              <th class="text-center"><span class="hide-for-large">Filtro</span> {{ post.filter }}</th>
              <th class="text-center"><span class="hide-for-large">Tecnologia</span> {{ post.technology }}</th>
              <th class="text-center"><a class="button" href="{{ post.link }}">Comprar</a></th>
-             <th class="hide">{{ post.clasification }}</th>
             </tr>
           {% endfor %}
         </tbody>
