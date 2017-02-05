@@ -43,7 +43,7 @@ Video 4. A este braco le gusta tanto la aspiradora que la sigue....
 
 Los bracos italianos son de temperamento amigable, curioso y sociable por lo que no es de extrañar que este haya hecho buenas migas con el aspirador al que sigue para que lo acaricie.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HHmgwzULCh4" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -52,7 +52,7 @@ Video 5. Ronnie adora ser aspirado
 
 Parece que el manual de la aspiradora de este señor sugiere aspirar a sus mascotas, así que dicho y hecho. Sus propietarios probaron con sus gatos, que no quisieron saber nada del tema y con su perrito, aqui teneis el resultado.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HQHMnZkxoe4" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -62,7 +62,7 @@ Hay razas de perro como el pastor de anatolia que son que de carácter fuerte y 
 
 A la vez aprenden muy rápido por lo que este perrito ha debido de darse cuenta enseguida de que los robot aspiradora son 100% inofensivos, lo que le permite dormir la siesta con este a su alrededor tranquilamente.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SDj_84HxB0U" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -70,7 +70,7 @@ Video 7. El perro marmota y el Roomba que lo lo rodeo
 
 Hay perros como los humanos a los que para moverlos hace falta una grúa. Este es un buen ejemplo de uno de esos perros, este labrador ni se inmuta mientras el [Roomba](http://www.lasaspiradoras.com/test-iRobot-roomba-650/) lo rodea. El sigue soñando con los angelitos.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iXLEfsecGNs" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -78,7 +78,7 @@ Video 8. Valiente con 3 meses
 
 Este pequeño labrador de 3 meses es tan bravo o tranquilo, según se mire, como el anterior. Prefiere el descanso al miedo y sigue durmiendo como si tal cosa mientras el [Neato](http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/) aspira a su alrededor.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1m-j6Q-zrKU" frameborder="0" allowfullscreen></iframe>
 </div>
 
@@ -86,7 +86,7 @@ Video 9. Cuando los sueños de un Boston Terrier se cumplen... ✨
 
 Los perros como los seres humano sueña con ser algo algun dia. Para las personas puede ser convertirse en enfermera, arquitecto o cocinero. Veamos en lo que se ha convertido este Boston.
 
-<div class="text-center">
+<div class="flex-video">
   <blockquote class="imgur-embed-pub" lang="en" data-id="5EC7Vqh"><a href="//imgur.com/5EC7Vqh">Dog pursues his lifetime dream in becoming a roomba vacuum cleaner</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
