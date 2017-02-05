@@ -94,7 +94,7 @@ Video 10. Recap de perros que ❤️ la aspiradora
 
 Qué mejor final que un video completo de perros que aman la aspiradora, aquí os lo dejamos.
 
-<div class="text-center">
+<div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ax5uPRZ8Zjw" frameborder="0" allowfullscreen></iframe>
 </div>
 
