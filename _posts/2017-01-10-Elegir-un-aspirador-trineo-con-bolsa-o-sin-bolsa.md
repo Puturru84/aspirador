@@ -173,5 +173,5 @@ En conclusión, y nos damos cuenta a la hora de intercambiar información con lo
 Las únicas ventajas objetivas e indiscutibles se refieren a la reducción de ruido para el modelo con bolsa de la compra y de la ausencia de consumibles para los modelos sin bolsa.
 
 <div class="text-center">
-<a class="warning hollow button" href="{{ site.url }}">Consulta nuestra lista de los mejores aspiradores</a>
+<a class="warning hollow button" href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/">Consulta nuestra lista de los mejores aspiradores</a>
 </div>
