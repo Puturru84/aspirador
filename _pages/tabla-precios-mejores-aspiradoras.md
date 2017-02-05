@@ -1,8 +1,7 @@
 ---
-permalink: /404/
-layout: page
-title: Página no encontrada
-sitemap: false
+permalink: "tabla-precios-mejores-aspiradoras/"
+layout: "page"
+title: "Página no encontrada"
 ---
 
 Uops! Lo sentimos pero la pagina que estas buscando no existe, pincha en el boton para volver a la pagina de inicio.
