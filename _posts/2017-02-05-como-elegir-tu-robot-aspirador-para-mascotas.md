@@ -26,7 +26,7 @@ Si bien adoramos a nuestras mascotas, nos gusta bastante menos que su pelo campe
 
 ¿Cómo elegir el mejor robot aspirador para mascotas?
 
-Para elegir el mejor robot aspirador para mascotas necesitamos tener en cuenta 7 criterios que te explicamos a continuación y elegir en función de nuestro presupuesto el aspirador que responda de manera más eficiente a estos.
+Para elegir el mejor robot aspirador para mascotas necesitamos tener en cuenta 7 criterios que te explicamos a continuación. Después tendremos que elegir en función de nuestro presupuesto el aspirador que responda de manera más eficiente a dichos criterios.
 
 <h4>1. Cobertura de la superficie</h4>
 
