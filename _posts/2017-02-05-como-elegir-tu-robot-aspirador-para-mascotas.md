@@ -39,7 +39,7 @@ Dos buenas opciones son el [Neato D85](http://www.lasaspiradoras.com/test-neato-
 
 <h4>2. Autonomía</h4>
 
-El hecho de que el aspirador robot sea autónomo, y por autónomo queremos decir: que vuelva a su base cuando se le acabe la batería, que se sitúe bien en la casa y que no se que colgado y perdido sin saber qué hacer, es una necesidad en un hogar con mascotas peludas. En este caso la necesidad va más allá de un simple robot que aspire como si barriera, en este tipo de hogares necesitamos un robot aspirador capaz de acabar con el pelo de nuestro perro o gato.
+El hecho de que el aspirador robot sea autónomo, y por autónomo queremos decir: que vuelva a su base cuando se le acabe la batería, que se sitúe bien en la casa y que no se quede colgado y perdido sin saber qué hacer, es una necesidad en un hogar con mascotas peludas. En este caso la necesidad va más allá de un simple robot que aspire como si barriera, en este tipo de hogares necesitamos un robot aspirador capaz de acabar con el pelo de nuestro perro o gato.
 
 Un buen ejemplo de autonomía con una de las más grandes del mercado es el [Neato Connected](http://www.lasaspiradoras.com/test-neato-robotics-connected/) .
 
