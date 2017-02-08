@@ -11,7 +11,7 @@ Según la federación europea de la industria de comida para mascotas, [fediaf,]
   <img src="{{ site.url }}/assets/img/varias/perros-gatos.png" width="600" height="auto" alt="robot aspirador para mascotas">
 </div>
 
-En total en España hay 9.200.000 animales repartidos en nuestros los hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60 000.
+En total en España hay 9.200.000 animales repartidos en nuestros hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60 000.
 
 Como muchos ya sabréis los animales pierden pelo. Los gatos de interior en concreto pierden pelo todo el año, los conejos cada tres meses y muchos perros pierden principalmente en dos estaciones, primavera y otoño.
 
