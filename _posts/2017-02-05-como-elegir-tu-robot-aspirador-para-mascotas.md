@@ -11,14 +11,13 @@ Según la federación europea de la industria de comida para mascotas, [fediaf,]
   <img src="{{ site.url }}/assets/img/varias/perros-gatos.png" width="600" height="auto" alt="robot aspirador para mascotas">
 </div>
 
-En total en España hay 9.200.000 animales repartidos en nuestros hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60 000.
+En cifras absolutas esto quiere decir que en total en España hay 9.200.000 animales peludos repartidos en nuestros hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60.000.
 
-Como muchos ya sabréis los animales pierden pelo. Los gatos de interior en concreto pierden pelo todo el año, los conejos cada tres meses y muchos perros pierden principalmente en dos estaciones, primavera y otoño.
+Como muchos ya sabréis los animales pierden pelo. Los gatos de interior en concreto pierden pelo todo el año y muchos perros pierden principalmente en dos estaciones, primavera y otoño.
 
 A la vista de estos datos está claro que no todo el mundo ha elegido una pitón o una tortuga como mascota, sino que la mayoría de los animales que tenemos en nuestros hogares son peludos y además pierden pelo.
 
 Si bien adoramos a nuestras mascotas, nos gusta bastante menos que su pelo campe libremente por toda la casa y queremos encontrar la mejor solución para librarnos de él y tener una casa limpia. Por eso los dueños de mascotas buscan un robot aspirador potente.
-
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/gatito.png" width="300" height="auto" alt="robot aspirador para mascotas">
@@ -57,19 +56,19 @@ El objetivo es que los pelos de las mascotas se enganchasen menos en los cepillo
 
 El filtro es una parte importante de nuestro aspirador. Dependiendo de su calidad es la garantía de que va a atrapar ciertas partículas perjudiciales que se encuentran en el aire.
 
-La clasificación HEPA (High Efficiency Particle Arrester), en español Atrapador de Partículas de Alta Eficiencia garantiza que el filtro recoge las esporas de moho, el polvo, los ácaros del polvo, la caspa de las mascotas y otros alérgenos que se encuentran en el aire. Por esa razón es importante que nuestro robots aspirador tenga un filtro HEPA o en su defecto un filtro especial para animales.
+La clasificación HEPA (High Efficiency Particle Arrester), en español Atrapador de Partículas de Alta Eficiencia, garantiza que el filtro recoge las esporas de moho, el polvo, los ácaros del polvo, la caspa de las mascotas y otros alérgenos que se encuentran en el aire. Por esa razón es importante que nuestro robot aspirador tenga un filtro HEPA o en su defecto un filtro especial para animales.
 
 <h4>6. Capacidad del depósito</h4>
 
 Un hogar con amigos peludos será un hogar en el que el depósito se va a llenar mas rapido que en una casa sin mascotas por lo que es recomendable que el depósito de nuestra aspiradora sea grande. En caso contrario tendremos que vaciarlo más a menudo. Hay aspiradoras con una capacidad de 0,4 litros, pero los últimos modelos albergan hasta 0,7 l de desperdicios.
 
-Consulta nuestra [ tabla de caracteristicas](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/) de las mejoras aspiradoras robots.
+Consulta nuestra [ tabla de caracteristicas](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/) de las mejoras aspiradoras robots para ver la capacidad de cada modelo.
 
 <h4>7. Virtual wall o muro virtual</h4>
 
-Un accesorio que facilita la vida si queremos bloquear la entrada del aspirador robot a una zona concreta de la casa.
+Por ultimo un accesorio que si bien no es imprescindible, facilita la vida si queremos bloquear la entrada del robot aspirador a una zona concreta de la casa.
 
-Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspiradoras para mascotas</b>.
+Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspiradoras para mascotas</b> del mercado.
 
 <div class="media-object stack-for-small">
   <div class="small-11 small-centered columns media-object-section">
