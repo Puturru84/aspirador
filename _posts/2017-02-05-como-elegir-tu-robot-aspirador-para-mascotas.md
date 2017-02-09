@@ -17,7 +17,7 @@ Como muchos ya sabréis los animales pierden pelo. Los gatos de interior en conc
 
 A la vista de estos datos está claro que no todo el mundo ha elegido una pitón o una tortuga como mascota, sino que la mayoría de los animales que tenemos en nuestros hogares son peludos y además pierden pelo.
 
-Si bien adoramos a nuestras mascotas, nos gusta bastante menos que su pelo campe libremente por toda la casa y queremos encontrar la mejor solución para librarnos de él y tener una casa limpia. Por eso los dueños de mascotas buscan un robot aspirador potente.
+Si bien adoramos a nuestras mascotas, nos gusta bastante menos que su pelo campe libremente por toda la casa y queremos encontrar la mejor solución para librarnos de él y tener una casa limpia. Esta es la razón por la que los dueños de mascotas buscan y necesitan un robot aspirador potente.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/gatito.png" width="300" height="auto" alt="robot aspirador para mascotas">
@@ -32,7 +32,7 @@ Para elegir el mejor robot aspirador para mascotas necesitamos tener en cuenta 7
 
 Este criterio es muy importante porque todos sabemos que nuestras mascotas se mueven con total libertad por la casa con lo que pueden dejar pelo por cualquier lado. Su recorrido puede ser enorme para los más activos o mini para los más perezosos, sin embargo esta es una de las características más importantes a la hora de elegir robot aspiradora especial para mascotas.
 
-Si el robot no cubre toda la superficie de la casa vamos a encontrar pelos que se van quedando abandonados por aquí y por allá. Y creo que eso no es lo que buscamos.
+Si el robot no cubre toda la superficie de la casa vamos a encontrar pelos que se van quedando abandonados por aquí y por allá y creo que eso no es lo que buscamos.
 
 Dos buenas opciones son el [Neato D85](http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/) y el [Roomba 871](http://www.lasaspiradoras.com/test-iRobot-roomba-871/) .
 
@@ -50,7 +50,7 @@ Como el uso que vamos a dar al aspirador es muy habitual, prácticamente diario,
 
 Con el paso del tiempo y la experiencia cada marca ha modificado la composición de sus cepillos hasta conseguir resultados más eficientes y un mantenimiento más fácil.
 
-El objetivo es que los pelos de las mascotas se enganchasen menos en los cepillos y en caso de que así sea quitarlos resulte más cómodo. A dia de hoy los aspiradores robot tienen 2 tipos de cepillos, uno compuesto por pelos rígidos y otro con láminas de caucho.
+El objetivo es que los pelos de las mascotas se enganchasen lo menos posible en los cepillos y en caso de que así sea que quitarlos resulte más cómodo. A dia de hoy los aspiradores robot tienen 2 tipos de cepillos, uno compuesto por pelos rígidos y otro con láminas de caucho.
 
 <h4>5. Filtro HEPA o especial mascotas</h4>
 
@@ -60,13 +60,13 @@ La clasificación HEPA (High Efficiency Particle Arrester), en español Atrapado
 
 <h4>6. Capacidad del depósito</h4>
 
-Un hogar con amigos peludos será un hogar en el que el depósito se va a llenar mas rapido que en una casa sin mascotas por lo que es recomendable que el depósito de nuestra aspiradora sea grande. En caso contrario tendremos que vaciarlo más a menudo. Hay aspiradoras con una capacidad de 0,4 litros, pero los últimos modelos albergan hasta 0,7 l de desperdicios.
+Un hogar con amigos peludos será un hogar en el que el depósito se va a llenar más rapido que en una casa sin mascotas por lo que es recomendable que el depósito de nuestra aspiradora sea grande. En caso contrario tendremos que vaciarlo más a menudo. Hay aspiradoras con una capacidad de 0,4 L, pero los últimos modelos albergan hasta 0,7 L de desperdicios.
 
 Consulta nuestra [ tabla de caracteristicas](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/) de las mejoras aspiradoras robots para ver la capacidad de cada modelo.
 
 <h4>7. Virtual wall o muro virtual</h4>
 
-Por ultimo un accesorio que si bien no es imprescindible, facilita la vida si queremos bloquear la entrada del robot aspirador a una zona concreta de la casa.
+Por ultimo, un accesorio que si bien no es imprescindible facilita la vida si queremos bloquear la entrada del robot aspirador a una zona concreta de la casa.
 
 Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspiradoras para mascotas</b> del mercado.
 
@@ -164,6 +164,6 @@ Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspir
 
 – Nuestro consejo a los propietarios de animales
 
-Elijas el modelo de aspirador robot especial para mascotas que elijas, te recomendamos que cojas un modelo programable y autónomo, capaz de valerse por sí mismo en un entorno doméstico sin atascarse cuando se encuentre con un obstáculo.
+Elijas el modelo de aspirador robot especial para mascotas que elijas, te recomendamos que escojas un modelo programable y autónomo, capaz de valerse por sí mismo en un entorno doméstico sin atascarse cuando se encuentre con un obstáculo.
 
-También te recomendamos programar tu robot para que funciona a menudo, cada día o cada dos días máximo para facilitarle la tarea a tu robot. Para él es más fácil recoger unos cuantos pelos dispersos un dia que grandes mechones, que corren el riesgo de quedar atrapados en el cepillo y llenar rápidamente el depósito.
+También te recomendamos programar tu robot para que funciona a menudo, cada día o cada dos días máximo, para facilitarle la tarea a tu robot. Para él es más fácil recoger unos cuantos pelos dispersos un dia que grandes mechones, que corren el riesgo de quedar atrapados en el cepillo y llenar rápidamente el depósito.
