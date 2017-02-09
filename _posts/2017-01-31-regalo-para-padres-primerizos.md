@@ -39,10 +39,10 @@ En este caso la <a href="http://www.lasaspiradoras.com/blog-updates/2016/12/23/G
 
 La  ventaja más significativa, que ha conquistado a más de un corazón, de <b>la aspiradora robot es que hace el trabajo por ti</b>. Es una tarea menos de la que debes ocuparte, con lo que <b>ganas tiempo</b> y liberas tu mente para hacer otra cosa que sea más satisfactoria, en este caso ocuparte y <b>disfrutar de tu bebé.</b>
 
-La segunda <b>garantiza la limpieza</b>, más o menos intensa según el modelo de aspiradora robot que elijas, de tu hogar. Tu casa estará libre de pelusas, cabello, pelos de mascota (si las tienes), polen, desperdicios y polvo.
+La segunda <b>garantiza la limpieza</b>, más o menos intensa según el modelo de aspiradora robot que elijas, de tu hogar. Tu casa estará libre de pelusas, cabello, pelos de mascota (si la tienes), polen, desperdicios y polvo.
 Muchas de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> vienen con un filtro HEPA, lo que quiere decir que pueden absorber el 99,97% de las partículas que pasan a través de ellos que tengan un tamaño superior a los 0.3 micrómetros.
 
-Otra ventaja es que su <b>autonomía</b>, puedes <b>programarla</b> para que “trabaje” en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería ellas mismas se desplaza sola a su base para recargarse.
+Otra ventaja es su <b>autonomía</b>, puedes <b>programarla</b> para que “trabaje” en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería se desplazan solas hasta su base para recargarse.
 
 Además, las aspiradoras robots <b>no requieren mucho mantenimiento</b>, basta con vaciar el depósito cuando esté lleno y limpiar los filtros de vez en cuando.
 
@@ -52,8 +52,8 @@ Asimismo las aspiradoras robots son de media <b>más silenciosas</b> que las asp
   <img src="{{ site.url }}/assets/img/varias/idea-regalo-padres-primerizos-2.jpg" width="600" height="auto" alt="regalo padres primerizos aspiradora robot">
 </div>
 
-Por último, la aspiradora durará varios años con lo que este regalo que reciben cuando su hijo es recién nacido les permitirá dedicar más tiempo a su hijo durante toda su infancia.
+Por último, la aspiradora durará varios años con lo que este regalo que reciben cuando su hijo es recién nacido les permitirá dedicarle más tiempo durante toda su infancia.
 
-Con una gama de precios bastante amplia, a partir de 120 €  para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación, una aspiradora robot es el regalo perfecto para cualquier pareja que acabe de tener un hijo para liberarles de una parte de las tareas domésticas y que puedan dedicar ese tiempo a su bebé o simplemente a descansar, mientras su casa está limpia.
+Con una gama de precios bastante amplia, a partir de 120 €  para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación, una aspiradora robot es el regalo perfecto para cualquier pareja que acabe de tener un hijo. El robot libera a los padres de una parte de las tareas domésticas y les permite dedicar ese tiempo a su bebé o simplemente a descansar mientras su casa está limpia.
 
-Para hacer la mejor elección os invitamos a consultar la lista de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> donde encontrareis de manera clara y sencilla toda la informacion necesaria para hacer la mejor compra.
+Para hacer la mejor elección os invitamos a consultar la lista de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> donde encontrareis de manera clara y sencilla toda la información necesaria para hacer la mejor compra.
