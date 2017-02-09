@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: "post"
 title:  "10 Perros a los que les encanta la aspiradora"
-categories: blog-updates
+categories: "blog-updates"
 description: "Sabemos que el título puede ser sorprendente y que más bien suele ser al revés, que a los perros no les gusta la aspiradora y algunos la detestan tanto que la ven como el enemigo a batir."
 ---
 

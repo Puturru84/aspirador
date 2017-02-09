@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: "post"
 title:  "¿Por qué comprar en Amazon?"
-categories: blog-updates
-description: “Resolvemos tus dudas de porque y como comprar en Amazon”
+categories: "blog-updates"
+description: "Resolvemos tus dudas de porque y como comprar en Amazon"
 ---
 
 

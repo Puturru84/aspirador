@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: "post"
 title:  "Los diferentes tipos de aspiradores sin bolsa"
-categories: blog-updates
-desciption: “Te explicamos los diferentes modelos de aspiradores sin bolsa para que compres el que más se adapte a tus necesidades”
+categories: "blog-updates"
+desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para que compres el que más se adapte a tus necesidades"
 ---
 
   Debemos la democratización de la invención de la aspiradora sin bolsa al ingeniero e inventor Británico Sir James Dyson, que ha permitido que muchos hogares se beneficien de productos de muy buena calidad a precios asequibles.

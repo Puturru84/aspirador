@@ -2,7 +2,7 @@
 layout: post
 title:  "Guia de compra de una aspiradora robot"
 categories: blog-updates
-desciption: “Guia para comprar tu aspiradora robot, todas las características que necesitas saber antes de hacer tu compra”
+desciption: "Guia para comprar tu aspiradora robot, todas las características que necesitas saber antes de hacer tu compra"
 ---
 
 El uso de las aspiradoras robot va viento en popa desde hace unos meses y con razón. Llenos de tecnología hacen el trabajo por ti, este producto está cambiando nuestros hábitos en la misma medida que lo hizo la lavadora en los años 70 y 80.
