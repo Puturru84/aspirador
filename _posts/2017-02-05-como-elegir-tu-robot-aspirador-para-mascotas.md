@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: "post"
 title:  "Cómo elegir tu robot aspirador para mascotas"
-categories: blog-updates
-description: "En España hay 9.200.000 animales repartidos en nuestros los hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60 000."
+categories: "blog-updates"
+description: "En España hay 9.200.000 animales repartidos en nuestros los hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60.000."
 ---
 
 Según la federación europea de la industria de comida para mascotas, [fediaf,](http://www.fediaf.org/) uno de cada cuatro hogares en España tiene un perro como mascota (exactamente el 26%), mientras que un 19% de los españoles tiene un gato como animal de compañía. Aunque estas cifras puedan parecer altas el promedio de mascotas que poseen los españoles es inferior respecto al resto de países europeos.

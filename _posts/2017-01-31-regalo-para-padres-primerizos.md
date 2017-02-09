@@ -2,10 +2,11 @@
 layout: post
 title:  "Regalo para padres primerizos"
 categories: blog-updates
-description: "La pareja de recién papás recibe los regalos de buen grado porque todos sabemos que tener un bebé supone una inversión. Sin embargo, ¿qué le parecería tanto a la mamá como al papa como al bebé que les regalasen tiempo?"
+description: "La pareja de
+recién papás recibe los regalos de buen grado porque todos sabemos que tener un bebé supone una inversión. Sin embargo, ¿qué le parecería tanto a la mamá como al papa como al bebé que les regalasen tiempo?"
 ---
 
-Ya lo dice el refrán “los niños vienen con un pan debajo del brazo”, y es que tener un bebé es una bendición. Una parte de ti que se une a la familia. La sensación de ser mama y papa no es comparable a ninguna otra, especialmente porque después de nueve meses de espera tenemos unas ganas locas de poder pasar tiempo con nuestro angelito.
+Ya lo dice el refrán los niños vienen con un pan debajo del brazo, y es que tener un bebé es una bendición. Una parte de ti que se une a la familia. La sensación de ser mama y papa no es comparable a ninguna otra, especialmente porque después de nueve meses de espera tenemos unas ganas locas de poder pasar tiempo con nuestro angelito.
 
 A esta feliz situación que viven los papas se unen la familia y los amigos que además de ponerse muy contentos se desviven para ayudarnos en todo lo que necesitemos. Incluso es habitual que recibamos un montón de regalos, antes y después del nacimiento. Es posible que el primer año de vida de nuestro bebé no podamos ni elegir que estilo de ropa le vamos a poner de toda que le han regalado (al menos eso dicen mis amigas).
 
@@ -42,7 +43,7 @@ La  ventaja más significativa, que ha conquistado a más de un corazón, de <b>
 La segunda <b>garantiza la limpieza</b>, más o menos intensa según el modelo de aspiradora robot que elijas, de tu hogar. Tu casa estará libre de pelusas, cabello, pelos de mascota (si la tienes), polen, desperdicios y polvo.
 Muchas de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> vienen con un filtro HEPA, lo que quiere decir que pueden absorber el 99,97% de las partículas que pasan a través de ellos que tengan un tamaño superior a los 0.3 micrómetros.
 
-Otra ventaja es su <b>autonomía</b>, puedes <b>programarla</b> para que “trabaje” en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería se desplazan solas hasta su base para recargarse.
+Otra ventaja es su <b>autonomía</b>, puedes <b>programarla</b> para que "trabaje" en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería se desplazan solas hasta su base para recargarse.
 
 Además, las aspiradoras robots <b>no requieren mucho mantenimiento</b>, basta con vaciar el depósito cuando esté lleno y limpiar los filtros de vez en cuando.
 
