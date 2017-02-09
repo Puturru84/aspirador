@@ -80,7 +80,7 @@ Para algunos usuarios, el hecho de poder vaciar el colector del aspirador sin bo
 
 Otros usuarios pueden sentir que la aspiradora sin bolsa ofrece una gestión más flexible del polvo e inmediata.
 
-Por otra parte, algunas bolsas (de papel principalmente) son el porosas y vaciandolas el polvo “transpira”.
+Por otra parte, algunas bolsas (de papel principalmente) son el porosas y vaciandolas el polvo "transpira".
 
 Cuando la bolsa está llena, también ocurre que la apertura de la cubierta provoca una llamada de aire y un vuelo de polvo. Para evitar esto, algunos modelos tienen una pequeña válvula para bloquear la bolsa, pero no es el caso para todos.
 

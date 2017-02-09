@@ -5,8 +5,6 @@ categories: "blog-updates"
 description: "Resolvemos tus dudas de porque y como comprar en Amazon"
 ---
 
-
-
 Seguro que a estas alturas cualquiera que haga uso de internet conoce Amazon. Amplia variedad de artículos, precios atractivos, pago seguro, buen servicio, rapido envio, estas son algunas de las características que definen la experiencia de compra de Amazon.
 
 A continuación vamos a explicaros cómo comprar en Amazon y qué ventajas presenta.
@@ -21,7 +19,7 @@ O bien que estemos comprando un producto vendido directamente a través de Amazo
 
 <h4>¿Cuales son las ventajas de comprar en Amazon?</h4>
 
-La primera es que desde una sola plataforma puedes ver, buscar y conocer el precio y la disponibilidad de un producto en diferentes “proveedores”. De esta manera puedes elegir la opción que sea más barata, la que tenga un envío más rápido o la que más confianza te de.
+La primera es que desde una sola plataforma puedes ver, buscar y conocer el precio y la disponibilidad de un producto en diferentes proveedores. De esta manera puedes elegir la opción que sea más barata, la que tenga un envío más rápido o la que más confianza te de.
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/amazon-proveedores.png" width="500" height="auto" alt="aspirador con bolsa">

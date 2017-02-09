@@ -29,7 +29,7 @@ Cables que pasan alrededor de las patas de la silla, colgando en frente de las e
 
 <h4>4. Cambia la forma de limpiar</h4>
 
-La limpieza con una aspiradora inalámbrica revoluciona tus hábitos de limpieza. En lugar de esperar a hacer una limpieza completa semanal o cada “x” días, verás que utilizas tu aspiradora inalámbrica un poco y más menudo, ya que es cómoda y fácil.
+La limpieza con una aspiradora inalámbrica revoluciona tus hábitos de limpieza. En lugar de esperar a hacer una limpieza completa semanal o cada "x" días, verás que utilizas tu aspiradora inalámbrica un poco y más menudo, ya que es cómoda y fácil.
 Esta práctica es genial para mantener una casa limpia toda la semana y tener más tiempo libre para hacer lo que quieras.
 
 <h4>5. Entra en el coche (o en la caravana o en el barco)</h4>
