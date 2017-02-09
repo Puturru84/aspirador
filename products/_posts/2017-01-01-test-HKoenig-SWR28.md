@@ -12,7 +12,7 @@ technology: "-"
 power: "24 V"
 power-op: "3"
 capacity: "0.4 L"
-capacity-op: "4"
+capacity-op: "3"
 sound: "60 dB"
 sound-op: "5"
 filter: "HEPA"
@@ -122,7 +122,7 @@ Su algoritmo permite que se mueva de forma inteligente y logra dividir y aspirar
 Para un resultado óptimo conviene ayudarle un poquito y apartar de su camino los cables.
 A veces hemos notado que vuelve a pasar por zonas que ya ha aspirado anteriormente.
 
-#### Conclusión  pts 4 / 5
+#### Conclusión  pts 3,9 / 5
 
 Con una excelente relación calidad / precio, este robot aspirador es potente y fácil de usar. <br>
 No es perfecto, algunas opciones o características de más habrían estado bien, pero a este precio no se puede pedir más.

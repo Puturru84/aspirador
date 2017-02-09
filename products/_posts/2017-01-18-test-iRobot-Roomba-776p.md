@@ -12,7 +12,7 @@ technology: "Sistema Aeroforce, navegación sensible iAdapt, filtros AeroVac"
 power: "33 V"
 power-op: "5"
 capacity: "0,4 L"
-capacity-op: "4"
+capacity-op: "3"
 sound: "65 dB"
 sound-op: "4,5"
 filter: "filtro HEPA"
@@ -167,7 +167,7 @@ Un icono iluminado aparece en la estructura del robot. El Roomba  776p  comienza
 
 El sistema de navegación es muy eficiente ya que el 776p Roomba logra navegar por las diferentes habitaciones, cubriendo la superficies bastante correctamente y encontrando su base sin fallos.
 
-La cobertura no es perfecta, pero el Dirt Detect 2 cumple con su propósito y la limpieza general del suelo es satisfactoria (se hace hincapié en determinadas zonas mediante la detección de la suciedad aspirada por los sensores ópticos y acústicos). El modelo superior, <a href="http://localhost:3000/test-iRobot-roomba-980/">el Roomba 980</a>, ofrece una cobertura mejorada, es muy potente (eficacia aumentada un 50%) y también acaba con el pelo de las mascotas.
+La cobertura no es perfecta, pero el Dirt Detect 2 cumple con su propósito y la limpieza general del suelo es satisfactoria (se hace hincapié en determinadas zonas mediante la detección de la suciedad aspirada por los sensores ópticos y acústicos). El modelo superior, <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-871/">el Roomba 871</a>, ofrece una cobertura mejorada, es muy potente (eficacia aumentada un 50%) y también acaba con el pelo de las mascotas.
 
 #### Gestión de obstáculos
 
@@ -180,7 +180,7 @@ Este modelo tiene un sistema antienredo. Cuando detecta un embrollo (con cables 
 
 Si bien el contorno de los objetos de la casa no se limpia con un cuidado meticuloso tal como lo hacen otros robots (alrededor de las patas de la silla o un sofá, por ejemplo), navega por toda la casa sin quedarse bloqueado y regresa a la base después de la limpieza. Por lo tanto, es bastante autónomo.
 
-#### Conclusión 4,5 pts / 5
+#### Conclusión 4,4 pts / 5
 
 El 776p Roomba diseñado para los propietarios de los animales cumple con su función con el apoyo de los indicadores de límites.
 
