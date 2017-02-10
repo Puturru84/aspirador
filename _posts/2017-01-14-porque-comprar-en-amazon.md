@@ -45,7 +45,7 @@ Tienes un mes de prueba gratis, luego el precio es de 19,95 € / año.
 </iframe>
 </div>
 
-La última ventaja es que puedes comprar con varias tarjetas (la compra es 100% segura) y enviar los productos a varias direcciones. Yo le compro cosas a mi madre, que no se anima todavía con “esto de comprar por internet” y que me tiene de intermediaria.
+La última ventaja es que puedes comprar con varias tarjetas (la compra es 100% segura) y enviar los productos a varias direcciones. Yo le compro cosas a mi madre, que no se anima todavía con "esto de comprar por internet" y que me tiene de intermediaria.
 
 <h4>Qué pasa si no estoy contento con el producto y quiero devolverlo.</h4>
 
