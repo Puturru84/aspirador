@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Regalo para padres primerizos"
+date: "2017-01-31 17:00:00"
 categories: "blog-updates"
 description: "La pareja de
 recién papás recibe los regalos de buen grado porque todos sabemos que tener un bebé supone una inversión. Sin embargo, ¿qué le parecería tanto a la mamá como al papa como al bebé que les regalasen tiempo?"

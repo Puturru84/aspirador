@@ -2,6 +2,7 @@
 layout: "post"
 title:  "¿Cómo elegir correctamente tu aspirador sin bolsa?"
 categories: "blog-updates"
+date: "2016-11-19 17:00:00"
 description: "Te explicamos cuáles son las características principales que debes mirar para comprar tu aspiradora sin bolsa"
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Elegir un aspirador trineo con bolsa o sin bolsa? Ventajas y desventajas de las dos tecnologías."
+date: "2017-01-10 17:00:00"
 categories: "blog-updates"
 description: "Guia para decidir si prefieres comprar un aspirador trineo con o sin bolsa, ventajas y desventajas de las dos tecnologías"
 ---

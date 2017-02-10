@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Los diferentes tipos de aspiradores sin bolsa"
+date: "2016-11-20 17:00:00"
 categories: "blog-updates"
 desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para que compres el que más se adapte a tus necesidades"
 ---

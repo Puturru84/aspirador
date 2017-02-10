@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Guia de compra de una aspiradora robot"
+date: "2016-12-23 17:00:00"
 categories: blog-updates
 desciption: "Guia para comprar tu aspiradora robot, todas las características que necesitas saber antes de hacer tu compra"
 ---
@@ -118,7 +119,7 @@ Algunas marcas o modelos son conocidos por su longevidad: elegir la calidad te e
 
 <h4>Número Criterio 4: La programación</h4>
 
-Esto es en última instancia por lo que compramos un aspirador robot “X” u otro: volvemos a casa después del trabajo y queremos encontrar una casa limpia gracias a una aspiradora que haya limpiado por nosotros. Este sueño está a tu alcance! Simplemente, hay que poner atencion:
+Esto es en última instancia por lo que compramos un aspirador robot "X" u otro: volvemos a casa después del trabajo y queremos encontrar una casa limpia gracias a una aspiradora que haya limpiado por nosotros. Este sueño está a tu alcance! Simplemente, hay que poner atencion:
 
 Algunos dispositivos pueden ser <b>programados</b> para limpiar tu casa <b>ciertos días</b> de la semana a <b>ciertas horas.</b>
 En la gama baja, los aspiradores solo cuentan con un inicio diferido: puedes programarlos para empezar a trabajar una hora después de que te hayas ido, por ejemplo.

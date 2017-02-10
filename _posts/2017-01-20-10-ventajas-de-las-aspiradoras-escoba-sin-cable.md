@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "10 ventajas de las aspiradoras escoba sin cable"
+date: "2017-01-20 17:00:00"
 categories: "blog-updates"
 description: "10 Ventajas que te ofrece la aspiradora sin cable. Libertad, comodidad, accesibilidad..."
 ---

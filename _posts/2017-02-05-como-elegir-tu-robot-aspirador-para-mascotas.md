@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "Cómo elegir tu robot aspirador para mascotas"
+date: "2017-02-05 17:00:00"
 categories: "blog-updates"
 description: "En España hay 9.200.000 animales repartidos en nuestros los hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60.000."
 ---

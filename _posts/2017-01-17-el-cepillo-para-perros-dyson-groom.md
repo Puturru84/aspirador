@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "El cepillo para perros Dyson Groom"
+date: "2017-01-17 17:00:00"
 categories: "blog-updates"
 description: "Explicamos como funciona el cepillo para perros de Dyson, el dyson Groom"
 ---

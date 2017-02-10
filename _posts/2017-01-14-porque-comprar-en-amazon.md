@@ -1,6 +1,7 @@
 ---
 layout: "post"
 title:  "¿Por qué comprar en Amazon?"
+date: "2017-01-14 17:00:00"
 categories: "blog-updates"
 description: "Resolvemos tus dudas de porque y como comprar en Amazon"
 ---
