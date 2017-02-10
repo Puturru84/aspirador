@@ -1,5 +1,6 @@
 ---
 permalink: "test-iRobot-roomba-650/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test iRobot roomba 650"
 categories:

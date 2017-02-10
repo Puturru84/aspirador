@@ -1,5 +1,6 @@
 ---
 permalink: "test-iRobot-roomba-776p/"
+date: "2017-01-18 15:00:00"
 layout: "product-page"
 title: "Test iRobot Roomba 776p"
 categories:

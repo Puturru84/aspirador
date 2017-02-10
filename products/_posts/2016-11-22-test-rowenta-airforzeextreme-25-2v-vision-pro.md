@@ -1,5 +1,6 @@
 ---
 permalink: "test-Rowenta-airforzeextreme-25-2v-vision-pro/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Rowenta Airforze Extreme 25.2v vision-pro"
 categories:

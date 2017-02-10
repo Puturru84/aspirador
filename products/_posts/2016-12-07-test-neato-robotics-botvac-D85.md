@@ -1,5 +1,6 @@
 ---
 permalink: "test-neato-robotics-botvac-D85/"
+date: "2016-12-07 15:00:00"
 layout: "product-page"
 title: "Test Neato Robotics Botvac D85"
 categories:

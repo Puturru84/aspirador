@@ -1,6 +1,7 @@
 ---
 permalink: "test-dyson-dc33c-origin/"
 layout: "product-page"
+date: "2016-12-07 15:00:00"
 title: "Test Dyson DC33C Origin"
 categories:
   - product

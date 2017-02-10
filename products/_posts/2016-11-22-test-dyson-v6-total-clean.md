@@ -1,5 +1,6 @@
 ---
 permalink: "test-Dyson-V6-Total-Clean/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Dyson V6 total clean"
 categories:

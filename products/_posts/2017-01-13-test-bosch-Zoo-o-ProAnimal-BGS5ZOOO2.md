@@ -1,5 +1,6 @@
 ---
 permalink: "test-bosch-Zoo-o-ProAnimal-BGS5ZOOO2/"
+date: "2017-01-13 15:00:00"
 layout: "product-page"
 title: "Test Bosch Zoo o ProAnimal BGS5ZOOO2"
 categories:

@@ -1,5 +1,6 @@
 ---
 permalink: "test-iRobot-roomba-980/"
+date: "2016-12-01 15:00:00"
 layout: "product-page"
 title: "Test iRobot Roomba 980"
 categories:

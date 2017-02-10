@@ -1,5 +1,6 @@
 ---
 permalink: "test-bosch-athlet-bbh52550/"
+date: "2017-01-06 15:00:00"
 layout: "product-page"
 title: "Test Bosch Athlet BBH52550"
 categories:

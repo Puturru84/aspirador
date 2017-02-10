@@ -1,5 +1,6 @@
 ---
 permalink: "test-Dyson-DC62-animal-pro/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Dyson DC62 Animal Pro"
 categories:

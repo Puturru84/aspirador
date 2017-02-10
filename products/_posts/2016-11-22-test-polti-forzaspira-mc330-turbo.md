@@ -1,5 +1,6 @@
 ---
 permalink: "test-polti-forzaspira-MC330-turbo/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Polti Forzaspira MC330 Turbo"
 categories:

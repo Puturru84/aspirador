@@ -1,5 +1,6 @@
 ---
 permalink: "test-neato-robotics-connected/"
+date: "2017-01-26 15:00:00"
 layout: "product-page"
 title: "Test Neato Robotics Connected"
 categories:

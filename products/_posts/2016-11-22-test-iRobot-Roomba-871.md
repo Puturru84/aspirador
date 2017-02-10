@@ -1,5 +1,6 @@
 ---
 permalink: "test-iRobot-roomba-871/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test iRobot Roomba 871"
 categories:
@@ -15,7 +16,7 @@ capacity: "0,6 L"
 capacity-op: "5"
 sound: "61 dB"
 sound-op: "5"
-filter: "filtro AeroForce"
+filter: "filtro HEPA 11"
 filter-op: "4"
 weight: "3,8 kg"
 weight-op: "3.5"
@@ -84,7 +85,7 @@ También se puede programar para 7 días, lo cual es ideal para ir a casa y enco
 
 #### Aspirado  
 
-La principal particularidad de este modelo es que <b>sus cepillos son ahora de caucho/<b>, a diferencia de los modelos de la serie 700, que eran de pelo sintético. Este cambio radical ha sido pensado para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.
+La principal particularidad de este modelo es que <b>sus cepillos son ahora de caucho</b>, a diferencia de los modelos de la serie 700, que eran de pelo sintético. Este cambio radical ha sido pensado para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.
 
 Aspira hasta cinco veces más que los modelos anteriores, el robot se compara casi un aspirador convencional.
 Por lo tanto será capaz de aspirar en todos los tipos de suelo, además puede ajustar la altura de la suspensión de acuerdo con el tipo de superficie a la que debe enfrentarse para garantizar el mejor resultado.

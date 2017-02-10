@@ -1,5 +1,6 @@
 ---
 permalink: "test-HKoenig-SWR32/"
+date: "2017-01-11 15:00:00"
 layout: "product-page"
 title: "Test H.Koenig SWR38"
 categories:

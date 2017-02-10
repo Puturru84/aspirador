@@ -1,5 +1,6 @@
 ---
 permalink: "test-dyson-cinetic-big-ball-absolute/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Dyson Cinetic Big Ball Absolute"
 categories:

@@ -1,5 +1,6 @@
 ---
 permalink: "test-rowenta-silenceforce-multi-ciclonic-RO8341/"
+date: "2016-11-22 15:00:00"
 layout: "product-page"
 title: "Test Rowenta Silence Force Multi-Cyclonic RO8341"
 categories:
