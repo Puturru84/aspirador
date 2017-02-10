@@ -3,8 +3,7 @@ layout: "post"
 title:  "Regalo para padres primerizos"
 date: "2017-01-31 17:00:00"
 categories: "blog-updates"
-description: "La pareja de
-recién papás recibe los regalos de buen grado porque todos sabemos que tener un bebé supone una inversión. Sin embargo, ¿qué le parecería tanto a la mamá como al papa como al bebé que les regalasen tiempo?"
+description: "La pareja de recién papás recibe los regalos de buen grado porque todos sabemos que tener un bebé supone una inversión. Sin embargo, ¿qué le parecería tanto a la mamá como al papa como al bebé que les regalasen tiempo?"
 ---
 
 Ya lo dice el refrán los niños vienen con un pan debajo del brazo, y es que tener un bebé es una bendición. Una parte de ti que se une a la familia. La sensación de ser mama y papa no es comparable a ninguna otra, especialmente porque después de nueve meses de espera tenemos unas ganas locas de poder pasar tiempo con nuestro angelito.
