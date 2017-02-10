@@ -109,13 +109,13 @@ Aquí no se puede hablar de eficiencia de aspirado, sino de barrer o de limpiar 
 
 Los dos modos (tela blanca o naranja) donde no hay lavado ayudan a mantener la limpieza de piezas que cogen polvo o eliminar el pelo de animales.
 
-Este modelo deja una fragancia agradable en el modo limpiar (bayetas azules). Podemos decir que hace el trabajo y bastante bien. La vibración de la toallita, la humidificación y el paso sistemático del robot se comportan como se espera de ellos. Nuestros azulejos blancos quedaron perfectamente, sin manchas de café o de “agua”, y tampoco dejó  ninguna marca sobre el parquet.
+Este modelo deja una fragancia agradable en el modo limpiar (bayetas azules). Podemos decir que hace el trabajo y bastante bien. La vibración de la toallita, la humidificación y el paso sistemático del robot se comportan como se espera de ellos. Nuestros azulejos blancos quedaron perfectamente, sin manchas de café o de "agua", y tampoco dejó  ninguna marca sobre el parquet.
 
 Por último nos gusta que la cantidad de agua dispensada está bien proporcionada. Se necesita un breve tiempo de secado, pero el suelo no está se queda empapado tras su paso, así que el tiempo es poco.
 
 #### Ruido
 
-El Braava 380 es completamente silencioso. Incluso se le puede dejar funcionando de noche sin perturbar el sueño de los residentes. Sin embargo el Braava Jet 240 es un poco ruidoso. Sus movimientos son en sí mismos igual de silenciosos, sin embargo la vibración del lavado de la toallita en modo lavado aumenta el nivel de ruido (46 dB), así como la proyección de agua que hace un sonido “robótico”, haciendo subir puntualmente el nivel a 53 dB.
+El Braava 380 es completamente silencioso. Incluso se le puede dejar funcionando de noche sin perturbar el sueño de los residentes. Sin embargo el Braava Jet 240 es un poco ruidoso. Sus movimientos son en sí mismos igual de silenciosos, sin embargo la vibración del lavado de la toallita en modo lavado aumenta el nivel de ruido (46 dB), así como la proyección de agua que hace un sonido "robótico", haciendo subir puntualmente el nivel a 53 dB.
 
 Este ruido sigue siendo discreto si evitamos hacer que funcione en la habitación mientras uno duerme. Puede funcionar en la habitación de al lado del dormitorio sin problemas o en presencia de los habitantes de la casa.
 
@@ -182,7 +182,7 @@ En cuanto a la alfombra, las detecta y la trata como un obstáculo, sin pasar po
 
 #### Conclusión  4.5 pts  / 5
 
-No debemos engañarnos: si deseas dejar de fregar el suelo en tu casa al completo, este producto no es para ti. El Braava Jet está pensado sólo para zonas “concretas” (de aproximadamente 20 m²). Si limitamos su uso a un aseo, un baño, una cocina e incluso una pequeña habitación, y si uno está dispuesto a asumir el coste de toallitas, la Braava Jet hace muy buen trabajo.
+No debemos engañarnos: si deseas dejar de fregar el suelo en tu casa al completo, este producto no es para ti. El Braava Jet está pensado sólo para zonas "concretas" (de aproximadamente 20 m²). Si limitamos su uso a un aseo, un baño, una cocina e incluso una pequeña habitación, y si uno está dispuesto a asumir el coste de toallitas, la Braava Jet hace muy buen trabajo.
 
 Todas las promesas se cumplen y se aprecia especialmente la eficacia del nuevo modo proponiendo el lavado de suelos.
 

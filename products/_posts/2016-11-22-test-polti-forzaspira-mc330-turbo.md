@@ -102,7 +102,7 @@ Con dos cepillos de turbo, el MC330 turbo parecía predestinado para ser un camp
 
 En nuestro test de pelos de Igor, una mezcla de labrador y golden, extendimos su pelo en un círculo de 30 cm, a la Forzaspira MC330 Turbo le costo alrededor de 18 segundos limpiar el pelo por completo. El resultado es correcto, pero no lo suficiente como para clasificarlo como un aspirador de éxito para pelos de mascota.
 
-Con el cepillo para suelos duros el resultado fue más positivo y logró recoger los pelos sueltos. Sin embargo, al final de la prueba, nos dimos cuenta de que los pelos se habían quedado entrelazados alrededor de las ruedas más pequeñas, requiriendo unos minutos de “operación” para limpiarlos antes de guardar el aspirador.
+Con el cepillo para suelos duros el resultado fue más positivo y logró recoger los pelos sueltos. Sin embargo, al final de la prueba, nos dimos cuenta de que los pelos se habían quedado entrelazados alrededor de las ruedas más pequeñas, requiriendo unos minutos de "operación" para limpiarlos antes de guardar el aspirador.
 
 A pesar de prometer mucho para nuestros amigos peludos, el rendimiento del Polti en una casa con perro hace recordar que hay un perro en casa.
 

@@ -93,7 +93,7 @@ Apreciamos que la base de carga sea compacta, lo que es cómodo si dejas el Room
 
 Hay que tener cuidado con el depósito, es semiabierto y cuando tenemos que quitarlo para vaciarlo se puede verter fácilmente - igual que si cogemos el robot inclinandolo.
 
-Su capacidad es de “sólo” 0,4 l. Si tienes animales en casa lo mejor será que pienses en vaciarlo después de cada uso o cada dos usos.
+Su capacidad es de "sólo" 0,4 l. Si tienes animales en casa lo mejor será que pienses en vaciarlo después de cada uso o cada dos usos.
 
 Este modelo, contrariamente Roomba 765, viene sin mando a distancia, lo que no se echa de menos.
 
@@ -123,7 +123,7 @@ El Roomba 776p  consume 26 W en carga y 3,5 W una vez cargado por el mantenimien
 
 Algunos robots del mercado ofrecen diferentes modos de aspirado: para las esquinas, las paredes... y en general acabamos utilizando principalmente el modo automático.
 
-Roomba va a lo esencial: un modo automático y un modo “spot” para la limpieza localizada. Con ellos es suficiente y no echamos de menos más opciones.
+Roomba va a lo esencial: un modo automático y un modo spot para la limpieza localizada. Con ellos es suficiente y no echamos de menos más opciones.
 
 El mando a distancia, <b>ausente y sólo opcional</b>, tampoco se echa en falta. De hecho, nos apañamos muy bien mediante la programación diaria o poniéndolo en marcha para limpiezas puntuales pulsando el botón central "clean" cuando por ejemplo salimos de casa por la mañana.
 

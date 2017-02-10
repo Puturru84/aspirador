@@ -153,7 +153,7 @@ La conectividad
 
   La forma del filtro ha cambiado en dos niveles. En primer lugar, está ahora equipada con una pinza pequeña que facilita en gran medida la apertura del depósito.
 
-  Por otra parte, el mantenimiento de las “láminas" del filtro puede ser un poco tedioso, ya que el polvo tiende a quedarse ahi. Olvidamos pronto este inconveniente ya que el filtro se cubre con una pequeña rejilla que retiene el polvo más grueso y la pelusa. Solo hay que quitar el cepillo principal para eliminar los cabellos o el pelo de mascotas que todavía se enredan un poco, lo cual es inevitable.
+  Por otra parte, el mantenimiento de las láminas del filtro puede ser un poco tedioso, ya que el polvo tiende a quedarse ahi. Olvidamos pronto este inconveniente ya que el filtro se cubre con una pequeña rejilla que retiene el polvo más grueso y la pelusa. Solo hay que quitar el cepillo principal para eliminar los cabellos o el pelo de mascotas que todavía se enredan un poco, lo cual es inevitable.
 
   Si bien los modelos anteriores de la marca eran ya de fácil mantenimiento, Neato ha dado un paso más en esta dirección.
 

@@ -80,7 +80,7 @@ Provista de un sistema diseñado para recoger tanto pelo como sea necesario, con
 </div>
 
 <div class="callout alert">
-  <h5>Promoción de “Prueba 100 días” Bosch</h5>
+  <h5>Promoción de "Prueba 100 días" Bosch</h5>
   <p>Este modelo tiene actualmente, y <b>hasta el 31.01.17 una promoción.</b> Puedes probar el aspirador Bosch Zoo'o ProAnimal durante 100 días y si no quedas satisfecho devolverlo y ser reembolsado. La promoción es válida para compras realizadas entre el 15 de marzo de 2016 y el 31 de enero de 2017. Mas info en <a href="http://www.bosch-home.es/promocion-100-dias-aspiracion.html"> <b>la web de Bosch.</b></a></p>
 </div>
 

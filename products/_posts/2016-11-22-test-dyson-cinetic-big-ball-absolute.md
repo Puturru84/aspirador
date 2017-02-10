@@ -159,7 +159,7 @@ No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo d
 
 #### Manejabilidad
 
-Una vez más, Dyson obtiene buena nota. No sólamente el Absolute camina como un perro tras su dueño por todas partes, si no que el sistema Big Ball resulta muy eficaz. Lo hemos “maltratado”, nos lo hemos pasado como si de una pelota de fútbol se tratase y siempre se ha enderezado sin problema.
+Una vez más, Dyson obtiene buena nota. No sólamente el Absolute camina como un perro tras su dueño por todas partes, si no que el sistema Big Ball resulta muy eficaz. Lo hemos "maltratado", nos lo hemos pasado como si de una pelota de fútbol se tratase y siempre se ha enderezado sin problema.
 
 El asa articulada en todas las direcciones también mejora el manejo, ya sea para una limpieza de suelos convencional o para el uso de los pequeños accesorios para la limpieza de muebles en altura.
 
