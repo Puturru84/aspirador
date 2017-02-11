@@ -6,7 +6,7 @@ categories: "blog-updates"
 description: "En España hay 9.200.000 animales repartidos en nuestros los hogares, lo que representa muchas bolas de pelo. Para hacernos una idea, el cuerpo de un gato está cubierto por aproximadamente 130.000 pelos por pulgada cuadrada y el de un perro de unos 60.000."
 ---
 
-Según la federación europea de la industria de comida para mascotas, [fediaf,](http://www.fediaf.org/) uno de cada cuatro hogares en España tiene un perro como mascota (exactamente el 26%), mientras que un 19% de los españoles tiene un gato como animal de compañía. Aunque estas cifras puedan parecer altas el promedio de mascotas que poseen los españoles es inferior respecto al resto de países europeos.
+Según la federación europea de la industria de comida para mascotas, [fediaf](http://www.fediaf.org/), uno de cada cuatro hogares en España tiene un perro como mascota (exactamente el 26%), mientras que un 19% de los españoles tiene un gato como animal de compañía. Aunque estas cifras puedan parecer altas el promedio de mascotas que poseen los españoles es inferior respecto al resto de países europeos.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/perros-gatos.png" width="600" height="auto" alt="robot aspirador para mascotas">
@@ -67,9 +67,9 @@ Consulta nuestra [ tabla de caracteristicas](http://www.lasaspiradoras.com/tabla
 
 <h4>7. Virtual wall o muro virtual</h4>
 
-Por ultimo, un accesorio que si bien no es imprescindible facilita la vida si queremos bloquear la entrada del robot aspirador a una zona concreta de la casa.
+Por último, un accesorio que si bien no es imprescindible nos facilita la vida. El muro virtual sirve para bloquear la entrada del robot aspirador a una zona concreta de la casa. El muro virtual resulta muy cómodo para delimitar dónde puede o no limpiar nuestro robot aspirador.
 
-Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspiradoras para mascotas</b> del mercado.
+Tras haber explicado los 7 criterios a tener en cuenta, cobertura de la superficie, autonomía, programación, cepillos, filtro, capacidad del depósito y muro virtual, te presentamos los 4 <b>mejores robot aspiradoras para mascotas</b> del mercado.
 
 <div class="media-object stack-for-small">
   <div class="small-11 small-centered columns media-object-section">
@@ -105,7 +105,7 @@ Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspir
         <path d="M0 0h24v24H0z" fill="none"/>
         <path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
     </svg> <br>
-      - Su cobertura es perfecta, y la autonomía  (400 m²) ampliada.<br>
+      - Su cobertura es perfecta, y la autonomía (400 m²) ampliada.<br>
       - Se puede programar cada día a una hora diferente.<br>
       - Su capacidad (0,7 L).<br>
       - Filtro especial ultra para mascotas y alergias. <br>
@@ -124,7 +124,7 @@ Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspir
         <path d="M0 0h24v24H0z" fill="none"/>
         <path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
     </svg> <br>
-      - La autonomía  es correcta (120 m²) ampliada.<br>
+      - La autonomía es correcta (120 m²).<br>
       - Se puede programar cada día a una hora diferente.<br>
       - Tiene filtro HEPA.<br>
       - Virtual Wall Halo para los comederos de las mascotas.<br>
@@ -151,7 +151,7 @@ Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspir
         <path d="M0 0h24v24H0z" fill="none"/>
         <path d="M13 7h-2v4H7v2h4v4h2v-4h4v-2h-4V7zm-1-5C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"/>
     </svg> <br>
-      - Su cobertura es perfecta, y la autonomía  correcta (120 m²) ampliada.<br>
+      - Su cobertura es perfecta, y la autonomía  correcta (120 m²).<br>
       - Se puede programar cada día a una hora diferente.<br>
       - Cepillos mejorados: ahora de caucho, para que el pelo presente en el suelo no se enrede en los cepillos y sean más fáciles de limpiar.<br>
       - Filtro HEPA 11.<br>
@@ -163,7 +163,7 @@ Tras haber estudiado estos criterios te presentamos los 4 <b>mejores robot aspir
   </div>
 </div>
 
-– Nuestro consejo a los propietarios de animales
+– Nuestro consejo a los propietarios de animales –
 
 Elijas el modelo de aspirador robot especial para mascotas que elijas, te recomendamos que escojas un modelo programable y autónomo, capaz de valerse por sí mismo en un entorno doméstico sin atascarse cuando se encuentre con un obstáculo.
 
