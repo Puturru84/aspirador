@@ -19,6 +19,7 @@ sound-op: "4"
 filter: "Hepa no homologado"
 filter-op: "5"
 weight: "2,45kg"
+weight-op: "5"
 dimensions: "24 x 23 x 12 cm"
 radius: "- m²"
 garanty: "2 años"
@@ -112,13 +113,13 @@ En la parte inferior de la página principal hay cuatro pestañas que ofrecen ac
 
 #### Aspirado
 
-Utiliza un <b>cepillo trenzado, compuesto de cerdas de nylon y fibra de carbono<b>, como encontramos en las <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">aspiradoras escoba Dyson</a> que se extiende sobre toda la anchura del robot.
+Utiliza un <b>cepillo trenzado, compuesto de cerdas de nylon y fibra de carbono</b>, como encontramos en las <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">aspiradoras escoba Dyson</a> que se extiende sobre toda la anchura del robot.
 
 En suelo duro, no tiene ningún problema para cumplir  debido una buena cobertura de superficies, aspira todo sin problemas.
 Como hemos comentado en alfombras su comportamiento presenta ciertos problemas.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__ambiente-low_definition.jpg" width="600" height="auto" alt="Dyson-360-eye opinion">
+    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__ambiente-low_definition.jpg" width="450" height="auto" alt="Dyson-360-eye opinion">
   </div>
 
 #### Ruido
@@ -146,7 +147,7 @@ El eye 360 sólo tiene dos modos, lo que es más que suficiente, el modo automá
 El punto positivo, es posible <b>actualizar</b> el Dyson eye 360, que incluye un puerto USB para este fin. Si está conectado a la red Wi-Fi, las actualizaciones de <b>software</b> pueden incluso hacerse de forma inalámbrica.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__camara-low_definition.jpg" width="600" height="auto" alt="aplicacion Dyson-360-eye">
+    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__camara-low_definition.jpg" width="450" height="auto" alt="aplicacion Dyson-360-eye">
   </div>
 
   <div class="text-center">
@@ -166,7 +167,7 @@ El cepillo se puede quitar fácilmente, ya que al igual que todos los cepillos r
 Hemos visto que en las bandas de rodamiento se acumula el cabello y  el pelo de animales, así que hay que limpiarlas con frecuencia.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__desde_abajo-low_definition.jpg" width="300" height="auto" alt="parte posterior del Dyson-360-eye">
+    <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__desde_abajo-low_definition.jpg" width="400" height="auto" alt="parte posterior del Dyson-360-eye">
   </div>
 
   <div class="text-center">
