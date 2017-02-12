@@ -6,7 +6,7 @@ title: "Analisis aspiradora Dyson eye 360"
 categories:
   - product
   - robot
-image: "dyson-eye-360-mini.jpg"
+image: "dyson-eye-mini.jpg"
 model: "Dyson eye 360"
 type-vacuum: "Aspirador robot"
 technology: "camara 360, Radial Root Cyclone"
