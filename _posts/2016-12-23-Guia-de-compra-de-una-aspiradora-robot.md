@@ -26,7 +26,7 @@ En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos pro
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d792__roomba_cat.png" width="400" height="auto" alt="Roomba cat by piperthibodeau.com">
-<p>Fuente <a href="piperthibodeau.com">piperthibodeau.com</a></p>
+<p>Fuente <a href="http://www.piperthibodeau.com/>piperthibodeau.com</a></p>
 </div>
 
 <h4>Guía de compra de un robot aspiradora diciembre de 2016: 5 criterios clave</h4>
