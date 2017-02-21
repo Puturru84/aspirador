@@ -21,8 +21,10 @@ $global-weight-normal: normal;
 th {
     font-weight: normal;
     font-size:1em;
+    text-align: left;
 }
-
+$table-is-striped: false;
+$table-striped-background: white;
 .mine{
   font-family: Georgia;
 }
@@ -86,27 +88,33 @@ $header-sizes: (
 }
 .section-carte-index-panel, .section-carte-panel {
     border-style: solid;
-    border-width: 1px 1px .125rem;
+    border-width: 1px 0 1px;
     border-color: #ededed;
     background: #FFF;
 }
-.section-carte-newsletter-description {
-    margin-bottom: 0;
-    line-height: 1.5rem;
-}
+
+  .section-carte-newsletter-description {
+      margin-bottom: 8px;
+      line-height: 1.5rem;
+  }
+
 .button-newsletter {
   background-color: #fce3e6;
   border-color: #ED5668;
   line-height: 1;
-  cursor: pointer;
-  -webkit-appearance: none;
-  transition: background-color 0.25s ease-out, color 0.25s ease-out;
-  vertical-align: middle;
   border: 1px solid;
   padding: 0.85em 1em;
-  margin: 0 0 1rem 0;
+  margin: 0;
+  width: 100%;
   font-size: 0.9rem;
   color: #ED5668;
+  border-radius: 20%;
+}
+.input-newsletter {
+  margin: 0 !important;
+  font-size: 0.9rem !important;
+  line-height: 1;
+  color: #999;
   border-radius: 20%;
 }
 

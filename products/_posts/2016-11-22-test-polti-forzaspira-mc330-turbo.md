@@ -7,7 +7,7 @@ categories:
   - product
   - trineo
 image: "mini-forza.png"
-model: "Polti Forzaspira MC330 Turbo"
+model: "Polti MC330 Turbo"
 type-vacuum: "Aspirador trineo sin bolsa"
 technology: "Multi-cyclonic bagless"
 power: "700 V"

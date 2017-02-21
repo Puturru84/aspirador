@@ -6,7 +6,7 @@ categories:
   - product
   - trineo
 image: "mini-bosch.jpg"
-model: "Bosch BGS5SIL66B Relaxx'x ProSilence"
+model: "Bosch Relaxx'x ProSilence"
 type-vacuum: "Aspirador trineo sin bolsa"
 technology: "SilentClean Premium"
 power: "700 V"

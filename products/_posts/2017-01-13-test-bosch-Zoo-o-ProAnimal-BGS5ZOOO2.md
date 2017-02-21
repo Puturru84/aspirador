@@ -7,7 +7,7 @@ categories:
   - product
   - trineo
 image: "mini-bosch-BGS5ZOOO2.jpg"
-model: "Bosch Zoo o ProAnimal BGS5ZOOO2"
+model: "Bosch Zoo o ProAnimal"
 type-vacuum: "Aspirador trineo sin bolsa"
 technology: "SensorBagless, SensorControl System"
 power: "950 V"

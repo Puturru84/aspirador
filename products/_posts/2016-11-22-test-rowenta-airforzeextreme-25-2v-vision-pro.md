@@ -7,7 +7,7 @@ categories:
   - product
   - escoba
 image: "mini-RO-AIRFORCE_EXTREME-RH8870.jpg"
-model: "Rowenta airforze extreme 25.2v vision-pro"
+model: "Rowenta Air Forze extreme vision-pro"
 type-vacuum: "Aspirador escoba sin bolsa"
 technology: "Sistema ciclónico"
 power: "2100 V"
@@ -24,7 +24,7 @@ battery-op: "5"
 charge: 6.5 H
 charge-op: "2.5"
 garanty: "2 años"
-brush: "Power Brush: cepillo eléctrico de alta velocidad"
+brush: "Cepillo eléctrico de alta velocidad"
 brush-op: "5"
 clasification: "4"
 comments: "La bateria mas duradera de los aspiradores escoba"

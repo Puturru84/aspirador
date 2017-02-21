@@ -7,7 +7,7 @@ categories:
   - product
   - robot
 image: "neatod85-mini.jpg"
-model: "Neato Robotics Botvac D85"
+model: "Neato Robotics D85"
 type-vacuum: "Aspirador robot"
 technology: "LaserSmart, Tecnología Spinflow"
 power: "43 V"

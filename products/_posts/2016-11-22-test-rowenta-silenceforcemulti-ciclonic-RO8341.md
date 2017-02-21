@@ -7,7 +7,7 @@ categories:
   - product
   - trineo
 image: "mini-RO-VACUUM_CLEANER-SF_MULTI_CYCLONIC-RO8314_EA-FACING.jpg"
-model: "Rowenta Silence Force Multi-Cyclonic RO8341"
+model: "Rowenta Silence Force Multi-Cyclonic"
 type-vacuum: "Aspirador trineo sin bolsa"
 technology: "Multi-Cyclonic"
 power: "750 vatios"
