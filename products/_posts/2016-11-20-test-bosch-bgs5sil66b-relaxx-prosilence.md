@@ -184,3 +184,5 @@ No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo suced
 </div>
 
 ¿Te interesa el medioambiente? Si quieres conocer la politica de Bosch con el medioambiente te dejamos el link a su web: <a href="http://www.bosch-home.es/conoce-bosch/produccion-sostenible.html">Bosch sostenible.</a>
+
+<a href="http://test.skimlinks.com">Skimlinks Test</a>
