@@ -12,6 +12,7 @@ title:  "Nosotros"
           Leo, comparo, pruebo y resumo toda esa información para ayudaros a elegir la aspiradora que queréis comprar.
         </p>
       </div>
+      <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/sara.jpg" width="300" height="auto" alt="las aspiradoras">
       </div>
     </div>
