@@ -36,9 +36,9 @@ title:  "Cómo calculamos nuestra clasificación"
         Potencia, capacidad del depósito, nivel sonoro, tipo de filtros, peso, dimensiones, años de garantía, cepillos incluidos, duración de la batería, tiempo de carga de la batería.
       </p>
       <p class="lead">
-        Tienes un comentario, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspirodas.com
+        Tienes un comentario, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
       </p>
       <p class="lead">
-        Hasta pronto <a href="https://twitter.com/Las_aspiradoras">@Las_aspiradoras.com</a>
+        Hasta pronto <a href="https://twitter.com/Las_aspiradoras">@Las_aspiradoras.com</a> 😊
       </p>
      </div>
