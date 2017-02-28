@@ -20,6 +20,8 @@ Aunque podemos encontrar [ofertas y promociones](http://amzn.to/2l0DdpK) aún no
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/c3f7b2cc550241338eb763f76fb81bb3/pablo_(23).png)
 
+*Puedes consultar el análisis completo [aquí.](http://www.lasaspiradoras.com/test-HKoenig-SWR28/)
+
 Puntos fuertes:
 
 - Equipado con sensores para identificar tanto los obstáculos como el vacío.
