@@ -2,6 +2,7 @@
 permalink: "como-calculamos-nuestra-clasificacion/"
 layout: "page"
 title:  "Cómo calculamos nuestra clasificación"
+description: "Os explicamos como valoramos las aspiradoras que os explicamos en nuestros articulos para ayudaros a hacer la mejor eleccion."
 ---
 <main>
   <body>
@@ -12,10 +13,15 @@ title:  "Cómo calculamos nuestra clasificación"
       </p>
       <p class="lead">
         Saber en qué gastar el dinero duramente ganado nunca es fácil, pero estamos aquí para ayudarte en el proceso tanto como podamos.
+      </p>
+      <p class="lead">
+        Una vez calificado cada criterio hago la media y ese es el número de puntos que obtiene la aspiradora.
+      </p>
+      <p class="lead">
         Si consideras que hay otro criterio que sería interesante incluir puedes enviarme tu opinión.
       </p>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/varias/vacuum-cleaner-268135_640.jpg" width="500" height="auto" alt="las aspiradoras">
+        <img src="{{ site.url }}/assets/img/varias/adventure.jpg" width="500" height="auto" alt="las aspiradoras">
       </div>
       <p class="lead">
         Criterios que tenemos en cuenta a la hora de clasificar las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/">Aspiradoras trineo</a> sin bolsa:
