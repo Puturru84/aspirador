@@ -53,7 +53,7 @@ link: "https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFY
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -82,7 +82,7 @@ Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Comodidad de uso
@@ -122,7 +122,7 @@ En cuanto al sistema de vaciado del depósito, si bien hace maravillas en cuanto
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -155,7 +155,7 @@ No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo d
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Manejabilidad
@@ -187,7 +187,7 @@ En cuanto al sistema de vaciado "limpio" del depósito es más bien un éxito, a
 Por último, el mantenimiento mínimo es una gran ventaja.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Quieres consultar otros modelos? vuelve a la lista de las mejores aspiradoras del mercado.

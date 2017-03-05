@@ -38,7 +38,7 @@ link: "https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_s
 ---
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391">Comprar</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
   ✔️ Puntos fuertes  | ❌ Debilidades
@@ -108,7 +108,7 @@ En la parte inferior de la página principal hay cuatro pestañas que ofrecen ac
   </div>
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391">Comprar en Amazon</a>
+    <{% include components/button-buy-amazon.html %}
   </div>
 
 #### Aspirado
@@ -151,7 +151,7 @@ El punto positivo, es posible <b>actualizar</b> el Dyson eye 360, que incluye un
   </div>
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2hNOzNq">Buscar el mejor precio</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Mantenimiento
@@ -171,7 +171,7 @@ Hemos visto que en las bandas de rodamiento se acumula el cabello y  el pelo de 
   </div>
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391">Comprar</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Sistema de Navegación

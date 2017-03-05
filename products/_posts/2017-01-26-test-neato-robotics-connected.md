@@ -40,7 +40,7 @@ link: "https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J
 ---
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
   ✔️ Puntos fuertes  | ❌ Debilidades
@@ -89,7 +89,7 @@ La conectividad
   </div>
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar en Amazon</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Aspirado
@@ -145,7 +145,7 @@ La conectividad
   </div>
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2hNOzNq">Buscar el mejor precio</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Mantenimiento
@@ -164,7 +164,7 @@ La conectividad
   </div>
 
   <div class="text-center">
-    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Sistema de Navegación

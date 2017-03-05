@@ -53,7 +53,7 @@ link: "https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autol
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autolimpieza/dp/B00LWVGPUA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718414&sr=1-1&keywords=Bosch+Zoo+o+ProAnimal&linkCode=ll1&tag=lasaspirad-21&linkId=b67b5dbef2c884ae000f7faf68aaf320">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -103,7 +103,7 @@ Bosch ha pensado en la comodidad para el usuario. La aspiradora está construida
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autolimpieza/dp/B00LWVGPUA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718414&sr=1-1&keywords=Bosch+Zoo+o+ProAnimal&linkCode=ll1&tag=lasaspirad-21&linkId=b67b5dbef2c884ae000f7faf68aaf320">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -146,7 +146,7 @@ Bosch anuncia el consumo de 950 W, lo que lo clasifica como C en la etiqueta ene
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autolimpieza/dp/B00LWVGPUA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718414&sr=1-1&keywords=Bosch+Zoo+o+ProAnimal&linkCode=ll1&tag=lasaspirad-21&linkId=b67b5dbef2c884ae000f7faf68aaf320">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Robustez
@@ -188,7 +188,7 @@ El Bosch Relaxx'x Zoo'o ProAnimal ha cumplido nuestras expectativas. Este aspira
 Ademas, como promote, ofrece resultados perfectos y nos libra de los pelos de nuestras mascotas. Tras haberlo usado tienes esa sensación de limpieza que necesitas en una casa con animales.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autolimpieza/dp/B00LWVGPUA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718414&sr=1-1&keywords=Bosch+Zoo+o+ProAnimal&linkCode=ll1&tag=lasaspirad-21&linkId=b67b5dbef2c884ae000f7faf68aaf320">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Quieres seguir mirando? Consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

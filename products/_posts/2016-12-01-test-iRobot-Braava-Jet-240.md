@@ -45,7 +45,7 @@ link: "https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -67,7 +67,7 @@ En lo que respecta a la navegación iRobot ha hecho evolucionar su robot, que pu
 Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos ilusionemos tan rápido, iRobot lo destina a los baños y cocinas. De hecho, sólo puede cubrir unos veinte metros cuadrados. Por último, está conectado y puede ser controlado desde una aplicación propia.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 <div class="text-center">
@@ -101,7 +101,7 @@ Otro detalle que no nos ha convencido es la aplicación, en caso de problemas mu
   <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_FillTank.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -143,7 +143,7 @@ Se entrega con una batería y un cargador externo. Con este modelo no necesitamo
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Mantenimiento
@@ -188,7 +188,7 @@ No debemos engañarnos: si deseas dejar de fregar el suelo en tu casa al complet
 Todas las promesas se cumplen y se aprecia especialmente la eficacia del nuevo modo proponiendo el lavado de suelos.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿No es lo que buscas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

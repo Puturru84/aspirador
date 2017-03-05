@@ -30,7 +30,7 @@ link: "https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/r
 ---
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2j0CVjf">Comprar</a>
+    {% include components/button-buy-amazon.html %}
   </div>
 
 #### Presentación
@@ -49,7 +49,7 @@ A saber que el modelo violeta solo recoge sólidos.
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -69,7 +69,7 @@ Hay que señalar que para algunas personas otro pequeño inconveniente puede ser
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 La Bosch BKS4043 funciona con pilas recargables NiMH ecológicas y tienen una autonomía de 15 minutos.

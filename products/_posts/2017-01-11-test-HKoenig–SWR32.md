@@ -40,7 +40,7 @@ link: "https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019
 ---
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvnURx">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -63,7 +63,7 @@ En Las aspiradoras, aplaudimos los esfuerzos de la marca alemana y estamos encan
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Comodidad de uso
@@ -129,7 +129,7 @@ Si el depósito de la basura está lleno o si el aparato necesita limpieza, lo i
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Sistema de Navegación y gestión de obstáculos
@@ -148,7 +148,7 @@ Sin ser extraordinario, el robot aspiradora H.Koening SWR32 es un robot automát
 Es un dispositivo que se recomienda por su relación calidad precio razonable en comparación con su eficacia al aspirar, a pesar de tener los puntos de mejora indicados anteriormente.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

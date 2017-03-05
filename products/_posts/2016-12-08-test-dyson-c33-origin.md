@@ -52,7 +52,7 @@ link: "https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -76,7 +76,7 @@ Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filt
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Comodidad de uso
@@ -112,7 +112,7 @@ El tamaño del tubo de succión y el cable del dispositivo DC33C son bastante bu
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Ruido
@@ -132,7 +132,7 @@ Las características técnicas de este aspirador demuestran su potencia. Con una
 Siendo una marca líder en el mercado de gama alta de aspiradoras, Dyson no defrauda en este modelo. Sin embargo he notado una ligera disminución en la robustez del aspirador, si la comparo con la antigua Dyson de mi madre, que debe tener 12 años.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Manejabilidad
@@ -162,7 +162,7 @@ Durante nuestras pruebas, realmente disfrutamos del comportamiento de succión d
 En resumen recomendamos esta aspiradora por su alto rendimiento, su funcionalidad y la excelente relación calidad / precio si la compras ahora. (Estamos hablando de un Dyson!)
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Tienes dudas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta mas modelos.

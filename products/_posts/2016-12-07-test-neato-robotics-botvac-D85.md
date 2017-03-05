@@ -44,7 +44,7 @@ link: "https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/r
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -90,7 +90,7 @@ Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin e
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 
@@ -141,7 +141,7 @@ Siempre valoramos la posibilidad de realizar actualizaciones del software para i
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Buscar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Mantenimiento
@@ -157,7 +157,7 @@ Esta previsto que el cepillo central se quitefácilmente, retirando la rejilla q
 Por ultimo, para facilitar el mantenimiento de la unidad, Neato reservar un peine pequeño para limpiar los cepillos y filtros. También tiene un pequeño receso de corte para eliminar las eventuales plantas cepillos para el cabello que se enredan ella, la presencia de este accesorio es nueva.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Sistema de Navegación

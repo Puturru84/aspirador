@@ -44,7 +44,7 @@ link: "https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -68,7 +68,7 @@ Agradecemos la presencia de sistema del Sensor Bagless, que el fabricante tambi�
 Para asegurar una succión constante sin pérdida, BBH 52550 está equipado con sensores que monitorizan la consistencia del flujo de aire. En caso de que se bloquee o el filtro se ensucie la eficacia de succión disminuye, la potencia de aspiración se reduce automáticamente y se avisa al usuario.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 <div class="text-center">
@@ -110,7 +110,7 @@ Como veremos más adelante en el apartado manejabilidad, la comodidad sufre el p
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -154,7 +154,7 @@ Si comparamos con otros modelos, el<a href="http://www.lasaspiradoras.com/test-R
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9">Buscar el mejor</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Mantenimiento
@@ -185,7 +185,7 @@ Sin embargo la aspiración es un tanto decepcionante, proporcionando resultados 
 El Athlet pone de manifiesto buenas ideas que deben explorarse así como puntos a mejorar.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

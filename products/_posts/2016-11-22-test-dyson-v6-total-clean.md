@@ -44,7 +44,7 @@ link: "https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -69,7 +69,7 @@ A continuación os cuento todo sobre el Total Clean que he podido probar recient
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Comodidad de uso
@@ -96,7 +96,7 @@ Con este cepillo motorizado meneamos todos los micropelos y al polvo no le queda
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -136,7 +136,7 @@ Su cabezal es flexible, incluso la del cepillo de parquet y el aparato esta bien
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Buscar el mejor</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Mantenimiento
@@ -157,7 +157,7 @@ Es bastante ligero, lo que permite pasar por todos los recovecos del suelo al te
 Los cepillos son super completos, y como todos los Dyson un aspirador fácil de limpiar.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

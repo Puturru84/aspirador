@@ -41,7 +41,7 @@ link: "https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/r
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -65,7 +65,7 @@ Más barato que el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Cl
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Comodidad de uso
@@ -101,7 +101,7 @@ En alfombra gruesa los resultados son similares.
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb">Comprar</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Ruido
@@ -129,7 +129,7 @@ Sin embargo, incluso un poco más ligera que modelos anteriores, esta aspiradora
 </div>
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb">Encontrar el mejor precio</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Mantenimiento
@@ -149,7 +149,7 @@ Sin embargo es una pena que no pueda convertirse en una aspiradora de mano. Otro
 Si buscas una <b>relación calidad precio correcta</b> para una aspiradora escoba la Rowenta RH887101 es una buena opción.
 
 <div class="text-center">
-  <a class="button" href="https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb">Comprar en Amazon</a>
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.
