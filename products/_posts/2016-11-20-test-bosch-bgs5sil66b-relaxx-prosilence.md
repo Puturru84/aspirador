@@ -52,7 +52,7 @@ link: "https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/d
 </div>
 
 <div class="text-center">
-  {% include components/button-buy.html %}
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -100,7 +100,7 @@ Una luz indica que el "control del sensor" está presente en el cuerpo de la asp
 </div>
 
 <div class="text-center">
- {% include components/button-buy.html %}
+ {% include components/button-buy-amazon.html %}
 </div>
 
 #### Aspirado
@@ -132,7 +132,7 @@ Bosch anuncia el consumo de 700 W, muy por debajo de lo requerido por la etiquet
 </div>
 
 <div class="text-center">
-  {% include components/button-buy.html %}
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Robustez
