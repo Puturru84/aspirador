@@ -36,7 +36,7 @@ price-now: "359,00 €"
 discount: "23%"
 stars: "4"
 description: "Bestseller entre las aspiradoras robot, el iRobot Roomba 650 se ha hecho muy popular. Aquí te contamos porqué tanto éxito."
-link: "http://amzn.to/2gt3kVz"
+link: "https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118"
 ---
 
 <div class="flex-video">
@@ -44,7 +44,7 @@ link: "http://amzn.to/2gt3kVz"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -65,7 +65,7 @@ Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Comprar</a>
 </div>
 
 #### Comodidad de uso
@@ -104,7 +104,7 @@ Los aspiradores robots están muy por debajo de la media de los aspiradores sin 
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Comprar en Amazon</a>
 </div>
 
 #### Manejabilidad
@@ -124,7 +124,7 @@ Se recomienda limpiar los cepillos una vez por semana para evitar la acumulacion
 Eso si, segun el número de veces que lo programes hay que pensar a vaciar el depósito, de nada sirve que trabaje si no puede recoger nada.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Buscar el mejor precio</a>
 </div>
 
 #### Conclusión   pts 4,3 / 5
@@ -140,7 +140,7 @@ El ruido que produce es correcto, la limpieza es fácil y, en general, es eficaz
 Tiene una excelente relación calidad precio.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gt3kVz">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Comprar en Amazon</a>
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

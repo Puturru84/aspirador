@@ -36,7 +36,7 @@ price-now: "575,38"
 discount: "4%"
 stars: "4.5"
 description: "Guia de compra del Neato Robotics Botvac D85, funcionamiento, aspirado, manejabilidad y las mejores ofertas."
-link: "http://amzn.to/2hNOzNq"
+link: "https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6"
 ---
 
 <div class="flex-video">
@@ -44,7 +44,7 @@ link: "http://amzn.to/2hNOzNq"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -90,7 +90,7 @@ Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin e
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar en Amazon</a>
 </div>
 
 
@@ -141,7 +141,7 @@ Siempre valoramos la posibilidad de realizar actualizaciones del software para i
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Buscar el mejor precio</a>
 </div>
 
 #### Mantenimiento
@@ -157,7 +157,7 @@ Esta previsto que el cepillo central se quitefácilmente, retirando la rejilla q
 Por ultimo, para facilitar el mantenimiento de la unidad, Neato reservar un peine pequeño para limpiar los cepillos y filtros. También tiene un pequeño receso de corte para eliminar las eventuales plantas cepillos para el cabello que se enredan ella, la presencia de este accesorio es nueva.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hNOzNq">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Comprar</a>
 </div>
 
 #### Sistema de Navegación
@@ -189,7 +189,7 @@ Por último, una vez más, observamos el cuidado especial con el que bordea los 
 Es una lástima que no cumpla la promesa de hacer menos ruido y que el BotVac 85 sea un poco ruidoso. Todas las demás promesas se cumplen y alcanzan un nivel de eficiencia y precisión en la cobertura de las áreas que haran inncesario el uso de un aspirador trineo. Autónomo en la zona del hogar y eficaz en todos los suelos el BotVac D85 lo tiene todo para gustar.
 
 <div class="text-center">
-  <a href="http://amzn.to/2hNOzNq"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
+  <a href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

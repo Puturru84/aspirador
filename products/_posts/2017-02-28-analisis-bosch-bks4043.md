@@ -26,7 +26,7 @@ clasification: "3,8"
 comments: "Perfecta para pequenios residuos"
 stars: "3.5"
 description: "Guia de compra de la aspiradora de mano Bosch BKS4043, funcionamiento, aspirado, características y las mejores ofertas."
-link: "http://amzn.to/2mBeEhE"  
+link: "https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b"  
 ---
 
   <div class="text-center">
@@ -49,7 +49,7 @@ A saber que el modelo violeta solo recoge sólidos.
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2mBeEhE">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b">Comprar en Amazon</a>
 </div>
 
 #### Aspirado
@@ -69,7 +69,7 @@ Hay que señalar que para algunas personas otro pequeño inconveniente puede ser
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2mBeEhE">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b">Buscar el mejor precio</a>
 </div>
 
 La Bosch BKS4043 funciona con pilas recargables NiMH ecológicas y tienen una autonomía de 15 minutos.
@@ -94,5 +94,5 @@ Aspiradora con buena relación calidad precio.
 Disponible en diferentes potencias, tendrás que elegir la que se ajuste más a tus necesidades y presupuesto.
 
 <div class="text-center">
-  <a href="http://amzn.to/2mBeEhE"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora de mano Bosch BKS4043 en Amazon"></a>
+  <a href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora de mano Bosch BKS4043 en Amazon"></a>
 </div>

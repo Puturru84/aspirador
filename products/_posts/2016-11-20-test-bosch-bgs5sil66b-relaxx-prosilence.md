@@ -44,7 +44,7 @@ price-now: " 219,91  €"
 discount: "37%"
 stars: "4.5"
 description: "El Bosch BGS5SIL66B Relaxx'x ProSilence es la aspiradora trineo más silenciosa del mercado. Consulta nuestro test donde te desvelamos todas sus características."
-link: "http://amzn.to/2hiRT2h"
+link: "https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208"
 ---
 
 <div class="flex-video">
@@ -52,7 +52,7 @@ link: "http://amzn.to/2hiRT2h"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hiRT2h">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -100,7 +100,7 @@ Una luz indica que el "control del sensor" está presente en el cuerpo de la asp
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hiRT2h">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208">Comprar</a>
 </div>
 
 #### Aspirado
@@ -132,7 +132,7 @@ Bosch anuncia el consumo de 700 W, muy por debajo de lo requerido por la etiquet
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hiRT2h">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208">Buscar el mejor precio</a>
 </div>
 
 #### Robustez
@@ -168,7 +168,7 @@ El único mantenimiento requerido es vaciar el depósito y el filtro de pelusas 
 No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo sucede en completa relajación. El BGS5SIL66C es cómodo, bien pensado y sólo requiere un mantenimiento mínimo. Hace realmente poco ruido, con lo que lo aconsejamos a las personas que quieran dar prioridad a esta característica. La única pega es que el cepillo de doble posición tiene tendencia a llevarse mal con los residuos gruesos en ciertas superficies.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hiRT2h">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208">Comprar en Amazon</a>
 </div>
 
 ¿Quieres recibir tu Bosch Relax Prosilence en un dia? Prueba Amazon Premium, recibiras tus compras en 24h y GRATIS.

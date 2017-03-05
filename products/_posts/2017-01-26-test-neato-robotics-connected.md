@@ -36,11 +36,11 @@ price-now: "759,00"
 discount: "0%"
 stars: "5"
 description: "Guia de compra del Neato Robotics Botvac Connected, funcionamiento, aspirado, características y las mejores ofertas."
-link: "http://amzn.to/2j0CVjf"  
+link: "https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9"  
 ---
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2j0CVjf">Comprar</a>
+    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar</a>
   </div>
 
   ✔️ Puntos fuertes  | ❌ Debilidades
@@ -89,7 +89,7 @@ La conectividad
   </div>
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2j0CVjf">Comprar en Amazon</a>
+    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar en Amazon</a>
   </div>
 
 #### Aspirado
@@ -164,7 +164,7 @@ La conectividad
   </div>
 
   <div class="text-center">
-    <a class="button" href="http://amzn.to/2j0CVjf">Comprar</a>
+    <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9">Comprar</a>
   </div>
 
 #### Sistema de Navegación
@@ -194,7 +194,7 @@ La conectividad
   Neato ha logrado incluso facilitar el mantenimiento del robot con nuevos filtros. En cuanto a la conectividad, es facil de poner en marcha y se utiliza principalmente para iniciar un barrido remoto. Este es un buen primer paso en el mundo del hogar conectado, aunque esperamos ver evolucionar la aplicación.
 
   <div class="text-center">
-    <a href="http://amzn.to/2j0CVjf"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
+    <a href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
   </div>
 
   ¿Quieres consultar otro modelo? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

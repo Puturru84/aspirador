@@ -36,7 +36,7 @@ price-now: "399,99 €"
 discount: "0%"
 stars: "4.5"
 description: "Guia de compra del iRobot Roomba 776p, funcionamiento, aspirado, características y las mejores ofertas."
-link: "http://amzn.to/2jnHTTV"
+link: "https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d"
 ---
 
 <div class="flex-video">
@@ -44,7 +44,7 @@ link: "http://amzn.to/2jnHTTV"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2jnHTTV">Encontrar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d">Encontrar el mejor precio</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -73,7 +73,7 @@ Aquí está nuestra opinión de este modelo.
 
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2jnHTTV">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -139,7 +139,7 @@ Por último, iRobot ofrece accesorios pequeños para facilitar la limpieza.
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2jnHTTV">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d">Comprar</a>
 </div>
 
 #### Mantenimiento
@@ -153,7 +153,7 @@ En cuanto a los cepillos centrales, incluye uno compuesto por pelos rígidos y o
 Si bien los dos son fáciles de quitar, el cepillo rígido tiende a enganchar los residuos como el pelo o los cabellos y habrá que limpiarlo a menudo. Un punto interesante es que el robot incluye pequeños accesorios para facilitar el mantenimiento.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2jnHTTV">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d">Buscar el mejor precio</a>
 </div>
 
 #### Sistema de navegación
@@ -188,7 +188,7 @@ El 776p Roomba diseñado para los propietarios de los animales cumple con su fun
 Apreciamos su facilidad de uso y la posibilidad de programarlo día a día. Si bien su cobertura de superficies no es absolutamente perfecta, hace el trabajo diario con eficiencia, mantiene el suelo de la casa limpio sin problemas incluso con animales.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2jnHTTV">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

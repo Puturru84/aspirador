@@ -2,7 +2,7 @@
 permalink: "test-HKoenig-SWR32/"
 date: "2017-01-11 15:00:00"
 layout: "product-page"
-title: "Test H.Koenig SWR38"
+title: "Test H.Koenig SWR32"
 categories:
   - product
   - robot
@@ -36,7 +36,7 @@ price-now: "179,00 €"
 discount: "55 %"
 stars: "4"
 description: "Guia de compra del H.Koenig SWR38, funcionamiento, aspirado, características y las mejores ofertas."
-link: "http://amzn.to/2ijCz5h"
+link: "https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250"
 ---
 
 <div class="text-center">
@@ -63,7 +63,7 @@ En Las aspiradoras, aplaudimos los esfuerzos de la marca alemana y estamos encan
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2ijCz5h">Comprar</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar</a>
 </div>
 
 #### Comodidad de uso
@@ -129,7 +129,7 @@ Si el depósito de la basura está lleno o si el aparato necesita limpieza, lo i
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2ijCz5h">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar en Amazon</a>
 </div>
 
 #### Sistema de Navegación y gestión de obstáculos
@@ -148,7 +148,7 @@ Sin ser extraordinario, el robot aspiradora H.Koening SWR32 es un robot automát
 Es un dispositivo que se recomienda por su relación calidad precio razonable en comparación con su eficacia al aspirar, a pesar de tener los puntos de mejora indicados anteriormente.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2ijCz5h">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

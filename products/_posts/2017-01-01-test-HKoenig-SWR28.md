@@ -36,11 +36,11 @@ price-now: "162,80 €"
 discount: "57 %"
 stars: "4"
 description: "Guia de compra del H.Koenig SWR28, funcionamiento, aspirado, características y las mejores ofertas."
-link: "http://amzn.to/2hvnURx"
+link: "https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd"
 ---
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvnURx">Comprar</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -63,7 +63,7 @@ Echa un vistazo a nuestro articulo completo para conocer todos los detalles del 
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvnURx">Comprar</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Comprar</a>
 </div>
 
 #### Comodidad de uso
@@ -100,7 +100,7 @@ A nivel de ruido, el H.Koenig SWR28 produce 60 dB. No es super tranquilo, pero t
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvnURx">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Comprar en Amazon</a>
 </div>
 
 #### Modos y funciones complementarias
@@ -136,7 +136,7 @@ Sus cepillos son eficaces sobre todo para aspirar cerca de las paredes. <br>
 Cuenta con un paño en la parte inferior, pero personalmente no me parece muy útil, ya que se seca muy rápido.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2hvnURx">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

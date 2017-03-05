@@ -34,7 +34,7 @@ price-now: "- €"
 discount: "0%"
 stars: "4.5"
 description: "Hemos probado el iRobot Roomba 871, autonomía aumentada, eficacia aumentada del 50%, programable, evita los obstáculos, te lo contamos todo aquí."
-link: "http://amzn.to/2gP6vmv"
+link: "https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18"
 ---
 
 <div class="flex-video">
@@ -42,7 +42,7 @@ link: "http://amzn.to/2gP6vmv"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Encontrar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18">Encontrar el mejor precio</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -70,7 +70,7 @@ Además esta marca de aspiradoras es muy popular en los EE.UU., y también en to
 Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser eficaz, programable y cuenta con la tecnología AeroForce para mejorar la aspiración de la serie 700. Este Roomba esta dentro de la misma gama de caracteristicas que el modelo <a href="http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/"> D85 de Neato<a>.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -116,7 +116,7 @@ Con una autonomía de 2 horas (lo que representa una superficie de unos 120 m²)
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Comprar</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18">Comprar</a>
 </div>
 
 #### Manejabilidad
@@ -140,7 +140,7 @@ El mantenimiento y limpieza de este robot son menos frecuentes, este modelo inco
 Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpieza que las baterías anteriores de Roomba, lo que duplica su vida útil antes de que necesite un reemplazo.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18">Buscar el mejor precio</a>
 </div>
 
 #### Conclusión   pts 4,4 / 5
@@ -150,7 +150,7 @@ Con mas ventajas que sus predecesores y una autonomia ampliada es la opcion perf
 Mantiene la limpieza diaria del hogar y <b>cumple con el pelo de las mascotas</b>. Servicio y eficacia se aunan en este producto.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gP6vmv">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18">Comprar en Amazon</a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

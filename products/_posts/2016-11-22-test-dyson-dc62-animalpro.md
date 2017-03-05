@@ -35,7 +35,7 @@ price-now: "382,47 €"
 discount: "0%"
 stars: "4.5"
 description: "El aspirador escoba Dyson DC62 Animal Pro ofrece resultados excelentes y te ayudará a acabar con el pelo de tus mascotas. Consulta nuestro test completo."
-link: "http://amzn.to/2gOG54v"
+link: "https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7"
 ---
 
 <div class="flex-video">
@@ -43,7 +43,7 @@ link: "http://amzn.to/2gOG54v"
 </div>
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gOG54v">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Comprar</a>
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -65,7 +65,7 @@ Esta nueva joya <b>se presenta</b> como el aspirador escoba inalámbrico <b>"má
 Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un nuevo cepillo principal con cerdas hechas de fibras de carbono. Su <b>autonomía</b> es idéntica a la de su predecesor DC45,<b>20 minutos a potencia normal</b> y 8 minutos al máximo.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gOG54v">Comprar</a>
+  <a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Comprar</a>
 </div>
 
 <div class="text-center">
@@ -74,7 +74,7 @@ Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un n
 
 #### Comodidad de uso
 
-La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. La gama esta compuesta por la <b>aspiradora DC62 digital Slim <a href="http://amzn.to/2hOSgB2"> (ver en Amazon)</a></b>, <b>la aspiradora DC62 en version estándar <a href="http://amzn.to/2hOaFQ9">(ver en Amazon) </a></b> y la versión animal Pro, que es la que vamos a comentar a continuación.
+La DC62 está disponible en diferentes versiones con características similares, solo los accesorios y los colores del tubo telescópico cambian. La gama esta compuesta por la <b>aspiradora DC62 digital Slim <a href="https://www.amazon.es/Dyson-DC62-Digital-Slim-Aspiradora/dp/B00EP4R1AY/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717411&sr=1-5&keywords=Dyson+DC62+Digital+Slim&linkCode=ll1&tag=lasaspirad-21&linkId=c653f84d755b287d221eeccd03d0b4b2"> (ver en Amazon)</a></b>, <b>la aspiradora DC62 en version estándar <a href="https://www.amazon.es/Dyson-DC62-Aspiradora-aspiraci%C3%B3n-potencia/dp/B01E02Q656/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1479228983&sr=1-1&keywords=DC62&linkCode=ll1&tag=lasaspirad-21&linkId=474530e6506471db024328f329528d8b">(ver en Amazon) </a></b> y la versión animal Pro, que es la que vamos a comentar a continuación.
 
 El DC62 animalpro de tubo violeta viene con el nuevo turbo-cepillo motorizado con los pelos retorcidos, que alterna cerdas de nylon y pelo de fibra de carbono, un mini cepillo turbo y dos pequeños accesorios: una larga boquilla y un cepillo que se transforma en un succionador plano.
 
@@ -144,7 +144,7 @@ En cuanto al depósito, se expulsa pulsando de nuevo en la apertura de la trampi
 Por último, el cepillo turbo se abre en todas partes, con bastante facilidad (siempre que tengas a mano una moneda), lo que hace su mantenimiento fácil.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gOG54v">Buscar el mejor precio</a>
+  <a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Buscar el mejor precio</a>
 </div>
 
 
@@ -153,7 +153,7 @@ Por último, el cepillo turbo se abre en todas partes, con bastante facilidad (s
 Dyson ha hecho esfuerzos para mejorar la comodidad y la eficiencia de la DC62. No solo más agradable de usar, más equilibrada y más fácil de mantener sino que también ofrece buenos resultados en todo tipo de superficie. Estas caracteristicas hacen que sea un compañero ideal y versátil tanto para un piso, una casa o un apartamento pequeño copiosamente amueblado. La unica pega que podemos ponerle es el ruido.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2gOG54v">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Comprar en Amazon</a>
 </div>
 
 Si quieres consultar otro modelo, vuelve a nuestra lista.
