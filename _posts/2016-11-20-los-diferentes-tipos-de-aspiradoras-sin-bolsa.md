@@ -75,7 +75,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 
   James Dyson vendió en el mercado japonés el primer aspirador vertical sin bolsa bajo el nombre G-force. Pero fue con el aspirador sin bolsa DC01, que disfrutaba de la tecnología Dual Cyclone que James Dyson conquistó el Reino Unido.
 
-  El aspirador escoba sin bolsa presenta ventajas interesantes para el hogar en comparación con el aspirador trineo sin bolsa:
+  El <a href="{{ site.url }}/tabla-caracteristicas-aspiradoras-escoba/">aspirador escoba sin bolsa</a> presenta ventajas interesantes para el hogar en comparación con el aspirador trineo sin bolsa:
 
   - El aspirador vertical no tiene que ser preparado ya que siempre está listo para su uso.
   - No es necesario desenchufarlo y enchufarlo en cada habitación.
@@ -94,7 +94,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
   <img src="{{ site.url }}/assets/img/DysonV6/V6_Total_Clean__coche.jpg" width="400" height="auto" alt="El aspirador de mano sin bolsa">
 </div>
 
-  Una aspiradora de mano sin bolsa limpia fácilmente mesas, teclados, muebles, coches, etc.
+  Una <a href="{{ site.url }}/tabla-caracteristicas-aspiradoras-de-mano/">aspiradora de mano sin bolsa</a> limpia fácilmente mesas, teclados, muebles, coches, etc.
   Estas aspiradoras funcionan con batería y son más manejables que otras aspiradoras sin bolsa.
 
   Sin embargo, la potencia de succión está por debajo de la media de otros tipos de aspiradoras sin bolsa. Por otra parte, la autonomía es muy limitada (por lo general unos 10 minutos antes de necesitar ser recargada de nuevo).

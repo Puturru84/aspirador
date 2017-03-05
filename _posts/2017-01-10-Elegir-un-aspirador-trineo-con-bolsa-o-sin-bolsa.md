@@ -131,9 +131,9 @@ El ruido es el punto en el que la aspiradora con la bolsa gana innegablemente la
 
 La diferencia es significativa, como se ha señalado, por ejemplo, en los modelos de Bosch y Rowenta, dos fabricantes que hacen esfuerzos en I + D para luchar contra la contaminación acústica.
 
-En Bosch, el modelo con la bolsa menos ruidoso <a href="http://amzn.to/2jeqHQn">(el In'Genius BGL8SIL59D)</a>  produce 59 dB mientras que el ruido de la aspiradora sin la bolsa más discreta <a href="http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/">(Relaxx'x BGS5230S)</a> asciende a 66 dB. Sabiendo que una diferencia de 10 dB duplica la percepción del ruido, la diferencia no es despreciable.
+En Bosch, el modelo con la bolsa menos ruidoso <a href="https://www.amazon.es/Aspirador-bolsa-bgl8sil59d-gl-80-Genius/dp/B01JGPGO5Y/ref=as_li_ss_tl?ie=UTF8&qid=1484063037&sr=8-1-fkmr0&keywords=bosch+In'Genius+BGL8SIL59D&linkCode=ll1&tag=lasaspirad-21&linkId=9037185094b562c547b888391cc7878d">(el In'Genius BGL8SIL59D)</a>  produce 59 dB mientras que el ruido de la aspiradora sin la bolsa más discreta <a href="http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/">(Relaxx'x BGS5230S)</a> asciende a 66 dB. Sabiendo que una diferencia de 10 dB duplica la percepción del ruido, la diferencia no es despreciable.
 
-Lo mismo ocurre en Rowenta, que son más ruidosos los aspiradores sin bolsa como el <a href="http://www.lasaspiradoras.com/test-rowenta-silenceforce-multi-ciclonic-RO8341/">Silence Force Multi-Cyclonic RO8341</a> (68 dB) que el <a href="http://amzn.to/2jzlzJW">Rowenta Silence Force RO6432</a> (62 dB) con bolsa.
+Lo mismo ocurre en Rowenta, que son más ruidosos los aspiradores sin bolsa como el <a href="http://www.lasaspiradoras.com/test-rowenta-silenceforce-multi-ciclonic-RO8341/">Silence Force Multi-Cyclonic RO8341</a> (68 dB) que el <a href="https://www.amazon.es/Rowenta-Silence-Force-Aspirador-filtro/dp/B00MHMAN3S/ref=as_li_ss_tl?ie=UTF8&qid=1488724056&sr=8-1-fkmr0&keywords=Force+Multi-Cyclonic+RO8341&linkCode=ll1&tag=lasaspirad-21&linkId=099daf9819d5eea9c8194267f6445570">Rowenta Silence Force RO6432</a> (62 dB) con bolsa.
 
 
 <h4>Precio: equivalente a pesar de lo que pensamos</h4>

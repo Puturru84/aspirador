@@ -15,7 +15,7 @@ A continuación vamos a explicaros cómo comprar en Amazon y qué ventajas prese
 Amazon es una gran plataforma de comercio electrónico que reúne numerosos prestatarios de productos.
 
 Cuando compramos a través de Amazon pueden ocurrir dos cosas.
-O bien que estemos comprando un producto vendido directamente a través de Amazon, o bien que estemos comprando un producto en la plataforma Amazon a un tercero. Esto es una empresa que usa <a href="http://amzn.to/2iCd1x5">amazon.es</a> para vender sus productos.  Esta es una práctica habitual ya que muchas empresas saben que un gran número de consumidores van directos a Amazon a realizar sus comprar.
+O bien que estemos comprando un producto vendido directamente a través de Amazon, o bien que estemos comprando un producto en la plataforma Amazon a un tercero. Esto es una empresa que usa <a href="https://www.amazon.es/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=lasaspirad-21&linkId=7bc3a3dc0d9bfba1ccf0cdd89c8f83ad">amazon.es</a> para vender sus productos.  Esta es una práctica habitual ya que muchas empresas saben que un gran número de consumidores van directos a Amazon a realizar sus comprar.
 
 
 <h4>¿Cuales son las ventajas de comprar en Amazon?</h4>
@@ -36,9 +36,9 @@ La cuarta es que puedes ver los comentarios de otros clientes que han comprado e
 
 La quinta es que puedes elegir diferentes tipos de envío para pagar más o menos por los gastos de envío. A veces estos están incluidos en el precio final del producto.
 
-Amazon ofrece además un servicio especial, <a href="http://amzn.to/2isjJFL">Amazon Premium</a>.
+Amazon ofrece además un servicio especial, <a href="https://www.amazon.es/gp/prime/pipeline/landing/ref=as_li_ss_tl?ie=UTF8&ref_=nav_logo_prime_join&linkCode=ll2&tag=lasaspirad-21&linkId=a5409816ab7baaf090a43783807139e9">Amazon Premium</a>.
 
-Este servicio te permite recibir un montón de productos en 1 dia GRATIS. Además cuenta con otras ventajas que puedes <a href="http://amzn.to/2iwPLFB">ver aquí</a>.
+Este servicio te permite recibir un montón de productos en 1 dia GRATIS. Además cuenta con otras ventajas que puedes <a href="https://www.amazon.es/gp/prime/pipeline/landing/ref=as_li_ss_tl?ie=UTF8&ref_=nav_logo_prime_join&linkCode=ll2&tag=lasaspirad-21&linkId=d6d6143ca056bc8904e04a7dc51972e7">ver aquí</a>.
 Tienes un mes de prueba gratis, luego el precio es de 19,95 € / año.
 
 <div class="text-center">
@@ -52,7 +52,7 @@ La última ventaja es que puedes comprar con varias tarjetas (la compra es 100% 
 
 Tienes un plazo de 30 días desde la fecha de recepción del producto para devolverlo.
 
-Para obtener un reembolso del producto este debe ser reenviado cumpliendo ciertas condiciones según el tipo de producto del que se trate.   Reenviarlo en la condición original del producto y con todos los envoltorios, etiquetas y accesorios o sin abrir y con todos los productos intactos. Consulta la <a href="http://amzn.to/2iHZxDl">tabla de devoluciones</a> de productos de Amazon.
+Para obtener un reembolso del producto este debe ser reenviado cumpliendo ciertas condiciones según el tipo de producto del que se trate.   Reenviarlo en la condición original del producto y con todos los envoltorios, etiquetas y accesorios o sin abrir y con todos los productos intactos. Consulta la <a href="https://www.amazon.es/gp/help/customer/display.html/ref=as_li_ss_tl?ie=UTF8&nodeId=201149900&linkCode=ll2&tag=lasaspirad-21&linkId=18b0efae847bc08c5c9e8f0f967e48d1">tabla de devoluciones</a> de productos de Amazon.
 
 La devolución es bastante simple y puedes realizarla por internet a través de tu cuenta. Basta con imprimir la etiqueta de devolución, preparar el paquete, pegar la etiqueta y enviarlo.
 

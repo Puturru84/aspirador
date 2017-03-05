@@ -114,7 +114,7 @@ Desde 2014, cada modelo de aspirador con bolsa o sin bolsa, debe tener etiquetad
 
 <h4> 4. Los comentarios de los consumidores</h4>
 
-Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas las pruebas en el mundo no se pueden hacer en todos los productos, por tanto, es esencial seguir los consejos y las opiniones de los usuarios como puedes hacerlo en <a href="http://amzn.to/2iu35Wi">Amazon</a>, por ejemplo, para tener una idea de las ventajas y desventajas del aspirador que vas a comprar.
+Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas las pruebas en el mundo no se pueden hacer en todos los productos, por tanto, es esencial seguir los consejos y las opiniones de los usuarios como puedes hacerlo en <a href="https://www.amazon.es/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=lasaspirad-21&linkId=c0d973657583be7ec2f5988e03efc150">Amazon</a>, por ejemplo, para tener una idea de las ventajas y desventajas del aspirador que vas a comprar.
 
 <div class="text-center">
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>

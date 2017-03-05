@@ -12,11 +12,11 @@ La primera pregunta que debemos hacernos es ¿Qué es lo que estoy buscando? Un 
 
 Según definamos nuestras necesidades está claro que la respuesta será diferente. Desde las aspiradoras hemos querido hacer una clasificacion en funcion del precio y presentaros la mejor opción para cada rango. Lamentablemente el precio es una de las características que sigue siendo clave a la hora de elegir un modelo u otro y esperar unas prestaciones u otras.
 
-Aunque podemos encontrar [ofertas y promociones](http://amzn.to/2l0DdpK) aún no venden Ferraris 🏎️ a precio de Corsas 🚗, con todos mis respetos al Corsa. Aquí os dejamos con nuestra selección.
+Aunque podemos encontrar [ofertas y promociones](2l0DdpK) aún no venden Ferraris 🏎️ a precio de Corsas 🚗, con todos mis respetos al Corsa. Aquí os dejamos con nuestra selección.
 
  **El mejor robot aspirador a menos de 200 €**
 
-🏆 **[El H.Koenig SWR28](http://amzn.to/2kwRmfn)**
+🏆 **[El H.Koenig SWR28](https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd)**
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/c3f7b2cc550241338eb763f76fb81bb3/pablo_(23).png)
 
@@ -35,12 +35,12 @@ Debilidades:
 - A veces vuelve a lugares donde ya ha pasado.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2kwRmfn">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Comprar en Amazon</a>
 </div>
 
  **El mejor robot aspirador a menos de 400 €**
 
-🏆 **[El iRobot roomba 650](http://amzn.to/2lVghq1)**
+🏆 **[El iRobot roomba 650](https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118)**
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/cf0887cd4ef94aefa9c13b461f85ee6c/pablo_(24).png)
 
@@ -56,7 +56,7 @@ Puntos fuertes:
 - Incluye una pared virtual que te permitirá bloquear las zonas que no quieras que aspire.
 - Se puede programar hasta 7 días.
 - Rendimiento eficaz en suelos duros y alfombras finas.
--  [4.5 puntos sobre 5 en Amazon.](http://amzn.to/2lSAwbk)
+-  [4.5 puntos sobre 5 en Amazon.](https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118)
 
 Debilidades:
 
@@ -64,12 +64,12 @@ Debilidades:
 - Depósito semiabierto, su apertura no es sencilla.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2lVghq1">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118">Comprar en Amazon</a>
 </div>
 
 **El mejor robot aspirador a menos de 600 €**
 
-🏆 **[El Neato Robotics Botvac Connected](http://amzn.to/2lSMC41)**
+🏆 **[El Neato Robotics Botvac Connected](https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9 )**
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/ca357c61cabf4c6d83efb00b5c3908a4/pablo_(13).png)
 
@@ -89,7 +89,7 @@ Debilidades:
 - Mide 10 cm con lo que no pasa por debajo de algunos muebles.
 
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2lSMC41">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9 ">Comprar en Amazon</a>
 </div>
 
 

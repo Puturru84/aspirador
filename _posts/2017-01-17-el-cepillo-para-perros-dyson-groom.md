@@ -14,7 +14,7 @@ Esta herramienta, que cuenta con un par de años en el mercado ha sido creada pa
   <img src="{{ site.url }}/assets/img/dyson-groom/Dyson_Groom_3-low_definition.jpg" width="500" height="auto" alt="cepillo para perros Dyson Groom">
 </div>
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2iJsjTV">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Dyson-921000-01-Cepillo-groomer-mascota/dp/B004CLPJRC/ref=as_li_ss_tl?ie=UTF8&qid=1488719716&sr=8-1&keywords=Dyson+Groom&linkCode=ll1&tag=lasaspirad-21&linkId=23ddd8979c67cf47457791928d24b2f0">Comprar en Amazon</a>
 </div>
 
 Su lanzamiento causó tanta expectativa por parte de los consumidores como revuelo por parte de algunas asociaciones de animales.
@@ -43,7 +43,7 @@ Si por el contrario tu perro es muy nervioso o tiene pavor al aspirador, tendrá
 <img src="{{ site.url }}/assets/img/dyson-groom/dyson-groom-cepillos.png" width="500" height="auto" alt="cepillo perros Dyson Groom">
 </div>
 <div class="text-center">
-  <a class="button" href="http://amzn.to/2iJsjTV">Comprar en Amazon</a>
+  <a class="button" href="https://www.amazon.es/Dyson-921000-01-Cepillo-groomer-mascota/dp/B004CLPJRC/ref=as_li_ss_tl?ie=UTF8&qid=1488719716&sr=8-1&keywords=Dyson+Groom&linkCode=ll1&tag=lasaspirad-21&linkId=23ddd8979c67cf47457791928d24b2f0">Comprar en Amazon</a>
 </div>
 
 <h5>¿En qué condiciones usan el Dyson groom?</h5>
