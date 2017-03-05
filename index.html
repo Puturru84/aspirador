@@ -182,7 +182,7 @@ description: "Estas buscando una aspiradora? te resulta dificil elegir? Aqui est
               {% else %}
               {% endif %}
             </th>
-            <th><a class="button" href="{{ post.link }}">Comprar</a></th>
+            <th>{% include components/button-buy-amazon.html %}</th>
           </tr>
       {% endfor %}
     </tbody>

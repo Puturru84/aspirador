@@ -37,7 +37,7 @@ price-now: "1.116,00 €"
 discount: "0%"
 stars: "5"
 description: "¿Cuales son las novedades del iRobot Roomba 980? te las contamos en nuestro análisis con todo detalle."
-link: "https://www.amazon.es/Robot-aspirador-iRobot-Roomba-980/dp/B01BCE15VA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717936&sr=1-5&keywords=iRobot+Roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=d925d03a01baedea815b54763c405aec"
+link: "https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7"
 ---
 
 <div class="flex-video">
@@ -225,7 +225,7 @@ Si no tienes un smartphone, pasa de largo, ya que el Roomba 980 está diseñado 
 Aunque queramos buscarle pegas no hay mucho de qué quejarse excepto del precio que puede echar a mas de uno para tras. iRobot no ha mentido, con esta nueva Roomba, el fabricante va un paso por delante. La parte más difícil será hacerlo mejor en la próxima versión.
 
 <div class="text-center">
-  <a href="https://www.amazon.es/Robot-aspirador-iRobot-Roomba-980/dp/B01BCE15VA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717936&sr=1-5&keywords=iRobot+Roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=d925d03a01baedea815b54763c405aec"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
+  <a href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
