@@ -37,9 +37,9 @@ link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=
 
 #### Presentación
 
-Con un uso diario? especialmente en invierno? es muy complicado mantener el coche limpio, entre las compras, los niños, los paseos por el campo, la lluvia, las tormentas y la nieve, nuestro habitáculo se llena de piedrecitas y barro. Una pesadilla para los conductores a los que les gusta tener el coche limpio.
+Con un uso diario, especialmente en invierno, es muy complicado mantener el coche limpio. Entre las compras, los niños, los paseos por el campo, la lluvia, las tormentas y la nieve, el habitáculo de nuestro coche se llena de piedrecitas y barro. Una pesadilla para los conductores a los que les gusta tener el coche limpio.
 
-Para el interior de tu coche analizamos hoy una aspiradora de mano simple y práctica para aspirar toda la suciedad del cuadro de mandos y mucho más, la Dyson DC43H.
+Por eso, para el interior de tu coche analizamos hoy una aspiradora de mano simple y práctica capaz de aspirar toda la suciedad del cuadro de mandos y mucho más, la Dyson DC43H.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Dyson DC43H/Dyson_V6_Car__Boat_7-low_definition.jpg" width="500" height="auto" alt="Dyson DC43H limpiando cuadro de mando coche">
@@ -52,11 +52,11 @@ Para el interior de tu coche analizamos hoy una aspiradora de mano simple y prá
 
 #### Aspirado
 
-Creada en 1993, la marca Dyson se ha forjado una auténtica reputación en el mundo de los aspiradores sin bolsa de separación ciclónica. Más allá del simple uso doméstico la marca Inglesa ha percibido la oportunidad de ampliar su gama de aspiradores para los usuarios que buscan un producto cómodo y compacto para una limpieza profunda de su vehículo.
+Creada en 1993, la marca Dyson se ha forjado una auténtica reputación en el mundo de los aspiradores sin bolsa de separación ciclónica. Más allá del simple uso doméstico la marca inglesa ha percibido la oportunidad de ampliar su gama de aspiradores para los usuarios que buscan un producto cómodo y compacto para una limpieza profunda de su vehículo.
 
-Antiguamente consideradas simplemente "recoge migajas", las aspiradoras de mano han visto, con el paso del tiempo mejorar su reputación. Hoy en día, se han convertido en compañeros indispensables para los conductores que deseen aspirar todo lo que pasa en un coche: el polvo, las piedras, los escombros, restos de comida, todo!
+Antiguamente consideradas simplemente "recoge migajas", las aspiradoras de mano han visto, con el paso del tiempo, mejorar su reputación. Hoy en día se han convertido en compañeros indispensables para los conductores que deseen aspirar todo lo que pasa en un coche: el polvo, las piedras, los escombros, restos de comida, todo!
 
-Con sus 10 litros de aspiración de aire por segundo y una autonomía de 20 minutos a máxima potencia después de una recarga de 5,5 horas, la Dyson DC43H es un aparato diseñado para una limpieza rápida y eficaz de muchas superficies desde el sofá o las escaleras, a la limpieza de los asientos de coche. Muy práctica para los lugares fuera del alcance de las aspiradoras trineo.
+Con sus 10 litros de aspiración de aire por segundo y una autonomía de 20 minutos a máxima potencia después de una recarga de 5,5 horas, la Dyson DC43H es un aparato diseñado para una limpieza rápida y eficaz de muchas superficies, desde el sofá o las escaleras, a la limpieza de los asientos de coche. Muy práctica para los lugares que se quedan fuera del alcance de las aspiradoras trineo.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Dyson DC43H/Dyson_V6_Car__Boat_4-low_definition.jpg" width="500" height="auto" alt="Dyson DC43H aspirando interior coche">
@@ -64,7 +64,7 @@ Con sus 10 litros de aspiración de aire por segundo y una autonomía de 20 minu
 
 Compacto, con un peso de 1,32 kg, esta aspiradora funciona con un motor dinámico Dyson V2 que le da un poder de succión notable. Esta succión le permite aspirar sin dificultad y llegar a todos los rincones de nuestras alfombras y nuestros asientos. Con su cepillo giratorio motorizado, la aspiradora es capaz de eliminar la suciedad difícil o incluso el residuo más incrustada de una alfombra.
 
-El aspirador cuenta también con una toma para conectar al encendedor de 12V que es muy conveniente si quieres recargar el dispositivo en el coche y / o si no hay una toma de corriente en tu garaje por ejemplo.
+El aspirador cuenta también con una toma para conectar al encendedor de 12V que es muy práctica si quieres recargar el dispositivo en el coche y / o si, por ejemplo, no hay una toma de corriente en tu garaje.
 
 Además cuenta con varios accesorios para llegar a todos los rincones de tu coche:
 Manguera extensible, accesorio rinconera, accesorio multifunción, minicepillo motorizado y cepillo para la suciedad difícil.
@@ -84,9 +84,9 @@ A saber también que se entrega sin soporte de carga.
 
 #### Mantenimiento
 
-Esta aspiradora de mano no requiere mucho mantenimiento, basta con vaciar el depósito cuando esté lleno y lavar el filtro cuando lo veamos sucios.
+Esta aspiradora de mano no requiere mucho mantenimiento, basta con vaciar el depósito cuando esté lleno y lavar el filtro cuando lo veamos sucio.
 
-El vaciado del aspirador no podía ser más fácil, basta con presionar un botón que nos permite evitar el contacto con el polvo: Un vaciado 100% higiénico  que evita que alguien se ensucie.
+El vaciado del aspirador no podía ser más fácil, solo hay que presionar un botón que nos permite evitar el contacto con el polvo: Un vaciado 100% higiénico  que evita que alguien se ensucie.
 
 
 <div class="text-center">

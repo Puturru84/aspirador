@@ -37,3 +37,5 @@ Echa un ojo a este video con el robot aspiradora Cocorobo en funcionamiento.
 <div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GK5429IeqnE" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
