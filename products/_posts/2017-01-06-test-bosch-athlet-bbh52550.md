@@ -36,6 +36,7 @@ discount: "36%"
 stars: "4"
 description: "Guia de compra de la Bosch Athlet BBH52550, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito/dp/B00GGDLYC8/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718247&sr=1-2&keywords=Bosch+Athlet+BBH52550&linkCode=ll1&tag=lasaspirad-21&linkId=0adb2fb18edc726e98dda781d05f4cf9"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FBosch-Aspirador-Escoba-BBH52550-%2F112304378779%3Fhash%3Ditem1a25dcd39b%3Ag%3A78kAAOSwOgdYpEBH"
 ---
 
 
@@ -45,6 +46,7 @@ link: "https://www.amazon.es/Bosch-Athlet-Aspirador-autonom%C3%ADa-dep%C3%B3sito
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -69,6 +71,7 @@ Para asegurar una succión constante sin pérdida, BBH 52550 está equipado con 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 <div class="text-center">
@@ -111,6 +114,7 @@ Como veremos más adelante en el apartado manejabilidad, la comodidad sufre el p
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -155,6 +159,7 @@ Si comparamos con otros modelos, el<a href="http://www.lasaspiradoras.com/test-R
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -186,6 +191,7 @@ El Athlet pone de manifiesto buenas ideas que deben explorarse así como puntos 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

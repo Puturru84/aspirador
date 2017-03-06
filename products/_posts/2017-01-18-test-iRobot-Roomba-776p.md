@@ -37,6 +37,7 @@ discount: "0%"
 stars: "4.5"
 description: "Guia de compra del iRobot Roomba 776p, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718525&sr=1-1&keywords=iRobot+Roomba+776p&linkCode=ll1&tag=lasaspirad-21&linkId=3514d1efd1260ba488567909a00b764d"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FIROBOT-ROOMBA-776p-%2F252767766163%3Fhash%3Ditem3ada220693%3Ag%3AdyoAAOSwtfhYoLLz"
 ---
 
 <div class="flex-video">
@@ -45,6 +46,7 @@ link: "https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/re
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -74,6 +76,7 @@ Aquí está nuestra opinión de este modelo.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 <div class="text-center">
@@ -140,6 +143,7 @@ Por último, iRobot ofrece accesorios pequeños para facilitar la limpieza.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -154,6 +158,7 @@ Si bien los dos son fáciles de quitar, el cepillo rígido tiende a enganchar lo
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Sistema de navegación
@@ -189,6 +194,7 @@ Apreciamos su facilidad de uso y la posibilidad de programarlo día a día. Si b
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.

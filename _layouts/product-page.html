@@ -12,7 +12,7 @@ layout: default
         <img src="{{site.url}}/assets/img/{{ page.image }}" width="300" height="auto" alt="{{ page.model }}">
         </div>
       {% if page.energy-efficiency %}
-      <p>Eficiencia energetica {{ page.energy-efficiency }}</p>
+      <p class="progress-bar">Eficiencia energetica {{ page.energy-efficiency }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.energy-efficiency-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.energy-efficiency-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text ">{{ page.energy-efficiency-op }}/5</p>
@@ -20,7 +20,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.performance-carpets %}
-      <p>Rendimiento alfombras {{ page.performance-carpets }}</p>
+      <p class="progress-bar">Rendimiento alfombras {{ page.performance-carpets }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.performance-carpets-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.performance-carpets-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.performance-carpets-op }}/5</p>
@@ -28,7 +28,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.performance-hard-floors %}
-      <p>Rendimiento suelos duros {{ page.performance-hard-floors }}</p>
+      <p class="progress-bar">Rendimiento suelos duros {{ page.performance-hard-floors }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.performance-hard-floors-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.performance-hard-floors-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.performance-hard-floors-op }}/5</p>
@@ -36,7 +36,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.powder-emission-class %}
-      <p>Clase de emisión de polvo {{ page.powder-emission-class }}</p>
+      <p class="progress-bar">Clase de emisión de polvo {{ page.powder-emission-class }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.powder-emission-class-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.powder-emission-class-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.powder-emission-class-op }}/5</p>
@@ -44,7 +44,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.charge %}
-      <p>Tiempo de carga {{ page.charge }}</p>
+      <p class="progress-bar">Tiempo de carga {{ page.charge }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.charge-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.charge-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.charge-op }}/5</p>
@@ -52,7 +52,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.consumption-year %}
-      <p>Consumo anual estimado {{ page.consumption-year }}</p>
+      <p class="progress-bar">Consumo anual estimado {{ page.consumption-year }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.consumption-year-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.consumption-year-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.consumption-year-op }}/5</p>
@@ -60,7 +60,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.sound %}
-      <p>Ruido {{ page.sound }}</p>
+      <p class="progress-bar">Ruido {{ page.sound }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.sound-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.sound-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.sound-op }}/5</p>
@@ -68,7 +68,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.weight %}
-      <p>Peso {{ page.weight }}</p>
+      <p class="progress-bar">Peso {{ page.weight }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.weight-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.weight-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.weight-op }}/5</p>
@@ -76,7 +76,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.radius %}
-      <p>Radio de accion {{ page.radius }}</p>
+      <p class="progress-bar">Radio de accion {{ page.radius }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.radius-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.radius-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.radius-op }}/5</p>
@@ -84,7 +84,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.capacity %}
-      <p>Capacidad {{ page.capacity }}</p>
+      <p class="progress-bar">Capacidad {{ page.capacity }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.capacity-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.capacity-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.capacity-op }}/5</p>
@@ -92,7 +92,7 @@ layout: default
       </div>
       {% endif %}
       {% if page.battery %}
-      <p>Duracion de la bateria {{ page.battery }}</p>
+      <p class="progress-bar">Duracion de la bateria {{ page.battery }}</p>
       <div class="progress" role="progressbar" tabindex="0" aria-valuenow="20" aria-valuemin="0" aria-valuetext="{{ page.battery-op }}" aria-valuemax="100">
         <span class="progress-green" style="width: {{ page.battery-op | times: 100 | divided_by: 5 | append: '%' }}">
           <p class="progress-meter-text">{{ page.battery-op }}/5</p>

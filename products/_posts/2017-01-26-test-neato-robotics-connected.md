@@ -37,11 +37,13 @@ discount: "0%"
 stars: "5"
 description: "Guia de compra del Neato Robotics Botvac Connected, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9"  
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FNeato-Botvac-Connected-Robot-Aspirapolvere-Connessione-Wifi-Neato-Robotics-%2F291643856507%3Fhash%3Ditem43e754167b%3Ag%3AQVcAAOSwxN5WY0Nx"
 ---
 
-  <div class="text-center">
-    {% include components/button-buy-amazon.html %}
-  </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
 
   ✔️ Puntos fuertes  | ❌ Debilidades
   --|--
@@ -90,6 +92,7 @@ La conectividad
 
   <div class="text-center">
     {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Aspirado
@@ -146,6 +149,7 @@ La conectividad
 
   <div class="text-center">
     {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Mantenimiento
@@ -165,6 +169,7 @@ La conectividad
 
   <div class="text-center">
     {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Sistema de Navegación

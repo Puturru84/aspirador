@@ -36,6 +36,7 @@ discount: "0%"
 stars: "4.5"
 description: "El aspirador escoba Dyson DC62 Animal Pro ofrece resultados excelentes y te ayudará a acabar con el pelo de tus mascotas. Consulta nuestro test completo."
 link: "https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FAKKU-Handstaubsauger-DYSON-DC62-Animalpro-silber-2-Sofortrabatt-%2F142286176148%3Fhash%3Ditem2120eabf94%3Ag%3AVagAAOSwfVpYq3h7"
 ---
 
 <div class="flex-video">
@@ -44,6 +45,7 @@ link: "https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -66,6 +68,7 @@ Se diferencia de su predecesor DC45 por la presencia de un motor digital, y un n
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 <div class="text-center">
@@ -145,6 +148,7 @@ Por último, el cepillo turbo se abre en todas partes, con bastante facilidad (s
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 
@@ -154,6 +158,7 @@ Dyson ha hecho esfuerzos para mejorar la comodidad y la eficiencia de la DC62. N
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 Si quieres consultar otro modelo, vuelve a nuestra lista.

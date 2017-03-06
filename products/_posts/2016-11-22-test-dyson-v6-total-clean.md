@@ -36,6 +36,7 @@ discount: "6%"
 stars: "4.5"
 description: "La aspirador escoba Dyson V6 total clean es potente, viene con filtro HEPA y se carga rápido. Conoce nuestra opinión de una de las aspiradoras escoba más completas."
 link: "https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FAspiradora-sin-cable-DYSON-V6-TOTAL-CLEAN-%2F232255943042%3Fhash%3Ditem3613887182%3Ag%3ADc8AAOSwax5YtbL9"
 ---
 
 
@@ -45,6 +46,7 @@ link: "https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -70,6 +72,7 @@ A continuación os cuento todo sobre el Total Clean que he podido probar recient
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -97,6 +100,7 @@ Con este cepillo motorizado meneamos todos los micropelos y al polvo no le queda
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -137,6 +141,7 @@ Su cabezal es flexible, incluso la del cepillo de parquet y el aparato esta bien
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -158,6 +163,7 @@ Los cepillos son super completos, y como todos los Dyson un aspirador fácil de 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

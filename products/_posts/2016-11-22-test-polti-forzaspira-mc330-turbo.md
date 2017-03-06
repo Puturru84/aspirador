@@ -46,10 +46,12 @@ discount: "58%"
 stars: "4"
 description: "Conoce todas las características del modelo Polti Forzaspira MC330 Turbo que hemos probado"
 link: "https://www.amazon.es/Polti-Forzaspira-MC330-Turbo-multicicl%C3%B3nico/dp/B00M9COIIW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717674&sr=1-1&keywords=Polti+Forzaspira+MC330+Turbo&linkCode=ll1&tag=lasaspirad-21&linkId=6fb874beaec16f19fc1183f42039b686"
+link_ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FAspirador-POLTI-Forzaspira-MC-330-Turbo-Sin-Bolsa-%2F262773578399%3Fhash%3Ditem3d2e869a9f%3Ag%3A8DQAAOSw-0xYZdRh"
 ---
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -90,6 +92,7 @@ No tuvimos ningún problema durante su funcionamiento, incluso si estás de pie 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -125,6 +128,7 @@ Una de sus ventajas de este modelo es el consumo ya que el Polti Forzaspira MC33
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Robustez
@@ -181,6 +185,7 @@ Si no tienes mascota y necesitas un aspirador competente a un precio muy competi
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado.

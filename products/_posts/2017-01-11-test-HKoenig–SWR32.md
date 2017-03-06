@@ -37,10 +37,12 @@ discount: "55 %"
 stars: "4"
 description: "Guia de compra del H.Koenig SWR38, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/H-Koenig-SWR32-Robot-aspiradora-inteligente/dp/B019QEO4WA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718353&sr=1-1&keywords=H.Koenig+SWR32&linkCode=ll1&tag=lasaspirad-21&linkId=72a0db81142cbdb9d994c2fdc4d96250"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FIntelligenter-Roboter-Staubsauger-7-routinen-programmierbar-H-koenig-SWR32-%2F391516502801%3Fhash%3Ditem5b2833bb11%3Ag%3ApiwAAOSwB09YOGJ5"
 ---
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -64,6 +66,7 @@ En Las aspiradoras, aplaudimos los esfuerzos de la marca alemana y estamos encan
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -130,6 +133,7 @@ Si el depósito de la basura está lleno o si el aparato necesita limpieza, lo i
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Sistema de Navegación y gestión de obstáculos
@@ -149,6 +153,7 @@ Es un dispositivo que se recomienda por su relación calidad precio razonable en
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

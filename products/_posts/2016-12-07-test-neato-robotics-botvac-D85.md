@@ -37,6 +37,7 @@ discount: "4%"
 stars: "4.5"
 description: "Guia de compra del Neato Robotics Botvac D85, funcionamiento, aspirado, manejabilidad y las mejores ofertas."
 link: "https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FNeato-Botvac-D85-Robot-Laser-Vacuum-Cleaner-0-7-Litre-for-Pet-Hairs-Lasersmart-%2F192088997299%3Fhash%3Ditem2cb9657db3%3Ag%3ABq8AAOSwA3dYivX6"
 ---
 
 <div class="flex-video">
@@ -45,6 +46,7 @@ link: "https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/r
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -91,8 +93,8 @@ Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin e
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
-
 
 #### Aspirado
 
@@ -142,6 +144,7 @@ Siempre valoramos la posibilidad de realizar actualizaciones del software para i
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -158,6 +161,7 @@ Por ultimo, para facilitar el mantenimiento de la unidad, Neato reservar un pein
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Sistema de Navegación

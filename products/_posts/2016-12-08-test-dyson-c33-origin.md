@@ -45,6 +45,7 @@ discount: "6%"
 stars: "4.5"
 description: "Guia de compra del Dyson DC33C Origin, funcionamiento, aspirado, manejabilidad y las mejores ofertas."
 link: "https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-DC33c-Pro-DC-33-beutelloser-Bodenstaubsauger-EEK-A-%2F302129693487%3Fhash%3Ditem465855432f%3Ag%3AMukAAOSwMVdYHXc4"
 ---
 
 <div class="flex-video">
@@ -53,6 +54,7 @@ link: "https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -77,6 +79,7 @@ Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filt
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -113,6 +116,7 @@ El tamaño del tubo de succión y el cable del dispositivo DC33C son bastante bu
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Ruido
@@ -133,6 +137,7 @@ Siendo una marca líder en el mercado de gama alta de aspiradoras, Dyson no defr
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Manejabilidad
@@ -163,6 +168,7 @@ En resumen recomendamos esta aspiradora por su alto rendimiento, su funcionalida
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Tienes dudas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta mas modelos.

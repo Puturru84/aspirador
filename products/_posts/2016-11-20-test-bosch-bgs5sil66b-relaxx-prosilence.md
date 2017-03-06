@@ -45,6 +45,7 @@ discount: "37%"
 stars: "4.5"
 description: "El Bosch BGS5SIL66B Relaxx'x ProSilence es la aspiradora trineo más silenciosa del mercado. Consulta nuestro test donde te desvelamos todas sus características."
 link: "https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FBosch-BGS5SIL66B-Relaxxx-ProSilence66-Staubsauger-in-schwarz-NEU-OVP-%2F282384288392%3Fhash%3Ditem41bf6a4a88%3Ag%3AK3oAAOSwJ7RYVqXH"
 ---
 
 <div class="flex-video">
@@ -53,6 +54,7 @@ link: "https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/d
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -100,7 +102,8 @@ Una luz indica que el "control del sensor" está presente en el cuerpo de la asp
 </div>
 
 <div class="text-center">
- {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -133,6 +136,7 @@ Bosch anuncia el consumo de 700 W, muy por debajo de lo requerido por la etiquet
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Robustez
@@ -169,6 +173,7 @@ No tenemos quejas sobre el uso de Relaxx'x, como se había prometido, todo suced
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres recibir tu Bosch Relax Prosilence en un dia? Prueba Amazon Premium, recibiras tus compras en 24h y GRATIS.

@@ -38,6 +38,7 @@ discount: "0%"
 stars: "4.5"
 description: "¿Quieres conocer las ventajas de la iRobot Braava jet 240? te lo contamos en el análisis de este producto que hemos podido probar."
 link: "https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FiRobot-Braava-Jet-240-Boden-Wischroboter-Nass-Trocken-Wischer-Mopping-Robot-%2F112233725799%3Fhash%3Ditem1a21a6bf67%3Ag%3A8HAAAOSwa~BYTVPq"
 ---
 
 <div class="flex-video">
@@ -46,6 +47,7 @@ link: "https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -68,6 +70,7 @@ Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 <div class="text-center">
@@ -100,8 +103,10 @@ Otro detalle que no nos ha convencido es la aplicación, en caso de problemas mu
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_FillTank.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
+
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado

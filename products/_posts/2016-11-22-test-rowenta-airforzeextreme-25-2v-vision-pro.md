@@ -34,6 +34,7 @@ discount: "23%"
 stars: "4"
 description: "Te explicamos qué resultados ofrece la aspiradora escoba con más batería del mercado, la Rowenta airforze extreme 25.2v vision-pro"
 link: "https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481485154&sr=1-1-spell&keywords=Rowenta+airforze+extreme+25.2v+vision-pro&linkCode=ll1&tag=lasaspirad-21&linkId=458365d5116a99d191786e219a9839bb"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FRowenta-Escoba-electrica-Air-Force-Extreme-25-2V-Potencia-25-2V-Resultado-%2F262347196424%3Fhash%3Ditem3d151c8808%3Ag%3AEdMAAOSw~AVYvNaL"
 ---
 
 <div class="flex-video">
@@ -42,6 +43,7 @@ link: "https://www.amazon.es/Rowenta-Force-Extreme-Vision-RH8872/dp/B01C40OPQS/r
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -66,6 +68,7 @@ Más barato que el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Cl
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -102,6 +105,7 @@ En alfombra gruesa los resultados son similares.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Ruido
@@ -130,6 +134,7 @@ Sin embargo, incluso un poco más ligera que modelos anteriores, esta aspiradora
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -150,6 +155,7 @@ Si buscas una <b>relación calidad precio correcta</b> para una aspiradora escob
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

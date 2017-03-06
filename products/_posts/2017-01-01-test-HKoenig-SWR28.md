@@ -37,10 +37,12 @@ discount: "57 %"
 stars: "4"
 description: "Guia de compra del H.Koenig SWR28, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd"
+link: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FH-Koenig-Aspiradora-robot-de-limpieza-SWR28-%2F222195809854%3Fhash%3Ditem33bbe6fe3e%3Ag%3AB90AAOSwtnpXkcuR"
 ---
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -64,6 +66,7 @@ Echa un vistazo a nuestro articulo completo para conocer todos los detalles del 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -101,6 +104,7 @@ A nivel de ruido, el H.Koenig SWR28 produce 60 dB. No es super tranquilo, pero t
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Modos y funciones complementarias
@@ -137,6 +141,7 @@ Cuenta con un paño en la parte inferior, pero personalmente no me parece muy ú
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

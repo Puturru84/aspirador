@@ -35,11 +35,13 @@ discount: "0%"
 stars: "4"
 description: "Guia de compra del Dyson eye 360, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391"  
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-360-Eye-Robot-Vacuum-Cleaner-Blue-Nickel-%2F122355113615%3Fhash%3Ditem1c7ceede8f%3Ag%3Axs0AAOSwfVpYohHB"
 ---
 
-  <div class="text-center">
-    {% include components/button-buy-amazon.html %}
-  </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
 
   ✔️ Puntos fuertes  | ❌ Debilidades
   --|--
@@ -108,7 +110,8 @@ En la parte inferior de la página principal hay cuatro pestañas que ofrecen ac
   </div>
 
   <div class="text-center">
-    <{% include components/button-buy-amazon.html %}
+    {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Aspirado
@@ -152,6 +155,7 @@ El punto positivo, es posible <b>actualizar</b> el Dyson eye 360, que incluye un
 
   <div class="text-center">
     {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Mantenimiento
@@ -172,6 +176,7 @@ Hemos visto que en las bandas de rodamiento se acumula el cabello y  el pelo de 
 
   <div class="text-center">
     {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Sistema de Navegación

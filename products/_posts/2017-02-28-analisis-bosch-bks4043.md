@@ -27,11 +27,13 @@ comments: "Perfecta para pequeños residuos"
 stars: "3.5"
 description: "Guia de compra de la aspiradora de mano Bosch BKS4043, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b"  
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FBosch-Aspirador-de-Mano-BKS4043-Wet-Dry-%2F112304378676%3Fhash%3Ditem1a25dcd334%3Ag%3AeBMAAOSwdGFYpEBN"
 ---
 
-  <div class="text-center">
-    {% include components/button-buy-amazon.html %}
-  </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
 
 #### Presentación
 
@@ -50,6 +52,7 @@ A saber que el modelo violeta solo recoge sólidos.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -70,6 +73,7 @@ Hay que señalar que para algunas personas otro pequeño inconveniente puede ser
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 La Bosch BKS4043 funciona con pilas recargables NiMH ecológicas y tienen una autonomía de 15 minutos.
@@ -94,5 +98,6 @@ Aspiradora con buena relación calidad precio.
 Disponible en diferentes potencias, tendrás que elegir la que se ajuste más a tus necesidades y presupuesto.
 
 <div class="text-center">
-  <a href="https://www.amazon.es/Bosch-Bks4043-Aspiradora-mano-color/dp/B003542WHM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718679&sr=1-1&keywords=Bosch+BKS4043&linkCode=ll1&tag=lasaspirad-21&linkId=3723ed4d1239cbc65816648a2aa40f0b"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora de mano Bosch BKS4043 en Amazon"></a>
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>

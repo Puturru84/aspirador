@@ -37,6 +37,7 @@ discount: "23%"
 stars: "4"
 description: "Bestseller entre las aspiradoras robot, el iRobot Roomba 650 se ha hecho muy popular. Aquí te contamos porqué tanto éxito."
 link: "https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZPL4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717553&sr=1-4&keywords=iRobot+roomba+650&linkCode=ll1&tag=lasaspirad-21&linkId=4c4db371aa6080254ba7891e8c061118"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FROBOT-ASPIRADOR-ROOMBA-650-IRobot-Inteligente-Programable-%2F152454778684%3Fhash%3Ditem237f034f3c%3Ag%3AZxIAAOSw2gxYtiFi"
 ---
 
 <div class="flex-video">
@@ -45,6 +46,7 @@ link: "https://www.amazon.es/iRobot-Roomba-650-aspirador-programable/dp/B008R5ZP
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -66,6 +68,7 @@ Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -105,6 +108,7 @@ Los aspiradores robots están muy por debajo de la media de los aspiradores sin 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Manejabilidad
@@ -125,6 +129,7 @@ Eso si, segun el número de veces que lo programes hay que pensar a vaciar el de
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Conclusión   pts 4,3 / 5
@@ -141,6 +146,7 @@ Tiene una excelente relación calidad precio.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres ver mas opciones? consulta de nuevo la lista de las mejores aspiradoras del mercado.

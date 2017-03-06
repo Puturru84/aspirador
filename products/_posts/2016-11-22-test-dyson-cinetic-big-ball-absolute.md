@@ -46,6 +46,7 @@ discount: "0%"
 stars: "4"
 description: "El Dyson Cinetic Big Ball Absolute incluye la tecnología Cinetic (una tecnología Dyson que prescinde de cualquier mantenimiento del filtro) y la tecnología Ball, es capaz de volver a su posición inicial aunque bascule. Un completo juego de cepillos completan la oferta."
 link: "https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FNUEVO-DYSON-CINETIC-BIG-BALL-ABSOLUTE-A-CILINDRO-1-6L-1200W-E-NICHEL-215274-0-%2F361909278055%3Fhash%3Ditem5443795567%3Ag%3AX5gAAOSw2gxYquLQ"
 ---
 
 <div class="flex-video">
@@ -54,6 +55,7 @@ link: "https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFY
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -83,6 +85,7 @@ Por último, nuestra prueba también ha puesto de relieve una serie de esfuerzos
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso
@@ -123,6 +126,7 @@ En cuanto al sistema de vaciado del depósito, si bien hace maravillas en cuanto
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -156,6 +160,7 @@ No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo d
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Manejabilidad
@@ -188,6 +193,7 @@ Por último, el mantenimiento mínimo es una gran ventaja.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres consultar otros modelos? vuelve a la lista de las mejores aspiradoras del mercado.

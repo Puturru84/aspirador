@@ -46,6 +46,7 @@ discount: "40%"
 stars: "4"
 description: "Guia de compra del Bosch Zoo o ProAnimal BGS5ZOOO2, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autolimpieza/dp/B00LWVGPUA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718414&sr=1-1&keywords=Bosch+Zoo+o+ProAnimal&linkCode=ll1&tag=lasaspirad-21&linkId=b67b5dbef2c884ae000f7faf68aaf320"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FASPIRADOR-DE-TRINEO-BOSCH-ZOOO-PROANIMAL-%2F152440170568%3Fhash%3Ditem237e246848%3Ag%3AvUQAAOSwB-1Ypq-e"
 ---
 
 <div class="flex-video">
@@ -54,6 +55,7 @@ link: "https://www.amazon.es/Bosch-BGS5ZOOO2-tecnolog%C3%ADa-SensorBagless-autol
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -104,6 +106,7 @@ Bosch ha pensado en la comodidad para el usuario. La aspiradora está construida
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -147,6 +150,7 @@ Bosch anuncia el consumo de 950 W, lo que lo clasifica como C en la etiqueta ene
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Robustez
@@ -189,6 +193,7 @@ Ademas, como promote, ofrece resultados perfectos y nos libra de los pelos de nu
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿Quieres seguir mirando? Consulta la lista de las mejores aspiradoras del mercado. He seleccionado para ti los productos más interesantes.

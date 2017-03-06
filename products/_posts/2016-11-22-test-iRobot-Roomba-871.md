@@ -35,6 +35,7 @@ discount: "0%"
 stars: "4.5"
 description: "Hemos probado el iRobot Roomba 871, autonomía aumentada, eficacia aumentada del 50%, programable, evita los obstáculos, te lo contamos todo aquí."
 link: "https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B00O1UNC0K/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717597&sr=1-3&keywords=iRobot+Roomba+871&linkCode=ll1&tag=lasaspirad-21&linkId=c56b9b3ebd7f77b4360509335d0a4c18"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FiRobot-Roomba-871-Staubsaug-Roboter-mit-Fernbedienung-50-starkere-F3-8858-%2F162416042665%3Fhash%3Ditem25d0c022a9%3Ag%3AS6EAAOSw3v5YuD3e"
 ---
 
 <div class="flex-video">
@@ -43,6 +44,7 @@ link: "https://www.amazon.es/iRobot-Roomba-871-programable-tecnolog%C3%ADa/dp/B0
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -71,6 +73,7 @@ Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser 
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 <div class="text-center">
@@ -117,6 +120,7 @@ Con una autonomía de 2 horas (lo que representa una superficie de unos 120 m²)
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Manejabilidad
@@ -141,6 +145,7 @@ Además la nueva batería iRobot® Xlife proporciona el doble de ciclos de limpi
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Conclusión   pts 4,4 / 5
@@ -151,6 +156,7 @@ Mantiene la limpieza diaria del hogar y <b>cumple con el pelo de las mascotas</b
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
