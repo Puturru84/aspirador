@@ -32,10 +32,10 @@ El hecho más intrigante, sin embargo, es que Cocorobo también tiene "sentimien
 
 El grupo nipón no ha indicado de momento ni la fecha de lanzamiento ni el precio. Con de este prototipo Sharp quiere demostrar su voluntad de reinventar sus aparatos electrodomésticos con inteligencia artificial.
 
-Echa un ojo a este video con el robot aspiradora Cocorobo en funcionamiento.
+Si quieres ver el robot aspiradora Cocorobo en funcionamiento echa un ojo a este video:
 
-<div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/GK5429IeqnE" frameborder="0" allowfullscreen></iframe>
-</div>
+[](//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGK5429IeqnE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGK5429IeqnE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGK5429IeqnE%2Fhqdefault.jpg&key=8a35babe1ca54595895b591feaccf81f&type=text%2Fhtml&schema=youtube)
+
+Si de momento prefieres un robot aspiradora más discreto y que no cante aquí encontrarás la lista de los [mejores robots aspiradoras](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/).
 
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
