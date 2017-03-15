@@ -82,12 +82,6 @@ Provista de un sistema diseñado para recoger tanto pelo como sea necesario, con
 <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_ProAnimal.jpg" width="600" height="auto" alt="">
 </div>
 
-<div class="callout alert">
-  <h5>Promoción de "Prueba 100 días" Bosch</h5>
-  <p>Este modelo tiene actualmente, y <b>hasta el 31.01.17 una promoción.</b> Puedes probar el aspirador Bosch Zoo'o ProAnimal durante 100 días y si no quedas satisfecho devolverlo y ser reembolsado. La promoción es válida para compras realizadas entre el 15 de marzo de 2016 y el 31 de enero de 2017. Mas info en <a href="http://www.bosch-home.es/promocion-100-dias-aspiracion.html"> <b>la web de Bosch.</b></a></p>
-</div>
-
-
 #### Comodidad de uso
 
 La aspiradora Bosch cuenta con un sistema de aire turbo con un alto rendimiento de flujo de aire, un cepillo turbo y además, de una gama de accesorios diseñados para recoger el pelo de una amplia variedad de superficies, desde pisos duros hasta tapizados.
@@ -137,7 +131,7 @@ La tecnología <b>SensorBagless</b> mantiene un flujo de aire siempre óptimo. C
 Si bien este modelo no es tan silencioso como otros del mercado que ponen de manifiesto el silencia como su principal virtud. El Bosch Relaxx'x Zoo'o ProAnimal
 se encuentra en la media más bien baja de los <a href="http://www.lasaspiradoras.com/">aspiradores trineo</a> con 74 dB.  
 
-Otros modelos como el,<a href="http://www.lasaspiradoras.com/test-dyson-dc33c-origin"> Dyson DC33C Origin</a>  producen 84 dB y sin ir tan lejos el <a href="http://www.lasaspiradoras.com/test-polti-forzaspira-MC330-turbo">Polti Forzaspira MC330 Turbo 78 dB.</a>
+Otros modelos como el,<a href="http://www.lasaspiradoras.com/test-dyson-dc33c-origin"> Dyson DC33C Origin</a>  producen 84 dB y sin ir tan lejos el <a href="http://www.lasaspiradoras.com/test-polti-forzaspira-MC330-turbo">Polti Forzaspira MC330 Turbo</a> produce 78 dB.
 Lo que he notado durante su uso es el sonido del propio aire en movimiento, más que el ruido del aspirador en sí.
 
 #### Consumo

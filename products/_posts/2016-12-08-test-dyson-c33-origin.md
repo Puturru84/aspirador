@@ -86,7 +86,7 @@ Equipado de la tecnología de filtrado Radial Root Cyclone, que permite una filt
 
 El depósito tiene una capacidad total de 2 litros lo que permite limpiar una superficie importante antes de tener que vaciarlo. Durante mis pruebas en un piso, que se limpia todas las semanas, he tenido que vaciar el depósito tras haber aspirado durante 4 horas.
 
-El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder transportarlo y subir fácilmente escaleras. También suficientemente ligero  como para poder tirar del trineo sin apenas esfuerzo. Además su sistema Ball facilita todavía más los desplazamientos. Por eso este aspirador ha recibido la mejor nota en nuestros test en la categoría movilidad, no he tenido ningún problema en desplazarme por las diferentes habitaciones.
+El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder transportarlo y subir fácilmente escaleras. También suficientemente ligero  como para poder tirar del trineo sin apenas esfuerzo. Además su sistema Ball facilita todavía más los desplazamientos. Por este motivo la Dyson C33 Origi ha recibido la mejor nota en nuestros test en la categoría movilidad, no he tenido ningún problema en desplazarme por las diferentes habitaciones.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/DysonDC33c Origin/DC33c-origin.jpg" width="400" height="auto" alt="aspirador sin bolsa Dyson DC33c">
@@ -94,19 +94,19 @@ El peso de este aspirador es de 7 Kg, un peso suficientemente ligero para poder 
 
 #### Aspirado
 
-En su lanzamiento fue coronado con una cuádruple A, pero poco después el fabricante tuvo que actualizar la información, a causa de una demanda de un competidor. Tras esta pequeña anécdota encontrareis su etiqueta energética de triple A, que también es muy completa:
+En su lanzamiento fue coronada con una cuádruple A, pero poco después el fabricante tuvo que actualizar la información a causa de una demanda de un competidor. Tras esta pequeña anécdota encontrareis su etiqueta energética de triple A, que también es muy completa:
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/DysonDC33c Origin/etiqueta-energetica-Dysondc33c.jpg" width="200" height="auto" alt="aspirador sin bolsa Dyson DC33c lasaspiradoras.com">
 </div>
 
-Equipado de un sistema de última generación: el Radial Root Cyclone. Este aspirador tiene una nota excelente en la calidad de la filtración. Este nivel de filtración se consigue a través del filtro de espuma y un micro filtro que captura el polvo fino. Son realmente eficaces para garantizar una limpieza perfecta. Quizas no esta optimizada como los aspiradores Dyson de la gama Allergie de los que hablaremos más adelante pero captura el polvo y el pelo de los animales.
+Equipado de un sistema de última generación: el Radial Root Cyclone. Este aspirador tiene una nota excelente en la calidad de la filtración. Este nivel se consigue a través del filtro de espuma y un micro filtro que captura el polvo fino. Son realmente eficaces para garantizar una limpieza perfecta. Quizas no esta optimizado como los aspiradores Dyson de la gama Allergie de los que hablaremos más adelante pero captura el polvo y el pelo de los animales.
 
-Este aspirador viene con 3 cepillos y en mi opinión no necesita más. El cepillo Dual Mode con control de succión que puedes utilizar en todo tipo de superficie donde haya polvo.
+Este aspirador viene con 3 cepillos y en mi opinión no necesita más. El <b>cepillo Dual Mode</b> con control de succión que puedes utilizar en todo tipo de superficie donde haya polvo.
 
-El accesorio multifunción que permite llegar a los lugares donde hay poco espacio y donde el cepillo dual mode no puede ir. Este accesorio permite también usar el cepillo para muebles. Estos dos accesorios complementarios pueden fijarse en el asa del aspirador para que estén fácilmente accesibles.
+El <b>accesorio multifunción</b> que permite llegar a los lugares donde hay poco espacio y donde el cepillo dual mode no puede ir. Este accesorio permite también usar el cepillo para muebles. Estos dos accesorios complementarios pueden fijarse en el asa del aspirador para que estén fácilmente accesibles.
 
-Por último encontrarás un clásico cepillo para tapicerías muy efectivo.
+Por último encontrarás un clásico <b>cepillo para tapicerías</b> muy efectivo.
 
 El tamaño del tubo de succión y el cable del dispositivo DC33C son bastante buenos, con un radio de acción total de 9,8 metros.
 

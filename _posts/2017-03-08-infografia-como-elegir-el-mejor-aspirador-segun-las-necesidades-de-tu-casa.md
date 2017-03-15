@@ -14,4 +14,8 @@ Puedes consultar otras en nuestra cuenta de <a href="https://es.pinterest.com/la
 <img src="{{ site.url }}/assets/img/varias/infografia-como-elegir-el-mejor-aspirador.png" width="600" height="auto" alt="">
 </div>
 
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+</div>
+
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com

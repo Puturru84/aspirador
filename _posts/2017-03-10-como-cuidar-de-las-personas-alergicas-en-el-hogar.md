@@ -3,8 +3,7 @@ layout: "post"
 title:  "Cómo cuidar de las personas alérgicas en el hogar"
 date: "2017-03-10 08:00:00"
 categories: "blog-updates"
-description: "Se calcula que casi 14 de millones de españoles padecen algún tipo de alergia, lo que supone cerca del 30 por ciento de la población de nuestro país.
-"
+description: "Se calcula que casi 14 de millones de españoles padecen algún tipo de alergia, lo que supone cerca del 30 por ciento de la población de nuestro país."
 ---
 
 Se calcula que casi 14 de millones de españoles padecen algún tipo de alergia, lo que supone cerca del 30 por ciento de la población de nuestro país.
