@@ -176,3 +176,6 @@ Las únicas ventajas objetivas e indiscutibles se refieren a la reducción de ru
 <div class="text-center">
 <a class="warning hollow button" href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/">Consulta nuestra lista de los mejores aspiradores</a>
 </div>
+
+Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
+de leerte.

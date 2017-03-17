@@ -74,3 +74,7 @@ Para aquellos de nosotros que no estamos dotados de una altura extraordinaria, s
 </div>
 
 Las aspiradoras escoba son un verdadero valor para cualquier hogar. ¡Busca en nuestra lista de <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-escoba/"> las mejores aspiradoras escoba</a> y avísanos si encuentras otros ventajas!
+
+<div class="text-center">
+<a class="warning hollow button" href="https://fr.pinterest.com/pin/759278818397181579/">Consulta nuestra infografia de este articulo en Pinterest</a>
+</div>

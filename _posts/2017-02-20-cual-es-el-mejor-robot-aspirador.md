@@ -12,7 +12,7 @@ La primera pregunta que debemos hacernos es ¿Qué es lo que estoy buscando? Un 
 
 Según definamos nuestras necesidades está claro que la respuesta será diferente. Desde las aspiradoras hemos querido hacer una clasificacion en funcion del precio y presentaros la mejor opción para cada rango. Lamentablemente el precio es una de las características que sigue siendo clave a la hora de elegir un modelo u otro y esperar unas prestaciones u otras.
 
-Aunque podemos encontrar [ofertas y promociones](2l0DdpK) aún no venden Ferraris 🏎️ a precio de Corsas 🚗, con todos mis respetos al Corsa. Aquí os dejamos con nuestra selección.
+Aunque podemos encontrar [ofertas y promociones](2l0DdpK) aún no venden Ferraris 🏎️ a precio de Corsas 🚗, con todos mis respetos al Corsa. Aquí os dejamos con nuestra selección, también podeis consultar nuestra [guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html).
 
  **El mejor robot aspirador a menos de 200 €**
 

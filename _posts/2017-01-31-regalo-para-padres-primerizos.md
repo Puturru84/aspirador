@@ -58,3 +58,5 @@ Por último, la aspiradora durará varios años con lo que este regalo que recib
 Con una gama de precios bastante amplia, a partir de 120 €  para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación, una aspiradora robot es el regalo perfecto para cualquier pareja que acabe de tener un hijo. El robot libera a los padres de una parte de las tareas domésticas y les permite dedicar ese tiempo a su bebé o simplemente a descansar mientras su casa está limpia.
 
 Para hacer la mejor elección os invitamos a consultar la lista de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> donde encontrareis de manera clara y sencilla toda la información necesaria para hacer la mejor compra.
+
+También os puede interesar <a href="{{ site.url }}/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot/">la Guia de compra de una aspiradora robot</a>.

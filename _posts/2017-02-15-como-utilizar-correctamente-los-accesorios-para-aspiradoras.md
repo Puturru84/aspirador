@@ -63,7 +63,7 @@ La **boquilla plana y larga** se utiliza para llegar a lugares de difícil acces
 
 La **herramienta plana** se suele utilizar para la limpieza de muebles: polvo, un sofá de cuero o imitación de cuero, biblioteca ...
 
-En cuanto al **cepillo** , ya sea redondo o plano, puede tener los mismos usos que la boquilla plana y también ser utilizado para limpiar tejidos, ya sea colchas, sábanas, sofás, cojines, etc.
+En cuanto al **cepillo**, ya sea redondo o plano, puede tener los mismos usos que la boquilla plana y también ser utilizado para limpiar tejidos, ya sea colchas, sábanas, sofás, cojines, etc.
 
 Si las mascotas están presentes en el hogar y depositan su pelo, es mejor usar un mini cepillo turbo.
 

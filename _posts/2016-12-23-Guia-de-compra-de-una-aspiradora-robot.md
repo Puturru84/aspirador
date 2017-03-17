@@ -26,7 +26,7 @@ En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos pro
 
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d792__roomba_cat.png" width="400" height="auto" alt="Roomba cat by piperthibodeau.com">
-<p>Fuente <a href="http://www.piperthibodeau.com/>piperthibodeau.com</a></p>
+<p>Fuente <a href="http://www.piperthibodeau.com/">piperthibodeau.com</a></p>
 </div>
 
 <h4>Guía de compra de un robot aspiradora diciembre de 2016: 5 criterios clave</h4>
@@ -139,6 +139,7 @@ El tamaño puede influir también en la toma de decisiones. Pero hoy en día el 
 
 → Elige un dispositivo cuyo nivel de ruido sea proporcional al uso que harás con ella.
 
-<div class="text-center">
-<a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-robot/">Consulta nuestra lista de los mejores aspiradores robot</a>
-</div>
+También te puede interesar nuestro artículo sobre <a href="{{ site.url }}blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html">cual es el mejor robot aspirador</a> donde encontrarás nuestra mejor selección a diferentes precios.
+
+Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
+de leerte.

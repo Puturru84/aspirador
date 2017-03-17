@@ -85,7 +85,9 @@ Yo, quizás haya sido por suerte, no he tenido que devolver nada. Sin embargo mi
 
 No le pudieron ninguna pega y antes de enviar la descosida ya había recibido una nueva. El servicio nos sorprendió gratamente.
 
-
 <div class="text-center">
 <iframe src="//rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=12&l=ur1&category=hogar&banner=06WS5PGW0VKPS86QJJ02&f=ifr" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;max-width:800px;max-height:600px;" frameborder="0"></iframe>
 </div>
+
+Quieres compartir tu experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
+de leerte.

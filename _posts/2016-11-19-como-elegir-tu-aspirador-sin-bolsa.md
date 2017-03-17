@@ -83,7 +83,7 @@ Sin embargo los modelos de gama alta son mucho más caros y valen casi  3-4 vece
 En lasaspiradoras.com hemos preparado una tabla comparativa que agrupa las mejores ofertas.
 
 <div class="text-center">
-  <a class="alert hollow button" href="{{ site.url }}/tabla-precios-mejores-aspiradoras/"> Consulta nuestra tabla con las mejores ofertas</a>
+  <a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-trineo/"> Consulta las mejores aspiradores sin bolsa</a>
 </div>
 
 <h5>2.9 Los accesorios:</h5>
@@ -119,3 +119,5 @@ Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas 
 <div class="text-center">
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
+
+Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com

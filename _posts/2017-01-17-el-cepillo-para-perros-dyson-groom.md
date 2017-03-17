@@ -15,6 +15,8 @@ Esta herramienta, que cuenta con un par de años en el mercado ha sido creada pa
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/Dyson-921000-01-Cepillo-groomer-mascota/dp/B004CLPJRC/ref=as_li_ss_tl?ie=UTF8&qid=1488719716&sr=8-1&keywords=Dyson+Groom&linkCode=ll1&tag=lasaspirad-21&linkId=23ddd8979c67cf47457791928d24b2f0">Comprar en Amazon</a>
+  <a class="button-ebay" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-Groom-Tool-921001-01-%2F231706095354%3Fhash%3Ditem35f2c26efa%3Ag%3AOoAAAOSwU~FWDA7Z">Comprar en Ebay</a>
+</div>
 </div>
 
 Su lanzamiento causó tanta expectativa por parte de los consumidores como revuelo por parte de algunas asociaciones de animales.
@@ -44,6 +46,7 @@ Si por el contrario tu perro es muy nervioso o tiene pavor al aspirador, tendrá
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/Dyson-921000-01-Cepillo-groomer-mascota/dp/B004CLPJRC/ref=as_li_ss_tl?ie=UTF8&qid=1488719716&sr=8-1&keywords=Dyson+Groom&linkCode=ll1&tag=lasaspirad-21&linkId=23ddd8979c67cf47457791928d24b2f0">Comprar en Amazon</a>
+  <a class="button-ebay" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-Groom-Tool-921001-01-%2F231706095354%3Fhash%3Ditem35f2c26efa%3Ag%3AOoAAAOSwU~FWDA7Z">Comprar en Ebay</a>
 </div>
 
 <h5>¿En qué condiciones usan el Dyson groom?</h5>
@@ -71,3 +74,6 @@ Conclusión:
 Tener un perro en casa es maravilloso. Sin embargo no podemos negar que nos hacen padecer enormemente en especial en primavera y otoño cuando cambian el pelo que invade la casa por completo.
 
 Esta herramienta si bien no sabemos si se convertirá en el juguete preferido de tu perro, si puede ser tu mejor aliado para matar dos pájaros de un tiro. El cepillo Dyson Droom para perros te ayudará a tener a tu mascota bien peinada y ademas tu casa libre de pelos. 🐶
+
+Comparte tu opinión o experiencia con nosotros, envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
+de leerte.

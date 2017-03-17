@@ -108,5 +108,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
   Por otra parte, una aspiradora de mano sin bolsa es muy práctica para limpiar la harina derramada, tierra traída con los zapatos, quitar el polvo en un cajón o en un estante, sin tener que salir y conectar el aspirador principal.
 
 <div class="text-center">
-<a class="alert hollow button" href="{{ site.url }}">Consulta nuestra lista de los mejores aspiradores</a>
+<a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-de-mano/">Consulta nuestra lista de los mejores aspiradores de mano</a>
 </div>
+
+Tienes ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com

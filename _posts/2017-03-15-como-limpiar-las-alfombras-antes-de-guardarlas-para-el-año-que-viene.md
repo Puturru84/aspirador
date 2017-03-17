@@ -28,7 +28,7 @@ Paso 3: Comienza en la esquina más alejada de la puerta, aspira de izquierda a 
 
 Puede parecer que estás trabajando dos veces, pero hay suciedad atrapada en las fibras de la alfombra y es más probable que se quede atrapada ahí si no aspiras en ambas direcciones.
 
-En el mundo de las aspiradoras [cada accesorio tiene su misión](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html) .
+En el mundo de las aspiradoras [cada accesorio tiene su misión](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html).
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/e075168ad04a4aafac5ad793b4d8d0ef/animal-1844835_640.jpg)
 
