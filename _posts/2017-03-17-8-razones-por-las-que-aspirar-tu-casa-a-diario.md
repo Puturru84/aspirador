@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Infografía: 8 razones por las que aspirar las que aspirar tu casa a diario"
+title:  "Infografía: 8 razones por las que aspirar tu casa a diario"
 date: "2017-03-17 08:00:00"
 categories: "blog-updates"
 description: "Todos sabemos que limpiar es una tarea abrumadora y poco divertda. Hay muchas otras cosas y tareas que tenemos que hacer todos los días y es difícil encontrar tiempo para limpiar nuestra casa de manera regular."
