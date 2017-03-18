@@ -13,7 +13,7 @@ Se calcula que casi 14 de millones de españoles padecen algún tipo de alergia,
 Si bien el polen y la fiebre son los protagonistas durante los meses de la primavera, también hay otros muchos alérgenos que se encuentran fácilmente en el hogar.
 Las reacciones más severas son causadas a menudo por los alimentos, las picaduras de insectos y las medicinas, pero otros síntomas que pueden ser provocados por los alérgenos que están en nuestro hogar incluyen ojos doloridos, nariz que moquea, estornudos, dificultad para dormir, mala concentración, erupciones y congestión.
 
-El aire en el interior de nuestra casa puede estar hasta cinco veces más contaminado que el aire exterior, es decir, todos los días nuestros pulmones respiran contaminación, polvo, polen, moho y caspa de animales domésticos. Por suerte, hay mucho que puede hacer para ayudar a minimizar estos alérgenos en tu hogar.											
+El aire en el interior de nuestra casa puede estar hasta cinco veces más contaminado que el aire exterior, es decir, todos los días nuestros pulmones respiran contaminación, polvo, polen, moho y caspa de animales domésticos. Por suerte, se pueden hacer muchas cosas para ayudar a minimizar estos alérgenos en tu hogar.
 
  **Mantener los niveles de polen al mínimo**
 
