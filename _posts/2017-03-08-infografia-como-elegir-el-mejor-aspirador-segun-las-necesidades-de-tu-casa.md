@@ -11,7 +11,7 @@ Te explicamos de manera rápida y concisa qué tipos de aspiradoras hay en el me
 Puedes consultar otras en nuestra cuenta de <a href="https://es.pinterest.com/lasaspiradoras/"> Pinterest.</a>
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/varias/infografia-como-elegir-el-mejor-aspirador.png" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/varias/infografia-como-elegir-el-mejor-aspirador-segun-necesidades-casa.png" width="600" height="auto" alt="cómo elegir el mejor aspirador segun las necesidades de tu casa">
 </div>
 
 <div class="text-center">

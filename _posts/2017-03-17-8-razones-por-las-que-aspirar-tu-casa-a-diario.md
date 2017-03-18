@@ -16,7 +16,7 @@ La verdad es que todo no se puede tener siempre organizado en casa, pero con una
 Una casa limpia aumenta la calidad de vida. Así que hemos creado una infografía con 8 razones que te convencerán de aspirar tu casa a diario.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/varias/8-razones-por-las-que-aspirar-tu-casa-a-diario.png" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/varias/8-razones-por-las-que-aspirar-tu-casa-a-diario.png" width="600" height="auto" alt="Infografía: 8 razones por las que aspirar tu casa a diario">
 </div>
 
 <div class="text-center">
