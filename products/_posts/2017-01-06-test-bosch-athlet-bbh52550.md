@@ -20,7 +20,7 @@ filter: "lavable"
 filter-op: "4"
 weight: "3,2 kg"
 weight-op: "3"
-dimensions: "73,6 x 24 x 23,8 cm cm"
+dimensions: "73,6 x 24 x 23,8 cm"
 battery: "50 min"
 battery-op: "4.5"
 charge: "4 H"
@@ -82,7 +82,7 @@ Para asegurar una succión constante sin pérdida, BBH 52550 está equipado con 
 
 El diseño de la Athlet es bastante estándar, y, de hecho, no parece una gran atleta, ya que adopta el diseño clásico de un aspirador vertical, ni más fino o delgado de lo normal.
 
-Además, aunque promete ligereza, no es tan ligero como lo pensábamos, pesa 3,2 kg. En comparación, el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/"><b>Dyson V6 Total Clean</b></a> pesa 2.3 kilos, y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/"><b>Dyson DC62 Animal Pro</b></a> 2 kilos.
+Además, aunque promete ligereza, no es tan ligero como pensábamos, pesa 3,2 kg. En comparación, el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/"><b>Dyson V6 Total Clean</b></a> pesa 2.3 kilos, y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/"><b>Dyson DC62 Animal Pro</b></a> 2 kilos.
 
 Observamos desde el principio que el aparato se mantiene solo en la posición de aparcamiento, lo que es muy útil, sobre todo porque es relativamente estable. Así se puede apoyar cuando estamos limpiando sin preocuparnos.
 
