@@ -3,7 +3,7 @@ layout: "post"
 title:  "Ahora puedes utilizar Alexa para controlar a tu Roomba"
 categories: "blog-updates"
 date: "2017-03-23 08:00:00"
-description: ""
+description: "iRobot, el conocido fabricante de las aspiradoras Roomba, da un paso más y ofrece una nueva virguería tecnológica conectando tu robot con Alexa de Amazon."
 ---
 
 iRobot, el conocido fabricante de las aspiradoras Roomba, da un paso más y ofrece una nueva virguería tecnológica conectando tu robot con Alexa de Amazon. De esta manera podrás comunicarte con tu aspiradora utilizando solamente tu voz.
@@ -11,7 +11,7 @@ iRobot, el conocido fabricante de las aspiradoras Roomba, da un paso más y ofre
 Por si esto fuera poco, buscando facilitar la vida a sus usuarios la aplicación Roomba iRobot Home propone un nuevo informe llamado Clean Map. Dicho informe muestra información sobre las áreas del suelos más sucias y el espacio total limpiado.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/varias/clean_map_report.jpg" width="300" height="auto" alt="Informe Clean Map">
+  <img src="{{ site.url }}/assets/img/varias/clean_map_report.jpg" width="300" height="auto" alt="Informe Clean Map">
 </div>
 
 Según declaraciones de Colin Angle, presidente y CEO de iRobot:
@@ -23,8 +23,8 @@ Según declaraciones de Colin Angle, presidente y CEO de iRobot:
 Combinando la navegación adaptativa con la localización visual, las aspiradoras robots Roomba de la [serie 900](http://www.lasaspiradoras.com/test-iRobot-roomba-980/) construyen un mapa de la casa mientras limpian. Los informes de Clean Map hacen que estos mapas sean visibles para los usuarios en la aplicación [iRobot HOME](https://play.google.com/store/apps/details?id=com.irobot.home&hl=es) después de finalizar el trabajo de limpieza, mostrando el área total limpiada y la duración del trabajo de limpieza.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/varias/Roomba_960_telefono.jpg" width="300" height="auto" alt="Roomba 960">
-<img src="{{ site.url }}/assets/img/varias/Roomba_980_telefono.jpg" width="300" height="auto" alt="Roomba 980">
+  <img src="{{ site.url }}/assets/img/varias/Roomba_960_telefono.jpg" width="300" height="auto" alt="Roomba 960">
+  <img src="{{ site.url }}/assets/img/varias/Roomba_980_telefono.jpg" width="300" height="auto" alt="Roomba 980">
 </div>
 
 Los informes Clean Map proporcionan a los usuarios información sobre dónde encuentra el robot concentraciones más altas de suciedad, proporcionando una limpieza más enfocada en esas áreas.
@@ -40,7 +40,7 @@ Con la integración de iRobot con Amazon Alexa ™, los usuarios pueden iniciar,
 Esta integración estará disponible para los clientes estadounidenses en el segundo trimestre de 2017 y es compatible con cualquier robot aspirador conectado de Roomba, como la serie [Roomba 900](http://www.lasaspiradoras.com/test-iRobot-roomba-980/) y [Roomba Braava.](http://www.lasaspiradoras.com/test-iRobot-Braava-Jet-240/)
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/varias/roomba_braava_jet-min.jpg" width="400" height="auto" alt="Roomba 960">
+  <img src="{{ site.url }}/assets/img/varias/roomba_braava_jet-min.jpg" width="400" height="auto" alt="Roomba 960">
 </div>
 
 Para el público hispanohablante habrá que esperar pero no sabemos cuánto. Hasta la fecha Alexa se ha puesto a la venta solo en EE.UU. y el Reino Unido.
