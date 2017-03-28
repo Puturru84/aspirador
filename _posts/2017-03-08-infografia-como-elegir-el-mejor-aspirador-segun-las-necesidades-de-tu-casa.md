@@ -18,4 +18,4 @@ Puedes consultar otras en nuestra cuenta de <a href="https://es.pinterest.com/la
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
-Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
+Si quieres contarnos que tipo de aspiradora has elegido y porqué, envíanos un mensaje a info@lasaspiradoras.com

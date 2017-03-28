@@ -46,3 +46,5 @@ Esta integración estará disponible para los clientes estadounidenses en el seg
 Para el público hispanohablante habrá que esperar pero no sabemos cuánto. Hasta la fecha Alexa se ha puesto a la venta solo en EE.UU. y el Reino Unido.
 
 Otro pequeño handicap es que este inteligente asistente solo habla inglés con lo que queda relegado de momento a las personas que de lengua materna español tengan un buen manejo de este idioma.
+
+Te parece interesante este nuevo desarrollo de iRobot Y Alexa? Envíanos tu opinión a info@lasaspiradoras.com

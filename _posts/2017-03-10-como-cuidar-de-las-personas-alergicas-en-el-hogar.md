@@ -72,4 +72,5 @@ Un hogar limpio, con alérgenos reducidos, reducirá también la experiencia de 
 
 Cuando se trata de alergias, la conciencia es clave.
 
-Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
+Tienes personas alérgicas en tu entorno? Usas algún truco de limpieza para cuidarlas?
+Envíanos un mensaje a info@lasaspiradoras.com
