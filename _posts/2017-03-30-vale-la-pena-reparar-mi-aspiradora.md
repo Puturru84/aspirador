@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Vale la pena reparar mi aspiradora?"
 categories: "blog-updates"
-date: "2017-03-29 08:00:00"
+date: "2017-03-30 08:00:00"
 description: "Este tipo de problemillas domésticos llegan siempre en el mejor momento. Tienes un lío enorme que limpiar, sacas tu aspiradora del armario y Oups! no funciona"
 ---
 
