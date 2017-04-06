@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title:  "Consejos de mantenimiento para tu aspiradora trineo sin bolsa o con bolsa"
+title:  "Consejos de mantenimiento para tu aspiradora trineo"
 categories: "blog-updates"
-date: "2017-04-05 08:00:00"
+date: "2017-04-06 08:00:00"
 description: "Debes saber que tu aspiradora sea de la tecnología que sea, no es un dispositivo perfecto. Pueden surgir problemas, como comentamos la semana pasada, y los mantenimientos son de vez en cuando necesarios. En esta guía, te ofrecemos algunos consejos para mantener tu aspiradora."
 ---
 
@@ -16,7 +16,7 @@ Incluso en esta década de éxito de la aspiradora sin bolsa, la aspiradora con 
 
 - La primera técnica consiste en **aspirar la esencia de lavanda** o de otro perfume.
 
-Para ello, basta con dispersarla en un papel y hacerla aspirar. La fragancia se difundirá a través del conducto de aire aspirado a la bolsa.
+Para ello, basta con dispersarla en un papel y aspirarla. La fragancia se difundirá a través del conducto de aire aspirado a la bolsa.
 
 - La segunda técnica consiste en usar el **ambientador en spray** de casa.
 
@@ -76,7 +76,7 @@ En un aspirador sin bolsa, el depósito de polvo no requiere una limpieza frecue
 
  **Los elementos que intervienen en caso de avería**
 
-Las aspiradoras suelen se un aparato sólido, ya que duran bastante tiempo. Sin embargo, nunca está a salvo de un fallo o un problema que podría causar daños.
+Las aspiradoras suelen se un aparato sólido, ya que duran bastante tiempo. Sin embargo, nunca está a salvo de un [fallo o un problema](http://www.lasaspiradoras.com/blog-updates/2017/03/30/vale-la-pena-reparar-mi-aspiradora.html) que podría causar daños.
 
 Ejemplos de casos que pueden ocurrir:
 
@@ -99,4 +99,4 @@ Para evitar averías hay que estar atentos a:
 - No lavar ni reutilizar las bolsas que no son lavables.
 - Vacíar y evacuar regularmente el tubo flexible para evitar que se obstruya.
 
-Conoces algún truco que no hayamos nombrado? compártelo con nosotros y nuestros lectores, envíanos un mail a info@lasaspiradoras.com estamos encantados de escuchar tus comentarios.
+Conoces algún truco que no hayamos nombrado para mantener tu aspiradora? Compártelo con nosotros y nuestros lectores, envíanos un mail a info@lasaspiradoras.com. Estamos encantados de escuchar tus comentarios.
