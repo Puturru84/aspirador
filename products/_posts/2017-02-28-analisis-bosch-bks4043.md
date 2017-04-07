@@ -47,7 +47,7 @@ La aspiradora de mano Bosch BKS4043 está disponible en diferentes potencias y c
 A saber que el modelo violeta solo recoge sólidos.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/BKS404314,4V/BKS4043_PRINCIPAL.jpg" width="500" height="auto" alt="Bosch BKS4043 foto de ambiente">
+  <img src="{{ site.url }}/assets/img/BKS404314,4V/BKS4043_principal.jpg" width="500" height="auto" alt="Bosch BKS4043 foto de ambiente">
 </div>
 
 <div class="text-center">
