@@ -48,6 +48,10 @@ El filtro no tiene que cambiarse tan a menudo como la bolsa, pero hay que compro
   <img src="{{ site.url }}/assets/img/varias/no-usar-los-accesorios-del-aspirador.jpg" width="400" height="auto" alt="accesorios que vienen con la aspiradora">
 </div>
 
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+</div>
+
  **5 - No cortar los pelos y cuerdas enredados**
 
 Si el rodillo del cepillo no gira, entonces no limpia. Es bastante simple, pero la mayoría de la gente aspira con una masa de pelo enredada en el cepillo. La maraña de pelo enredado y de hilos terminarán quemando el motor y te darán el dolor de cabeza adicional de las [reparaciones](http://www.lasaspiradoras.com/blog-updates/2017/03/30/vale-la-pena-reparar-mi-aspiradora.html) innecesarias. Debes desenrollar o cortar los hilos enredados y el pelo. Comprueba si puedes quitar el rodillo del cepillo del aspirador para limpiar mejor y conseguir mejores resultados.
@@ -72,6 +76,10 @@ El polvo de otros muebles y objetos de la casa terminará cubriendo tu alfombra 
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/limpiar-sin-preparación.jpg" width="550" height="auto" alt="Limpiar sin preparación">
+</div>
+
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
 Conoces otros errores a evitar? Envíanos un mensaje a info@lasaspiradoras.com.

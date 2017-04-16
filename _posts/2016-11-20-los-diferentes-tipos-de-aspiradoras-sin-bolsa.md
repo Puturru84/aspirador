@@ -16,7 +16,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 
   <h4>1. El aspirador sin bolsa ciclónico</h4>
 
-  <h5>1.1 La tecnología monociclonica</h5>
+**1.1 La tecnología monociclonica**
 
   La tecnología mono-ciclón utiliza la fuerza centrífuga para separar el polvo del aire. El polvo se adhiere a las paredes y luego cae en el depósito.
   En cuanto a las partículas finas no recogidas por la acción de ciclónica, son directamente retenidas por el filtro, que puede ser de varias formas dependiendo del modelo de la aspiradora sin bolsa.
@@ -30,7 +30,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 </div>
 <p>Esquema filtro Hepa, fuente Wikipedia, creado por Philip Greenspun illustration project.</p>
 
-  <h5>1.2 La tecnología doble ciclón o multiciclon </h5>
+  **1.2 La tecnología doble ciclón o multiciclon**
 
   Esta tecnología ha sido desarrollada por James Dyson bajo el nombre de Dual Cyclone y utiliza el principio de la separación ciclónica.
 
@@ -77,15 +77,17 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 
   El <a href="{{ site.url }}/tabla-caracteristicas-aspiradoras-escoba/">aspirador escoba sin bolsa</a> presenta ventajas interesantes para el hogar en comparación con el aspirador trineo sin bolsa:
 
-  - El aspirador vertical no tiene que ser preparado ya que siempre está listo para su uso.
-  - No es necesario desenchufarlo y enchufarlo en cada habitación.
+  - El aspirador vertical no tiene que ser preparado ya que **siempre está listo** para su uso.
+  - **No** es necesario **desenchufarlo y enchufarlo** en cada habitación.
   - No hay necesidad de agacharse para limpiar, o de tirar trás de si el aspirador, como con  el modelo trineo.
   - Con una aspiradora escoba sin bolsa, nos centramos en lo que hay que limpiar.
   - Debido a su tamaño, el aspirador escoba sin bolsa elimina la necesidad de agacharse; lo que es una interesante cuando se tiene una lesión en la espalda.
-  - Ademas la aspiradora escoba sin bolsa es generalmente más ligera (de 2 a 4 kg) y más manejable que la aspiradora trineo, lo que resulta práctico para hogares con varias plantas.
+  - Ademas la aspiradora escoba sin bolsa es generalmente **más ligera** (de 2 a 4 kg) y **más manejable** que la aspiradora trineo, lo que resulta práctico para hogares con varias plantas.
+
+  Puedes consultar las 10 ventajas de las aspiradoras escoba sin cable <a href="{{ site.url }}//blog-updates/2017/01/20/10-ventajas-de-las-aspiradoras-escoba-sin-cable.html">aquí</a>.
 
   <div class="text-center">
-  <a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-escoba">Consulta nuestra lista de los mejores aspiradores escoba sin bolsa</a>
+    <a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-escoba">Consulta nuestra lista de los mejores aspiradores escoba sin bolsa</a>
   </div>
 
   <h4>4. El aspirador de mano sin bolsa</h4>
@@ -105,7 +107,7 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 
   Algunas aspiradoras sin bolsa están equipadas con cepillos giratorios (equivalentes a los turbo cepillos de las aspiradoras convencionales) que permiten aspirar más fácilmente las migas y el pelo de los animales que se queda en los tejidos.
 
-  Por otra parte, una aspiradora de mano sin bolsa es muy práctica para limpiar la harina derramada, tierra traída con los zapatos, quitar el polvo en un cajón o en un estante, sin tener que salir y conectar el aspirador principal.
+  Por otra parte, una aspiradora de mano sin bolsa es muy práctica para limpiar la harina derramada, tierra traída con los zapatos, quitar el polvo en un cajón o en un estante, sin tener que coger y conectar el aspirador principal.
 
 <div class="text-center">
 <a class="alert hollow button" href="{{ site.url }}/tabla-caracteristicas-aspiradoras-de-mano/">Consulta nuestra lista de los mejores aspiradores de mano</a>

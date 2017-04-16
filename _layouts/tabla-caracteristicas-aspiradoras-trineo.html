@@ -37,7 +37,7 @@ layout: default
                 <path d="M0 0h24v24H0z" fill="none"/>
             </svg>
             <br>
-             <p class="subheader">Alfombras</p>
+             <p class="subheader">Alfombra</p>
           </th>
           <th width="200" class="text-center">
             <svg fill="#999" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -45,7 +45,7 @@ layout: default
                 <path d="M14 6l-3.75 5 2.85 3.8-1.6 1.2C9.81 13.75 7 10 7 10l-6 8h22L14 6z"/>
             </svg>
             <br>
-             <p class="subheader">Suelos duros</p>
+             <p class="subheader">Suelo</p>
           </th>
           <th width="200" class="text-center">
             <svg fill="#999" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
@@ -126,7 +126,7 @@ layout: default
          <th class="text-center"><span class="hide-for-large">Filtro</span> {{ post.filter }}</th>
          <th class="text-center"><span class="hide-for-large">Radio de accion</span> {{ post.radius }}</th>
          <th class="text-center"><span class="hide-for-large">Capacidad</span> {{ post.capacity }}</th>
-         <th class="text-center"><a class="button" href="{{ post.link }}">Comprar</a></th>
+         <th class="text-center">{% include components/button-see-price.html %}</th>
          <th class="hide"><span class="show-for-small-only">Nota:</span> {{ post.clasification }}</th>
         </tr>
       {% endfor %}
