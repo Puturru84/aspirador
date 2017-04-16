@@ -41,7 +41,7 @@ En este caso la <a href="http://www.lasaspiradoras.com/blog-updates/2016/12/23/G
 La  ventaja más significativa, que ha conquistado a más de un corazón, de <b>la aspiradora robot es que hace el trabajo por ti</b>. Es una tarea menos de la que debes ocuparte, con lo que <b>ganas tiempo</b> y liberas tu mente para hacer otra cosa que sea más satisfactoria, en este caso ocuparte y <b>disfrutar de tu bebé.</b>
 
 La segunda <b>garantiza la limpieza</b>, más o menos intensa según el modelo de aspiradora robot que elijas, de tu hogar. Tu casa estará libre de pelusas, cabello, pelos de mascota (si la tienes), polen, desperdicios y polvo.
-Muchas de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> vienen con un filtro HEPA, lo que quiere decir que pueden absorber el 99,97% de las partículas que pasan a través de ellos que tengan un tamaño superior a los 0.3 micrómetros.
+Muchas de las <a href="{{ site.url }}/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html"> mejores aspiradoras robot</a> vienen con un filtro HEPA, lo que quiere decir que pueden absorber el 99,97% de las partículas que pasan a través de ellos que tengan un tamaño superior a los 0.3 micrómetros.
 
 Otra ventaja es su <b>autonomía</b>, puedes <b>programarla</b> para que "trabaje" en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería se desplazan solas hasta su base para recargarse.
 

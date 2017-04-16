@@ -35,6 +35,10 @@ Este pequeño cepillo no se utiliza, obviamente, para limpiar el suelo: no es lo
 
 Ocasionalmente, también puede ser utilizado para limpiar alfombras pequeñas, por ejemplo, para deshacerse del cabello de las alfombras de baño.
 
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de las mejores aspiradoras</a>
+</div>
+
  **El cepillo para el parqué**
 
 El cepillo especial suelo duro o parqué es en general muy fino y desprovisto de cepillo giratorio. Está enmarcado por una hilera de pelos más o menos duros. Muy fácil de usar, ya que sólo hay que conectarlo al tubo telescópico y es con frecuencia ligero (más ligero que un cepillo de doble posición).
@@ -69,6 +73,10 @@ Si las mascotas están presentes en el hogar y depositan su pelo, es mejor usar 
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/pequenos-accesorios.png" width="600" height="auto" alt="Cómo utilizar los accesorios del aspirador">
+</div>
+
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de las mejores aspiradoras</a>
 </div>
 
 A saber que si bien la mayor parte de los accesorios que acabamos de mencionar son suministrados originalmente (hay que comprobarlo según el modelo), algunos fabricantes también ofrecen una gama de **accesorios opcionales** que pueden hacer la vida más fácil, como un cepillo codo para limpiar la parte superior de alta muebles o armarios, cepillos dedicados a limpiar el coche o [cepillo para perros](http://www.lasaspiradoras.com/blog-updates/2017/01/17/el-cepillo-para-perros-dyson-groom.html).

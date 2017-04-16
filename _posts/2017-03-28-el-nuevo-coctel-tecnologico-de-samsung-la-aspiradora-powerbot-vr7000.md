@@ -24,6 +24,10 @@ También mantiene la limpieza en las zonas que se ensucian de manera especial, c
 <img src="{{ site.url }}/assets/img/varias/POWERbotVR7000.jpg" width="450" height="auto" alt="">
 </div>
 
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+</div>
+
 Por si esto fuera poco, la aspiradora Samsung VR7000 se integra con Amazon Echo. Usando nada más que tu voz, puedes controlar tu aspiradora e indicarle dónde ir, qué hacer y cualquier otra cosa que puedas necesitar contarle a este robot. Característica muy útil para los anglosajones, ya que como [comentamos](http://www.lasaspiradoras.com/blog-updates/2017/03/23/ahora-puedes-utilizar-alexa-para-controlar-a-tu-Roomba.html) Amazon Echo solo entiende el inglés.
 
 Según el presidente de electrodomésticos de Samsung Electronics, Byung-Sam Seo:
@@ -33,5 +37,9 @@ Según el presidente de electrodomésticos de Samsung Electronics, Byung-Sam Seo
  _"Sólo tienes que configurarlo y verlo funcionar. Las características y sensores de navegación del POWERbot VR7000, combinados con un diseño delgado y una mayor potencia de succión, aseguran que el trabajo se realice"._
 
 De momento todavía no hay noticias sobre la fecha de lanzamiento en España o de su precio, pero estaremos atentos para informaros en cuanto salga.
+
+<div class="text-center">
+  <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
+</div>
 
 Tienes un comentario o una pregunta? Envíanos un mensaje a info@lasaspiradoras.com

@@ -8,7 +8,7 @@ description: "Sabemos que el título puede ser sorprendente y que más bien suel
 
 Sabemos que el título puede ser sorprendente y que la creencia popular piensa que más bien suele ser al revés, que a los perros no les gusta la aspiradora y que algunos la detestan tanto que la ven como el enemigo a batir. La persiguen, intentan morderla o simplemente se esconden tan lejos como pueden de ella.
 
-Sin embargo, en todo hogar con animales es imprescindible por motivos de higiene tener (y usar) una aspiradora para acabar con el pelo de nuestras mascotas.
+Sin embargo, en todo hogar con animales es imprescindible por motivos de higiene tener (y usar) <a href="{{ site.url }}/#inicio">una buena aspiradora</a> para acabar con el pelo de nuestras mascotas.
 
 Aquí os traemos 10 divertidos videos de perros que no tienen ningún miedo a la aspiradora. Más bien sucede todo lo contrario, algunos la disfrutan y se creen que es un masaje, otros están enganchados y piden más y otros se relajan con su presencia.
 
@@ -100,3 +100,5 @@ Qué mejor final que un video completo de perros que aman la aspiradora, aquí o
 </div>
 
 Esperamos haber podido mostraros que no todos nuestros amigos peludos odian la aspiradora. Con un pelin de trabajo y yendo poco a poco podemos conseguir que el perro se habitúe a ella.
+
+También os pueden interesar  los videos de<a href="{{ site.url }}/blog-updates/2017/04/04/5-gatos-que-adoran-la-aspiradora.html">los gatos a los que les gusta que los aspiren</a>.

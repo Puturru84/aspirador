@@ -31,4 +31,6 @@ Muchos de nosotros pensamos que los gatos huyen despavoridos en el momento en qu
 Tienes gato? cómo reacciona cuando ve la aspiradora, la ignora, se estresa o se pone tan contento?
 Cuéntanoslo enviandonos un mensaje a info@lasaspiradoras.com
 
+Si te gustan los perros, te puede interesar el articulo:<a href="{{ site.url }}/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html"> 10 Perros a los que les encanta la aspiradora</a>
+
 Un saludo!

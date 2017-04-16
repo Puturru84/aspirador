@@ -135,7 +135,6 @@ En Bosch, el modelo con la bolsa menos ruidoso, el In'Genius BGL8SIL59D produce 
 
 Lo mismo ocurre en Rowenta, que son más ruidosos los aspiradores sin bolsa como el <a href="http://www.lasaspiradoras.com/test-rowenta-silenceforce-multi-ciclonic-RO8341/">Silence Force Multi-Cyclonic RO8341</a> (68 dB) que el <a href="http://amzn.to/2oDmmuZ">Rowenta Silence Force RO6432</a> (62 dB) con bolsa.
 
-
 <h4>Precio: equivalente a pesar de lo que pensamos</h4>
 
 Este es el segundo argumento a favor de la aspiradora con bolsa que emerge de nuestra encuesta. Los modelos con bolsa pueden dar la impresión de ser en general menos caros, lo que sin embargo no es el caso.

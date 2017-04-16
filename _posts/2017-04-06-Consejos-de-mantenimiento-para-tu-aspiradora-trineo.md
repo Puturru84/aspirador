@@ -40,21 +40,21 @@ El filtro es una parte importante de la aspiradora sin bolsa o con bolsa. Retien
 
 Por otra parte, si el filtro retiene demasiado polvo, puede obstruirse y el rendimiento del aparato va a sufrir. Por tanto, deben ser objeto de un mantenimiento regular.
 
-- Para aspiradora con bolsa:
+Para aspiradora con bolsa:
 
 Los aspiradores con bolsa contienen un filtro motor que impide a las partículas de polvo de alcanzarlo y dañarlo.
 
-- Para aspiradoras sin bolsa:
+Para aspiradoras sin bolsa:
 
-El mantenimiento del filtro de salida de aire debe realizarse al menos una vez al año.
+* El mantenimiento del filtro de salida de aire debe realizarse al menos una vez al año.
 
-Los filtros lavables son extraíbles y se lavan con agua caliente y se secan al aire.
+* Los filtros lavables son extraíbles y se lavan con agua caliente y se secan al aire.
 
-Los filtros no lavables deben ser reemplazados.
+* Los filtros no lavables deben ser reemplazados.
 
-El filtro del motor rara vez se sustituye.
+* El filtro del motor rara vez se sustituye.
 
-El filtro del depósito de polvo debe limpiarse cuando se vea sucio.
+* El filtro del depósito de polvo debe limpiarse cuando se vea sucio.
 
 Algunos aspiradoras están equipadas con una luz que indica que el filtro esta sucio. Este indicador es útil para evitar la apertura innecesaria del depósito.
 
@@ -81,7 +81,9 @@ Las aspiradoras suelen se un aparato sólido, ya que duran bastante tiempo. Sin 
 Ejemplos de casos que pueden ocurrir:
 
 -  La aspiradora no aspira normalmente. Notamos que no agarra el polvo. Las causas pueden ser un componente obstruido (manguera o tubo). También puede ser una bolsa muy llena o un filtro defectuoso.
+
 - Si el filtro está obstruido, el aire ya no puede fluir en el motor. Si la bolsa se rompe o se separa del soporte, el polvo entra edirectamente en el motor y lo daña rápidamente. En ambos casos, se sobrecaliente el motor y debemos para el aspirador de inmediato y desenchufarlo.
+
 - Si el dispositivo está en garantía, puede ser que las piezas de sustitución se cambien de forma gratuita en caso de rotura o que el aparato se sustituya por uno nuevo.
 
 A veces, el vendedor enviará un técnico a tu hogar y en otros casos la aspiradora tiene que depositarse directamente en el servicio de atención al cliente.
@@ -93,10 +95,15 @@ A veces, el vendedor enviará un técnico a tu hogar y en otros casos la aspirad
 Para evitar averías hay que estar atentos a:
 
 - No tirar del cable excesivamente fuerte.
+
 - Asegurarse de cambiar o limpiar todos los filtros y la bolsa.
+
 - Vacíar el depósito de la aspiradora sin bolsa después de cada vez que la usamos (es un rollo, lo se, pero evita olores, y que el polvo y la porqueria se queden ahi un mes).
+
 - Utilizar las bolsas compatibles con la aspiradora y en ningún caso bolsas de plástico.
+
 - No lavar ni reutilizar las bolsas que no son lavables.
+
 - Vacíar y evacuar regularmente el tubo flexible para evitar que se obstruya.
 
 Conoces algún truco que no hayamos nombrado para mantener tu aspiradora? Compártelo con nosotros y nuestros lectores, envíanos un mail a info@lasaspiradoras.com. Estamos encantados de escuchar tus comentarios.
