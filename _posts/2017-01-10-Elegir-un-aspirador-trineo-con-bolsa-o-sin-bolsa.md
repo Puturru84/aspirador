@@ -40,7 +40,6 @@ En el caso de los modelos ciclónicos, el aire arremolinado en un solo cono se f
 
 La filtración de multiciclónica tiende a extenderse y esta disponible en la mayoría de los modelos, salvo a los de gama baja.
 
-
 <h4>Comodidad de uso: la aspiradora sin bolsa es más "impresionante"</h4>
 
 En un primer momento, la aspiradora sin bolsa tiene un aspecto más tecnológico y es más impactante.
@@ -133,7 +132,7 @@ La diferencia es significativa, como se ha señalado, por ejemplo, en los modelo
 
 En Bosch, el modelo con la bolsa menos ruidoso, el In'Genius BGL8SIL59D produce 59 dB mientras que el ruido de la aspiradora sin la bolsa más discreta <a href="http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/">(Relaxx'x BGS5230S)</a> asciende a 66 dB. Sabiendo que una diferencia de 10 dB duplica la percepción del ruido, la diferencia no es despreciable.
 
-Lo mismo ocurre en Rowenta, que son más ruidosos los aspiradores sin bolsa como el <a href="http://www.lasaspiradoras.com/test-rowenta-silenceforce-multi-ciclonic-RO8341/">Silence Force Multi-Cyclonic RO8341</a> (68 dB) que el <a href="http://amzn.to/2oDmmuZ">Rowenta Silence Force RO6432</a> (62 dB) con bolsa.
+Lo mismo ocurre en Rowenta, que son más ruidosos los aspiradores sin bolsa como el <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="http://www.lasaspiradoras.com/test-rowenta-silenceforce-multi-ciclonic-RO8341/">Silence Force Multi-Cyclonic RO8341</a> (62 dB) con bolsa.
 
 <h4>Precio: equivalente a pesar de lo que pensamos</h4>
 

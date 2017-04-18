@@ -46,7 +46,9 @@ Algunos modelos ofrecen ahora <b>desplazamientos</b> robustos y <b>perfeccionado
   <img src="{{ site.url }}/assets/img/varias/iRobot-Roomba-760.jpg" width="400" height="auto" alt="robot aspiradora en lasaspiradoras.com">
 </div>
 
-<p class="text-center"><a href="https://www.amazon.es/iRobot-Roomba-760-aspirador-autonom%C3%ADa/dp/B007VKZ84K/ref=as_li_ss_tl?ie=UTF8&qid=1488724202&sr=8-3&keywords=iRobot+Roomba+760&linkCode=ll1&tag=lasaspirad-21&linkId=a9593493fc6603739473b03d77961608">Consultar Robot aspiradora iRobot Roomba 760 en Amazon</a></p>
+<p class="text-center">
+  <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="https://www.amazon.es/iRobot-Roomba-760-aspirador-autonom%C3%ADa/dp/B007VKZ84K/ref=as_li_ss_tl?ie=UTF8&qid=1488724202&sr=8-3&keywords=iRobot+Roomba+760&linkCode=ll1&tag=lasaspirad-21&linkId=a9593493fc6603739473b03d77961608">Consultar Robot aspiradora iRobot Roomba 760 en Amazon</a>
+</p>
 
 Último elemento: algunas aspiradoras robot están equipadas con un filtro de partículas alérgenas, por lo general de <b>tecnología HEPA</b>, y algunos tienen lámparas UV en esta función. La calidad de filtración forma parte de la eficiencia de un robot aspirador.
 
@@ -59,7 +61,7 @@ Ya sabes que una aspiradora robot se pasea por tu casa. Sin embargo hay diferent
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/R960_Multi-Room.jpg" width="400" height="auto" alt="aspirador robot Roomba">
 </div>
-<p class="text-center"><a href="https://www.amazon.es/iRobot-Roomba-960-conectividad-localizaci%C3%B3n/dp/B01IEEVDOK/ref=as_li_ss_tl?ie=UTF8&qid=1488724262&sr=8-2&keywords=iRobot+Roomba+960&linkCode=ll1&tag=lasaspirad-21&linkId=6a093122da130b59f38b1f5e39c4ffde">Consultar Robot aspiradora iRobot Roomba 960 en Amazon</a></p>
+<p class="text-center"><a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="https://www.amazon.es/iRobot-Roomba-960-conectividad-localizaci%C3%B3n/dp/B01IEEVDOK/ref=as_li_ss_tl?ie=UTF8&qid=1488724262&sr=8-2&keywords=iRobot+Roomba+960&linkCode=ll1&tag=lasaspirad-21&linkId=6a093122da130b59f38b1f5e39c4ffde">Consultar Robot aspiradora iRobot Roomba 960 en Amazon</a></p>
 
 El <b>modo conducción preprogramada</b>, el más simple. El robot aspirador está programado por el fabricante para entrar en una habitación, siguiendo una cierta <b>lógica optimizada</b>: por ejemplo, espiral, o cambiando de dirección a 90 ° cuando se encuentra con un obstáculo, etc.
 
@@ -84,7 +86,8 @@ Pero en términos de navegación, eso no es todo:
 <img src="{{ site.url }}/assets/img/varias/SWR28_4_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa">
 <img src="{{ site.url }}/assets/img/varias/SWR28_5_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa"><br>
 </div>
-<p class="text-center"><a href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Consultar Robot aspiradora H.Koenig SWR28 en Amazon</a></p>
+<p class="text-center"><a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="https://www.amazon.es/H-Koenig-80185-SWR28-Robot-aspiradora/dp/B00FQIGVCW/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718171&sr=1-1&keywords=H.Koenig+SWR28&linkCode=ll1&tag=lasaspirad-21&linkId=028743d0d9906b796ddad281e21451fd">Consultar Robot aspiradora H.Koenig SWR28 en Amazon</a></p>
+
 
 - Algunos fabricantes proponen <b>cintas magnéticas</b> para fijar en el suelo, estas realizan la misma función que las paredes virtuales.
 
@@ -103,7 +106,8 @@ Después de cada sesión, el robot aspirador requiere un mínimo de <b>mantenimi
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/d80d85backangle-hi.jpg" width="400" height="auto" alt="aspirador robot neato D85">
 </div>
-<p class="text-center"><a href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Consultar Robot aspiradora Neato D85 en Amazon</a></p>
+<p class="text-center"><a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="https://www.amazon.es/Neato-Robotics-Botvac-D85-aspirador/dp/B00Y2ERFUI/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718018&sr=1-1-fkmr0&keywords=Test+Neato+Robotics+Botvac+D85&linkCode=ll1&tag=lasaspirad-21&linkId=8b8a02a2a80937bb3bc64cf42288b8f6">Consultar Robot aspiradora Neato D85 en Amazon</a></p>
+
 
 Ten en cuenta estos hechos para realizar tu compra:
 

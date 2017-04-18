@@ -18,7 +18,7 @@ El flujo de aire que circula en un aspirador se trate del tipo de aspirador que 
 
 Si el ruido es para ti es un punto importante, aquí te presentamos los aspiradores más silenciosos del mercado.
 
-Las aspiradoras con bolsa en general son más silenciosas que los modelos sin bolsa: el nivel de ruido de hecho puede bajar hasta los **61 dB** que anuncia el [Electrolux UltraSilencer Origin Plus](http://amzn.to/2p0FljU).
+Las aspiradoras con bolsa en general son más silenciosas que los modelos sin bolsa: el nivel de ruido de hecho puede bajar hasta los **61 dB** que anuncia el <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="http://amzn.to/2p0FljU">Electrolux UltraSilencer Origin Plus</a>.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/electrolux-ultrasilencer-origin-plus.jpg" width="400" height="auto" alt="Electrolux UltraSilencer Origin Plus">
@@ -36,13 +36,15 @@ Además del sonido emitido, es importante que el aspirador sea eficaz, lo que es
   <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/Bosch-BGS5SIL66B-Relaxx'x-ProSilence-accesorios.jpg" width="400" height="auto" alt="El aspirador sin bolsa más silencioso de todos: Bosch Relaxx'x ProSilence">
 </div>
 
-Siendo un aspirador de gama alta, el Bosch Relaxx'x BGS5SIL66C tiene un precio de base de 349 €. Aunque en [Amazon](https://www.amazon.es/Bosch-BGS5SIL66B-Relaxxx-ProSilence-SensorBagless/dp/B00LWVGMPS/ref=as_li_ss_tl?ie=UTF8&qid=1488620606&sr=8-1&keywords=bosch+bgs5sil66b+relaxx'x+prosilence&linkCode=ll1&tag=lasaspirad-21&linkId=eff63768d40b07ccf56de88102860208) o [Ebay](https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FBosch-BGS5SIL66B-Relaxxx-ProSilence66-Staubsauger-in-schwarz-NEU-OVP-%2F282384288392%3Fhash%3Ditem41bf6a4a88%3Ag%3AK3oAAOSwJ7RYVqXH) seguro que podéis encontrar otras ofertas.
+Siendo un aspirador de gama alta, el Bosch Relaxx'x BGS5SIL66C tiene un precio de base de 349 €. Aunque en <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')"  href="{{ page.link }}">Amazon</a>
+ o <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToEbay', '{{ page.model }}')" href="{{ page.link-ebay }}">Ebay</a> seguro que podéis encontrar otras ofertas.
 
 Si quieres consultar nuestro análisis completo de este modelo es [aquí](http://www.lasaspiradoras.com/test-bosch-bgs5sil66b-relaxx-prosilence/).
 
  **Una alternativa silenciosa algo más barata, el Rowenta Silence Force Multi-Cyclonic**
 
-Rowenta también apuesta por el silencio para sus dispositivos de gama alta. Su Silence Force Multi-Cyclonic RO8341es un poco **más barato** (el precio base es de 279,99 €, pero hay ofertas muy interesantes en [Amazon](https://www.amazon.es/Rowenta-Silence-Force-Aspirador-filtro/dp/B00MHMAN3S/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717803&sr=1-1&keywords=Rowenta+Silence+Force+Multi-Cyclonic+RO8341&linkCode=ll1&tag=lasaspirad-21&linkId=0aeb3ebfcce006dd0b122b17fc5f5a86) o [Ebay](https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FRowenta-Silence-Force-Multi-cyclonic-RO8324-Zylinder-Vakuum-2l-750W-A-%2F272250164164%3Fhash%3Ditem3f635fd3c4%3Ag%3AGbsAAOSwax5Yt3hE) ) que el Bosch, y proporciona un nivel de sonido bastante apreciable. Hemos medido **entre 66 y 68 dB**, lo que lo hace **discreto** para una aspiradora sin bolsa.
+Rowenta también apuesta por el silencio para sus dispositivos de gama alta. Su Silence Force Multi-Cyclonic RO8341es un poco **más barato** (el precio base es de 279,99 €, pero hay ofertas muy interesantes en <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToAmazon', '{{ page.model }}')" href="{{ page.link }}">Amazon</a>
+ o <a onclick="ga('send', 'event', '{{ page.categories }}', 'goToEbay', '{{ page.model }}')" href="{{ page.link-ebay }}">Ebay</a>) que el Bosch, y proporciona un nivel de sonido bastante apreciable. Hemos medido **entre 66 y 68 dB**, lo que lo hace **discreto** para una aspiradora sin bolsa.
 
 En cuanto a su eficiencia de succión no hay concesiones en esta característica. Proporciona muy buenos resultados en suelos duros con su cepillo para parquet y muestra una eficacia excepcional en alfombra gruesa de pelo largo, todo ello sin esfuerzo.
 
