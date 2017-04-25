@@ -1,9 +1,9 @@
 ---
-layout: "post"
+layout: "post" 
 title:  "12 trucos para prevenir un ataque de asma"
 categories: "blog-updates"
 date: "2017-04-25 08:00:00"
-description: "Cada casa tiene un olor distinto, es la mezcla de los muebles y el olor de los propios dueños lo que convierte una simple casa en un hogar. Pero cuando los olores molestos se instalan en nuestro lugar de descanso, pueden amenazar su comodidad y la paz interior."
+description: "Mayo es el mes de concienciación sobre el Asma y es el mes en el que se celebra el Día Mundial del Asma que este año cae el 2 de mayo. Por ese motivo queremos acabar abril con una visión general de lo que es el asma y las medidas que podemos poner en práctica en el hogar para evitar un ataque de asma."
 ---
 
 Mayo es el mes de concienciación sobre el Asma y es el mes en el que se celebra [el Día Mundial del Asma](http://ginasthma.org/) que este año cae el 2 de mayo. Por ese motivo queremos acabar abril con una visión general de lo que es el asma y las medidas que podemos poner en práctica en el hogar para evitar un ataque de asma.
