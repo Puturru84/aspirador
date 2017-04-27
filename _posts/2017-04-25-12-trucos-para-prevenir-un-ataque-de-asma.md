@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "12 trucos para prevenir un ataque de asma"
 categories: "blog-updates"
 date: "2017-04-25 08:00:00"

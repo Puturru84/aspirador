@@ -63,7 +63,7 @@ link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=
 Perfecta succión del pelo de mascotas.  | Grande.
 Excelente eficiencia en suelos duros.  | Peso importante.
 Sistema automático de limpieza de filtro que requiere muy poco mantenimiento.  |
-Hergonómico.  |
+Ergonómico.  |
 
 
 #### Presentación
