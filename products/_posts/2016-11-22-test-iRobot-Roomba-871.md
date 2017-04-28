@@ -1,4 +1,4 @@
----
+600---
 permalink: "test-iRobot-roomba-871/"
 date: "2016-11-22 15:00:00"
 layout: "product-page"
@@ -77,7 +77,7 @@ Hoy vamos a probar el iRobot Roomba 871, un dispositivo potente que promete ser 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobotroomba-871-ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobotroomba-871-ambiente.jpg" width="600" height="auto" alt="Aspiradora iRobot roomba 871 lasaspiradoras.com">
 </div>
 
 #### Comodidad de uso  
@@ -107,7 +107,7 @@ Este modelo está provisto con un filtro HEPA, apto para alérgicos,
 Con sus 61 dB este modelo Roomba no es un aspirador molesto y ofrece una mejora significativa respecto a modelos anteriores ya que reduce un 13% el niveld de ruido. Además como se puede programar para toda la semana puedes dejarlo en funcionamiento cuando estás fuera de casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-aspirado.jpg" width="600" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -115,7 +115,7 @@ Con sus 61 dB este modelo Roomba no es un aspirador molesto y ofrece una mejora 
 Con una autonomía de 2 horas (lo que representa una superficie de unos 120 m²), el Roomba 871 comenzará a cargar por sí solo como muchos de sus hermanos grandes y pequeños de la misma marca. La batería tardará 3 horas en cargarse completamente.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotRoomba871/iRobot-Roomba-871-cerca.jpg" width="600" height="auto" alt="Aspiradora iRobot roomba 871 consumo lasaspiradoras.com">
 </div>
 
 <div class="text-center">
