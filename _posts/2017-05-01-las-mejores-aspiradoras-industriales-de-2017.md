@@ -234,7 +234,7 @@ Esta aspiradora cuenta con un **deposito de 15 L** y **no** necesita **bolsa**, 
 
 La Wet & Dry dispone de un sistema llamado BLOWER SYSTEM, que consiste en que el propio aspirador realiza una **autolimpieza** de todos sus componentes internos.
 
-Otra de sus ventajas es que cuenta con un **kit de accesorios muy completo**: cepillo para suelos duros, cepillo para parquet, accesorio para tejidos, cepillo multiusos y cepillo para esquinas.
+Otra de sus ventajas es que cuenta con un [kit de accesorios muy completo](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html): cepillo para suelos duros, cepillo para parquet, accesorio para tejidos, cepillo multiusos y cepillo para esquinas.
 
 Al tratarse de un modelo de aspiradora más enfocado al uso doméstico cuenta con un **filtro HEPA**, reteniendo bacterias y alérgenos.
 
