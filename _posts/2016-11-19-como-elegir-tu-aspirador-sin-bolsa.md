@@ -98,7 +98,7 @@ Sin embargo los modelos de gama alta son mucho más caros y valen casi  3-4 vece
 
 **2.9 Los accesorios:**
 
-Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50% de la eficacia de una aspiradora, y otros cepillos de diferentes tamaños con usos especificos.
+Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50% de la eficacia de una aspiradora, y [otros cepillos de diferentes tamaños con usos especificos](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html).
 
 - Cepillo de doble uso: suministrado con todas las aspiradoras, puede aspirar suelos lisos y alfombras no demasiado gruesas.
 
