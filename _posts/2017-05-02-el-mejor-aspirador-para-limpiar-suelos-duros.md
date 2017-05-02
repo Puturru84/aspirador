@@ -124,6 +124,8 @@ Buenas noticias, este dispositivo tiene un tamaño más pequeño y por lo tanto 
   <a class="button-ebay" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FAspiradora-DIRT-DEVIL-REBEL-73-hf-%2F122229777370%3Fhash%3Ditem1c757663da%3Ag%3Ajk0AAOSwux5YLe-u%23lensaction%3D122229777370%7Cclnw-collect%7C">Comprar en Ebay</a>
 </div>
 
+#### Estamos en contacto?
+
 Esperamos haberos ayudado a encontrar el mejor aspirador para suelos duros, para cualquier consulta puedes enviarnos un mail a: info@lasaspiradoras.com.
 
 Si crees que este artículo le puede interesar a alguien cercano, compártelo! 😃
