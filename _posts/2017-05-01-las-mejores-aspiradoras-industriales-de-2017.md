@@ -415,4 +415,4 @@ Si necesitas un aspirador duradero que recoja húmedo y seco para fines industri
 
 Has probado alguna de estas máquinas? Cuéntanoslo enviandonos un mensaje a info@lasaspiradoras.com.
 
-Si crees que este artículo le puede interesar a alguno de tus amigos, compartelo! 😃
+Si crees que este artículo le puede interesar a alguno de tus amigos, compártelo! 😃

@@ -35,7 +35,7 @@ price-now: "130 €"
 discount: "50 %"
 stars: "3.5"
 description: "Guia de compra de la Bosch Readyy'y, funcionamiento, aspirado, características y las mejores ofertas."
-link: "https://www.amazon.es/Bosch-BBH21621-Readyyy-Aspirador-recargable/dp/B015GEYLU4/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1490115248&sr=1-1&keywords=Bosch+Readyy'y+BBH21621&linkCode=ll1&tag=lasaspirad-21&linkId=bb6ac00a5fdd869bc1bfda907f6e453f"
+link: "https://www.amazon.es/Bosch-BBH21621-Readyyy-Aspirador-recargable/dp/B015RJXVQS/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1490115248&sr=1-1&keywords=Bosch+Readyy'y+BBH21621&th=1&linkCode=ll1&tag=lasaspirad-21&linkId=5d9da1d2dd8d6cb336aa23781eb844e5"
 link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FBosch-BBH21622-Readyyy-2in1-Stielstaubsauger-16-8-V-Handstaubsauger-NF343-%2F351901152968%3Fhash%3Ditem51eef176c8%3Ag%3ATfsAAOSwcLxYIytI"
 ---
 
@@ -112,7 +112,7 @@ En el modo escoba, la Readyy'y tiene dos potencias. La potencia mínima - sin ce
 
 En un suelo duro, el Readyy'y pudo con el 97% de nuestro arroz de prueba y exactamente la misma cantidad en alfombra fina.
 
-En alfombra gruesa de pelo largo aspira el 77% de los residuos en 30 s y el  93% en 2 minutos. Sobre esta superficie setiene que pasar varias veces en el mismo lugar para obtener un resultado satisfactorio.
+En alfombra gruesa de pelo largo aspira el 77% de los residuos en 30 s y el  93% en 2 minutos. Sobre esta superficie se tiene que pasar varias veces en el mismo lugar para obtener un resultado satisfactorio.
 
 Esta potencia de aspirado es absolutamente correcta y, sobre todo homogéneas según la naturaleza de los suelos. Sin embargo, algunos competidores son capaces de obtener resultados más convincentes.
 
