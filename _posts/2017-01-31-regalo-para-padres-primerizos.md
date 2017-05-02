@@ -24,7 +24,7 @@ Tiempo para ocuparse con mayor tranquilidad de su recién nacido, tiempo para es
 Los primeros meses de vida del bebé, son muy ajetreados, especialmente para padres primerizos. Noches en vela, cansancio, horarios de locos, muchas cosas por aprender, poco tiempo (y menos ganas) para ocuparse del hogar.  
 Un regalo práctico en el que no pensamos normalmente y que puede ser de gran ayuda para una pareja que acaba de tener un bebé es una aspiradora robot. Si, si…. como lo lees.
 
-¿Por qué una aspiradora robot?
+#### ¿Por qué una aspiradora robot?
 
 Según un estudio elaborado por la empresa especializada en herramientas de limpieza, Kobold, a una muestra de 1.000 encuestados de entre 25 y 65 años, los españoles dedicamos de media <b>entre 6 y 9 horas</b> a la <b>semana</b> a la <b>limpieza del hogar.</b>
 
@@ -59,4 +59,14 @@ Con una gama de precios bastante amplia, a partir de 120 €  para la gama baja,
 
 Para hacer la mejor elección os invitamos a consultar la lista de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> donde encontrareis de manera clara y sencilla toda la información necesaria para hacer la mejor compra.
 
-También os puede interesar <a href="{{ site.url }}/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot/">la Guia de compra de una aspiradora robot</a>.
+#### Hablamos?
+
+Tienes ganas de compartir tu opinión o experiencia? Tienes una pregunta? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
+
+#### También te puede interesar:
+
+- [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
+
+- [Cuál es el mejor robot aspirador?](http://www.lasaspiradoras.com/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html)
+
+- [Cocorobo, la aspiradora robot de Sharp que habla, canta y entiende las emociones](http://www.lasaspiradoras.com/blog-updates/2017/03/05/Cocorobo-la-aspiradora-robot-de-Sharp-que-habla-cant-y-entiende-las-emociones.html)

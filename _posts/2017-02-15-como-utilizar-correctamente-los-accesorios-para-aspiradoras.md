@@ -81,6 +81,16 @@ Si las mascotas están presentes en el hogar y depositan su pelo, es mejor usar 
 
 A saber que si bien la mayor parte de los accesorios que acabamos de mencionar son suministrados originalmente (hay que comprobarlo según el modelo), algunos fabricantes también ofrecen una gama de **accesorios opcionales** que pueden hacer la vida más fácil, como un cepillo codo para limpiar la parte superior de alta muebles o armarios, cepillos dedicados a limpiar el coche o [cepillo para perros](http://www.lasaspiradoras.com/blog-updates/2017/01/17/el-cepillo-para-perros-dyson-groom.html).
 
+#### Estamos en contacto?
+
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
 
-Hasta pronto — [ @Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Consejos de mantenimiento para tu aspiradora trineo](http://www.lasaspiradoras.com/blog-updates/2017/04/06/Consejos-de-mantenimiento-para-tu-aspiradora-trineo.html)
+
+- [Vale la pena reparar mi aspiradora?](http://www.lasaspiradoras.com/blog-updates/2017/03/30/vale-la-pena-reparar-mi-aspiradora.html)
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)

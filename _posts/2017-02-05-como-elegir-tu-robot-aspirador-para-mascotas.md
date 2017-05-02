@@ -25,7 +25,7 @@ Si bien adoramos a nuestras mascotas, nos gusta bastante menos que su pelo campe
   <img src="{{ site.url }}/assets/img/varias/cachorro.png" width="300" height="auto" alt="robot aspirador para mascotas">
 </div>
 
-¿Cómo elegir el mejor robot aspirador para mascotas?
+#### ¿Cómo elegir el mejor robot aspirador para mascotas?
 
 Para elegir el mejor robot aspirador para mascotas necesitamos tener en cuenta 7 criterios que te explicamos a continuación. Después tendremos que elegir en función de nuestro presupuesto el aspirador que responda de manera más eficiente a dichos criterios.
 
@@ -168,3 +168,15 @@ Tras haber explicado los 7 criterios a tener en cuenta, cobertura de la superfic
 Elijas el modelo de aspirador robot especial para mascotas que elijas, te recomendamos que escojas un modelo programable y autónomo, capaz de valerse por sí mismo en un entorno doméstico sin atascarse cuando se encuentre con un obstáculo.
 
 También te recomendamos programar tu robot para que funciona a menudo, cada día o cada dos días máximo, para facilitarle la tarea a tu robot. Para él es más fácil recoger unos cuantos pelos dispersos un dia que grandes mechones, que corren el riesgo de quedar atrapados en el cepillo y llenar rápidamente el depósito.
+
+#### Estamos en contacto?
+
+Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
+
+#### También te puede interesar:
+
+- [Cuál es el mejor robot aspirador?](http://www.lasaspiradoras.com/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html)
+
+- [5 gatos que adoran la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/04/04/5-gatos-que-adoran-la-aspiradora.html)
+
+- [10 Perros a los que les encanta la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html)

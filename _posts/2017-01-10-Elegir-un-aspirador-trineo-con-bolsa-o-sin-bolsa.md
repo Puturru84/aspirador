@@ -175,5 +175,15 @@ Las únicas ventajas objetivas e indiscutibles se refieren a la reducción de ru
 <a class="warning hollow button" href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/">Consulta nuestra lista de los mejores aspiradores</a>
 </div>
 
+#### Estamos en contacto?
+
 Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
 de leerte.
+
+#### También te puede interesar:
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [El mejor aspirador para limpiar suelos duros](http://www.lasaspiradoras.com/blog-updates/2017/05/02/el-mejor-aspirador-para-limpiar-suelos-duros.html)
+
+- [Elegir un aspirador silencioso](www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)

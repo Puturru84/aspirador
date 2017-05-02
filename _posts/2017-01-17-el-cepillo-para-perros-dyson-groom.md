@@ -74,6 +74,14 @@ Tener un perro en casa es maravilloso. Sin embargo no podemos negar que nos hace
 
 Esta herramienta si bien no sabemos si se convertirá en el juguete preferido de tu perro, si puede ser tu mejor aliado para matar dos pájaros de un tiro. El cepillo Dyson Droom para perros te ayudará a tener a tu mascota bien peinada y ademas tu casa libre de pelos. 🐶
 
+#### Hablamos?
+
 Has probado el depillo Dyson groom? Comparte tu opinión con nosotros, envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
 
-Sara de lasaspiradoras.com
+#### También te puede interesar:
+
+- [Cómo limpiar 4 zonas que ocupan tus mascotas en casa](http://www.lasaspiradoras.com/blog-updates/2017/04/27/como-limpiar-4-zonas-que-ocupan-tus-mascotas-en-casa.html)
+
+- [5 gatos que adoran la aspiradora](www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)
+
+- [10 Perros a los que les encanta la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html)

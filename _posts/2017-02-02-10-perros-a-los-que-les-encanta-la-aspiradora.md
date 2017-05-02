@@ -14,7 +14,7 @@ Aquí os traemos 10 divertidos videos de perros que no tienen ningún miedo a la
 
 Empecemos!
 
-Video 1. Aspirando a mi corgi. (disponible en [imgur.com](http://imgur.com/) )
+#### Video 1. Aspirando a mi corgi. (disponible en [imgur.com](http://imgur.com/) )
 
 No se si conoceis la raza Corgi, se trata de una raza de perritos pequeños de unos 35 cm de altura que proviene de Inglaterra y que era destinada a labores de pastoreo. En los últimos tiempos se han hecho muy famosos en internet.
 
@@ -24,7 +24,7 @@ En este gif su dueña ha sabido elegir un aspirador acorde con el tamaño de su 
   <blockquote class="imgur-embed-pub" lang="en" data-id="ehSTCkO"><a href="//imgur.com/ehSTCkO">BRB need to vacuum my corgi.</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-Video 2. Manos arriba que me aspiran
+#### Video 2. Manos arriba que me aspiran
 
 La raza Golden Retriever es bastante más familiar para todos. Los Golden son conocidos por su carácter tranquilo, dócil y confiado, por lo que no nos sorprende que este Golden se relaje y disfrute mientras su dueño se libra de sus pelos.
 
@@ -32,7 +32,7 @@ La raza Golden Retriever es bastante más familiar para todos. Los Golden son co
   <blockquote class="imgur-embed-pub" lang="en" data-id="305M8d4"><a href="//imgur.com/305M8d4">Feels so good</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-Video 3. Aspirando a Rex, un pastor alemán, con una [Dyson](http://www.lasaspiradoras.com/test-dyson-dc33c-origin/)
+#### Video 3. Aspirando a Rex, un pastor alemán, con una [Dyson](http://www.lasaspiradoras.com/test-dyson-dc33c-origin/)
 
 En este caso se trata de una casa con dos perros. En el video vemos que el pastor alemán recibe su sesión de aspirado con toda tranquilidad. Tanto se relaja que le da un tic en la patita. Podéis ver el video completo en [youtube.](https://www.youtube.com/watch?v=nyGs1DbhTXA&t=23s)
 
@@ -40,7 +40,7 @@ En este caso se trata de una casa con dos perros. En el video vemos que el pasto
   <blockquote class="imgur-embed-pub" lang="en" data-id="zhxkxlg"><a href="//imgur.com/zhxkxlg">My dog loves our new Dyson vacuum</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-Video 4. A este braco le gusta tanto la aspiradora que la sigue....
+#### Video 4. A este braco le gusta tanto la aspiradora que la sigue....
 
 Los bracos italianos son de temperamento amigable, curioso y sociable por lo que no es de extrañar que este haya hecho buenas migas con el aspirador al que sigue para que lo acaricie.
 
@@ -49,7 +49,7 @@ Los bracos italianos son de temperamento amigable, curioso y sociable por lo que
 </div>
 
 
-Video 5. Ronnie adora ser aspirado
+#### Video 5. Ronnie adora ser aspirado
 
 Parece que el manual de la aspiradora de este señor sugiere aspirar a sus mascotas, así que dicho y hecho. Sus propietarios probaron con sus gatos, que no quisieron saber nada del tema y con su perrito, aqui teneis el resultado.
 
@@ -57,7 +57,7 @@ Parece que el manual de la aspiradora de este señor sugiere aspirar a sus masco
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HQHMnZkxoe4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Video 6. Pastor de anatolia duerme la siesta con un robot aspirador al lado
+#### Video 6. Pastor de anatolia duerme la siesta con un robot aspirador al lado
 
 Hay razas de perro como el pastor de anatolia que son que de carácter fuerte y con personalidad.
 
@@ -67,7 +67,7 @@ A la vez aprenden muy rápido por lo que este perrito ha debido de darse cuenta 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SDj_84HxB0U" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Video 7. El perro marmota y el Roomba que lo lo rodeo
+#### Video 7. El perro marmota y el Roomba que lo lo rodeo
 
 Hay perros como los humanos a los que para moverlos hace falta una grúa. Este es un buen ejemplo de uno de esos perros, este labrador ni se inmuta mientras el [Roomba](http://www.lasaspiradoras.com/test-iRobot-roomba-650/) lo rodea. El sigue soñando con los angelitos.
 
@@ -75,7 +75,7 @@ Hay perros como los humanos a los que para moverlos hace falta una grúa. Este e
   <iframe width="560" height="315" src="https://www.youtube.com/embed/iXLEfsecGNs" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Video 8. Valiente con 3 meses
+#### Video 8. Valiente con 3 meses
 
 Este pequeño labrador de 3 meses es tan bravo o tranquilo, según se mire, como el anterior. Prefiere el descanso al miedo y sigue durmiendo como si tal cosa mientras el [Neato](http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/) aspira a su alrededor.
 
@@ -83,7 +83,7 @@ Este pequeño labrador de 3 meses es tan bravo o tranquilo, según se mire, como
   <iframe width="560" height="315" src="https://www.youtube.com/embed/1m-j6Q-zrKU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Video 9. Cuando los sueños de un Boston Terrier se cumplen... ✨
+#### Video 9. Cuando los sueños de un Boston Terrier se cumplen... ✨
 
 Los perros como los seres humano sueña con ser algo algun dia. Para las personas puede ser convertirse en enfermera, arquitecto o cocinero. Veamos en lo que se ha convertido este Boston.
 
@@ -91,7 +91,7 @@ Los perros como los seres humano sueña con ser algo algun dia. Para las persona
   <blockquote class="imgur-embed-pub" lang="en" data-id="5EC7Vqh"><a href="//imgur.com/5EC7Vqh">Dog pursues his lifetime dream in becoming a roomba vacuum cleaner</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
-Video 10. Recap de perros que ❤️ la aspiradora
+#### Video 10. Recap de perros que ❤️ la aspiradora
 
 Qué mejor final que un video completo de perros que aman la aspiradora, aquí os lo dejamos.
 
@@ -102,3 +102,15 @@ Qué mejor final que un video completo de perros que aman la aspiradora, aquí o
 Esperamos haber podido mostraros que no todos nuestros amigos peludos odian la aspiradora. Con un pelin de trabajo y yendo poco a poco podemos conseguir que el perro se habitúe a ella.
 
 También os pueden interesar  los videos de<a href="{{ site.url }}/blog-updates/2017/04/04/5-gatos-que-adoran-la-aspiradora.html">los gatos a los que les gusta que los aspiren</a>.
+
+#### Hablamos?
+
+Tienes ganas de compartir tu opinión o experiencia? Tienes una pregunta? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
+
+#### También te puede interesar:
+
+- [El cepillo para perros Dyson Groom](http://www.lasaspiradoras.com/blog-updates/2017/01/17/el-cepillo-para-perros-dyson-groom.html)
+
+- [Cómo elegir tu robot aspirador para mascotas](http://www.lasaspiradoras.com/blog-updates/2017/02/05/como-elegir-tu-robot-aspirador-para-mascotas.html)
+
+- [5 gatos que adoran la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/04/04/5-gatos-que-adoran-la-aspiradora.html)

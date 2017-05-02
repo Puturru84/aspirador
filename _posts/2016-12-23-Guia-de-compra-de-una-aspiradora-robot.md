@@ -143,7 +143,12 @@ El tamaño puede influir también en la toma de decisiones. Pero hoy en día el 
 
 → Elige un dispositivo cuyo nivel de ruido sea proporcional al uso que harás con ella.
 
-También te puede interesar nuestro artículo sobre <a href="{{ site.url }}blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html">cual es el mejor robot aspirador</a> donde encontrarás nuestra mejor selección a diferentes precios.
+#### Estamos en contacto?
 
-Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados
-de leerte.
+Tienes ganas de compartir tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
+
+#### También te puede interesar:
+
+- [Cómo elegir tu robot aspirador para mascotas](http://www.lasaspiradoras.com/blog-updates/2017/02/05/como-elegir-tu-robot-aspirador-para-mascotas.html)
+
+- [Cuál es el mejor robot aspirador?](http://www.lasaspiradoras.com/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html)

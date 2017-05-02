@@ -135,4 +135,14 @@ Cuando busques, ten también en cuenta las opiniones de los consumidores. Todas 
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
+#### Estamos en contacto?
+
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
+
+#### También te puede interesar:
+
+- [Elegir un aspirador silencioso](www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [El mejor aspirador para limpiar suelos duros](http://www.lasaspiradoras.com/blog-updates/2017/05/02/el-mejor-aspirador-para-limpiar-suelos-duros.html)

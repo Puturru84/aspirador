@@ -70,11 +70,21 @@ A todo el mundo le encanta tener su último artilugio a mano para que todos pued
 Para aquellos de nosotros que no estamos dotados de una altura extraordinaria, siempre habrá zonas de polvo y mugre que estarán fuera de nuestro alcance. Sin embargo con una aspiradora inalámbrica podemos hacer frente a estas áreas, la parte superior del armario, los rieles de las cortina, los estantes más altos, ¡toda la casa!
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/varias/Aspirador-escoba-sin-cable-ergonomia-2.png" width="600" height="auto" alt="cepillo para perros Dyson Groom">
+  <img src="{{ site.url }}/assets/img/varias/Aspirador-escoba-sin-cable-ergonomia-2.png" width="600" height="auto" alt="10 ventajas de las aspiradoras escoba sin cable">
 </div>
-
-Las aspiradoras escoba son un verdadero valor para cualquier hogar. ¡Busca en nuestra lista de <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-escoba/"> las mejores aspiradoras escoba</a> y avísanos si encuentras otros ventajas!
 
 <div class="text-center">
 <a class="warning hollow button" href="https://fr.pinterest.com/pin/759278818397181579/">Consulta nuestra infografia de este articulo en Pinterest</a>
 </div>
+
+#### Hablamos?
+
+Las aspiradoras escoba son un verdadero valor para cualquier hogar. ¡Busca en nuestra lista de <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-escoba/"> las mejores aspiradoras escoba</a> y avísanos si encuentras otros ventajas!
+
+Envianos un mensaje a info@lasaspiradoras.com, estaremos encantados de leerte.
+
+#### También te puede interesar:
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)
+
+- [Infografía: 8 razones por las que aspirar tu casa a diario](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html)
