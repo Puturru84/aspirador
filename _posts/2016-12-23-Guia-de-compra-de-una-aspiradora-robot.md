@@ -20,7 +20,7 @@ Tiene un coste, que oscila entre € 120 para la gama baja, de 300 € a 600 €
 
 Uno de los robots aspiradora más vendidos en España es el <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-650/">iRobot Roomba 650</a> gracias a una combinacion de comodidad, resultados y a buen precio.
 
-En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes <a href="{{ site.url }}/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html">asaspiradoras robots de calidad</a> en las que la gama, las opciones y la tecnología varía de robot en robot. <br>
+En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos probado diferentes <a href="{{ site.url }}/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html">aspiradoras robots de calidad</a> en las que la gama, las opciones y la tecnología varían de robot en robot. <br>
 
 ¿Qué tener en cuenta a la hora de elegir un robot aspirador? Sigue leyendo para descubrirlo.
 

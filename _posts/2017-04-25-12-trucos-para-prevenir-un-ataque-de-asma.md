@@ -39,7 +39,7 @@ La caspa del animal doméstico - un disparador común del asma - es a menudo dif
 
 **3 - Minimiza (si es posible elimina) [las alfombras ](http://www.lasaspiradoras.com/blog-updates/2017/03/15/como-limpiar-las-alfombras-antes-de-guardarlas-para-el-a%C3%B1o-que-viene) y juguetes de peluche en los dormitorios**
 
-Si no se puede quitar la alfombra,[aspirala al menos cada dos días](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.htm)(lo ideal seria todos los días) con un aspirador equipado con un filtro de aire HEPA.
+Si no se puede quitar la alfombra,[aspirala al menos cada dos días](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html) (lo ideal seria todos los días) con un aspirador equipado con un filtro de aire HEPA.
 
 **4 - Fija grifos con fugas**
 
