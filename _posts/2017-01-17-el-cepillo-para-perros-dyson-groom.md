@@ -82,6 +82,6 @@ Has probado el depillo Dyson groom? Comparte tu opinión con nosotros, envíanos
 
 - [Cómo limpiar 4 zonas que ocupan tus mascotas en casa](http://www.lasaspiradoras.com/blog-updates/2017/04/27/como-limpiar-4-zonas-que-ocupan-tus-mascotas-en-casa.html)
 
-- [5 gatos que adoran la aspiradora](www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)
+- [5 gatos que adoran la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)
 
 - [10 Perros a los que les encanta la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html)

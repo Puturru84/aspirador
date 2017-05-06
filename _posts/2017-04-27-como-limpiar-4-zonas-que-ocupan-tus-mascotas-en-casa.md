@@ -43,7 +43,7 @@ Este pequeño desastre se podía haber evitado. La lluvia en **primavera y otoñ
 
 Limpia tus alfombras de manera regular usando una aspiradora potente. <br>
 ¿Sabías que las alfombras son el depósito de polvo más grande en el hogar?<br>
-Imagina la cantidad de pelos y restos de tu mascota que podrían quedar atrapados en el fondo. La aspiradora extraera la suciedad más profunda. Tener un aspirador con gran potencia es por lo tanto importante si convives con animales domésticos cada día y es la primera medida que se debe tomar, comprar un [aspirador potente](www.lasaspiradoras.com).
+Imagina la cantidad de pelos y restos de tu mascota que podrían quedar atrapados en el fondo. La aspiradora extraera la suciedad más profunda. Tener un aspirador con gran potencia es por lo tanto importante si convives con animales domésticos cada día y es la primera medida que se debe tomar, comprar un [aspirador potente](http://www.lasaspiradoras.com/).
 
 Las alfombras mullidas de pelo largo pueden ser un horror de mantener limpias si tienes una mascota que se pasea a menudo alrededor de ellas. El uso de un aspirador con una succión potente, cepillos giratorios y una herramienta Turbo es esencial para hacer que tus alfombras parezcan nuevas y asegurarse de que están libres de pelo de mascota.
 
