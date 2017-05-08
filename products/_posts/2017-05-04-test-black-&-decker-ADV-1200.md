@@ -61,6 +61,11 @@ En cuanto a su diseño, el dispositivo tiene una boquilla fina que le permite el
   <img src="{{ siteurl }}/assets/img/black+decker-adv1200/ADV1200_A1.jpg" width="620" height="auto" alt="black+decker-adv1200 aspirando interior coche">
 </div>
 
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
+
 En cuanto a aspiración, no todas las aspiradoras de mano para coche pueden mantener su poder a lo largo de su vida útil. Con los modelos de acción ciclónica, como este,  el riesgo de pérdida de succión se reduce en comparación a otros dispositivos que se ensucian con el tiempo por la succión partículas directamente.
 
 La aspiradora para coche Black & Decker ADV-1200 se conecta al cargador del mechero del coche y con su cable de 5 metros ofrece una buena manejabilidad y comodidad para limpiar todos los rincones de tu vehículo sin problemas. Te permite desplazarte desde los asientos del piloto, al maletero tranquilamente. Su capacidad, de 0,61 litros y sus solo 1,3 kilos hacen que la tarea de la limpieza sea cómoda.
@@ -69,14 +74,9 @@ La aspiradora para coche Black & Decker ADV-1200 se conecta al cargador del mech
   <img src="{{ site.url }}/assets/img/black+decker-adv1200/ADV1200_A7.jpg" width="620" height="auto" alt="black+decker-adv1200  aspirando maletero">
 </div>
 
-<div class="text-center">
-  {% include components/button-buy-amazon.html %}
-  {% include components/button-buy-ebay.html %}
-</div>
-
 #### Conclusión 4,4 / 5
 
-Cómoda de utilizar y completa en cuanto a accesorios, con la Black & Decker ADV-1200 podrás limpiar tu coche de polvo y pelos de mascota sin problemas. A tener en cuenta que no tendrás la misma potencia que si aspiras con el aspirador de casa, así que dada su facilidad de uso quizás convenga aspirar el coche más a menudo para mantenerlo limpio. 
+Cómoda de utilizar y completa en cuanto a accesorios, con la Black & Decker ADV-1200 podrás limpiar tu coche de polvo y pelos de mascota sin problemas. A tener en cuenta que no tendrás la misma potencia que si aspiras con el aspirador de casa, así que dada su facilidad de uso quizás convenga aspirar el coche más a menudo para mantenerlo limpio.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
