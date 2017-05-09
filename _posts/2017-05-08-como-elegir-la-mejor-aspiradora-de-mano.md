@@ -3,7 +3,7 @@ layout: "post"
 title:  "Guia para elegir la mejor aspiradora de mano"
 categories: "blog-updates"
 date: "2017-05-08 08:00:00"
-description: ""
+description: "La aspiradora de mano es un producto de aspecto muy simple pero que ofrece  un gran servicio en el día a día."
 ---
 
 La [aspiradora de mano](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-de-mano/) es un producto de aspecto muy simple pero que ofrece  un gran servicio en el día a día. Con estos equipos, se puede hacer una pequeña limpieza extra sin tener que sacar el [aspirador trineo](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/) que ocupa espacio, es más ruidoso y menos práctico. Un aspirador de mano es un complemento perfecto cuando se tiene en casa un [aspirador robot](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/) ya que puede sacarnos de algunos apuros y nos permite usarlo en zonas en las que el aspirador robot no puede trabajar, como la encimera de la cocina o el sofa.
