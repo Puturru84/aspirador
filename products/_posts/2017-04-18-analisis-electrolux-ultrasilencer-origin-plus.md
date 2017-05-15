@@ -90,7 +90,7 @@ Esta aparato tiene **dos posiciones de estacionamiento**, una cuando la aspirado
 Ya sea para abrir la tapa o para identificar la posición de los filtros, las manipulaciones se realizan con facilidad, sin necesidad de utilizar el manual. Además apreciamos la atención a los detalles donde cada elemento tiene un sitio exactamente del tamaño adecuado, sin necesidad de forzar.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/cable-electrolux-ultrasilencer-origin-plus.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/cable-electrolux-ultrasilencer-origin-plus.jpg" width="400" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
 <div class="text-center">
@@ -108,7 +108,7 @@ En **alfombra fina** el **resultado** es más **convincente**, ya que la puntuac
 Por último, en **alfombra gruesa** de pelo largo es siempre donde los aparatos están más cómodos, proporcionando **excelentes resultados**. De hecho, a media potencia, recoge el 99% del arroz de prueba en tan sólo en 1 min. Para los suelos muy sucios, recomendaríamos usar la potencia máxima.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/aspirado-electrolux-ultrasilencer-origin-plus.jpg" width="500" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/aspirado-electrolux-ultrasilencer-origin-plus.jpg" width="500" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
 #### Ruido
@@ -122,7 +122,7 @@ Las emisiones de ruido se elevan conforme aumentamos la potencia hasta 63 dB, qu
 Su consumo de energía  es particularmente bajo. Con la bolsa vacía medimos de 120 a 565 W de acuerdo con el nivel de potencia seleccionado, lo que es muy poco. Una vez que la bolsa llena, este consumo no aumenta.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/etiqueta-energética-electrolux-ultraSilencer-origin-plus.jpg" width="250" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/etiqueta-energética-electrolux-ultraSilencer-origin-plus.jpg" width="250" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
 <div class="text-center">
@@ -140,7 +140,7 @@ Este aspirador está provisto de dos bolsas originales s-bolsa (clásico) 3,5 l.
 Hay otros modelos compatibles s-bag, un poco más caros, con opciones (anti-olor, anti-alergia, perfumes, etc.).
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/bolsas-electrolux-ultrasilencer-origin-plus.jpg" width="500" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/bolsas-electrolux-ultrasilencer-origin-plus.jpg" width="500" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
 #### Mantenimiento
@@ -156,7 +156,7 @@ Los filtros se ensucian poco. Por otra parte, las personas con alergias o con as
 
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/filtro-electrolux-ultrasilencer-origin.jpg" width="500" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/filtro-electrolux-ultrasilencer-origin.jpg" width="500" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
 #### Conclusión   pts 4,4 / 5

@@ -74,7 +74,7 @@ Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos 
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240">
 </div>
 
 #### Comodidad de uso  
@@ -126,7 +126,7 @@ El Braava 380 es completamente silencioso. Incluso se le puede dejar funcionando
 Este ruido sigue siendo discreto si evitamos hacer que funcione en la habitación mientras uno duerme. Puede funcionar en la habitación de al lado del dormitorio sin problemas o en presencia de los habitantes de la casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_Kitchen_Dog.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_Kitchen_Dog.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240 lasaspiradoras.com">
 </div>
 
 #### Consumo
@@ -134,7 +134,7 @@ Este ruido sigue siendo discreto si evitamos hacer que funcione en la habitació
 Hemos medido un consumo de 5,3 W mientras carga, lo que es poco. Cuando la batería esta cargada el consumo no es cero pero es muy bajo (0,1 W). Por otra parte, ademas del bajo consumo hay que tener en cuenta el tiempo de carga que en este caso es muy rápido (sólo 2 horas), y la autonomia, 60 min. En conjunto el consumo del Braava Jet es bajito.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Braava-jet/Braava_jet_Bathroom.jpg" width="450" height="auto" alt="Aspiradora iRobot roomba 871 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/Braava-jet/Braava_jet_Bathroom.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240">
 </div>
 
 #### Modos y funciones complementarias

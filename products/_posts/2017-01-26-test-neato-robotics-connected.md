@@ -64,7 +64,7 @@ link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=
   Si estás pensando en comprar el Neato Robotics Botvac Connected aquí te contamos todo lo que necesitas saber antes de hacer tu compra.
 
   <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-2.jpg" width="600" height="auto" alt=" ">
+  <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-2.jpg" width="600" height="auto" alt="Test Neato Robotics Connected">
   </div>
 
 #### Comodidad de uso

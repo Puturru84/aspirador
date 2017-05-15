@@ -61,7 +61,7 @@ Te presentamos el robot aspiradora SWR32 de la marca H.KOENIG. Se trata de un ro
 En Las aspiradoras, aplaudimos los esfuerzos de la marca alemana y estamos encantados de probar la SWR32, poniendo a vuestra disposición toda la información relativa a este aspirador para ayudaros a hacer vuestra elección según vuestras necesidades y limitaciones.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_01.jpg" width="400" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_01.jpg" width="400" height="auto" alt="Test H.Koenig SWR32">
 </div>
 
 <div class="text-center">
@@ -82,7 +82,7 @@ Se puede guiar de forma manual con las teclas del mando a distancia o activar el
 Pequeña función bonus: si quieres perfumar suavemente tu casa, puede poner unas gotas de perfume en la abertura especial situada en el aparato. La calor repartirá el aroma del perfume en la estancia.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_02.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_02.jpg" width="400" height="auto" alt="Test H.Koenig SWR32">
 </div>
 
 #### Aspirado
@@ -109,7 +109,7 @@ Si quieres un modelo mas rapido consulta el <a href="http://www.lasaspiradoras.c
 Otro handicap que encontramos es su autonomía. Tarda aproximadamente 4 horas en cargarse y la batería dura 90 minutos. Este ratio debería ser más proporcionado.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_03.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/hkoening/SWR32_1500_03.jpg" width="400" height="auto" alt="Test H.Koenig SWR32">
 </div>
 
 #### Ruido
@@ -126,9 +126,9 @@ Incluso para el mantenimiento, la aspiradora H.Koenig SWR-32 se ayuda y te ayuda
 Si el depósito de la basura está lleno o si el aparato necesita limpieza, lo indicará en su pantalla. Para facilitar el mantenimiento, el material de limpieza está incluido en la entrega, así como piezas de repuesto.
 
 <div>
-<img src="{{ site.url }}/assets/img/varias/SWR28_3_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa">
-<img src="{{ site.url }}/assets/img/varias/SWR28_4_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa">
-<img src="{{ site.url }}/assets/img/varias/SWR28_5_1500.jpg" width="200" height="auto" alt="aspirador trineo sin bolsa"><br>
+<img src="{{ site.url }}/assets/img/varias/SWR28_3_1500.jpg" width="200" height="auto" alt="Test H.Koenig SWR32">
+<img src="{{ site.url }}/assets/img/varias/SWR28_4_1500.jpg" width="200" height="auto" alt="Test H.Koenig SWR32">
+<img src="{{ site.url }}/assets/img/varias/SWR28_5_1500.jpg" width="200" height="auto" alt="Test H.Koenig SWR32"><br>
 </div>
 
 <div class="text-center">

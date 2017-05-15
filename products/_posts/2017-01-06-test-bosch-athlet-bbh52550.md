@@ -141,7 +141,7 @@ Según lo prometido por Bosch, en la potencia más baja, este aspirador escoba n
 Tan pronto como se incrementa la potencia el nivel de ruido también aumenta: 72 dB cuando se hace clic el cepillo turbo y 76 dB en modo "turbo".
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/BBH625W60 Athlet/MCSA00803905_D9055.png" width="1000" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/BBH625W60 Athlet/MCSA00803905_D9055.png" width="1000" height="auto" alt="Test Bosch Athlet BBH52550">
 </div>
 
 #### Manejabilidad

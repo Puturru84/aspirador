@@ -63,7 +63,7 @@ Modelo de la serie 600 de la marca, <b>mejor venta en Amazon</b> en varias ocasi
 Yo quería saberlo, por eso lo he probado, para darte mis impresiones personales.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-ambiente.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-ambiente.jpg" width="400" height="auto" alt="Test iRobot roomba 650">
 </div>
 
 <div class="text-center">
@@ -81,7 +81,7 @@ El robot va a dividir en zonas el terreno y no dejará ningún hilo de polvo en 
 La calidad de la limpieza también se ve afectada, la aspiradora no tiene que pasar 2 veces por el mismo lugar para un resultado perfecto.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-alfombra.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-alfombra.jpg" width="400" height="auto" alt="Test iRobot roomba 650">
 </div>
 
 #### Aspirado
@@ -95,7 +95,7 @@ Cuenta con un parachoque de sensibilidad táctil. Esto ayuda a absorber los golp
 Por último, su mango te permite transportarlo fácilmente.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-cocina.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-cocina.jpg" width="400" height="auto" alt="Test iRobot roomba 650">
 </div>
 
 #### Ruido
@@ -103,7 +103,7 @@ Por último, su mango te permite transportarlo fácilmente.
 Los aspiradores robots están muy por debajo de la media de los aspiradores sin bolsa, este modelo hace un ruido de 70 dB, lo que tampoco supone un problema porque como puedes programarlo puedes aprovechar a conectarlo cuando estés fuera de casa y así no lo oyes.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-muro.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-muro.jpg" width="400" height="auto" alt="Test iRobot roomba 650">
 </div>
 
 <div class="text-center">
@@ -117,7 +117,7 @@ Se puede programar hasta 7 días para usar cuando lo desees y cuando mejor te co
 La programación se aprende rápida y fácilmente y se pondrá en marcha cuando no estés en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-escaleras.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/iRobotroomba650/iRobot-650-escaleras.jpg" width="400" height="auto" alt="Test iRobot roomba 650">
 </div>
 
 #### Mantenimiento

@@ -124,7 +124,7 @@ Dado que es uno de los mejores aspiradores escoba de los que he probado, no pued
 Como a menudo con Dyson, el handicap del Total Clean, es el ruido. De hecho, es particularmente ruidoso;  obtenemos un ruido de 80 dB colocando el control en posición "max" e incluso en modo normal es muy ruidoso con 78 dB. Esta característica puede resultar un freno para algunos usuarios, otros sin embargo se olvidaran del rudido con las ventajas de la eficiencia y la comodidad de uso en general.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/DysonV6/DysonV6_Total_Clean__multiples_usos_y_coche.jpg" width="1000" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/DysonV6/DysonV6_Total_Clean__multiples_usos_y_coche.jpg" width="1000" height="auto" alt="Test Dyson V6 total clean">
 </div>
 
 #### Manejabilidad
@@ -136,7 +136,7 @@ El V6 Absolute ofrece una excelente manejabilidad, como sus predecesores de los 
 Su cabezal es flexible, incluso la del cepillo de parquet y el aparato esta bien equilibrado. Las sesiones de limpieza son comodas gracias a su tubo fino que facilita la limpieza debajo de los muebles, lo que no es el caso de otros modelos de la competencia.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/DysonV6/V6_Total_Clean__en_ambiente_con_perro.jpg" width="400" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/DysonV6/V6_Total_Clean__en_ambiente_con_perro.jpg" width="400" height="auto" alt="Test Dyson V6 total clean">
 </div>
 
 <div class="text-center">

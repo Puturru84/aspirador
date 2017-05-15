@@ -68,7 +68,7 @@ La principal novedad de esta máquina cuyo precio es bastante conmedido -  en co
 Por último, Neato promete menos ruido y una limpieza de cepillos de fácil. Este Neato promete, te invitamos a leer este artículo para descubrir si cumple.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7824-hi.jpg" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7824-hi.jpg" width="600" height="auto" alt="Test Neato Robotics Botvac D85">
 </div>
 
 #### Comodidad de uso
@@ -88,7 +88,7 @@ Estas palas no son rectas sino ligeramente torcidas, y el caucho utilizado es al
 Incluso el usuario novato con los robots aspirador puede ponerlo en marcha sin el manual y aventurarse en el menú con facilidad.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7876-hi.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7876-hi.jpg" width="600" height="auto" alt="Test Neato Robotics Botvac D85">
 </div>
 
 <div class="text-center">
@@ -107,7 +107,7 @@ En una alfombra gruesa de pelo largo, el cepillo combinado proporciona mejores r
 Se obtienen niveles impresionantes de eficiencia, sobre todo porque la cobertura de la superficie es muy buena.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7892-hi.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85-7892-hi.jpg" width="600" height="auto" alt="Test Neato Robotics Botvac D85">
 </div>
 
 #### Ruido
@@ -121,7 +121,7 @@ Mientras que muchos competidores se han trasladado a la batería de Li-ion, Neat
 Medimos un consumo de alrededor de 2 W cuando está cargado (en la pantalla). Este consumo asciende a 34 W mientras se carga la batería. Hemos visto un menor consumo en ciertos robots.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85backangle-hi.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85backangle-hi.jpg" width="600" height="auto" alt="Test Neato Robotics Botvac D85">
 </div>
 
 #### Modos y funciones complementarias
@@ -139,7 +139,7 @@ Por último, observamos que el paquete de accesorios es consistente. De hecho, l
 Siempre valoramos la posibilidad de realizar actualizaciones del software para ir actualizando el robot posteriormente. En este caso se hacen a través de un puerto USB.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85bottom-hi.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Neato-Robotics-Botvac-D85/d80d85bottom-hi.jpg" width="600" height="auto" alt="Test Neato Robotics Botvac D85">
 </div>
 
 <div class="text-center">

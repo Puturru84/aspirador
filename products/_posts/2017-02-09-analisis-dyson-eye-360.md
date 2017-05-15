@@ -206,6 +206,9 @@ Por último como <b>es más pequeña</b> de lo normal puede colarse donde otros 
 
 #### Conclusión 4 pts / 5
 
+El Dyson eye 360 era muy esperado. Sobre el papel, hay un montón de buenas ideas, pero lamentamos un sistema de navegación que tiene problemas y una eficiencia de succión que peca en algunas superficies.
+Por último, la ausencia de muros virtuales no nos ha gustado.
+La conectividad funciona bastante bien así como el sistema de filtración multiciclónico.
 
   <div class="text-center">
     <a href="https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>

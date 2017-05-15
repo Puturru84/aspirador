@@ -107,7 +107,7 @@ Por último, un nuevo accesorio práctico para limpiar la parte superior de los 
 Sin embargo, lamentamos que el cepillo de parquet no está equipado con un pequeño "carril" para instalar el Big Ball Absolute en posición de parking, una lastima para los usuarios que lo utilice con frecuencia.
 
 <div class="text-center">
- <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_14.jpg" width="400" height="auto" alt="">
+ <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_14.jpg" width="400" height="auto" alt="Test Dyson Cinetic Big Ball Absolute">
 </div>
 
 En cuanto a los cierres de seguridad para conectar los accesorios al tubo telescópico y el mango al tubo, han cambiado de forma y son ahora mucho más flexibles y cómodos.
@@ -121,7 +121,7 @@ La evolución del asa, totalmente articulada es también un éxito. Hace la limp
 En cuanto al sistema de vaciado del depósito, si bien hace maravillas en cuanto a la expulsión de polvo, a veces permanece bloqueado abierto (la parte inferior de la pared que queda atrapada en la última muesca). Para desbloquearlo, sólo hay que pulsar de nuevo el botón rojo en la parte superior del depósito. El sistema, sin embargo, parece suavizarce a base de manipulaciones.
 
 <div class="text-center">
- <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_bola.jpg" width="400" height="auto" alt="">
+ <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_bola.jpg" width="400" height="auto" alt="Test Dyson Cinetic Big Ball Absolute">
 </div>
 
 <div class="text-center">
@@ -141,7 +141,7 @@ En la alfombra fina, el mejor resultado lo obtenemos con el cepillo turbo que pu
 Por último, en alfombra gruesa, el Musclehead es el cepillo que recoge más suciedad en menos tiempo.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_uso.jpg" width="500" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_uso.jpg" width="500" height="auto" alt="Test Dyson Cinetic Big Ball Absolute">
 </div>
 
 #### Ruido
@@ -155,7 +155,7 @@ No es sorprendente que el uso del cepillo turbo sea más ruidoso: 76 dB (suelo d
  Hace algunos años las aspiradoras Dyson estaban entre los modelos sin bolsa que menos consumían del mercado. Desde el lanzamiento de la etiqueta energética, muchos fabricantes han hecho esfuerzos en este sentido. Sin embargo, el fabricante británico no ha reducido su consumo y a dia de hoy está peor posicionado que sus competidores. El Cinetic Big Ball tiene una clase de energía E.
 
  <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball.jpg" width="400" height="auto" alt="Test Dyson Cinetic Big Ball Absolute">
 </div>
 
 <div class="text-center">
@@ -170,7 +170,7 @@ Una vez más, Dyson obtiene buena nota. No sólamente el Absolute camina como un
 El asa articulada en todas las direcciones también mejora el manejo, ya sea para una limpieza de suelos convencional o para el uso de los pequeños accesorios para la limpieza de muebles en altura.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_manejabilidad.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/dyson-cinetic-big-ball-absolute/Dyson_Big_Ball_manejabilidad.jpg" width="400" height="auto" alt="Test Dyson Cinetic Big Ball Absolute">
 </div>
 
 #### Mantenimiento

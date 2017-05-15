@@ -79,7 +79,7 @@ Si te estás dando cuenta de que tu aspiradora actual no puede con el pelo de tu
 Provista de un sistema diseñado para recoger tanto pelo como sea necesario, con esta aspiradora acabar con los malvados pelos de nuestros amigos peludos es ahora más fácil que nunca.
 
 <div class="text-center">
-<img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_ProAnimal.jpg" width="600" height="auto" alt="">
+<img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_ProAnimal.jpg" width="600" height="auto" alt="Test Bosch Zoo o ProAnimal BGS5ZOOO2">
 </div>
 
 #### Comodidad de uso
@@ -95,7 +95,7 @@ También utiliza un sistema de filtración HEPA para que pueda estar seguro de q
 Bosch ha pensado en la comodidad para el usuario. La aspiradora está construida ergonómicamente para que nunca tengas que preocuparte por el estrés o la tensión de tus músculos mientras pasas el aspirador y te lastimes.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/MCSA01010753_BO_T_12_TBD_BGS5_BGS5ZOOO2_picture_KF2_selfcleansystem_ENG_210315_def.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/MCSA01010753_BO_T_12_TBD_BGS5_BGS5ZOOO2_picture_KF2_selfcleansystem_ENG_210315_def.jpg" width="400" height="auto" alt="Test Bosch Zoo o ProAnimal BGS5ZOOO2">
 </div>
 
 <div class="text-center">
@@ -123,7 +123,7 @@ La tecnología <b>SensorBagless</b> mantiene un flujo de aire siempre óptimo. C
 
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_principal.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_principal.jpg" width="400" height="auto" alt="Test Bosch Zoo o ProAnimal BGS5ZOOO2">
 </div>
 
 #### Ruido
@@ -139,7 +139,7 @@ Lo que he notado durante su uso es el sonido del propio aire en movimiento, más
 Bosch anuncia el consumo de 950 W, lo que lo clasifica como C en la etiqueta energética. Si tenemos en cuenta su consumo total anual es casi el doble que otros modelos de gama similar.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_Cepillo_turbo_proanimal.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/BGS5ZOOO2_Cepillo_turbo_proanimal.jpg" width="400" height="auto" alt="Test Bosch Zoo o ProAnimal BGS5ZOOO2">
 </div>
 
 <div class="text-center">
@@ -170,7 +170,7 @@ Si tuviera que poner una pega seria que a veces hay que sacar el recoge cables e
 Por otro lado hay que señalar que no es una aspiradora especialmente ligera, pesa 9 kilos, aunque lo compensa con la capacidad de su deposito de 3 litros que es uno de los mas grandes del mercado.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/MCSA01010754_BO_T_12_TBD_BGS5_BGS5ZOOO2_picture_KF3_bagless_ENG_210315_def.jpg" width="600" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Bosch-BGS5ZOOO2/MCSA01010754_BO_T_12_TBD_BGS5_BGS5ZOOO2_picture_KF3_bagless_ENG_210315_def.jpg" width="600" height="auto" alt="Test Bosch Zoo o ProAnimal BGS5ZOOO2">
 </div>
 
 #### Mantenimiento

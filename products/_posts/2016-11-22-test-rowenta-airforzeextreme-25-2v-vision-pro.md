@@ -63,7 +63,7 @@ Con una buena autonomía y un conjunto de características que parecen interesan
 Más barato que el <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/"><b>Dyson V6 Total Clean</b></a> y el <a href="http://www.lasaspiradoras.com/test-Dyson-DC62-animal-pro/"><b>Dyson DC62 Animal Pro</b></a>, ¿estamos ante un producto de alta calidad? os invito a leer este artículo del Rowenta Air Forze Extreme para averiguarlo.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-frontal.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-frontal.jpg" width="400" height="auto" alt="Test Rowenta Airforze Extreme 25.2v vision-pro">
 </div>
 
 <div class="text-center">
@@ -88,7 +88,7 @@ Tiene un botón "ON / OFF" en el mango, lo que permite encender o apagar el aspi
 Su depósito extraíble de 0,5 L es de fácil limpieza y el filtro de espuma gruesa simplemente se lava con agua. Su peso es de 4,7 kg y tiene una posición de estacionamiento para un fácil almacenamiento.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-sola.jpg" width="200" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-sola.jpg" width="200" height="auto" alt="Test Rowenta Airforze Extreme 25.2v vision-pro">
 </div>
 
 #### Aspirado
@@ -100,7 +100,7 @@ En alfombra fina, el resultado es inferior, ya que recoge el 84% de la basura en
 En alfombra gruesa los resultados son similares.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-uso.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-uso.jpg" width="400" height="auto" alt="Test Rowenta Airforze Extreme 25.2v vision-pro">
 </div>
 
 <div class="text-center">
@@ -113,7 +113,7 @@ En alfombra gruesa los resultados son similares.
 Hemos medido 68 dB a potencia mínima y 70 dB y 72 dB a potencia máxima. Si bien no podemos considerarlo como silencioso está en la media más bien baja en cuanto a ruido de aspiradoras.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-cepillo.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-cepillo.jpg" width="400" height="auto" alt="Test Rowenta Airforze Extreme 25.2v vision-pro">
 </div>
 
 #### Consumo
@@ -129,7 +129,7 @@ La manejabilidad es mejor que el modelo anterior, este modelo nos parece un poco
 Sin embargo, incluso un poco más ligera que modelos anteriores, esta aspiradora todavía <b>pesa mucho</b> y rápido en el brazo (4,7kg). Es una lástima porque con su autonomía podría convertirse en el aspirador principal del hogar, y de esta manera es más aconsejable para espacios pequeños.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-caja.jpg" width="400" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-caja.jpg" width="400" height="auto" alt="Test Rowenta Airforze Extreme 25.2v vision-pro">
 </div>
 
 <div class="text-center">
