@@ -1,4 +1,4 @@
-idéntico---
+---
 permalink: "test-robot-aspiradora-xiaomi-mi.md/"
 date: "2017-05-12 08:00:00"
 layout: "product-page"
@@ -79,7 +79,7 @@ La parte inferior de la aspiradora cuenta con **dos ruedas de goma** anchas con 
 
  Al igual que el [iRobot Roomba 980](http://www.lasaspiradoras.com/test-iRobot-roomba-980/) encontrarás un **cepillo ancho que gira con 3 extensiones**, como los radios de una rueda, sentado justo delante de la rueda trasera derecha. Este cepillo gira en sentido de las agujas del reloj hacia el centro de la aspirador, empujando hacia adentro los desechos y succionandolos en el centro.
 
-Es el diseño de los rotores que difiere más del diseño de la [iRobot Roomba 980](http://www.lasaspiradoras.com/test-iRobot-roomba-980/), y es aquí donde vemos un diseño casi identico a la [Neato Botvac Connected](http://www.lasaspiradoras.com/test-neato-robotics-connected/).
+Es el diseño de los rotores que difiere más del diseño de la [iRobot Roomba 980](http://www.lasaspiradoras.com/test-iRobot-roomba-980/), y es aquí donde vemos un diseño casi idéntico a la [Neato Botvac Connected](http://www.lasaspiradoras.com/test-neato-robotics-connected/).
 
  El cepillo giratorio sencillo del Xiaomi Mi se compone de un núcleo de silicona con 3 extensiones hacia el exterior, haciendo 3 componentes de barridos planos en forma de espiral. Además encontrarás 3 cepillos tradicionales envueltos alrededor de este núcleo de silicona, haciendo un patrón alternativo  entre las cerdas y el centro de silicona, proporcionando un buen equilibrio entre  barrer y fregar. Todo esto se recupera en un recipiente que está asegurado a través de una tapa de plástico extraíble, haciendo la **limpieza y el mantenimiento lo más fácil posible**, ya que el cepillo simplemente encaja en el interior del envase y no tiene que ser bloqueado o desbloqueado.
 
