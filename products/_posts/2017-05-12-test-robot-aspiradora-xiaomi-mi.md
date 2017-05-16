@@ -1,5 +1,5 @@
 ---
-permalink: "test-robot-aspiradora-xiaomi-mi.md/"
+permalink: "test-robot-aspiradora-xiaomi-mi/"
 date: "2017-05-12 08:00:00"
 layout: "product-page"
 title: "Test Robot aspiradora Xiaomi Mi"
