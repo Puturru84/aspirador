@@ -6,7 +6,7 @@ date: "2016-11-19 17:00:00"
 description: "Te explicamos cuáles son las características principales que debes mirar para comprar tu aspiradora sin bolsa"
 ---
 
-La aspiradora es el aparato que <a href="{{ site.url }}/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html/">utilizamos a diario</a> en muchos casos para mantener la limpieza de nuestra casa. Se trata de una una compra que nos durará varios años, o por lo menos eso esperamos, una inversión, así que requiere una atención especial.
+La aspiradora es el aparato que <a href="http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html">utilizamos a diario</a> en muchos casos para mantener la limpieza de nuestra casa. Se trata de una una compra que nos durará varios años, o por lo menos eso esperamos, una inversión, así que requiere una atención especial.
 
 Hoy en día, todas las marcas están trabajando para ofrecer modelos que satisfagan las necesidades de los potenciales clientes.
 
