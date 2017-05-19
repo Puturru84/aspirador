@@ -92,7 +92,16 @@ Debilidades:
   <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9 ">Comprar en Amazon</a>
 </div>
 
+#### Estamos en contacto?
 
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
 
-Hasta pronto — [@Las_aspiradoras.com](https://twitter.com/Las_aspiradoras)
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
+
+- [Las mejores aspiradoras robot](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/)
+
+- [Cocorobo, la aspiradora robot de Sharp que habla, canta y entiende las emociones](http://www.lasaspiradoras.com/blog-updates/2017/03/05/Cocorobo-la-aspiradora-robot-de-Sharp-que-habla-cant-y-entiende-las-emociones.html)

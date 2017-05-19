@@ -70,6 +70,16 @@ Disponible a partir de 49,95 €, la <a onclick="ga('send', 'event', '{{ page.ca
 
 Dos opciones de regalo para el día del padre con las que sorprender a nuestro padre sin olvidar un buen abrazo y un te quiero papa. Espero que le guste.
 
-Tienes un comentario, una pregunta, ganas de expresar tu opinion? Escribeme a info@lasaspiradoras.com.
+#### Estamos en contacto?
 
-Hasta pronto — [@Las_aspiradoras.com](https://twitter.com/Las_aspiradoras)
+Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Guia para elegir la mejor aspiradora de mano](http://www.lasaspiradoras.com/2017/05/08/como-elegir-la-mejor-aspiradora-de-mano.html)
+
+- [Las mejores aspiradoras de mano](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-de-mano/)
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)

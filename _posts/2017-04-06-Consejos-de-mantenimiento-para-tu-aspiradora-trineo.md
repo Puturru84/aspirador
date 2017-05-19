@@ -106,4 +106,16 @@ Para evitar averías hay que estar atentos a:
 
 - Vacíar y evacuar regularmente el tubo flexible para evitar que se obstruya.
 
+#### Estamos en contacto?
+
 Conoces algún truco que no hayamos nombrado para mantener tu aspiradora? Compártelo con nosotros y nuestros lectores, envíanos un mail a info@lasaspiradoras.com. Estamos encantados de escuchar tus comentarios.
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [10 maneras inteligentes de deshacerse de los malos olores domésticos](http://www.lasaspiradoras.com/blog-updates/2017/04/20/10-maneras-inteligentes-de-deshacerse-de-los-malos-olores-domesticos.html)

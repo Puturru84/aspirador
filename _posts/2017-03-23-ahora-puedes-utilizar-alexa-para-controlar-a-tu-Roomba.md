@@ -47,4 +47,16 @@ Para el público hispanohablante habrá que esperar pero no sabemos cuánto. Has
 
 Otro pequeño handicap es que este inteligente asistente solo habla inglés con lo que queda relegado de momento a las personas que de lengua materna español tengan un buen manejo de este idioma.
 
+#### Estamos en contacto?
+
 Te parece interesante este nuevo desarrollo de iRobot Y Alexa? Envíanos tu opinión a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
+
+- [El nuevo cóctel tecnológico de Samsung la aspiradora POWERbot VR7000](http://www.lasaspiradoras.com/2017/03/28/el-nuevo-coctel-tecnologico-de-samsung-la-aspiradora-powerbot-vr7000.html)
+
+- [Las mejores aspiradoras robot](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/)

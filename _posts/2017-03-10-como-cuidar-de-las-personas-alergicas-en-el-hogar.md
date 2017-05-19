@@ -72,5 +72,15 @@ Un hogar limpio, con alérgenos reducidos, reducirá también la experiencia de 
 
 Cuando se trata de alergias, la conciencia es clave.
 
+#### Estamos en contacto?
+
 Tienes personas alérgicas en tu entorno? Usas algún truco de limpieza para cuidarlas?
 Envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [12 trucos para prevenir un ataque de asma](http://www.lasaspiradoras.com/2017/04/25/12-trucos-para-prevenir-un-ataque-de-asma.html)
+
+- [Infografía: 8 razones por las que aspirar tu casa a diario](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html)

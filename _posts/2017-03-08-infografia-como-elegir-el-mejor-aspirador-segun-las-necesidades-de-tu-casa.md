@@ -18,4 +18,18 @@ Puedes consultar otras en nuestra cuenta de <a href="https://es.pinterest.com/la
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
+#### Estamos en contacto?
+
 Si quieres contarnos que tipo de aspiradora has elegido y porqué, envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [¿Cómo elegir correctamente tu aspirador sin bolsa?](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [El mejor aspirador para limpiar suelos duros](http://www.lasaspiradoras.com/blog-updates/2017/05/02/el-mejor-aspirador-para-limpiar-suelos-duros.html)
+
+- [Elegir un aspirador silencioso](http://www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)

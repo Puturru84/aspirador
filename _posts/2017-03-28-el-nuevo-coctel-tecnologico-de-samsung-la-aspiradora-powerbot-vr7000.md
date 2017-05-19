@@ -42,4 +42,16 @@ De momento todavía no hay noticias sobre la fecha de lanzamiento en España o d
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
+#### Estamos en contacto?
+
 Tienes un comentario o una pregunta? Envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
+
+- [Las mejores aspiradoras robot](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/)
+
+- [Cocorobo, la aspiradora robot de Sharp que habla, canta y entiende las emociones](http://www.lasaspiradoras.com/blog-updates/2017/03/05/Cocorobo-la-aspiradora-robot-de-Sharp-que-habla-cant-y-entiende-las-emociones.html)

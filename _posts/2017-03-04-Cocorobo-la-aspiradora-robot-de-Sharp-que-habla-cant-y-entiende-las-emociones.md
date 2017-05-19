@@ -36,6 +36,15 @@ Si quieres ver el robot aspiradora Cocorobo en funcionamiento echa un ojo a este
 
 [](//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FGK5429IeqnE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGK5429IeqnE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FGK5429IeqnE%2Fhqdefault.jpg&key=8a35babe1ca54595895b591feaccf81f&type=text%2Fhtml&schema=youtube)
 
+#### Estamos en contacto?
+
 Te gustaria tener una aspiradora cantarina? Envíanos un mensaje a info@lasaspiradoras.com y danos tu opinión.
 
 Si de momento prefieres un robot aspiradora más discreto y que no cante aquí encontrarás la lista de los [mejores robots aspiradoras](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/).
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
+
+- [El nuevo cóctel tecnológico de Samsung la aspiradora POWERbot VR7000](http://www.lasaspiradoras.com/2017/03/28/el-nuevo-coctel-tecnologico-de-samsung-la-aspiradora-powerbot-vr7000.html)

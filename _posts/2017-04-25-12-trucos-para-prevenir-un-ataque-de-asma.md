@@ -89,7 +89,15 @@ Ya sea en casa, en el trabajo, en el colegio, la universidad o en un medio de tr
   <a class="alert hollow button" href="{{ site.url }}">Consulta nuestra lista de los mejores aspiradores</a>
 </div>
 
+#### Estamos en contacto?
+
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
 Estamos encantados de escuchar tus comentarios y publicarlos 😃
 
-Feliz dia mundial del asma, hasta pronto!
+Feliz dia mundial del asma, hasta pronto! — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Cómo cuidar de las personas alérgicas en el hogar](http://www.lasaspiradoras.com/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html)
+
+- [Infografía: 8 razones por las que aspirar tu casa a diario](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html)

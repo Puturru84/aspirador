@@ -72,7 +72,15 @@ La NSF recomienda remojar el recipiente durante unos 10 minutos una vez por sema
   <img src="{{ site.url }}/assets/img/varias/limpiar-comederos-mascotas.jpg" width="600" height="auto" alt="accesorios que vienen con la aspiradora">
 </div>
 
+#### Estamos en contacto?
+
 ¿En que zona de la casa la lia más tu mascota? Envíanos un mensaje a info@lasaspiradoras.com.
 Estamos encantados de escuchar tus comentarios y publicarlos 😃
 
-Feliz limpieza!
+Feliz limpieza! — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [El cepillo para perros Dyson Groom](http://www.lasaspiradoras.com/blog-updates/2016/12/23/2017/01/17/el-cepillo-para-perros-dyson-groom.html.html)
+
+- [10 Perros a los que les encanta la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html)

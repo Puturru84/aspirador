@@ -59,3 +59,15 @@ Después de haber pedido opinión a varios expertos podemos decir con seguridad 
 Consulta a un profesional y pídele que te detalle las reparaciones necesarias (obligatorias) y las recomendadas. Algo así como un check list antes de pasar la ITV. Si estás muy contento con tu aspiradora y esta es de gama alta puede merecer la pena invertir unos cuantos euros en arreglarla.
 
 Si al final el presupuesto sube y decides comprar una nueva consulta nuestra selección de las [mejores aspiradoras](http://www.lasaspiradoras.com).
+
+#### Estamos en contacto?
+
+Tienes un comentario o una pregunta? Envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)
+
+- [Consejos de mantenimiento para tu aspiradora trineo](http://www.lasaspiradoras.com/blog-updates/2017/04/06/Consejos-de-mantenimiento-para-tu-aspiradora-trineo.html)

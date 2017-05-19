@@ -78,6 +78,16 @@ Si quieres conocer todas sus características lee nuestro análisis [aquí](http
   <img src="{{ site.url }}/assets/img/Rowenta-airforzeextreme/Rowenta-airforzeextreme-frontal.jpg" width="300" height="auto" alt="El aspirador Bosch Readyy'y">
 </div>
 
+#### Estamos en contacto?
+
 Tienes un comentario, una pregunta, ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com. Estamos encantados de escuchar tus comentarios.
 
-Hasta pronto!
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)
+
+- [Consejos de mantenimiento para tu aspiradora trineo](http://www.lasaspiradoras.com/blog-updates/2017/04/06/Consejos-de-mantenimiento-para-tu-aspiradora-trineo.html)
+
+- [El mejor aspirador para limpiar suelos duros](http://www.lasaspiradoras.com/blog-updates/2017/05/02/el-mejor-aspirador-para-limpiar-suelos-duros.html)

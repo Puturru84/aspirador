@@ -82,7 +82,17 @@ El polvo de otros muebles y objetos de la casa terminará cubriendo tu alfombra 
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
+#### Estamos en contacto?
+
 Conoces otros errores a evitar? Envíanos un mensaje a info@lasaspiradoras.com.
 Estamos encantados de escuchar tus comentarios.
 
-Hasta pronto!
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Cómo limpiar las alfombras antes de guardarlas para el año que viene](http://www.lasaspiradoras.com/blog-updates/2017/03/15/como-limpiar-las-alfombras-antes-de-guardarlas-para-el-año-que-viene.html)
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [El mejor aspirador para limpiar suelos duros](http://www.lasaspiradoras.com/blog-updates/2017/05/02/el-mejor-aspirador-para-limpiar-suelos-duros.html)

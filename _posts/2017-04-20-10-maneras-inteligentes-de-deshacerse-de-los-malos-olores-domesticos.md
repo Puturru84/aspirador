@@ -107,7 +107,17 @@ Así que aquí están, 10 soluciones fáciles y sencillas para **deshacerse de l
   <a class="alert hollow button" href="{{ site.url }}/#inicio"> Consulta nuestra lista de mejores aspiradoras</a>
 </div>
 
+#### Estamos en contacto?
+
 ¿Tienes otro truco casero que quieras partir con nuestros lectores? Envíanos un mensaje a info@lasaspiradoras.com.
 Estamos encantados de escuchar tus comentarios y publicarlos 😃
 
-Hasta pronto!
+Hasta pronto! — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Cómo limpiar las alfombras antes de guardarlas para el año que viene](http://www.lasaspiradoras.com/blog-updates/2017/03/15/como-limpiar-las-alfombras-antes-de-guardarlas-para-el-año-que-viene.html)
+
+- [Cómo limpiar 4 zonas que ocupan tus mascotas en casa](http://www.lasaspiradoras.com/blog-updates/2017/04/27/como-limpiar-4-zonas-que-ocupan-tus-mascotas-en-casa.html)
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)

@@ -64,4 +64,16 @@ Cuando contratas a profesionales consigues maravillas con tus alfombras sucias. 
 
 Con estos consejos recogerás tus alfombras en perfecto estado de revista para el año que viene.👌
 
+#### Estamos en contacto?
+
 Tienes ganas de expresar tu opinión o experiencia? Envíanos un mensaje a info@lasaspiradoras.com
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+
+- [10 maneras inteligentes de deshacerse de los malos olores domésticos](http://www.lasaspiradoras.com/blog-updates/2017/04/20/10-maneras-inteligentes-de-deshacerse-de-los-malos-olores-domesticos.html)
+
+- [7 Errores a evitar cuando aspiras](http://www.lasaspiradoras.com/blog-updates/2017/04/13/7-errores-a-evitar-cuando-aspiras.html)
