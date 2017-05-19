@@ -55,7 +55,7 @@ link-banggood: "https://www.banggood.com/Original-Xiaomi-Mi-Home-Smart-Robot-Vac
 
 Cuesta la mitad de precio que la competencia, sin embargo, el mismo rendimiento y una mejor navegación.
 
-2016 fue un año estrella para Xiaomi. Xiaomi se ha convertido en miembro de la animada infraestructura tecnológica de China, vendiendo de todo, desde automóviles hasta teléfonos, ollas arroceras a purificadores de aire. Manteniendo el lema de hacer nuestros hogares inteligentes, Xiaomi se ha metido en la guerra de las aspiradoras robots, y lo está haciendo con el estilo habitual de la marca. Ofreciendo un **producto similar** al de sus **competidores** tanto en apariencia como en funcionamiento, Xiaomi está vendiendo el robot aspiradora Mi a **mitad de precio** que la competencia, más o menos a 350 €. **A este precio que ha hecho Xiaomi?** se ha dejado algo? Vamos a echar un vistazo.
+2016 fue un año estrella para Xiaomi. Xiaomi se ha convertido en miembro de la animada infraestructura tecnológica de China, vendiendo de todo, desde automóviles hasta teléfonos, ollas arroceras a purificadores de aire. Manteniendo el lema de hacer nuestros hogares inteligentes, Xiaomi se ha metido en la guerra de las aspiradoras robots, y lo está haciendo con el estilo habitual de la marca. Ofreciendo un **producto similar** al de sus **competidores** tanto en apariencia como en funcionamiento, Xiaomi está vendiendo el robot aspiradora Mi a **mitad de precio** que la competencia, más o menos a 315 - 340 € segun la oferta que cojas. **A este precio que ha hecho Xiaomi?** se ha dejado algo? Vamos a echar un vistazo.
 
   <div class="text-center">
   <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="650" height="auto" alt=" ">
@@ -67,7 +67,7 @@ Es bastante evidente que la mayoría de las aspiradoras robot crean su diseño i
 
 Con unas medidas idénticas al último robot aspirador de iRobot, de 34 cm de diámetro y 7cm de alto, el aspirador Xiaomi Mi se ha **diseñado para conseguir que pase debajo de tantos muebles como sea posible**.
 
-Encima del láser de navegación, con una altura de 1.5cm hay un montículo que evita que el Robot Mi se pierda bajo los muebles de cierta altura. En la parte superior del aparato encontramos **un botón de configuración**, solo dos botones, un **botón de encendido** y el **botón de home**, que vamos a describir más adelante. Alrededor de los botones hay una tapa que cubre la mayor parte de la superficie superior de la aspiradora y que se levanta. Debajo de ella hay una descripción de lo que hace cada botón, así como un indicador LED WiFi y un botón de reinicio completo si algo va mal.
+En la parte superior lleva una torreta láser de navegación, con una altura de 1.5cm, que evita que el Robot Mi se pierda bajo los muebles de cierta altura. En la parte superior del aparato encontramos **un botón de configuración**, solo dos botones, un **botón de encendido** y el **botón de home**, que vamos a describir más adelante. Alrededor de los botones hay una tapa que cubre la mayor parte de la superficie superior de la aspiradora y que se levanta. Debajo de ella hay una descripción de lo que hace cada botón, así como un indicador LED WiFi y un botón de reinicio completo si algo va mal.
 
  Asentado sobre estos botones está el **depósito de basura extraíble**, que cuenta con un **filtro HEPA** incorporado. El flujo de aire entra a través de los rodillos en la parte inferior, en el depósito de polvo y sale a través del filtro HEPA en la parte posterior de la aspiradora.
 
