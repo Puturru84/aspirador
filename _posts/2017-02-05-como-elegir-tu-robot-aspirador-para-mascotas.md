@@ -35,7 +35,7 @@ Este criterio es muy importante porque todos sabemos que nuestras mascotas se mu
 
 Si el robot no cubre toda la superficie de la casa vamos a encontrar pelos que se van quedando abandonados por aquí y por allá y creo que eso no es lo que buscamos.
 
-Dos buenas opciones son el [Neato D85](http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/) y el [Roomba 776p](http://www.lasaspiradoras.com/test-iRobot-roomba-776p/) .
+Dos buenas opciones son el [Neato D85](http://www.lasaspiradoras.com/test-neato-robotics-botvac-D85/) y el [Roomba 980](http://www.lasaspiradoras.com/test-iRobot-roomba-980/) .
 
 <h4>2. Autonomía</h4>
 
