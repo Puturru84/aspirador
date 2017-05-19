@@ -58,7 +58,7 @@ Cuesta la mitad de precio que la competencia, sin embargo, el mismo rendimiento 
 2016 fue un año estrella para Xiaomi. Xiaomi se ha convertido en miembro de la animada infraestructura tecnológica de China, vendiendo de todo, desde automóviles hasta teléfonos, ollas arroceras a purificadores de aire. Manteniendo el lema de hacer nuestros hogares inteligentes, Xiaomi se ha metido en la guerra de las aspiradoras robots, y lo está haciendo con el estilo habitual de la marca. Ofreciendo un **producto similar** al de sus **competidores** tanto en apariencia como en funcionamiento, Xiaomi está vendiendo el robot aspiradora Mi a **mitad de precio** que la competencia, más o menos a 315 - 340 € segun la oferta que cojas. **A este precio que ha hecho Xiaomi?** se ha dejado algo? Vamos a echar un vistazo.
 
   <div class="text-center">
-  <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="650" height="auto" alt=" ">
+  <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="650" height="auto" alt="Test Robot aspiradora Xiaomi Mi">
   </div>
 
 #### Comodidad de uso
@@ -88,7 +88,7 @@ Es el diseño de los rotores que difiere más del diseño de la [iRobot Roomba 9
  Si bien esto suena como una gran idea, en la práctica no funciona tan bien. Estas tiras tienen poco peso  y  muchas veces son golpeadas por el aspirador en su intento de moverse alrededor de las piezas como si fueran de alguna manera una pared real y físicamente capaces de ser empujadas hacia atrás por la aspiradora. Sin duda es factible hacer que funciones pero el propósito requiere un poco más de ingenio por parte del cliente. Para empeorar las cosas Xiaomi **no incluye el muro virtual**, tendrás que comprarlo para asegurarte de que tienes una manera de bloquear el camino de tu aspiradora, cuando sea necesario, sin tener que utilizar barreras físicas.
 
  <div class="text-center">
- <img src="{{ site.url }}/assets/img/xiaomi-mi/parte-detras-xiaomi-mi.jpg" width="650" height="auto" alt=" ">
+ <img src="{{ site.url }}/assets/img/xiaomi-mi/parte-detras-xiaomi-mi.jpg" width="650" height="auto" alt="Test Robot aspiradora Xiaomi Mi">
  </div>
 
  <div class="text-center">
