@@ -57,6 +57,6 @@ Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
 
 - [Guia de compra de una aspiradora robot](http://www.lasaspiradoras.com/blog-updates/2016/12/23/Guia-de-compra-de-una-aspiradora-robot.html)
 
-- [El nuevo cóctel tecnológico de Samsung la aspiradora POWERbot VR7000](http://www.lasaspiradoras.com/2017/03/28/el-nuevo-coctel-tecnologico-de-samsung-la-aspiradora-powerbot-vr7000.html)
+- [El nuevo cóctel tecnológico de Samsung la aspiradora POWERbot VR7000](http://www.lasaspiradoras.com/blog-updates/2017/03/23/ahora-puedes-utilizar-alexa-para-controlar-a-tu-Roomba.html)
 
 - [Las mejores aspiradoras robot](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/)
