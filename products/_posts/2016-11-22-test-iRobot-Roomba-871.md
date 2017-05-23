@@ -1,4 +1,4 @@
-600---
+---
 permalink: "test-iRobot-roomba-871/"
 date: "2016-11-22 15:00:00"
 layout: "product-page"
@@ -20,7 +20,7 @@ filter: "filtro HEPA 11"
 filter-op: "4"
 weight: "3,8 kg"
 weight-op: "3.5"
-dimensions: "35,3 x 35,3 x 9,2 cm"
+dimensions: "35,3 x 9,2 cm"
 radius: "120 m²"
 radius-op: "5"
 garanty: "2 años"
