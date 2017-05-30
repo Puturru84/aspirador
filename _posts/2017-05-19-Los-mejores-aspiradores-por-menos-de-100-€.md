@@ -41,7 +41,7 @@ Como todo tiene su cara y su cruz, la Polti Forzaspira C110 presenta algunas **�
 
 - Material utilizado principalmente **plástico** lo que da un aspecto de fragilidad.
 - La etiqueta energética señala una **eficiencia energética de clase E**, lo que quiere decir que consume bastante.
-- Hace un poquito de **ruido**. Produce **79 dB**, no se trata del aspirador más ruidoso del mercado, pero tampoco del [más silencioso](http://lasaspiradoras.com/2017/04/11/elegir-un-aspirador-silencioso.html).
+- Hace un poquito de **ruido**. Produce **79 dB**, no se trata del aspirador más ruidoso del mercado, pero tampoco del [más silencioso](http://www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html).
 
 **En el puesto n°2... 🥈**
 

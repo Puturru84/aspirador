@@ -78,7 +78,7 @@ Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
 
 #### También te puede interesar:
 
-- [Guia para elegir la mejor aspiradora de mano](http://www.lasaspiradoras.com/2017/05/08/como-elegir-la-mejor-aspiradora-de-mano.html)
+- [Guia para elegir la mejor aspiradora de mano](http://www.lasaspiradoras.com/blog-updates/2017/05/08/como-elegir-la-mejor-aspiradora-de-mano.html)
 
 - [Las mejores aspiradoras de mano](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-de-mano/)
 

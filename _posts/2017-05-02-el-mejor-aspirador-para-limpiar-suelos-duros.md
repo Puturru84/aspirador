@@ -130,10 +130,11 @@ Esperamos haberos ayudado a encontrar el mejor aspirador para suelos duros, para
 Si crees que este artículo le puede interesar a alguien cercano, compártelo! 😃
 
 
+
 #### También te puede interesar:
 
 - [Elegir un aspirador silencioso](http://www.lasaspiradoras.com/blog-updates/2017/04/11/elegir-un-aspirador-silencioso.html)
 
-- [Cómo utilizar correctamente los accesorios para aspiradoras](www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
+- [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
 
 - [Elegir un aspirador trineo con bolsa o sin bolsa? Ventajas y desventajas de las dos tecnologías.](www.lasaspiradoras.com/blog-updates/2017/01/10/Elegir-un-aspirador-trineo-con-bolsa-o-sin-bolsa.html)

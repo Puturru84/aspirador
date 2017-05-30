@@ -201,6 +201,10 @@ Xiaomi ha elaborado **uno de los mejores robot aspirador del mercado**. Por alre
 Los usuarios que no hablan o no entienden chino sin duda tendrán **una curva de aprendizaje que cubrir**, ya que **la aplicación y la voz hablada están únicamente en chino**, y en este momento no hay manera de cambiar eso. Independientemente de este obstáculo, el aspirador vale la pena como para invertir un poco de tiempo en aprender a usarlo, ya que no sólo va a hacer tu casa esté más limpia que nunca, sino que está garantizado para hacerlo más feliz.
 
 <div class="text-center">
+  <img src="{{ site.url }}/assets/img/xiaomi-mini.jpg" width="300" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+</div>
+
+<div class="text-center">
   {% include components/button-buy-banggood.html %}
   {% include components/button-buy-gearbest.html %}
 </div>

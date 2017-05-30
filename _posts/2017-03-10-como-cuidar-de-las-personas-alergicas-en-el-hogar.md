@@ -81,6 +81,6 @@ Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
 
 #### También te puede interesar:
 
-- [12 trucos para prevenir un ataque de asma](http://www.lasaspiradoras.com/2017/04/25/12-trucos-para-prevenir-un-ataque-de-asma.html)
+- [12 trucos para prevenir un ataque de asma](http://www.lasaspiradoras.com/blog-updates/2017/04/25/12-trucos-para-prevenir-un-ataque-de-asma.html)
 
 - [Infografía: 8 razones por las que aspirar tu casa a diario](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html)

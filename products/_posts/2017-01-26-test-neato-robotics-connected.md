@@ -40,6 +40,10 @@ link: "https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J
 link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FNeato-Botvac-Connected-Robot-Aspirapolvere-Connessione-Wifi-Neato-Robotics-%2F291643856507%3Fhash%3Ditem43e754167b%3Ag%3AQVcAAOSwxN5WY0Nx"
 ---
 
+<div class="flex-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LJyJ6cRAzxQ" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
   {% include components/button-buy-ebay.html %}
@@ -65,6 +69,10 @@ link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=
 
   <div class="text-center">
   <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-2.jpg" width="600" height="auto" alt="Test Neato Robotics Connected">
+  </div>
+  <div class="text-center">
+    {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Comodidad de uso
@@ -104,8 +112,13 @@ La conectividad
   En alfombra gruesa de pelo duro, conseguimos también excelentes resultados y mejor incluso en el modo Turbo (hasta el 96% con el cepillo combinado) en el modo Eco (91%). Sobre esta superficie, el cepillo combinado proporciona mejores resultados.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-angulo.jpg" width="600" height="auto" alt="Neato Robotics Botvac Connected opinion">
+    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-angulo.jpg" width="450" height="auto" alt="Neato Robotics Botvac Connected opinion">
   </div>
+  <div class="text-center">
+    {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
+  </div>
+
 
 #### Ruido
 
@@ -116,7 +129,11 @@ La conectividad
   El  BotVac Connected cuenta con una batería de ion-litio. Su consumo es de 40 W durante la carga y por desgracia no es un cero cuando la batería está cargada.Medimos alrededor de 3 W.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-carga.jpg" width="600" height="auto" alt="analisis Neato Robotics Botvac Connected">
+    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-bv-connected-carga.jpg" width="500" height="auto" alt="analisis Neato Robotics Botvac Connected">
+  </div>
+  <div class="text-center">
+    {% include components/button-buy-amazon.html %}
+    {% include components/button-buy-ebay.html %}
   </div>
 
 #### Modos y funciones complementarias
@@ -144,7 +161,7 @@ La conectividad
   Nos gustaría que la aplicación ofrezca más información en un futuro con notificaciones adicionales. A día de hoy, Neato envía una notificación cuando la limpieza está acabada, pero podría ampliarlas y notificar los incidente durante la limpieza o la necesidad de vaciar el depósito. Incluso por qué no añadir aconsejos de mantenimiento como propone <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-980/">iRobot Roomba 980.</a>
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-robot-aplicacion.jpg" width="600" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+    <img src="{{ site.url }}/assets/img/Neato Robotics Botvac Connected/neato-robot-aplicacion.jpg" width="500" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
   </div>
 
   <div class="text-center">
@@ -197,6 +214,10 @@ La conectividad
   El BotVac Connected disfruta de las ventajas de sus predecesores: la exactitud  de las superficies, muy buena gestión de obstáculos y la aspiración eficiente en todo tipo de suelos.
 
   Neato ha logrado incluso facilitar el mantenimiento del robot con nuevos filtros. En cuanto a la conectividad, es facil de poner en marcha y se utiliza principalmente para iniciar un barrido remoto. Este es un buen primer paso en el mundo del hogar conectado, aunque esperamos ver evolucionar la aplicación.
+
+  <div class="text-center">
+    <img src="{{ site.url }}/assets/img/neato-connected-mini.png" width="300" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+  </div>
 
   <div class="text-center">
     <a href="https://www.amazon.es/Neato-Robotics-Botvac-Connected-metalizado/dp/B014J7N1KA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718582&sr=1-1&keywords=Neato+Robotics+Connected&linkCode=ll1&tag=lasaspirad-21&linkId=2ed34fd2e10fc99c43fd0ed68e86f4a9"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>

@@ -41,7 +41,7 @@ link: "https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid
 ---
 
 <div class="flex-video">
-  <iframe width="480" height="270" src="http://media.irobot.com/video/1539/R980_BROLL.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RbHHeyVUb-s" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div class="text-center">
@@ -50,26 +50,25 @@ link: "https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid
 
 ✔️ Puntos fuertes  | ❌ Debilidades
 --|--
-Facil de usar | Podria estar bien poder programarlo sin smartphone
-Aplicacion iRobot Home ergonomica (alertas de mantenimiento, activacion de modos).| Consume un poco para mantener la carga de la bateria
-Eficaz en todo tipo de suelos|
-Perfecta cobertura de superficies|
-Navegacion autonoma|
-
+**Facil** de usar | Podria estar bien **poder programarlo sin smartphone**
+**Aplicacion** iRobot Home **ergonomica** (alertas de mantenimiento, activacion de modos)| Consume un poco para mantener la carga de la bateria
+**Eficaz** en todo tipo de suelos |
+**Perfecta cobertura** de superficies |
+**Navegacion autonoma** |
 
 #### Presentación
 
 El Roomba 980 es el nuevo buque insignia de iRobot, líder mundial de las aspiradoras robot. <br>
 Este modelo es un punto de inflexión para el fabricante americano, no sólo porque es su primer modelo conectado, sino además porque es el primero en desarrollar una cámara para mapear las habitaciones.
 
-Lanzado a 1180 €, el Roomba 980 es uno de los modelos de gama alta más caros del mercado.
+**Lanzado a 1180 €**, el Roomba 980 es uno de los modelos de gama alta **más caros del mercado**.
 
-Con una batería de ión-litio y Wi-Fi, se diferencia de su predecesor por la presencia de una cámara que cartografia las habitaciones. Lo que le hace decir a Colin Angle (cofundador de iRobot) que este modelo es el Roomba mas importante que han lanzado desde la creación de la empresa.
+Con una batería de ión-litio y Wi-Fi, **se diferencia de su predecesor por la presencia de una cámara que cartografia las habitaciones**. Lo que le hace decir a Colin Angle (cofundador de iRobot) que este modelo es el Roomba mas importante que han lanzado desde la creación de la empresa.
 
-Este Roomba navega de manera sistemática, mientras los otros Roomba lo hacen de manera aleatoria. Asi esta nueva joya de iRobot limpia las habitaciones como los modelos Neato Robotics o Vorwerk. Para ello, transporta una cámara como no habiamos visto hasta ahora en otros robots, esta inclinada a 30° para tomar como referencia los puntos de la pieza a limpiar, especialmente el mobiliario.
+Este Roomba **navega de manera sistemática**, mientras los otros Roomba lo hacen de manera aleatoria. Asi esta nueva joya de iRobot limpia las habitaciones como los modelos Neato Robotics o Vorwerk. Para ello, transporta una cámara como no habiamos visto hasta ahora en otros robots, esta inclinada a 30° para tomar como referencia los puntos de la pieza a limpiar, especialmente el mobiliario.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 <div class="text-center">
@@ -80,17 +79,17 @@ Este Roomba navega de manera sistemática, mientras los otros Roomba lo hacen de
 
 Debido a la presencia de una camara inclinada en su armazón, el Roomba 980 presenta un diseño que lo diferencia de otras aspiradoras robots de la gama.
 
-Además de este control, sólo dos pequeños botones están presentes en el armazón del robot. A la izquierda del botón de "limpieza", el que muestra el logotipo de una casa le ordena volver a la base, mientras que el boton de la derecha, el que lleva un dibujo de un objetivo similar pone en marcha una limpieza específica (modo "spot").
+Además de este control, sólo **dos pequeños botones** están presentes en el **armazón** del robot. A la izquierda del **botón de "limpieza"**, el que muestra el logotipo de una casa le ordena volver a la base, mientras que el **boton de la derecha**, el que lleva un dibujo de un objetivo similar pone en marcha una limpieza específica **(modo "spot").**
 
-A parte de estos tres botones, no hay ninguno más en el armazón del Roomba 980. Este aspirador ya no se puede programar directamente como los antiguos modelos, lo que puede ser un poco tedioso. La programación se regula ahora a través de su aplicación, el smartphone se convierte en una especie de "super mando a distancia".
+A parte de estos dos botones, no hay ninguno más en el armazón del Roomba 980. Este aspirador ya **no se puede programar directamente** como los antiguos modelos, lo que puede ser un poco tedioso. La programación se regula ahora **a través de su aplicación**, el smartphone se convierte en una especie de "super mando a distancia".
 
 El Roomba 980 esta destinado a los usuarios de teléfonos móviles, ya que sin este equipo ni la programación es posible.
 
-En el armazon, también encontramos el estado de carga de la batería: el indicador es de color verde cuando se está cargando, naranja cuando se empieza a cargar y rojo cuando no tiene bateria.
+En el **armazon**, también encontramos el **estado** de carga de la **batería**: el indicador es de color verde cuando se está cargando, naranja cuando se empieza a cargar y rojo cuando no tiene bateria.
 
 Práctica, cuando el deposito está lleno, el Roomba tiene en su armazon una luz de advertencia - además de las alertas de mantenimiento proporcionadas por la aplicación.
 
-Como habiamos visto en la serie 800, la estación de carga es compacta y ya no cuenta con un transformador; lo que es más discreto si el robot tiene que estar en el salon.
+Como habiamos visto en la serie 800, la estación de carga es compacta y ya no cuenta con un transformador, lo que es más discreto si el robot tiene que estar en el salon.
 
 #### Conectividad y aplicaciones
 
@@ -98,20 +97,20 @@ Conectar el Roomba al router de casa es muy simple, basta con dejarse guiar por 
 
 Una vez que la instalación se ha completado, una voz femenina nos asegura: "Ahora está conectado a la iRobot Roomba. Por favor utiliza la App iRobot para completar la configuración". Alguna manipulación más y voila! ya estas conectado.
 
-Como ocurre a menudo la aplicación está disponible en Android y el IOS.
+Como ocurre a menudo la **aplicación está disponible en Android y el IOS**.
 
-La aplicación permite poner en marcha el robot a distancia para pedirle que haga la limpieza y seguir su evolución. La limpieza también puede ser interrumpida o ponerse en pausa.
+La aplicación **permite poner en marcha el robot a distancia** para pedirle que haga la limpieza y seguir su evolución. La limpieza también puede ser interrumpida o ponerse en pausa.
 
-La Home propone también un historico de las "salidas" del robot (superficie, longitud, tiempo ...). La parte dedicada al mantenimiento - muy oportuna - informa sobre el estado de cada parte del robot y envía notificaciones cuando es necesario limpiarlo (el cuerpo del robot, extractores y deposito).
+La Home propone también un **historico de las "salidas"** del robot (superficie, longitud, tiempo ...). La **parte dedicada al mantenimiento** - muy oportuna - informa sobre el estado de cada parte del robot y envía notificaciones cuando es necesario limpiarlo (el cuerpo del robot, extractores y deposito).
 
-Por último, es posible activar algunos modos para personalizar la limpieza dependiendo de la casa:
+Por último, es posible **activar algunos modos** para personalizar la limpieza dependiendo de la casa:
 
-El primero, "automático", asegura al Roomba una aumentacion automática de la potencia de aspiración en las alfombras.
+El primero, **"automático"**, asegura al Roomba una aumentacion automática de la potencia de aspiración en las alfombras.
 
-El segundo,"rendimiento", promete esta misma adaptación en función del tipo de suelo. <br>
+El segundo,**"rendimiento**, promete esta misma adaptación en función del tipo de suelo. <br>
 El modo "eco" minimiza la potencia de succión para maximizar la duración de la batería y aspirar con menos ruido.
 
-Por último Home, permite activar dos pasadas para una limpieza óptima o pedir al Roomba que llegue a su base cuando el deposito está lleno.
+Por último **Home**, permite activar dos pasadas para una limpieza óptima o pedir al Roomba que llegue a su base cuando el deposito está lleno.
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
@@ -119,16 +118,16 @@ Por último Home, permite activar dos pasadas para una limpieza óptima o pedir 
 
 #### Aspirado
 
-Al igual que otros modelos de gama alta de iRobot, este nuevo buque insignia tiene un eficaz detector de suciedad llamado "Dirt Detect". En nuestra prueba con una superficie sucia lo hemos visto a menudo realizar movimientos hacia adelante y atrás casi hasta que la zona ha quedado limpia.
+Al igual que otros modelos de gama alta de iRobot, este nuevo buque insignia tiene un eficaz **detector de suciedad** llamado "Dirt Detect". En nuestra prueba con una superficie sucia lo hemos visto a menudo realizar movimientos hacia adelante y atrás casi hasta que la zona ha quedado limpia.
 
-Los resultados en todas las superficies son excelentes, acompañados de una muy buena cobertura. Hemos llevado a cabo la mayor parte de nuestras pruebas en el modo "eco", que se regula desde la aplicación.
+Los **resultados en todas las superficies son excelentes**, acompañados de una muy buena cobertura. Hemos llevado a cabo la mayor parte de nuestras pruebas en el modo "eco", que se regula desde la aplicación.
 
 En la alfombra fina, recoge todos los materiales de prueba. El modo "eco" es suficiente para obtener una puntuación perfecta.
 
 En alfombra de pelo grueso, sin embargo, una superficie delicada, aspiro el 96% de nuestro arroz de prueba en "eco". Sorprendentemente, el "automático" aspiro un poco menos (91%).
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980aspirado.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980aspirado.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 lasaspiradoras.com">
 </div>
 
 #### Ruido
@@ -138,7 +137,10 @@ En cuanto al ruido hemos medido diferentes emisiones sonoras en función de las 
 En "eco", emite de 64 a 66 dB, en el modo "automático", las emisiones llegan hasta 70 dB un poco limite. Sin embargo, como el Roomba es totalmente autónomo esto no presenta ningun problema porque puede funcionar cuando no estes en casa.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 aspirado lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_DogFort.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 aspirado lasaspiradoras.com">
+</div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Consumo
@@ -148,7 +150,10 @@ Cuando carga consume 25.5W, lo que es relativamente elevado, pero este dato hay 
 Lamentamos sin embargo el consumo una vez que la batería está cargada que lejos de cero es de 4,4 W.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 consumo lasaspiradoras.com">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-consumo.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 consumo lasaspiradoras.com">
+</div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Modos y funciones complementarias
@@ -157,9 +162,9 @@ Es el smartphone que sirve de mando a distancia y la aplicación iRobot Home te 
 
 La programación - disposible todos los días de la semana en diferentes momentos - tal como se presenta en la aplicacion es muy fácil.
 
-Con el robot, iRobot entrega un filtro HEPA y un reemplazo del cepillo lateral.
+Con el robot, **iRobot entrega un filtro HEPA y un reemplazo del cepillo lateral**
 
-Por último, dos balizas que se entregan con sus pilas actúan como muro virtual. Ofrecen dos posiciones: una clásica para evitar el acceso a una habitación o la segunda posición, "halo".<br>
+Por último, **dos balizas** que se entregan con sus pilas actúan como muro virtual. Ofrecen dos posiciones: una clásica para evitar el acceso a una habitación o la segunda posición, "halo".<br>
 Esto ya existía en modelos anteriores - mediante la instalación de una goma en ciertas balizas.- Circunscribe una zona redondeada de un radio de unos 60 cm que prohibe el acceso. Esto evitará que se acerque a los cuencos de agua de tu mascota, por ejemplo.
 
 El Roomba 980 viene con accesorios suficientes.
@@ -167,7 +172,7 @@ El Roomba 980 viene con accesorios suficientes.
 En cuanto a los modos (automático, rendimiento o eco) y opciones (dos pasadas, regreso a la base cuando el deposito está lleno, limpiar las esquinas), son programables desde la aplicación.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/iRobot-HOME-App.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/iRobot-HOME-App.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
 </div>
 
 <div class="text-center">
@@ -176,7 +181,7 @@ En cuanto a los modos (automático, rendimiento o eco) y opciones (dos pasadas, 
 
 #### Mantenimiento
 
-Este nuevo modelo hereda de la serie 800 el sistema AeroForce . iRobot ha reemplazado el cepillo principal por los "extractores de escombros". Estos rodillos de caucho flexible que giran en direccion opuesta evitan los enredos del pelo y los pelos de los animales domésticos para un fácil mantenimiento. Cosa que ya habiamos notado en la Roomba 980, el mantenimiento es en realidad muy limitado.
+Este nuevo modelo hereda de la serie 800 el sistema AeroForce. iRobot ha reemplazado el cepillo principal por los "extractores de escombros". Estos rodillos de caucho flexible que giran en direccion opuesta evitan los enredos del pelo y los pelos de los animales domésticos para un fácil mantenimiento. Cosa que ya habiamos notado en la Roomba 980, el **mantenimiento** es en realidad muy **limitado**.
 
 Los extractores todavía deben limpiarse de vez en cuando. Se pueden quitar fácilmente y se colocan con la misma sencillez.
 
@@ -192,9 +197,9 @@ El cepillo lateral es susceptible de enredarse un poco con los cabellos. Sabiend
 
 Gran novedad de este modelo: iRobot, que siempre ha defendido la navegación basada en un esquema aleatorio ha proporcionado a este Roomba de una cámara con inclinación de 30º que le permite cartografiar las estancias.
 
-El robot sabe exactamente dónde está y se mueve de forma sistemática, en zig-zag.  El Roomba ataca primero las zonas grandes que debe limpiar a partir de su base de carga.
+El robot **sabe exactamente dónde está** y **se mueve de forma sistemática**, en zig-zag.  El Roomba ataca primero las zonas grandes que debe limpiar a partir de su base de carga.
 
-Mientras que los movimientos de los antiguos Roomba eran incomprensibles, los del Roomba 980 son lógicos y metódicos. No sólo es tranquilizador, además es más eficiente. De hecho, es la primera vez que Roomba ofrece una cobertura de superficie impecable.
+Mientras que los movimientos de **los antiguos Roomba eran incomprensibles**, los del Roomba 980 son lógicos y metódicos. No sólo es tranquilizador, además es más eficiente. De hecho, es la primera vez que Roomba ofrece una cobertura de superficie impecable.
 
 El suelo de la habitación de prueba y también nuestro apartamento ha sido repasado con precision, por no hablar de cualquier área, incluyendo el contorno de muebles y sillas con patas.
 
@@ -205,12 +210,15 @@ iRobot promete haber mezclado dos sistemas de navegación de modo que el Roomba 
 Este nuevo sistema de navegación proporciona una cobertura de superficie mucho más eficaz, iRobot da un gran paso.
 
 <div class="text-center">
-  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
+  <img class="small-12 small-centered columns" src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="650" height="auto" alt="Aspiradora iRobot roomba 980 manejabilidad lasaspiradoras.com">
+</div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
 </div>
 
 #### Gestion de obstaculos
 
-El Roomba 980 ha mejorado también en la detección de obstáculos y pone especial cuidado limpiando alrededor de los mismos; lo vimos sobre todo con las patas de la silla.
+El Roomba 980 ha **mejorado también en la detección de obstáculos** y pone especial cuidado limpiando alrededor de los mismos, lo vimos sobre todo con las patas de la silla.
 
 No sólo los obstáculos son bien entendidos, sino que la limpieza del suelo alrededor de estos se cuida y el Roomba 980 no se bloquea. El control remoto tiene sentido ya que el Roomba 980 es completamente autónomo en casa.
 
@@ -220,12 +228,15 @@ Por último, monta sin problemas en las alfombras, incluso en las que son un poc
 
 #### Conclusión 4.8 pts / 5
 
-Si no tienes un smartphone, pasa de largo, ya que el Roomba 980 está diseñado para trabajar con él.<b> Muy inteligente, autónomo en un entorno doméstico</b>, el Roomba 980 ofrece una excelente cobertura de las superficies y la eficiencia de succión se acerca a la perfección.
+Si no tienes un smartphone, pasa de largo, ya que el Roomba 980 está diseñado para trabajar con él. **Muy inteligente, autónomo en un entorno doméstico**, el Roomba 980 ofrece una excelente cobertura de las superficies y la eficiencia de succión se acerca a la perfección.
 
 Aunque queramos buscarle pegas no hay mucho de qué quejarse excepto del precio que puede echar a mas de uno para tras. iRobot no ha mentido, con esta nueva Roomba, el fabricante va un paso por delante. La parte más difícil será hacerlo mejor en la próxima versión.
 
 <div class="text-center">
-  <a href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7"><img src="{{ site.url }}/assets/img/disponible-en-amazon.jpg" width="150" height="auto" alt="Comprar aspiradora iRobot roomba 980 en Amazon"></a>
+  <img src="{{ site.url }}/assets/img/mini-iRobot-Roomba-980.jpg" width="300" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+</div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
