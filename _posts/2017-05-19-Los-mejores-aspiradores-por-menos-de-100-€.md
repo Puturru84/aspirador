@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Los mejores aspiradores sin bolsa por menos de 100 €"
+title:  "Los mejores aspiradores trineo por menos de 100 €"
 categories: "blog-updates"
 date: "2017-05-19 08:00:00"
 description: "Todos sabemos que la tecnología tiene un precio. Muchas veces cuando buscamos los mejores resultados tocamos el bolsillo. Los aparatos más duraderos suelen ser de gama media, alta. Sin embargo..."
