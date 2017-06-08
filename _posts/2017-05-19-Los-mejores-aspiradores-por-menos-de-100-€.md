@@ -100,7 +100,7 @@ Lo que más nos ha gustado de la aspiradora sin bolsa Hoover Sprint Evo SE 51 es
 - Incluye **2 accesorios**.
 Una tobera para parqué y un accesorio 2 en 1 para rincones y cepillo para el polvo.
 
-Lo que nos ha convencido un poquito menos de esta aspiradora sin bolsa a menos de 100 € h sido:
+Lo que nos ha convencido un poquito menos de esta aspiradora sin bolsa a menos de 100 € ha sido:
 
 - Solo tiene **una potencia** (la máxima), lo que no supone ningún problema ya que puedes regularla con la apertura manual.
 - Más **ruidosa**, produce **85 dB**, que sus compañeras.

@@ -66,7 +66,7 @@ Gran herramienta de parquet  | Cable corto de 5 m
 
 La tradicional marca italiana Polti es más conocida por sus limpiadores de vapor y planchas, sin embargo cuenta también con aspiradoras sin bolsa en su gama, entre ellas la Forzaspira MC330 Turbo. ¿Aspiradora o supercoche italiano? Vamos a averiguarlo.
 
-Este aspirador sin bolsa ofrece un motor de 700W A-eficiencia, un contenedor de 1.8 litros y cuatro etapas de filtración para un aire emitido más limpio. Fabricada con tubos telescópicos lo que le da un toque de diseño y con un montón de herramientas.
+Este aspirador sin bolsa ofrece un motor de 700W, un contenedor de 1.8 litros y cuatro etapas de filtración para un aire emitido más limpio. Fabricada con tubos telescópicos lo que le da un toque de diseño y con un montón de herramientas.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/polti-forza/polti-forza-ambiente.jpg" width="500" height="auto" alt="Test Polti Forzaspira MC330 Turbo las aspiradoras.com">
@@ -99,7 +99,7 @@ No tuvimos ningún problema durante su funcionamiento, incluso si estás de pie 
 
 <b>El mango presenta un control de la aspiradora<b> en forma de 4 botones: on / off, arriba / abajo, potencia y máximo, con tres niveles de potencia para elegir.
 
-Las luces LED en el aspirador muestran el nivel de potencia seleccionado, junto con una luz de aviso LED. Esta luz es un indicador de que el  flujo de aire que está bloqueando en alguna parte. El interruptor de alimentación principal del cuerpo debe estar ajustado en "Encendido" antes de que el control remoto funcione.
+Las luces LED en el aspirador muestran el nivel de potencia seleccionado, junto con una luz de aviso LED. Esta luz es un indicador de que el flujo de aire que está bloqueando en alguna parte. El interruptor de alimentación principal del cuerpo debe estar ajustado en "Encendido" antes de que el control remoto funcione.
 
 Veamos ahora cómo se comporta la Polti Forzaspira MC330 Turbo con los pelos de animales.
 Con dos cepillos de turbo, el MC330 turbo parecía predestinado para ser un campeón en la limpieza de pelo de mascotas. Sin embargo no ha sido así. El cepillo principal turbo parecía rozar por encima la parte superior del pelo en la alfombra más que recogerlo.
@@ -116,7 +116,7 @@ A pesar de prometer mucho para nuestros amigos peludos, el rendimiento del Polti
 
 #### Ruido
 
-Con 78 dBA declarados por la casa, este aspirador se sitúa ligeramente por debajo de la media de los aspiradores sin bolsa. No es tan silencioso como el <a href="{{ site.url }}/test-bosch-bgs5sil66b-relaxx-prosilence/"> Bosch BGS5SIL66B Relaxx'x ProSilence</a>, pero durante su uso el ruido no nos ha escandalizado en absoluto, digamos que es lo que puedes esperar incluso un pelin mejorado.
+Con 78 dB declarados por la casa, este aspirador se sitúa ligeramente por debajo de la media de los aspiradores sin bolsa. No es tan silencioso como el <a href="{{ site.url }}/test-bosch-bgs5sil66b-relaxx-prosilence/"> Bosch BGS5SIL66B Relaxx'x ProSilence</a>, pero durante su uso el ruido no nos ha escandalizado en absoluto, digamos que es lo que puedes esperar incluso un pelin mejorado.
 
 #### Consumo
 
