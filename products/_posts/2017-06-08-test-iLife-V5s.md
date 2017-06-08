@@ -2,7 +2,7 @@
 permalink: "test-ILIFE-V5s/"
 date: "2017-05-23 08:00:00"
 layout: "product-page"
-title: "Test Robot aspiradora ILIFE V5s"
+title: "Test ILIFE V5s"
 categories:
   - product
   - robot
@@ -34,7 +34,7 @@ comments: "Aspira y frega por menos de 200 €"
 price-before: "00 €"
 price-now: "00"
 discount: "0%"
-stars: "4,5"
+stars: "4.5"
 description: "Guia de compra del Robot aspiradora ILIFE V5s, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/ILIFE-Aspiradora-tanque-limpieza-autom%C3%A1ticamente/dp/B06ZY67JL2/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1496908497&sr=1-1&keywords=iLife+V5s&linkCode=ll1&tag=lasaspirad-21&linkId=f4db18c0ba8356cb2ffb4fd2444eeb8e"  
 link-gearbest: "http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702"
@@ -62,7 +62,7 @@ El Roomba ha sido el nombre más reconocible cuando se trata de aspiradoras robo
 El ILIFE V5s es uno de los competidores que intenta acaparar el mercado con un gran conjunto de características, manteniendo el precio bajo. Puedes [comprar el V5s por 200 €](http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702), pero es ese precio demasiado bueno para merecer la pena? Aquí estamos para contártelo.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-ambiente-2.jpg" width="400" height="auto" alt="ILIFEA6 aspirando">
+  <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-ambiente-2.jpg" width="400" height="auto" alt="test aspirador iLife V5S">
 </div>
 
 #### Comodidad de uso
@@ -84,7 +84,7 @@ El robot aspirador ILIFE V5s tiene un diámetro de casi 30 cm y una altura de 7,
 ILIFE V5s utiliza una tecnología silenciosa que limita el nivel de **ruido a unos 55 dB**. Ese ruido se reduce aún más cuando se está limpiando en húmedo.
 
  <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-aspirar-debajo-muebles.jpg" width="450" height="auto" alt="ILIFE v5s aspirar debajo muebles">
+  <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-aspirar-debajo-muebles.jpg" width="450" height="auto" alt="ILIFE v5s aspirar debajo muebles">
  </div>
 
  <div class="text-center">
@@ -114,7 +114,7 @@ Otra área que necesita mejorar es la duración del modo fregado. Cuando está e
 Además, el fabricante recomienda que se ponga **sólo agua** en el tanque de agua al fregar. Estaría genial que el ILIFE V5 pudiera utilizarse con limpiadores de madera, desinfectantes y otros que los consumidores ya están usando en sus casas.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-complementos.jpg" width="380" height="auto" alt="ILIFE v5s opinion">
+    <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-complementos.jpg" width="380" height="auto" alt="ILIFE v5s opinion">
   </div>
 
   <div class="text-center">
@@ -139,7 +139,7 @@ Mientras tanto, el modo de **limpieza de bordes** dirige al robot aspirador cerc
 **Sin especificar** ninguno de estos modos, los V5 pasará por su modo de **limpieza automática**, el modo de limpieza spot y luego el modo de limpieza de bordes. Lo que significa que puedes dejar el V5s encendido y estar seguro de que el piso entero se ha limpiado.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-bateria.jpg" width="400" height="auto" alt="aplicación ILIFE A6">
+  <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-bateria.jpg" width="400" height="auto" alt="aplicación ILIFE V5s">
 </div>
 
   <div class="text-center">
@@ -154,7 +154,7 @@ La papelera y el depósito de agua del iLife V5s ocupan el mismo lugar. Eso sign
 Por lo demas poco que contar del mantenimiento. Simplemente si tu casa es grande vigilar cuando este en modo fregar para rellenar el depósito si se le acaba el agua.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-recto-verso.jpg" width="400" height="auto" alt="parte posterior del ILIFEA6">
+    <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-recto-verso.jpg" width="400" height="auto" alt="parte posterior del ILIFE V5s">
   </div>
 
   <div class="text-center">
@@ -167,7 +167,7 @@ Por lo demas poco que contar del mantenimiento. Simplemente si tu casa es grande
 El ILIFE V5s hace uso de una amplia variedad de sensores para ayudarle a moverse por la habitación. Sus sensores infrarrojos permiten que el robot aspiradora cubra toda la superficie del piso sin chocar contra las paredes y otros obstáculos. También tiene sensores de detección de vacío que le impiden caer de las escaleras.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife V5s/ilife-v5s-de-lado.jpg" width="400" height="auto" alt="parte posterior del ILIFEA6">
+  <img src="{{ site.url }}/assets/img/ilife-v5s/ilife-v5s-de-lado.jpg" width="400" height="auto" alt="ILIFE V5s de lado">
 </div>
 
 #### Conclusión pts 4,5 / 5
