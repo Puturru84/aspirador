@@ -1,9 +1,9 @@
 ---
 layout: "post"
-title:  "Los mejores aspiradores trineo por menos de 200 €"
+title: "Los mejores aspiradores trineo por menos de 200 €"
 categories: "blog-updates"
-date: "2017-06-08 08:00:00"
-description: ""
+date: "2017-06-13 05:00:00"
+description: "Cuando vamos a hacer un compra ya se para casa o para nosotros mismos la mayoria de nosotros tendemos a fijarnos un presupuesto antes de ponernos a mirar que vamos y podemos comprar." 
 ---
 
 Cuando vamos a hacer un compra ya se para casa o para nosotros mismos la mayoria de nosotros tendemos a fijarnos un presupuesto antes de ponernos a mirar que vamos y podemos comprar.

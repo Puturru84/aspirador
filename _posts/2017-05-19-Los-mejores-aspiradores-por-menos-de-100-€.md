@@ -62,7 +62,7 @@ Se trata de una herramienta de limpieza compacta y fácil de usar que ofrece un 
 
 Los **puntos más positivos** de la aspiradora sin bolsa Rowenta Compact Power Cyclonic RO3753 son:
 
-- Cuenta con dos niveles de filtración, un filtro de alta eficiencia y un foam4 filtros. Fáciles de limpiar porque se desmonta completamente.
+- Cuenta con dos niveles de filtración, un filtro de alta eficiencia y un foam 4 filtros. Fáciles de limpiar porque se desmonta completamente.
 - Cuenta con un filtro HEPA.
 - La longitud del cable es de 6,2 m, lo que hace un radio de acción de 8.8 m.
 - Precio muy muy interesante.
