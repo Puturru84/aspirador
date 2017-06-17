@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Comparación  de las caracteristicas de los Roomba con los iLife"
 categories: "blog-updates"
-date: "2017-06-13 09:00:00"
+date: "2017-06-16 09:00:00"
 description: "Roomba es la referencia en el mundo de las aspiradoras robot. Han sido pioneros y con buenos resultados en sus maquinas se han hecho con una gran parte de los hogares en todo el mundo."
 ---
 
@@ -11,7 +11,7 @@ Roomba es la referencia en el mundo de las aspiradoras robot. Han sido pioneros 
 Hoy hacemos un análisis comparativo de las diferentes características de las marcas Roomba y iLife para ayudaros a conocer mejor las ventajas y desventajas de ambas.
 
 ### Dimensiones y diseño
- 
+
 Aspecto del Roomba
 
 Las aspiradoras de Roomba siempre han sido 9,15 cm de alto, permitiéndoles conseguir pasar por debajo de la mayoría de los muebles al limpiar. Todas las unidades Roomba tienen la misma forma circular, con diámetros de poco menos de 35,5 cm. Los Roombas, sin embargo, se han vuelto más pesados.
