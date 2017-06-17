@@ -11,7 +11,7 @@ Roomba es la referencia en el mundo de las aspiradoras robot. Han sido pioneros 
 Hoy hacemos un análisis comparativo de las diferentes características de las marcas Roomba y iLife para ayudaros a conocer mejor las ventajas y desventajas de ambas.
 
 ### Dimensiones y diseño
-
+ 
 Aspecto del Roomba
 
 Las aspiradoras de Roomba siempre han sido 9,15 cm de alto, permitiéndoles conseguir pasar por debajo de la mayoría de los muebles al limpiar. Todas las unidades Roomba tienen la misma forma circular, con diámetros de poco menos de 35,5 cm. Los Roombas, sin embargo, se han vuelto más pesados.
