@@ -19,7 +19,7 @@ Las aspiradoras de Roomba siempre han sido 9,15 cm de alto, permitiéndoles cons
 La [Roomba 620](xxxx), por ejemplo, pesa **sólo 3,6 kilos**, mientras que la mayoría de las **series 700** Roombas pesan **3,8 kilos**. Las últimas Roombas son aún más pesadas, la [Roomba 960](xxx) pesa **3,85 kilos** y la [Roomba 980](https://www.lasaspiradoras.com/test-iRobot-roomba-980/) pesa **4 kilos.**
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/irobotroomba980/roomba-980-front.jpg" width="400" height="auto" alt="Roomba vs iLife">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Roomba vs iLife">
   <p class="text-center">iRobot Roomba 980</p>
   <a class="button" href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7">Comprar en Amazon</a>
 </div>
