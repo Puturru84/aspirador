@@ -20,7 +20,7 @@ La [Roomba 620](xxxx), por ejemplo, pesa **sólo 3,6 kilos**, mientras que la ma
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980-front.jpg" width="400" height="auto" alt="Roomba vs iLife">
-  <p class="text-center">iRobot Roomba 980</p> 
+  <p class="text-center">iRobot Roomba 980</p>
   <a class="button" href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7">Comprar en Amazon</a>
 </div>
 
