@@ -1,6 +1,6 @@
 ---
 permalink: "analisis-rowenta-extenso-cyclonic-ac476901/"
-date: "2017-02-28 12:00:00"
+date: "2017-06-21 06:00:00"
 layout: "product-page"
 title: "Analisis aspiradora Rowenta Extenso Cyclonic AC476901"
 categories:
