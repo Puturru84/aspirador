@@ -1,14 +1,17 @@
-- link: Aspiradoras trineo
+- link: Trineo
   url: /tabla-caracteristicas-aspiradoras-trineo
 
-- link: Aspiradoras escoba
+- link: Escoba
   url: /tabla-caracteristicas-aspiradoras-escoba
 
-- link: Aspiradoras robot
+- link: Robot
   url: /tabla-caracteristicas-aspiradoras-robot
 
-- link: Aspiradoras de mano
+- link: De mano
   url: /tabla-caracteristicas-aspiradoras-de-mano
 
 - link: Blog
   url: /blog
+
+- link: Ofertas
+  url: /ofertas

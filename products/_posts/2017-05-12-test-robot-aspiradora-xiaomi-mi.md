@@ -40,6 +40,12 @@ link-gearbest: "http://es.gearbest.com/articulos-de-limpieza/pp_440546.html?wid=
 link-banggood: "https://www.banggood.com/Original-Xiaomi-Mi-Home-Smart-Robot-Vacuum-Cleaner-LSD-and-SLAM-1800Pa-5200mAH-with-APP-Control-p-1098131.html?p=C3250475425792016114"
 ---
 
+<div class="callout success">
+  <h5>Flash Sale: $309.99 Xiaomi Mi Robot Vacuum</h5>
+  <p>Hasta el 30 de junio, no lo dejes pasar!</p>
+  <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=10884266" title="Gearbest Only $309.99 for Original Xiaomi Mi Robot Vacuum ">Only $309.99 for Original Xiaomi Mi Robot Vacuum </a>
+</div>
+
 <div class="text-center">
   {% include components/button-buy-banggood.html %}
   {% include components/button-buy-gearbest.html %}
