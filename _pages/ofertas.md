@@ -20,7 +20,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10884076" title="Gearbest Flash Sale: $176.99  ILIFE V7S Pro Smart Robotic Vacuum Cleaner">Flash Sale: Robot aspiradora ILIFE V7S por solamente $176.99  </a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
+        <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
       </div>
       <div class="callout">
         <h5>Flash Sale Gearbest: Aspiradora robot Xiaomi Mi a $309.99</h5>
