@@ -55,7 +55,7 @@ Tiene energía suficiente para superar los obstáculos diarios |Las cortinas que
 
 #### Presentación
 
-Hoy vamos a analizar un nuevo modelo de la marca china ILife, el modelo iLife V7S Pro (La versión Pro µµreemplaza la V7S desde enero de 2017µµ). Para saber si podemos responder a la pregunta que nos hacemos en este momento, por fin puedo dejar de barrer en la casa? Y de paso, ya que el pro iLife V7S tiene incorporada la función de fregona, ¿es eficiente para lavar el suelo?
+Hoy vamos a analizar un nuevo modelo de la marca china ILife, el modelo iLife V7S Pro (La versión Pro **reemplaza la V7S desde enero de 2017**). Para saber si podemos responder a la pregunta que nos hacemos en este momento, por fin puedo dejar de barrer en la casa? Y de paso, ya que el pro iLife V7S tiene incorporada la función de fregona, ¿es eficiente para lavar el suelo?
 
 El iLife v7s es la joya de la corona de la gama iLife. Comprar una aspiradora de gama alta de una de las marcas líderes en el mercado requiere cerca de 1000 €.
 El iLife V7s es un robot aspiradora que puedes [comprar por menos de 200 € en Gearbest](http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10883611), pero cumple con las "tres B" como para que merezca la pena hacerse con él? te lo contamos a continuación.
@@ -63,7 +63,7 @@ El iLife V7s es un robot aspiradora que puedes [comprar por menos de 200 € en 
 Además, estas últimas semanas hemos ido repasando y analizando los diferentes modelos de iLife marca con resultados muy sorprendentes que puedes leer en los test que hemos hecho para ti. El [Test del iLife V7S](http://www.lasaspiradoras.com/test-ILIFE-V5s/), del [iLife A6](http://www.lasaspiradoras.com/test-ILIFE-A6/),y por último del [iLife A4](http://www.lasaspiradoras.com/test-ILIFE-A4/).
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
+  <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
 </div>
 
 #### Comodidad de uso
@@ -88,7 +88,7 @@ Para encontrarla, buscará la señal en la habitación, va a caminar en cámara 
 Sin embargo, es necesario **proporcionar un espacio** para que se alinee correctamente. Un hueco de tan sólo **un metro** es suficiente.
 
  <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife-v7s/Ilife-v7s-de-cerca.jpg" width="500" height="auto" alt="iLife V7S aspirar">
+  <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-de-cerca.jpg" width="500" height="auto" alt="iLife V7S aspirar">
  </div>
 
  <div class="text-center">
@@ -109,7 +109,7 @@ La diferencia entre el V7S y V7S Pro es que el flujo de agua (de 0,45 L) está m
 Por contra, **la tela se ensucia**. Es normal. No podemos considerarla un equivalente de un fregado hecho a mano. **Se debe enjuagar la fregona a menudo**. Se trata sobre todo de una gran manera de finalizar los trabajos de aspirado. Pero no es una manera de hacer que tu piso sea un lugar sin bacterias.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/ilife-v7s/Ilife-v7s-bateria.jpg" width="400" height="auto" alt="iLife V7S opinion">
+    <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-bateria.jpg" width="400" height="auto" alt="iLife V7S opinion">
   </div>
 
   <div class="text-center">
@@ -129,7 +129,7 @@ Si no quieres controlar manualmente esta función, ten en cuenta que en su progr
 Podría haber sido una gran función. El aspirador te propone de describir círculos excéntricos desde un punto específico de la habitación, y gira sobre sí mismo en círculos cada vez más grandes. Esto es útil para asegurarse un mínimo de tiempo en el que tu dispositivo limpia una gran parte de la habitación. Sin embargo, los **círculos descritos son relativamente pequeños**. Es una pena ya que podría haber sido programado para dejar de hacer círculos cuando encuentra con una pared o un obstáculo. En lugar de ello, la aspiradora se limita a describir un círculo de hasta un metro de diámetro. Esta es una función que se puede mejorar fácilmente.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/ilife-v7s/Ilife-v7s-silencio.jpg" width="600" height="auto" alt="iLife V7S">
+  <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-silencio.jpg" width="600" height="auto" alt="iLife V7S">
 </div>
 
   <div class="text-center">

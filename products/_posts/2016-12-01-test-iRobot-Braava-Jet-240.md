@@ -69,12 +69,12 @@ En lo que respecta a la navegación iRobot ha hecho evolucionar su robot, que pu
 Este Braava Jet es pequeño y capaz de colarse por cualquier lugar, pero no nos ilusionemos tan rápido, iRobot lo destina a los baños y cocinas. De hecho, sólo puede cubrir unos veinte metros cuadrados. Por último, está conectado y puede ser controlado desde una aplicación propia.
 
 <div class="text-center">
-  {% include components/button-buy-amazon.html %}
-  {% include components/button-buy-ebay.html %}
+  <img src="{{ site.url }}/assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240">
 </div>
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Braava-jet/braava-jetbathroom.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso  
@@ -128,6 +128,10 @@ Este ruido sigue siendo discreto si evitamos hacer que funcione en la habitació
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Braava-jet/Braava+jet_Kitchen_Dog.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240 lasaspiradoras.com">
 </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
 
 #### Consumo
 
@@ -136,6 +140,11 @@ Hemos medido un consumo de 5,3 W mientras carga, lo que es poco. Cuando la bater
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Braava-jet/Braava_jet_Bathroom.jpg" width="450" height="auto" alt="Test iRobot Braava Jet 240">
 </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
+
 
 #### Modos y funciones complementarias
 
@@ -149,6 +158,7 @@ Se entrega con una batería y un cargador externo. Con este modelo no necesitamo
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Mantenimiento
@@ -177,6 +187,10 @@ El Braava Jet trabaja con eficacia, siempre que no le confiamos una superficie d
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Braava-jet/Braava-jet_InsertPad.jpg" width="450" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com">
 </div>
+<div class="text-center">
+  {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
+</div>
 
 #### Gestión de obstáculos
 
@@ -194,6 +208,7 @@ Todas las promesas se cumplen y se aprecia especialmente la eficacia del nuevo m
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No es lo que buscas? Vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
