@@ -31,7 +31,7 @@ Además, cuenta con la tecnología Botvision que utiliza Simultaneous Localizati
 **Recargar y reanudar:** El D5 encontrará automáticamente su base cuando se agota la batería y una vez que se ha recargado, volverá a la limpieza.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Botvac-D5/Neato-Botvac-D5-Connected-Lifestyle-Carpet-Top-Front.jpg" width="600" height="auto" alt="Neato Botvac D5 vs Roomba 960">
+  <img src="{{ site.url }}/assets/img/Neato-botvac-D5/Neato-botvac-D5-Connected-Lifestyle-Carpet-Top-Front.jpg" width="600" height="auto" alt="Neato Botvac D5 vs Roomba 960">
   <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Comprar en Amazon</a>
 </div>
 
@@ -42,7 +42,7 @@ Necesitas que la aplicación móvil configure los horarios de limpieza, permitie
 La aplicación móvil también te permite acceder a la función Find Me que te ayuda a encontrar tu Neato Botvac D5, y te permite activar el modo de limpieza 2x spot.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-Botvac-D5/Neato-Botvac-D5-Connected-App.jpg" width="500" height="auto" alt="Neato Botvac D5 vs Roomba 960">
+  <img src="{{ site.url }}/assets/img/Neato-botvac-D5/Neato-Botvac-D5-Connected-App.jpg" width="500" height="auto" alt="Neato Botvac D5 vs Roomba 960">
   <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Comprar en Amazon</a>
 </div>
 
@@ -87,7 +87,7 @@ La elección entre el Neato Botvac D5 conectado y el Roomba 960 es más o menos 
 Tanto Neato como iRobot son los protagonistas en el mercado de los robots aspiradores y el Botvac D5 y el Roomba 960 son uno de sus mejores modelos, respectivamente. **Ambos utilizan tecnología de vanguardia** para la localización avanzada y la cartografía, así como la conectividad Wi-Fi. Como se puede ver en la tabla a continuación, el Roomba 960 tiene una tecnología similar y comparable que le ayuda a competir con el Botvac D5.
 
 Característica | Botvac D5 | Roomba 960
-|   <img src="{{ site.url }}/assets/img/Neato-Botvac-D5/mini-Neato-Botvac-D5-Connected.jpg" width="100" height="auto" alt="Neato Botvac D5 vs Roomba 960">  |  <img src="{{ site.url }}/assets/img/Roomba960/mini-roomba-960.jpg" width="120" height="auto" alt="Neato Botvac D5 vs Roomba 960">
+|   <img src="{{ site.url }}/assets/img/Neato-botvac-D5/mini-Neato-Botvac-D5-Connected.jpg" width="100" height="auto" alt="Neato Botvac D5 vs Roomba 960">  |  <img src="{{ site.url }}/assets/img/Roomba960/mini-roomba-960.jpg" width="120" height="auto" alt="Neato Botvac D5 vs Roomba 960">
 --|--|--
 Precio | <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Ver aquí </a>| <a class="button" href="https://www.amazon.es/iRobot-Roomba-960-rendimiento-habitaciones/dp/B01IEEVDOK/ref=as_li_ss_tl?ie=UTF8&qid=1498292746&sr=8-1&keywords=roomba+960&linkCode=ll1&tag=lasaspirad-21&linkId=a6d65b60d88517c9f72df4615e7327fb">Ver aquí</a>
 Aplicación móvil | Sí | Sí
