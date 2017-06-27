@@ -31,7 +31,7 @@ Además, cuenta con la tecnología Botvision que utiliza Simultaneous Localizati
 **Recargar y reanudar:** El D5 encontrará automáticamente su base cuando se agota la batería y una vez que se ha recargado, volverá a la limpieza.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Neato-botvac-D5/Neato-botvac-D5-Connected-Lifestyle-Carpet-Top-Front.jpg" width="600" height="auto" alt="Neato Botvac D5 vs Roomba 960">
+  <img src="{{ site.url }}/assets/img/Neato-botvac-D5/Neato-Botvac-D5-Connected-Lifestyle-Carpet-Top-Front.jpg" width="600" height="auto" alt="Neato Botvac D5 vs Roomba 960">
   <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Comprar en Amazon</a>
 </div>
 
