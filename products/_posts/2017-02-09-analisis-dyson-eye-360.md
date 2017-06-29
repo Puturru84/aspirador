@@ -21,7 +21,6 @@ filter-op: "5"
 weight: "2,45kg"
 weight-op: "5"
 dimensions: "24 x 12 cm"
-radius: "- m²"
 garanty: "2 años"
 brush: "-"
 charge: "2h45"
@@ -67,7 +66,7 @@ Todo esto parece muy prometedor sobre el papel, vamos a verlo en la práctica.
 
 #### Comodidad de uso
 
-El 360 Eye se diferencia de la competencia en primer lugar por su tamaño: es mucho <b>más estrecho</b> (sólo 23 cm de diámetro contra 35 cm por lo general), pero más grueso (110 cm, 1 cm o más largo que el Neato).
+El 360 Eye se diferencia de la competencia en primer lugar por su tamaño: es mucho <b>más estrecho</b> (sólo 23 cm de diámetro contra 35 cm por lo general), pero más grueso (11 cm, 1 cm más largo que el Neato).
 
 La base de carga es también original, ya que es totalmente plana y discreta. Se puede plegar, ocupando un poco más de espacio que una pequeña libreta.
 
@@ -85,7 +84,7 @@ Más allá de eso, las cosas se complican y hay que utilizar el manual: segun el
 
 Sin necesidad de usar la <b>aplicación</b> para iniciar una sesión, sólo tienes que <b>pulsar el botón central</b> para iniciar un ciclo de limpieza. Sencillo y eficaz.
 
-Los propietarios de teléfonos Windows o alérgicos a la tecnología, sabed que no vais a disfrutar de la programación, que se lleva a cabo sólo en la aplicación, no en el robot. Es una pena privar a ciertos usuarios de una función de este tipo.
+Los alérgicos a la tecnología, sabed que no vais a disfrutar de la programación, que se lleva a cabo sólo en la aplicación, no en el robot. Es una pena privar a ciertos usuarios de una función de este tipo.
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__aplicacion_movil-low_definition.jpg" width="600" height="auto" alt="Dyson-360-eye foto de ambiente">
@@ -118,8 +117,8 @@ En la parte inferior de la página principal hay cuatro pestañas que ofrecen ac
 
 Utiliza un <b>cepillo trenzado, compuesto de cerdas de nylon y fibra de carbono</b>, como encontramos en las <a href="http://www.lasaspiradoras.com/test-Dyson-V6-Total-Clean/">aspiradoras escoba Dyson</a> que se extiende sobre toda la anchura del robot.
 
-En suelo duro, no tiene ningún problema para cumplir  debido una buena cobertura de superficies, aspira todo sin problemas.
-Como hemos comentado en alfombras su comportamiento presenta ciertos problemas.
+En suelo duro, no tiene ningún problema para cumplir debido una buena cobertura de superficies, aspira todo sin problemas.
+Sin embargo en las alfombras su comportamiento presenta ciertos problemas.
 
   <div class="text-center">
     <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__ambiente-low_definition.jpg" width="450" height="auto" alt="Dyson-360-eye opinion">
@@ -127,7 +126,7 @@ Como hemos comentado en alfombras su comportamiento presenta ciertos problemas.
 
 #### Ruido
 
-Mientras que las aspiradoras Dyson son a menudo ruidosas, el Dyson eye 360 lo es menos de lo que nos temíamos. Medimos 69 dB, lo que  es correcto. Aun así aconsejamos programarlo  para que funcione en tu ausencia.
+Mientras que las aspiradoras Dyson son a menudo ruidosas, el Dyson eye 360 lo es menos de lo que nos temíamos. Medimos 69 dB, lo que es correcto. Aun así aconsejamos programarlo para que funcione en tu ausencia.
 
 #### Consumo
 
@@ -184,7 +183,7 @@ Hemos visto que en las bandas de rodamiento se acumula el cabello y  el pelo de 
 El Dyson 360 Eye es el <b>único</b> aspirador robot del mercado con una <b>cámara de 360 °</b>, junto con sensores infrarrojos colocados en la parte delantera. Trazar la habitación y ajusta sus movimientos a los  obstáculos.
 
 A diferencia de iRobot que ha previsto un doble sistema para que su robot pueda encontrar el camino en la oscuridad Dyson lo ha hecho un poco a medias.
-Las pequeñas lámparas de infrarrojos instaladas en el "asa" no son suficientes. La aspiradora robot se niega a veces a entrar en una zona oscura o poco iluminada. Con un cuarto oscuro (por ejemplo, un cuarto de baño sin ventanas), en caso de que entre,  limpia a penas la zona y se siente perdido.
+Las pequeñas lámparas de infrarrojos instaladas en el "asa" no son suficientes. La aspiradora robot se niega a veces a entrar en una zona oscura o poco iluminada. Con un cuarto oscuro (por ejemplo, un cuarto de baño sin ventanas), en caso de que entre, limpia a penas la zona y se siente perdido.
 
 Por desgracia, se encuentra en la misma situación en áreas muy iluminadas (cerca de un ventanal, por ejemplo) y lucha por encontrar su camino. Lo mismo ocurre si  pasa por debajo de algún mueble, que puede perderse.
 
@@ -196,7 +195,7 @@ En zonas "abiertas", la cobertura de las superficies es buena. Las habitaciones 
 
 #### Gestión de obstáculos
 
-Con sus bandas de rodamiento se supone que el Dyson Eye 360 gestiona bien los obstáculos. Y, de hecho, por lo general no se  bloquea. Si monta sobre un obstáculo, es capaz de descender de él. Las únicas veces que se bloquea están relacionadas con el sistema de navegación (si pasa debajo de un mueble y no puede salir).
+Con sus bandas de rodamiento se supone que el Dyson Eye 360 gestiona bien los obstáculos. Y, de hecho, por lo general no se bloquea. Si monta sobre un obstáculo, es capaz de descender de él. Las únicas veces que se bloquea están relacionadas con el sistema de navegación (si pasa debajo de un mueble y no puede salir).
 
 Las alfombras gruesas le dan algunos problemas. Su chasis tiende a elevarse y a veces se bloquea delante (debido a la fuerte succión).
 

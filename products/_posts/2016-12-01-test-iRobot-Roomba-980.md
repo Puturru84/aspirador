@@ -20,7 +20,7 @@ filter: "HEPA"
 filter-op: "5"
 weight: "4 kg"
 weight-op: "3.5"
-dimensions: "35,1 x 9,2 cm "
+dimensions: "35,1 x 9,2 cm"
 radius: "185 m²"
 radius-op: "5"
 garanty: "2 años"
@@ -38,6 +38,7 @@ discount: "0%"
 stars: "5"
 description: "¿Cuales son las novedades del iRobot Roomba 980? te las contamos en nuestro análisis con todo detalle."
 link: "https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7"
+link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FiRobot-Roomba-980-%2F282491977823%3Fhash%3Ditem41c5d5805f%3Ag%3Amm8AAOSwcB5ZJZjf"
 ---
 
 <div class="flex-video">
@@ -46,6 +47,7 @@ link: "https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ✔️ Puntos fuertes  | ❌ Debilidades
@@ -73,6 +75,7 @@ Este Roomba **navega de manera sistemática**, mientras los otros Roomba lo hace
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Comodidad de uso  
@@ -114,6 +117,7 @@ Por último **Home**, permite activar dos pasadas para una limpieza óptima o pe
 
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Aspirado
@@ -141,6 +145,7 @@ En "eco", emite de 64 a 66 dB, en el modo "automático", las emisiones llegan ha
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Consumo
@@ -154,6 +159,7 @@ Lamentamos sin embargo el consumo una vez que la batería está cargada que lejo
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Modos y funciones complementarias
@@ -214,6 +220,7 @@ Este nuevo sistema de navegación proporciona una cobertura de superficie mucho 
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 #### Gestion de obstaculos
@@ -237,6 +244,7 @@ Aunque queramos buscarle pegas no hay mucho de qué quejarse excepto del precio 
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-ebay.html %}
 </div>
 
 ¿No estás convencido? No te preocupes, vuelve a la lista de las mejores aspiradoras del mercado y consulta otro modelo.
