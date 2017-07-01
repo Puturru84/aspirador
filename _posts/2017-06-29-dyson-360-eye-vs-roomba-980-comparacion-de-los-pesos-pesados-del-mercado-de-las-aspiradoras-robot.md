@@ -100,7 +100,7 @@ Además, el Dyson 360 Eye es más alto que el Roomba por un poco más de un cent
 **Cepillos:** Las tecnologías de ambos aspiradores son diferentes. El Dyson 360 tiene un cepillo principal en el centro de la base, pero no tiene cepillos laterales con lo que se deja pequeñas zonas a lo largo de las paredes o muebles.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/iRobotroomba980/R980_ambiente.jpg" width="600" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+  <img src="{{ site.url }}/assets/img/iRobotroomba980/Roomba-980aspirado.jpg" width="600" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
   <a class="button" href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7">Comprar en Amazon</a>
   <a class="button-ebay" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FiRobot-Roomba-980-%2F282491977823%3Fhash%3Ditem41c5d5805f%3Ag%3Amm8AAOSwcB5ZJZjf">Comprar en Ebay</a>
 </div>
@@ -112,7 +112,7 @@ Además, el Dyson 360 Eye es más alto que el Roomba por un poco más de un cent
 **Ruedas modo tanque:** Otra característica del Dyson 360 Eye digna de mención es las ruedas tipo tanque que pueden ir sobre obstáculos más grandes tales como un cable de grueso que tropezaría y atraparía a un Roomba.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__puerto_de_carga.jpg" width="600" height="auto" alt="Dyson-360-eye foto de ambiente">
+  <img src="{{ site.url }}/assets/img/Dyson-360-eye/Robot_Dyson_360_Eye__aplicacion_movil-low_definition.jpg" width="600" height="auto" alt="Dyson-360-eye foto de ambiente">
   <a class="button" href="https://www.amazon.es/Dyson-360-Eye-Nickel-Blue/dp/B017SQEHBG/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718627&sr=1-1&keywords=Dyson+eye+360&linkCode=ll1&tag=lasaspirad-21&linkId=24ecb493cf345e3d306f4a866fa56391" >Comprar en Amazon</a>
   <a class="button-ebay" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-360-Eye-Robot-Vacuum-Cleaner-Blue-Nickel-%2F172748963512%3Fhash%3Ditem2838a3feb8%3Ag%3AZ44AAOSwz71ZUNYB">Comprar en Ebay</a>
 </div>
