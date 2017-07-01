@@ -1,5 +1,5 @@
 ---
-layout: "post"
+layout: "post" 
 title:  "¿Cómo elegir correctamente tu aspirador sin bolsa?"
 categories: "blog-updates"
 date: "2016-11-19 17:00:00"
