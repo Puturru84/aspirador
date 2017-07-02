@@ -98,6 +98,6 @@ Feliz dia mundial del asma, hasta pronto! — [@Las_aspiradoras](https://twitter
 
 #### También te puede interesar:
 
-- [Cómo cuidar de las personas alérgicas en el hogar](http://www.lasaspiradoras.com/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html)
+- [Cómo cuidar de las personas alérgicas en el hogar](http://www.lasaspiradoras.com/blog-updates/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html)
 
 - [Infografía: 8 razones por las que aspirar tu casa a diario](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html)

@@ -120,7 +120,7 @@ Hemos medido 68 dB a potencia mínima y 70 dB y 72 dB a potencia máxima. Si bie
 
 La Rowenta consume 16 W, un poco mas que el consumo de su predecesora con batería de NiMH (Air Force Extreme, 10 W). Sin embargo, apreciamos que su consumo sea cero una vez que la batería esté cargada.
 
-En cuanto al <b>tiempo de carga, no es el más rápido en el mercado</b>, ya que una carga completa requiere 6 horas (dos veces que la <a href="{{ site.url }}/2016-11-22-test-Dyson-V6-Total-Clean/">Dyson V6 Total Clean)</a>.
+En cuanto al <b>tiempo de carga, no es el más rápido en el mercado</b>, ya que una carga completa requiere 6 horas (dos veces que la <a href="{{ site.url }}/test-Dyson-V6-Total-Clean/">Dyson V6 Total Clean)</a>.
 
 #### Manejabilidad
 
