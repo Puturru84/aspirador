@@ -23,19 +23,103 @@ El mercado de los aspiradores robot está creciendo cada año debido a la **mayo
 
 El aumento de la renta disponible y en especial la necesidad de **ganar tiempo** significa que las personas pueden permitirse lujos como éste. La gran noticia es que **no se necesita gastar más de 200 €** para conseguir un  aspirador con mopa, gracias a marcas como ILIFE.
 
-Característica | Braava Jet 240 <img src="{{ site.url }}/assets/img/mini-braava.jpg" width="400" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com"> | ILIFE V7S <img src="{{ site.url }}/assets/img/mini-ILIFE-V7s.jpg" width="450" height="auto" alt="Aspiradora ILIFE V7S lasaspiradoras.com">  | ILIFE X5 <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="450" height="auto" alt="Aspiradora ILIFE X5 lasaspiradoras.com"> | ILIFE V5 Pro<img src="{{ site.url }}/assets/img/mini-ILIFE-V5s.jpg" width="400" height="auto" alt="Aspiradora ILIFE V5 Pro lasaspiradoras.com">  |
---|--|--|--|--|
-Tiempo de ejecución | 3 hrs.|140 mins. |90 mins. | 140 mins.|
-Diámetro (pulgadas) | 13,39 | 13,39 |12,2 | 11,81|
-Altura (pulgadas) | 3.15 | 3,62 |2,99 | 2,76 |
-Radio de limpieza |  18.58 m² | de 150 a 200 m²|180 m² | de 90 a 150 m² |
-Modos de limpieza | (1) Barrido en seco (2) Fregona húmeda (3) Trapeador húmedo | (1) Trapeador húmedo|(1) Trapeador húmedo (2) Vacío + Trapeador seco | (1) Trapeador húmedo (2) Vacío + Trapeador seco|
-filtro HEPA | No | No | Sí | Sí |
-Capacidad del tanque de agua | 150 ml | 0.45L | 0.3L | 0.3L |
-Batería | Li-Ion| Batería de iones de litio de 2.600 mAh | Batería de iones de litio de 2.600 mAh | Batería de iones de litio de 2.600 mAh |
-Tiempo de carga  | 2 hrs. | Appox 300 minutos | Appox 300 minutos | Appox 300 minutos |
-Garantía | 1 año | Garantía de reembolso de 12 meses | Garantía de reembolso de 12 meses | Garantía de reembolso de 12 meses |
-Buscar Precio |<a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10883611">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=10897507">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702">Ver precio</a>|
+<table class="scroll">
+  <thead>
+    <tr>  
+      <th width="150">Característica</th>
+      <th width="150">Braava Jet 240</th>  
+      <th width="150">ILIFE V7S</th>
+      <th width="150">ILIFE X5  </th>
+      <th width="150">ILIFE V5 Pro</th>
+    </tr>
+  </thead>
+  <tbody>    
+    <tr>
+      <td></td>   
+      <td><img src="{{ site.url }}/assets/img/mini-braava.jpg" width="400" height="auto" alt="Aspiradora iRobot Braava Jet 240 manejabilidad lasaspiradoras.com"></td>
+      <td><img src="{{ site.url }}/assets/img/mini-ILIFE-V7s.jpg" width="450" height="auto" alt="Aspiradora ILIFE V7s lasaspiradoras.com"></td>
+      <td><img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="450" height="auto" alt="Aspiradora ILIFE X5 lasaspiradoras.com"></td>
+      <td><img src="{{ site.url }}/assets/img/mini-ILIFE-V5s.jpg" width="400" height="auto" alt="Aspiradora ILIFE V5 Pro lasaspiradoras.com"></td>
+    </tr>
+    <tr>
+      <td>Tiempo de ejecución</td>   
+      <td>3 hrs</td>
+      <td>140 mins</td>
+      <td>90 mins</td>
+      <td>140 mins</td>
+    </tr>
+    <tr>
+      <td>Diámetro (cm) </td>
+      <td>17</td>
+      <td>34</td>
+      <td>30</td>
+      <td>30</td>
+    </tr>
+    <tr>
+      <td>Altura (cm)</td>
+      <td>8,4</td>
+      <td>8</td>
+      <td>7,7</td>
+      <td>7,6</td>
+    </tr>
+    <tr>
+      <td>Radio de limpieza</td>
+      <td>18.58 m²</td>
+      <td>de 150 a 200 m²</td>
+      <td>180 m² </td>
+      <td>de 90 a 150 m²</td>
+    </tr>
+    <tr>
+      <td>Modos de limpieza</td>
+      <td>(1) Barrido en seco (2) Fregona húmeda (3) Trapo húmedo</td>
+      <td>(1) Trapo húmedo</td>
+      <td>(1) Trapo húmedo (2) Aspirado + Trapo seco </td>
+      <td>(1) Trapo húmedo (2) Aspirado + Trapo seco</td>
+    </tr>
+    <tr>
+      <td>filtro HEPA</td>
+      <td>No </td>
+      <td>No </td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Capacidad del tanque de agua</td>
+      <td>150 ml </td>
+      <td>0.45L</td>
+      <td>0.3L</td>
+      <td>0.3L</td>
+    </tr>
+    <tr>
+      <td>Batería</td>
+      <td>Li-Ion  </td>
+      <td>Batería de iones de litio de 2.600 mAh </td>
+      <td>Batería de iones de litio de 2.600 mAh </td>
+      <td>Batería de iones de litio de 2.600 mAh</td>
+    </tr>
+    <tr>
+      <td>Tiempo de carga</td>
+      <td>2 h</td>
+      <td>Appox 300 minutos</td>
+      <td>Appox 300 minutos </td>
+      <td>Appox 300 minutos </td>
+    </tr>
+    <tr>
+      <td>Garantía</td>
+      <td>1 año</td>
+      <td>Garantía de reembolso de 12 meses</td>
+      <td>Garantía de reembolso de 12 meses</td>
+      <td>Garantía de reembolso de 12 meses</td>
+    </tr>
+    <tr>
+      <td>Ver precio</td>
+      <td><a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Ver precio</a></td>
+      <td><a class="button" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10883611">Ver precio</a></td>
+      <td><a class="button" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=10897507">Ver precio</a></td>
+      <td><a class="button" href="http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702">Ver precio</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### El robot de pulverización: iRobot Braava Jet 240
 

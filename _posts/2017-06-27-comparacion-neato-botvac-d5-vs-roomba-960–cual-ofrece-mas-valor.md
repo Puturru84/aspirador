@@ -86,26 +86,107 @@ La elección entre el Neato Botvac D5 conectado y el Roomba 960 es más o menos 
 
 Tanto Neato como iRobot son los protagonistas en el mercado de los robots aspiradores y el Botvac D5 y el Roomba 960 son uno de sus mejores modelos, respectivamente. **Ambos utilizan tecnología de vanguardia** para la localización avanzada y la cartografía, así como la conectividad Wi-Fi. Como se puede ver en la tabla a continuación, el Roomba 960 tiene una tecnología similar y comparable que le ayuda a competir con el Botvac D5.
 
-Característica | Botvac D5 | Roomba 960
-|   <img src="{{ site.url }}/assets/img/Neato-botvac-D5/mini-Neato-Botvac-D5-Connected.jpg" width="100" height="auto" alt="Neato Botvac D5 vs Roomba 960">  |  <img src="{{ site.url }}/assets/img/Roomba960/mini-roomba-960.jpg" width="120" height="auto" alt="Neato Botvac D5 vs Roomba 960">
---|--|--
-Precio | <a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Ver aquí </a>| <a class="button" href="https://www.amazon.es/iRobot-Roomba-960-rendimiento-habitaciones/dp/B01IEEVDOK/ref=as_li_ss_tl?ie=UTF8&qid=1498292746&sr=8-1&keywords=roomba+960&linkCode=ll1&tag=lasaspirad-21&linkId=a6d65b60d88517c9f72df4615e7327fb">Ver aquí</a>
-Aplicación móvil | Sí | Sí
-Forma | D | Redonda
-Conectividad Wi-Fi | Sí | Sí
-Carga automática | Sí | Sí
-Reanudar auto | Sí | Sí
-Tecnología de mapas y navegación | Láser Smart | iAdapt 2.0
-Localización y asignación simultánea | SLAM | vSLAM
-Navegación multi-habitación | Sí | Sí
-Nivel completo de limpieza | Sí | Sí
-Programación | Sí | Sí
-Cepillo principal | Cepillo combinado | Extractor de escombros
-Cepillo lateral | Sí | Sí
-Tipo de filtro | Filtro Ultra Performance | HEPA
-Virtual Wall | incluido | Virtual Wall dual
-Batería | Alta capacidad de iones de litio | De iones de litio
-Soporte Smartwatch | Sí | No
+<table class="scroll">
+  <thead>
+    <tr>  
+      <th width="150">Característica</th>
+      <th width="150">Botvac D5 </th>
+      <th width="150">Roomba 960</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>   
+      <td><img src="{{ site.url }}/assets/img/Neato-botvac-D5/mini-Neato-Botvac-D5-Connected.jpg" width="100" height="auto" alt="Neato Botvac D5 vs Roomba 960"></td>
+      <td><img src="{{ site.url }}/assets/img/Roomba960/mini-roomba-960.jpg" width="120" height="auto" alt="Neato Botvac D5 vs Roomba 960"></td>
+    </tr>
+    <tr>
+      <td>Precio</td>
+      <td><a class="button" href="https://www.amazon.es/Neato-Robotics-Botvac-D502-navegaci%C3%B3n/dp/B01KV1C1D6/ref=as_li_ss_tl?ie=UTF8&qid=1498292006&sr=8-1&keywords=Neato+Botvac+D5&linkCode=ll1&tag=lasaspirad-21&linkId=7fb4f14ef1ae27959bb8e66ff2295c4f">Ver aquí </a></td>
+      <td><a class="button" href="https://www.amazon.es/iRobot-Roomba-960-rendimiento-habitaciones/dp/B01IEEVDOK/ref=as_li_ss_tl?ie=UTF8&qid=1498292746&sr=8-1&keywords=roomba+960&linkCode=ll1&tag=lasaspirad-21&linkId=a6d65b60d88517c9f72df4615e7327fb">Ver aquí</a></td>
+    </tr>
+    <tr>
+      <td>Aplicación móvil</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Forma</td>
+      <td> D </td>
+      <td>Redonda</td>
+    </tr>
+    <tr>
+      <td>Conectividad Wi-Fi</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Carga automática</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Reanudar auto </td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Tecnología de mapas y navegación</td>
+      <td>Láser Smart</td>
+      <td>iAdapt 2.0</td>
+    </tr>
+    <tr>
+      <td>Localización y asignación simultánea</td>
+      <td>SLAM</td>
+      <td>vSLAM</td>
+    </tr>
+    <tr>
+      <td>Navegación multi-habitación</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Nivel completo de limpieza</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Programación</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Cepillo principal</td>
+      <td>Cepillo combinado</td>
+      <td>Extractor de escombros</td>
+    </tr>
+    <tr>
+      <td>Cepillo lateral</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Muro virtual</td>
+      <td>incluido</td>
+      <td>Virtual Wall dual</td>
+    </tr>
+    <tr>
+      <td>Tipo de filtro</td>
+      <td>Filtro Ultra Performance</td>
+      <td>HEPA</td>
+    </tr>
+    <tr>
+      <td>Batería</td>
+      <td>Alta capacidad de iones de litio</td>
+      <td>De iones de litio</td>
+    </tr>
+    <tr>
+      <td>Soporte Smartwatch</td>
+      <td>Sí</td>
+      <td>No</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Última palabra - ¿Cuál elegir?
 

@@ -53,35 +53,122 @@ Todo lo que tienes que hacer es descargar la aplicación Dyson Link móvil a tu 
 
 Antes de empezar a comparar los dos, lo mejor es ver las especificaciones de cada modelo:
 
-Característica | IRobot Roomba 980 | Dyson 360 Eye
-|   <img src="{{ site.url }}/assets/img/mini-iRobot-Roomba-980.jpg" width="100" height="auto" alt="Dyson 360 Eye vs Roomba 980">  |  <img src="{{ site.url }}/assets/img/dyson-eye-mini.jpg" width="120" height="auto" alt="Dyson 360 Eye vs Roomba 980">
---|--|--
-Precio | <a class="button" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-360-Eye-Robot-Vacuum-Cleaner-Blue-Nickel-%2F172748963512%3Fhash%3Ditem2838a3feb8%3Ag%3AZ44AAOSwz71ZUNYB">Ver aquí </a>| <a class="button" href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7">Ver aquí</a>
-
-Funciones de limpieza| Limpia todos los tipos de pisos  | Limpia todos los tipos de pisos
-|Tecnología de limpieza AeroForce | Barra de cepillo de ancho completo
- |Impulso de la alfombra| Utiliza las bandas del tanque
- |Limpieza en 3 etapas| 78.000 revoluciones por minuto de succión
-|Extractores sin escobillas|Cerdas de nilón usadas en alfombras
- ||Cepillos de fibra de carbono utilizados en superficies duras |
-Programación Limpieza| Sí |Sí
-¿Batería de iones de litio?| Sí |Sí
-Recargable| Sí |Sí
-Duración| 120 minutos| 45 minutos
-Tiempo de carga |Hasta 180 minutos |165 minutos
-Autoacoplamiento |Sí |Sí
-Cartografía y navegación| iAdapt 2.0 con localización visual| Sistema de visión de 360 grados
-Control de aplicaciones| Sí| Sí
-Filtro HEPA| Sí | No estandarizados
-Depósito de basura| 0.6 litros| 0.33 litros
-Función de fregado| No| No
-Ruta de limpieza| Líneas paralelas |Grid Pattern
-Muro virtual | Sí|No
-Pincel lateral| Sí |Barra de pincel de anchura total
-Forma |Circular |Circular
-Peso |4 kg |2,45 kg
-Tamaño |9,2 cm altura 35,1 cm diámetro | 11 cm altura 23cm diámetro
-Color |Negro, Gris, Marrón |Níquel y Azul, Níquel y Fucsia
+<table class="scroll">
+  <thead>
+    <tr>  
+      <th width="150">Característica</th>
+      <th width="150">IRobot Roomba 980</th>
+      <th width="150">Dyson 360 Eye</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>   
+      <td><img src="{{ site.url }}/assets/img/mini-iRobot-Roomba-980.jpg" width="100" height="auto" alt="Dyson 360 Eye vs Roomba 980"></td>
+      <td><img src="{{ site.url }}/assets/img/dyson-eye-mini.jpg" width="120" height="auto" alt="Dyson 360 Eye vs Roomba 980"></td>
+    </tr>
+    <tr>
+      <td>Funciones de limpieza</td>
+      <td>Limpia todos los tipos de pisos<br>Tecnología de limpieza AeroForce<br>Impulso de la alfombra<br>Limpieza en 3 etapas<br>Extractores sin escobillas</td>
+      <td>Limpia todos los tipos de pisos<br>Barra de cepillo de ancho completo<br><br>Utiliza las bandas del tanque<br>78.000 revoluciones por minuto de succión<br>Cerdas de nilón usadas en alfombras<br>Cepillos de fibra de carbono utilizados en superficies duras</td>
+    </tr>
+    <tr>
+      <td>Programación Limpieza</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>¿Batería de iones de litio?</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Recargable</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Duración</td>
+      <td>120 minutos</td>
+      <td>45 minutos</td>
+    </tr>
+    <tr>
+      <td>Tiempo de carga </td>
+      <td>180 minutos</td>
+      <td>165 minutos</td>
+    </tr>
+    <tr>
+      <td>Autoacoplamiento</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Cartografía y navegación</td>
+      <td>iAdapt 2.0 con localización visual</td>
+      <td>Sistema de visión de 360 grados</td>
+    </tr>
+    <tr>
+      <td>Control de aplicaciones</td>
+      <td>Sí</td>
+      <td>Sí</td>
+    </tr>
+    <tr>
+      <td>Filtro HEPA</td>
+      <td>Sí</td>
+      <td>No estandarizados</td>
+    </tr>
+    <tr>
+      <td>Depósito de basura</td>
+      <td>0.6 litros</td>
+      <td>0.33 litros</td>
+    </tr>
+    <tr>
+      <td>Función de fregado</td>
+      <td>No</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Ruta de limpieza</td>
+      <td>Líneas paralelas</td>
+      <td>Grid Pattern</td>
+    </tr>
+    <tr>
+      <td>Muro virtual</td>
+      <td>Sí</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>Pincel lateral</td>
+      <td>Sí </td>
+      <td>Barra de pincel de anchura total</td>
+    </tr>
+    <tr>
+      <td>Forma</td>
+      <td>Circular</td>
+      <td>Circular</td>
+    </tr>
+    <tr>
+      <td>Peso </td>
+      <td>4 kg</td>
+      <td>2,45 kg</td>
+    </tr>
+    <tr>
+      <td>Tamaño</td>
+      <td>9,2 cm altura 35,1 cm diámetro</td>
+      <td>11 cm altura 23cm diámetro</td>
+    </tr>
+    <tr>
+      <td>Color</td>
+      <td>Negro, Gris, Marrón</td>
+      <td>Níquel y Azul, Níquel y Fucsia</td>
+    </tr>
+    <tr>
+      <td>Ver precio</td>
+      <td><a class="button" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FDyson-360-Eye-Robot-Vacuum-Cleaner-Blue-Nickel-%2F172748963512%3Fhash%3Ditem2838a3feb8%3Ag%3AZ44AAOSwz71ZUNYB">Ver aquí </a></td>
+      <td><a class="button" href="https://www.amazon.es/dp/B017WD5KZM/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488743822&sr=1-3&keywords=roomba+980&linkCode=ll1&tag=lasaspirad-21&linkId=e2f21dfac2db391791bc0f1b52c29fc7">Ver aquí</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### Comparación del Dyson 360 Eye y Roomba 980
 

@@ -124,17 +124,57 @@ El éxito de los aspiradores escoba está creciendo. Están atrayendo cada vez a
 
 Los aspiradores escoba de Dyson están equipados con la tecnología Ball. El **centro de gravedad está situado en el mango**, lo que es muy útil tanto para aspirar el suelo como para aspirar en lo alto como para aspirar en modo aspiradora de mano.
 
-Característica | Dyson V6 total clean  | Dyson DC62 Animal Pro |
-|   <img src="{{ site.url }}/assets/img/mini-v6totalclean.jpg" width="150" height="auto" alt="Dyson V6 total clean"> | <img src="{{ site.url }}/assets/img/mini-dysonDc62animalpro2.jpg" width="150" height="auto" alt="Dyson DC62 Animal Pro">
---|--|--
-Tecnología de succión|Tecnología 2 Tier Radial Cyclones |Cyclones 2 Tier Radial™|
-Potencia |100AW  |230 V|
-Nivel sonoro | 80 dB | 85 dB |
-Autonomía| 20 min | 20 min |
-Carga|3,5 H | 3,5 H |
-Cepillos |Direct-Drive, Fluffy, minimotorizado y accesorio multifunción| Accesorio miniturbo, minifuncion, rinconera y cepillo motorizado |
-Comentario|  Se adapta a todo tipo de suelos. Potente, convertible en aspiradora de mano y práctico.|Eficiente, práctico y potente, su cepillo es ideal para todo tipo de suelos. Con la unidad de mano se puede eliminar el polvo alojado en cualquier lugar.  |
-Ver el precio | <a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Ver aquí </a>| <a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Ver aquí</a>|
+<table class="scroll">
+  <thead>
+    <tr>  
+      <th width="150">Característica</th>
+      <th width="150">Dyson V6 total clean</th>
+      <th width="150">Dyson DC62 Animal Pro</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>   
+      <td><img src="{{ site.url }}/assets/img/mini-v6totalclean.jpg" width="150" height="auto" alt="Dyson V6 total clean"></td>
+      <td><img src="{{ site.url }}/assets/img/mini-dysonDc62animalpro2.jpg" width="150" height="auto" alt="Dyson DC62 Animal Pro"></td>
+    </tr>
+    <tr>
+      <td>Potencia</td>
+      <td>100 AW</td>
+      <td>230 V</td>
+    </tr>
+    <tr>
+      <td>Nivel sonoro</td>
+      <td>80 dB</td>
+      <td>85 dB</td>
+    </tr>
+    <tr>
+      <td>Autonomía</td>
+      <td>20 min</td>
+      <td>20 min</td>
+    </tr>
+    <tr>
+      <td>Carga</td>
+      <td>3,5 H</td>
+      <td>3,5 H</td>
+    </tr>
+    <tr>
+      <td>Cepillos</td>
+      <td>Direct-Drive, Fluffy, minimotorizado y accesorio multifunción</td>
+      <td>Accesorio miniturbo, minifuncion, rinconera y cepillo motorizado</td>
+    </tr>
+    <tr>
+      <td>Comentario </td>
+      <td>Se adapta a todo tipo de suelos. Potente, convertible en aspiradora de mano y práctico.</td>
+      <td>Eficiente, práctico y potente, su cepillo es ideal para todo tipo de suelos. Con la unidad de mano se puede eliminar el polvo alojado en cualquier lugar.</td>
+    </tr>
+    <tr>
+      <td>Ver precio</td>
+      <td><a class="button" href="https://www.amazon.es/Dyson-Total-Clean-Aspiradora-capacidad/dp/B00U654VS6/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481484682&sr=1-1&keywords=Dyson+V6+total+clean&linkCode=ll1&tag=lasaspirad-21&linkId=6ffd7284d823ab434cf0be37cf7a35c5">Ver aquí </a></td>
+      <td><a class="button" href="https://www.amazon.es/Dyson-DC62-Animalpro-Aspiradora-Cicl%C3%B3nico/dp/B01JM3VCCA/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1481471887&sr=1-1&keywords=dyson+dc62+animalpro&linkCode=ll1&tag=lasaspirad-21&linkId=29e730b199a56cf3515abd60328fa6c7">Ver aquí</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### La mejor calidad / precio: El Dyson V6 total clean
 
