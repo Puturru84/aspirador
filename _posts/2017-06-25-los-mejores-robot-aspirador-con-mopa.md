@@ -35,7 +35,7 @@ Capacidad del tanque de agua | 150 ml | 0.45L | 0.3L | 0.3L |
 Batería | Li-Ion| Batería de iones de litio de 2.600 mAh | Batería de iones de litio de 2.600 mAh | Batería de iones de litio de 2.600 mAh |
 Tiempo de carga  | 2 hrs. | Appox 300 minutos | Appox 300 minutos | Appox 300 minutos |
 Garantía | 1 año | Garantía de reembolso de 12 meses | Garantía de reembolso de 12 meses | Garantía de reembolso de 12 meses |
-Buscar Precio |<a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Comprar en Amazon</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10883611">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=10897507">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702">Ver precio</a>|
+Buscar Precio |<a class="button" href="https://www.amazon.es/iRobot-Braava-Jet-240-Robot/dp/B01IEEVE76/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488717886&sr=1-1&keywords=iRobot+Braava+Jet+240&linkCode=ll1&tag=lasaspirad-21&linkId=1a715d003405ae47476717e80178f5fe">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10883611">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=10897507">Ver precio</a>|<a class="button" href="http://www.gearbest.com/robot-vacuum/pp_615462.html?lkid=10821702">Ver precio</a>|
 
 ### El robot de pulverización: iRobot Braava Jet 240
 

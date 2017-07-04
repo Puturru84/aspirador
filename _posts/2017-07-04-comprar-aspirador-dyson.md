@@ -28,17 +28,67 @@ Este tipo de aspiradora es la más potente en cuanto a aspiración. Si tomamos p
 El aspirador trineo es el modelo más apropiado para aspirar grandes y variadas superficies. Con él se puede aspirar una casa sin tener que preocuparse de la autonomía, ya que está conectado a una toma eléctrica.
 También ofrece versatilida porque podemos aspirar no solo el suelo sino también cortinas, sillas, sofas...
 
-Característica | Dyson DC33C Origin | Dyson Cinetic Big Ball Absolute|
-|   <img src="{{ site.url }}/assets/img/mini-dc33corigin.jpg" width="180" height="auto" alt="Dyson DC33C Origin"> | <img src="{{ site.url }}/assets/img/mini-Dyson_Big_Ball.jpg" width="120" height="auto" alt="Dyson Cinetic Big Ball Absolute">
---|--|--
-Tecnología de succión|Radial Root Cyclone |Big Ball Absolute y Cinetic|
-Potencia | 750 W | 1300 W |
-El rendimiento en suelos duros |  A | B |
-Rendimiento en la alfombra / alfombra |D|E|
-Nivel sonoro | 84 Db | 81 Db |
-maniobrabilidad | 5/5 | 5/5|
-Comentario|  Esta aspiradora ofrece un rendimiento notable para un precio realmente bajo. Se recomienda si deseas combinar una buena calidad y un precio razonable.| Si estás buscando un aspirador con un completo kit de accesorios, potente y práctico este Dyson será tu mejor aliado! |
-Ver el precio | <a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Ver aquí </a>| <a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Ver aquí</a>|
+<table class="scroll">
+  <thead>
+    <tr>
+      <th width="150">Característica</th>
+      <th width="150">Dyson DC33C Origin</th>
+      <th width="150">Dyson Cinetic Big Ball Absolute</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>   
+      <td><img src="{{ site.url }}/assets/img/mini-dc33corigin.jpg" width="180" height="auto" alt="Dyson DC33C Origin"></td>
+      <td><img src="{{ site.url }}/assets/img/mini-Dyson_Big_Ball.jpg" width="120" height="auto" alt="Dyson Cinetic Big Ball Absolute"></td>
+    </tr>
+    <tr>
+      <td>Tecnología de succión</td>
+      <td>Radial Root Cyclone</td>
+      <td>Big Ball Absolute y Cinetic</td>
+    </tr>
+    <tr>
+      <td>El rendimiento en suelos duros </td>
+      <td>A</td>
+      <td>B</td>
+    </tr>
+    <tr>
+      <td>Rendimiento en alfombra </td>
+      <td>D</td>
+      <td>E</td>
+    </tr>
+    <tr>
+      <td>Nivel sonoro</td>
+      <td>84 Db</td>
+      <td>81 Db</td>
+    </tr>
+    <tr>
+      <td>Maniobrabilidad</td>
+      <td>5/5</td>
+      <td>5/5</td>
+    </tr>
+    <tr>
+      <td>Maniobrabilidad</td>
+      <td>5/5</td>
+      <td>5/5</td>
+    </tr>
+    <tr>
+      <td>Comentario</td>
+      <td>5/5</td>
+      <td>5/5</td>
+    </tr>
+    <tr>
+      <td>Maniobrabilidad</td>
+      <td>Esta aspiradora ofrece un rendimiento notable para un precio realmente bajo. Se recomienda si deseas combinar una buena calidad y un precio razonable.</td>
+      <td>Si estás buscando un aspirador con un completo kit de accesorios, potente y práctico este Dyson será tu mejor aliado!</td>
+    </tr>
+    <tr>
+      <td>Ver precio</td>
+      <td><a class="button" href="https://www.amazon.es/Dyson-DC33c-Origin-Aspiradora-capacidad/dp/B00M8YTI3G/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1488718092&sr=1-1&keywords=Dyson+DC33C+Origin&linkCode=ll1&tag=lasaspirad-21&linkId=07253a26ed91e70945f8c3f87af80efc">Ver aquí </a></td>
+      <td><a class="button" href="https://www.amazon.es/Dyson-Cinetic-Absolute-Cylinder-cleaner/dp/B01E5XFYGC/ref=as_li_ss_tl?ie=UTF8&qid=1488621231&sr=8-1&keywords=Dyson+Cinetic+Big+Ball+Absolute&linkCode=ll1&tag=lasaspirad-21&linkId=d0d757e0d1044fd5b7414955340a9a6c">Ver aquí</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ### La mejor calidad / precio: el Dyson DC33C
 
