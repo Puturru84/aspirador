@@ -29,7 +29,7 @@ El aumento de la renta disponible y en especial la necesidad de **ganar tiempo**
       <th width="150">Característica</th>
       <th width="150">Braava Jet 240</th>  
       <th width="150">ILIFE V7S</th>
-      <th width="150">ILIFE X5  </th>
+      <th width="150">ILIFE X5</th>
       <th width="150">ILIFE V5 Pro</th>
     </tr>
   </thead>
