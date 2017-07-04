@@ -17,7 +17,7 @@ Ahora vayamos al meollo de la cuestión ¿cómo elegir el mejor aspirador Dyson?
 
 De manera que todo el mundo encontrará un aspirador que se adapte a sus necesidades y presupuesto, los hemos clasificado de la siguiente manera: un modelo de gama alta y un modelo con una muy buena relación calidad / precio.
 
-Sólo te queda elegir! ??
+Sólo te queda elegir!
 
 ### Aspirador trineo sin bolsa Dyson
 
