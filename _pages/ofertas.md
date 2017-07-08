@@ -22,9 +22,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
       </div>
-      <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="500" height="auto" alt="Xiaomi mi oferta">
-      </div>
       <div class="callout">
         <h5>Flash Sale Ebay: ILIFE V5S 119,99 EUR ¡Cómpralo ya!</h5>
         <a target="_blank" href="https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FILIFE-V5S-Smart-Robot-Aspirador-Limpiador-Vacio-Automatic-Cleaner-Limpieza-Suelo-%2F172540717909%3F_trkparms%3D5079%253A5000010699" title="ILIFE V5S 119,99 EUR">iLife V5S por solo 119,99 EUR</a>
