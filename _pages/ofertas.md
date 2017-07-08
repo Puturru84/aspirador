@@ -15,17 +15,12 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         Para obtener un win - win, ambos ganamos, buscamos para ti las ofertas del momento para que puedas aprovechar y comprar tu aspiradora al mejor precio.
       </p>
       <div class="callout">
-        <h5>Flash Sale Gearbest: $176.99  ILIFE V7S</h5>
-        <p>Hasta el 30 de junio, no lo dejes pasar!</p>
+        <h5>Flash Sale Gearbest: 160,19 €  ILIFE V7S</h5>
+        <p>No lo dejes pasar!</p>
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_603425.html?lkid=10884076" title="Gearbest Flash Sale: $176.99  ILIFE V7S Pro Smart Robotic Vacuum Cleaner">Flash Sale: Robot aspiradora ILIFE V7S por solamente $176.99  </a>
       </div>
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/Ilife-v7s/Ilife-v7s-ambiente.jpg" width="600" height="auto" alt="test aspirador iLife V7S">
-      </div>
-      <div class="callout">
-        <h5>Flash Sale Gearbest: Aspiradora robot Xiaomi Mi a $309.99</h5>
-        <p>Hasta el 30 de junio, no lo dejes pasar!</p>
-        <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=10884266" title="Gearbest Only $309.99 for Original Xiaomi Mi Robot Vacuum ">Only $309.99 for Original Xiaomi Mi Robot Vacuum </a>
       </div>
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="500" height="auto" alt="Xiaomi mi oferta">
