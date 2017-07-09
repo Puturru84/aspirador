@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Qué aspirador dyson comprar?"
+title:  "Qué aspirador Dyson comprar?"
 date: "2017-06-29 10:00:00"
 categories: "blog-updates"
 desciption: ""
