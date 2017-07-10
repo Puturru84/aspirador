@@ -3,7 +3,7 @@ layout: "post"
 title:  "Qué aspirador Dyson comprar?"
 date: "2017-06-29 10:00:00"
 categories: "blog-updates"
-desciption: ""
+desciption: "La marca Dyson es la primera en haber lanzado al mercado las aspiradoras sin bolsa. Desde entonce sigue estando un paso por delante que sus competidores. Dyson es una referencia en el mercado de las aspiradoras sin bolsa."
 ---
 
 La marca Dyson es la primera en haber lanzado al mercado las aspiradoras sin bolsa. Desde entonce sigue estando un paso por delante que sus competidores. Dyson es una referencia en el mercado de las aspiradoras sin bolsa.
