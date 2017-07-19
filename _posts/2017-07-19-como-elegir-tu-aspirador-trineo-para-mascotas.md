@@ -39,7 +39,7 @@ Si tu mascota pierde mucho pelo o si tiene varios animales el cepillo turbo es o
 
 ### 3. La filtración
 
-Cuando tenemos animales en casa es más recomendable elegir una aspiradora con un alto nivel de filtración para purificar el aire. Esto es aún más importante [si se tiene alergias](http://www.lasaspiradoras.com/blog-updates/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html)
+Cuando tenemos animales en casa es más recomendable elegir una aspiradora con un alto nivel de filtración para purificar el aire. Esto es aún más importante [si se tiene alergias](http://www.lasaspiradoras.com/blog-updates/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html).
 
 Te recomendamos que elijas un aspirador para animales con una nota A y un filtro HEPA. Este filtro retiene más suciedad que la mayoría de los filtros. Un filtro HEPA recupera todo a su paso hasta un tamaño de 0,0003 mm.
 
