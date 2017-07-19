@@ -29,8 +29,8 @@ brush: "Cepillo AeroPro Extreme, Cepillo AeroPro Parketto Pro, Accesorio AeroPro
 brush-op: "5"
 energy-efficiency: "A"
 energy-efficiency-op: "5"
-performance-carpets: "C"
-performance-carpets-op: "3"
+performance-carpets: "A"
+performance-carpets-op: "5"
 performance-hard-floors: "A"
 performance-hard-floors-op: "5"
 powder-emission-class: "A"
@@ -159,7 +159,7 @@ Los filtros se ensucian poco. Por otra parte, las personas con alergias o con as
   <img src="{{ site.url }}/assets/img/electrolux-ultrasilencer-origin-plus/filtro-electrolux-ultrasilencer-origin.jpg" width="500" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
-#### Conclusión   pts 4,4 / 5
+#### Conclusión 4,6 pts / 5
 
 Compacto, bien acabado y viene con un paquete completo de accesorios, la Electrolux UltraSilencer Origin Plus tiene ventajas innegables. Hemos visto que tiene una filtración cuidada con varias capas. En cuanto a su potencia de aspiración si bien es impecable en alfombras y moquetas, es floja en suelos duros.
 
