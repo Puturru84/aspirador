@@ -36,7 +36,6 @@ Si tu mascota pierde mucho pelo o si tiene varios animales el cepillo turbo es o
   <img src="{{ site.url }}/assets/img/varias/como-elegir-tu-aspirador-trineo-para-mascotas.jpg" width="600" height="auto" alt="Análisis Electrolux UltraSilencer Origin Plus">
 </div>
 
-
 ### 3. La filtración
 
 Cuando tenemos animales en casa es más recomendable elegir una aspiradora con un alto nivel de filtración para purificar el aire. Esto es aún más importante [si se tiene alergias](http://www.lasaspiradoras.com/blog-updates/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html).

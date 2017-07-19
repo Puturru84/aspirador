@@ -21,7 +21,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_625062.html?wid=3&lkid=10998015" title="Gearbest Only $189.99 for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse">Only $189.99 for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/Ilife-a6/ILIFEA6-lado.jpg" width="150" height="auto" alt="test aspirador iLife V7S">
+        <img src="{{ site.url }}/assets/img/Ilife-a6/ILIFEA6-lado.jpg" width="200" height="auto" alt="test aspirador iLife V7S">
       </div>
       <div class="callout">
         <h5>Flash Sale Gearbest: Original Xiaomi Mi por 301,48 €</h5>
@@ -29,7 +29,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_440546.html?wid=4&lkid=10998021" title="Gearbest robot aspirador Xiaomi Mi Robot">Comprar Robot aspirador Xiaomi Mi</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="300" height="auto" alt="robot aspirador Xiaomi Mi Robot">
+        <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="600" height="auto" alt="robot aspirador Xiaomi Mi Robot">
       </div>
      <div class="text-center show-for-large">
      <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=hogar&banner=02EHMJ8M1XQ7RDH9GQ02&f=ifr&linkID=aeee99b18e8c9de4f6888daf5315e0b5&t=lasaspirad-21&tracking_id=lasaspirad-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
