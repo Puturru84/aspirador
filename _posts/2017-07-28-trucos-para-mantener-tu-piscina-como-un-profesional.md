@@ -3,7 +3,7 @@ layout: "post"
 title:  "Trucos para mantener tu piscina como un profesional"
 date: "2017-07-28 08:00:00"
 categories: "blog-updates"
-desciption: ""
+desciption: "Un dilema al que muchos propietarios de piscinas se enfrentan es tener que cerrar la piscina para el invierno."
 ---
 
 Un dilema al que muchos propietarios de piscinas se enfrentan es tener que cerrar la piscina para el invierno. Aparte de no poder utilizar la piscina también es una monstruosidad para algunos propietarios tener que ver sus piscinas cubiertas.
