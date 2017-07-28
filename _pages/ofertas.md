@@ -21,7 +21,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_625062.html?wid=3&lkid=10998015" title="Gearbest Only $189.99 for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse">Only $189.99 for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/ilife-a6/ILIFEA6-lado.jpg" width="200" height="auto" alt="aspirador iLife A6">
+        <img src="{{ site.url }}/assets/img/iulife-a6/ILIFEA6-lado.jpg" width="200" height="auto" alt="aspirador iLife A6">
       </div>
       <div class="callout">
         <h5>Flash Sale Gearbest: Original Xiaomi Mi por 301,48 €</h5>
