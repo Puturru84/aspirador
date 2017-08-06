@@ -24,7 +24,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <img src="{{ site.url }}/assets/img/ilife-a6/ILIFEA6-lado.jpg" width="200" height="auto" alt="aspirador iLife A6">
       </div>
 
-      <div class="callout">
+      <div class="callout"> 
         <h5>Flash Sale Gearbest: Solo 141,17 € por el ILIFE X5</h5>
         <p>No lo dejes pasar!</p>
         <a target="_blank" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=11038246" title="Gearbest Only $119.99 for ILIFE X5 Smart Robotic Vacuum Cleaner  ">Comprar aspirador ILIFE X5 por solo 141,17 €</a>
