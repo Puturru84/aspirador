@@ -137,4 +137,4 @@ Si crees que este artículo le puede interesar a alguien cercano, compártelo! �
 
 - [Cómo utilizar correctamente los accesorios para aspiradoras](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html)
 
-- [Elegir un aspirador trineo con bolsa o sin bolsa? Ventajas y desventajas de las dos tecnologías.](www.lasaspiradoras.com/blog-updates/2017/01/10/Elegir-un-aspirador-trineo-con-bolsa-o-sin-bolsa.html)
+- [Elegir un aspirador trineo con bolsa o sin bolsa? Ventajas y desventajas de las dos tecnologías.](http://www.lasaspiradoras.com/blog-updates/2017/01/10/Elegir-un-aspirador-trineo-con-bolsa-o-sin-bolsa.html)

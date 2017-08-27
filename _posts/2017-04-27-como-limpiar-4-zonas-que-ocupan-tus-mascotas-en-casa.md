@@ -81,6 +81,6 @@ Feliz limpieza! — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
 
 #### También te puede interesar:
 
-- [El cepillo para perros Dyson Groom](http://www.lasaspiradoras.com/blog-updates/2016/12/23/2017/01/17/el-cepillo-para-perros-dyson-groom.html)
+- [El cepillo para perros Dyson Groom](http://www.lasaspiradoras.com/blog-updates/2017/01/17/el-cepillo-para-perros-dyson-groom.html)
 
 - [10 Perros a los que les encanta la aspiradora](http://www.lasaspiradoras.com/blog-updates/2017/02/02/10-perros-a-los-que-les-encanta-la-aspiradora.html)
