@@ -36,6 +36,8 @@ El principio es simple: el remolino de <b>aire entra a alta velocidad </b>en los
 <img src="{{ site.url }}/assets/img/varias/Dyson-filtración-múlticiclónica.png" width="500" height="auto" alt="aspirador con bolsa">
 </div>
 
+<a class="text-center" target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=lasaspirad-21&linkCode=ur2&linkId=3c40131c7197083305cd0703fbd75769&camp=3638&creative=24630&index=electronics&keywords=aspiradora Dyson ">Comprar aspiradora Dyson en Amazon</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=lasaspirad-21&l=ur2&o=30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 En el caso de los modelos ciclónicos, el aire arremolinado en un solo cono se filtra una vez, mientras que en  los modelos de arquitectura multiciclonica los múltiples ciclones permiten filtrar el aire varias veces, o "en varias etapas" (además de los filtros).
 
 La filtración de multiciclónica tiende a extenderse y esta disponible en la mayoría de los modelos, salvo a los de gama baja.
@@ -49,6 +51,8 @@ Con sus bloques de filtración aparentes y aperturas por todas partes puede pare
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/con-sin-bolsa.png" width="500" height="auto" alt="comprar aspirador con bolsa o sin bolsa">
 </div>
+
+<a class="text-center" target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=lasaspirad-21&linkCode=ur2&linkId=d9ba223b1a93923bf0a60ecbe9e3f53f&camp=3638&creative=24630&index=electronics&keywords=aspiradora Polti">Comprar aspiradora Polti en Amazon</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=lasaspirad-21&l=ur2&o=30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Si bien los modelos sin bolsa pueden dar la impresión de ser más complejos de manejar, en realidad no es el caso. Esto depende en gran medida del modelo de aspiradora. Si las trampillas son fácilmente accesibles y están bien marcadas y si las piezas móviles están correctamente colocadas, no hay nada complicado.
 
@@ -65,6 +69,8 @@ Un <b>41%</b> de las personas que han respondido a nuestra encuesta cree que <b>
 <div class="text-center">
 <img src="{{ site.url }}/assets/img/varias/deposito-bolsa.png" width="500" height="auto" alt="comprar aspirador con bolsa o sin bolsa">
 </div>
+
+<a class="text-center" target="_blank" href="https://www.amazon.es/gp/search?ie=UTF8&tag=lasaspirad-21&linkCode=ur2&linkId=d29a055397ef389aa08516a38fefc033&camp=3638&creative=24630&index=electronics&keywords=aspiradora Bosch">Comprar aspiradora Bosch en Amazon</a><img src="//ir-es.amazon-adsystem.com/e/ir?t=lasaspirad-21&l=ur2&o=30" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Incluso si los fabricantes están buscando soluciones para limitar los "vuelos" de polvo, Dyson ofrece un cierre fácil para no tener contacto con la puerta, LG está tratando de apretujar el polvo con rodillos con su sistema Kompressor, Rowenta propone su sistema de vaciado "suave" ..., hay todavia un mínimo "contacto" con el polvo.
 

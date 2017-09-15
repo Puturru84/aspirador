@@ -220,7 +220,7 @@ Si pensamos en lo exhaustivo que cada uno limpia, el **Roomba 980** ofrece el mi
 
 Ambos tienen cámaras que les ayudan a planificar sus caminos de limpieza respectivos y a limpiar más a fondo. Además, estas aspiradoras traen un desarrollo muy emocionante que podría significar más características y funciones en un futuro próximo.
 
-#### Estamos en contacto?
+#### Estamos en contacto? 
 
 Y tú con cuál te quedas de los 2? Envíanos tu opinión a info@lasaspiradoras.com o cuéntanoslo en Twitter.
 
