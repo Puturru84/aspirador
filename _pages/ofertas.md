@@ -16,6 +16,15 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </p>
 
       <div class="callout">
+        <h5>Flash Sale Amazon: Solo 56,99 € por el HoLife de mano</h5>
+        <p>No lo dejes pasar!</p>
+        <a target="_blank" href="http://amzn.to/2wKqoDa" title="Solo 45,99 € por el HoLife Aspiradora Inalámbrica de Mano, Recargable y Ligero"> Comprar aspirador HoLife con el codigo: 8DBOMDZB por solo 45,99 €, promocion valida hasta el 31 de Octubre</a>
+      </div>
+      <div class="text-center container-article">
+        <img src="{{ site.url }}/assets/img/hoLife-de-mano.jpg" width="200" height="auto" alt="hoLife de mano">
+      </div>
+
+      <div class="callout">
         <h5>Flash Sale Gearbest: Solo 195,64 € por el ILIFE A6</h5>
         <p>No lo dejes pasar!</p>
         <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_625062.html?wid=3&lkid=10998015" title="Gearbest Only 195,64 €  for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse"> Comprar aspirador ILIFE A6 por solo 192,70 €</a>
