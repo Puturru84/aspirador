@@ -67,6 +67,10 @@ Cuesta la mitad de precio que la competencia, sin embargo, el mismo rendimiento 
   <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="650" height="auto" alt="Test Robot aspiradora Xiaomi Mi">
   </div>
 
+  <div class="text-center">
+    <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />         <br/>Promoción especial para los productos de Xiaomi!!        </a>           
+  </div>
+
 #### Comodidad de uso
 
 Es bastante evidente que la mayoría de las aspiradoras robot crean su diseño inspirándose en los mejores aspiradoras del sector, a saber, la serie Roomba de iRobot. Mientras que el aspirador robot Xiaomi Mi **se parece mucho a la [iRobot Roomba 980](http://www.lasaspiradoras.com/test-iRobot-roomba-980/)** que salió al mercado más o menos el año pasado, se han incorporado varios cambios tanto en el diseño y como en las funcionalidades del modelo de Xiaomi.
@@ -90,6 +94,10 @@ Es el diseño de los rotores que difiere más del diseño de la [iRobot Roomba 9
  El cepillo giratorio sencillo del Xiaomi Mi se compone de un núcleo de silicona con 3 extensiones hacia el exterior, haciendo 3 componentes de barridos planos en forma de espiral. Además encontrarás 3 cepillos tradicionales envueltos alrededor de este núcleo de silicona, haciendo un patrón alternativo  entre las cerdas y el centro de silicona, proporcionando un buen equilibrio entre  barrer y fregar. Todo esto se recupera en un recipiente que está asegurado a través de una tapa de plástico extraíble, haciendo la **limpieza y el mantenimiento lo más fácil posible**, ya que el cepillo simplemente encaja en el interior del envase y no tiene que ser bloqueado o desbloqueado.
 
  Los **muros virtuales** son sin duda un **punto de mejora**, este punto es el más débil del diseño de Xiaomi que cualquier otra cosa en el propio aspirador. Al igual que las muros virtuales de Neato, las muros virtuales de Xiaomi son **bandas magnéticas individuales**. Estas se puede cortar en piezas para que encajen entre marcos de las puertas, debajo de los muebles y en los lugares que simplemente no quieres que vaya el aspirador.
+
+ <div class="text-center">
+   <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />         <br/>Promoción especial para los productos de Xiaomi!!        </a>           
+ </div>
 
  Si bien esto suena como una gran idea, en la práctica no funciona tan bien. Estas tiras tienen poco peso  y  muchas veces son golpeadas por el aspirador en su intento de moverse alrededor de las piezas como si fueran de alguna manera una pared real y físicamente capaces de ser empujadas hacia atrás por la aspiradora. Sin duda es factible hacer que funciones pero el propósito requiere un poco más de ingenio por parte del cliente. Para empeorar las cosas Xiaomi **no incluye el muro virtual**, tendrás que comprarlo para asegurarte de que tienes una manera de bloquear el camino de tu aspiradora, cuando sea necesario, sin tener que utilizar barreras físicas.
 
@@ -128,6 +136,10 @@ Una gran diferenciación entre el aspirador Xiaomi y otros en el mercado son el 
 Xiaomi oficialmente sólo comercializa este producto en China, y aunque es muy fácil importarlo a través de empresas como GearBest o Bangood, todavía sólo está soportado en la tierra de Xiaomi. Este es el **único aspecto negativo** de esta sección, y pensamos que era prudente mencionarlo en primer lugar, ya que es una parte importante de la operación diaria del aspirador. Aún así, no es difícil escuchar la cadencia de la voz cuando encuentra errores comunes, incluso si no puedes entender lo que dice. El aspirador da mensajes para cada pequeño detalle,  incluyendo empezar una pausa, volver a la base, y por supuesto cualquier problema que ocurra en el proceso de limpieza.
 
 Las alfombras pueden ser una situación difícil todo cuando se trata de las aspiradoras robot, y todo se reduce a cómo los  cepillos mueven estas ligeras piezas alrededor. El diseño de Xiaomi con un solo cepillo de rodillo hace un **trabajo respetable de limpieza de alfombras**, pero las alfombras **más finas tendrán que ser retiradas**, de lo contrario hay una alta probabilidad de que se quede atrapado en los rodillos de la aspiradora y haga que el aspirador se pare. Las alfombras **más rígidas**, o más grandes de muestra de alfombras **pueden limpiarse de manera fiable** con el aspirador Mi robot sin problema.
+
+<div class="text-center">
+  <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />         <br/>Promoción especial para los productos de Xiaomi!!        </a>           
+</div>
 
 Los objetos pequeños deben ser recogidos antes de ejecutar el aspirador, pero el Xiaomi Mi manejado muchos objetos más pequeños sin problema. Artículos como dardos Nerf, los hombres del ejército u otros pequeños juguetes simplemente son empujados por el suelo. Se debe evitar que sean absorbidos porque pueden quedarse atascado en los cepillos rotativos.  aspirador debajo de la misma, que causa que el aspirador se atascan y la necesidad de ser liberado de las garras de la cadena.
 
@@ -187,6 +199,10 @@ Xiaomi envía el aspirador Mi con una base de carga grande que incluye pernos de
 #### Sistema de Navegación
 
 Colocado de manera prioritaria en la parte superior de la unidad el sistema de navegación guiada por láser, una pieza que tiene una apariencia similar a la del [Neato Botvac Connected](http://www.lasaspiradoras.com/test-neato-robotics-connected/), y que comparte muchos patrones de comportamiento y navegación con ese producto. Utilizando un  algoritmo de  localización simultánea y Cartografía (SLAM) para mapear tu casa y calcular patrones inteligentes a lo largo de movimiento, Xiaomi afirma la fama de que la aspiradora robot Mi es sobrellamasa IA de rutinas de  navegación.
+
+<div class="text-center">
+  <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />         <br/>Promoción especial para los productos de Xiaomi!!        </a>           
+</div>
 
 **Xiaomi declara** que la aspiradora robot Mi no sólo sigue un mapa y tratar de limpiar el 100% del espacio del suelo de tu casa, simplemente siguiendo las instrucciones, sino que en realidad su aspirador **puede pensar y calcular el mejor patrón de limpieza**, sin importar el obstáculo. Esto es evidente en la forma en que la aspiradora maneja los obstáculos como patas de sillas y otras cosas entre las que simplemente pueden navegar.
 

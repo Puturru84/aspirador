@@ -15,46 +15,31 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         Para obtener un win - win, ambos ganamos, buscamos para ti las ofertas del momento para que puedas aprovechar y comprar tu aspiradora al mejor precio.
       </p>
 
-      <div class="callout">
-        <h5>Flash Sale Amazon: Solo 56,99 € por el HoLife de mano</h5>
-        <p>No lo dejes pasar!</p>
-        <a target="_blank" href="http://amzn.to/2wKqoDa" title="Solo 45,99 € por el HoLife Aspiradora Inalámbrica de Mano, Recargable y Ligero"> Comprar aspirador HoLife con el codigo: 8DBOMDZB por solo 45,99 €, promocion valida hasta el 31 de Octubre</a>
-      </div>
-      <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/hoLife-de-mano.jpg" width="200" height="auto" alt="hoLife de mano">
+      <div class="text-center">
+        <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />         <br/>Promoción especial para los productos de Xiaomi!!        </a>           
       </div>
 
       <div class="callout">
         <h5>Flash Sale Gearbest: Solo 195,64 € por el ILIFE A6</h5>
         <p>No lo dejes pasar!</p>
-        <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_625062.html?wid=3&lkid=10998015" title="Gearbest Only 195,64 €  for ILIFE A6 Smart Robotic Vacuum Cleaner  -  EU warehouse"> Comprar aspirador ILIFE A6 por solo 192,70 €</a>
+        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114 " title="Solo $269.99 para Original Xiaomi Mi Robot Vacuum from Gearbest"><img src="" title="Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum promotion" alt="Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum promotion" /><br/>Solo $269.99 para Original Xiaomi Mi Robot Vacuum</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/ilife-a6/ILIFEA6-lado.jpg" width="200" height="auto" alt="aspirador iLife A6">
+        <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="200" height="auto" alt="aspirador xiaomi">
       </div>
 
       <div class="callout">
-        <h5>Flash Sale Gearbest: Solo 110,57 € por el ILIFE X5</h5>
+        <h5>Flash Sale Gearbest: Solo 136,64 € por el ILIFE X5</h5>
         <p>No lo dejes pasar!</p>
-        <a target="_blank" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=11038246" title="Gearbest Only €110,57 for ILIFE X5 Smart Robotic Vacuum Cleaner">Comprar aspirador ILIFE X5 por solo 133,96 €</a>
+        <a target="_blank" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=11038246" title="Gearbest Only €136,64 for ILIFE X5 Smart Robotic Vacuum Cleaner">Comprar aspirador ILIFE X5 por solo 136,64 €</a>
       </div>
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="200" height="auto" alt="aspirador ILIFE X5">
       </div>
-      <div class="callout">
-        <h5>Flash Sale Gearbest: Original Xiaomi Mi por 257.22 €</h5>
-        <p>No te lo pierdas</p>
-        <a target="_blank" href="http://www.gearbest.com/robot-vacuum/pp_440546.html?wid=4&lkid=10998021" title="Gearbest robot aspirador Xiaomi Mi Robot">Comprar Robot aspirador Xiaomi Mi</a>
-      </div>
-      <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/xiaomi-mi/xiaomi-mi-parquet.jpg" width="600" height="auto" alt="robot aspirador Xiaomi Mi Robot">
-      </div>
-
 
       <div class="text-center">
       <a target="_blank" href="http://www.gearbest.com/promotion-hair-xshuai-vacuum-cleaner-pre-special-1468.html?lkid=11038235" ><img src="https://s3.amazonaws.com/mailcache.appinthestore.com/xiaoshuai/200.200.jpg" title="Gearbest Promotion-hair-xshuai-vacuum-cleaner-pre-special promotion" alt="Gearbest Promotion-hair-xshuai-vacuum-cleaner-pre-special promotion" /><br/>Promocion aspirador Xshuai</a>
       </div>
-
 
      <div class="text-center show-for-large">
      <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=30&p=48&l=ur1&category=hogar&banner=02EHMJ8M1XQ7RDH9GQ02&f=ifr&linkID=aeee99b18e8c9de4f6888daf5315e0b5&t=lasaspirad-21&tracking_id=lasaspirad-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
