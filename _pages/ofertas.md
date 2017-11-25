@@ -13,6 +13,9 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </p>
       <p class="lead">
         Para obtener un win - win, ambos ganamos, buscamos para ti las ofertas del momento para que puedas aprovechar y comprar tu aspiradora al mejor precio.
+        #compraraspiradoraya
+        #buenobonitoybarato
+        #nolodejesescapar
       </p>
 
       <div class="text-center">
@@ -24,9 +27,9 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </div>
 
       <div class="callout">
-        <h5>Flash Sale Gearbest: Solo 195,64 € por el ILIFE A6</h5>
+        <h5>Flash Sale Gearbest: Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum</h5>
         <p>No lo dejes pasar!</p>
-        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114 " title="Solo $269.99 para Original Xiaomi Mi Robot Vacuum from Gearbest"><img src="" title="Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum promotion" alt="Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum promotion" /><br/>Solo $269.99 para Original Xiaomi Mi Robot Vacuum</a>
+        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114 " title="Solo $269.99 para Original Xiaomi Mi Robot Vacuum from Gearbest"><img src="" title="Gearbest Solo $269.99 para Original Xiaomi Mi Robot Vacuum promotion" alt="Comprar en Gearbest Solo $269.99" /><br/>Solo $269.99 para Original Xiaomi Mi Robot Vacuum</a>
       </div>
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="200" height="auto" alt="aspirador xiaomi">
