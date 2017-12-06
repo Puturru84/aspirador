@@ -56,7 +56,7 @@ Ingeniería avanzada, con **salida de aire limpio, pantalla led, baterías de li
 Echa un vistazo al video creado por la marca para ver como funciona.
 
 <div class="flex-video">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=O1TPigDxK3c" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/O1TPigDxK3c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
 #### También te puede interesar:
