@@ -2,7 +2,7 @@
 layout: "post"
 title:  "Nuevo robot Aspirador AEG RX9, limpieza inteligente sin limites"
 categories: "blog-updates"
-date: "2017-12-05 17:00:00"
+date: "2017-12-06 07:00:00"
 description: "Te presentamos todas las novedades del robot aspirador de RX9 de AEG"
 ---
 
