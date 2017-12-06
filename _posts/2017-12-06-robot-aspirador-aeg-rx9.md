@@ -9,7 +9,7 @@ description: "Te presentamos todas las novedades del robot aspirador de RX9 de A
 RX9 es el primer robot aspirador del mundo que incorpora tecnología avanzada de última generación que de forma autónoma realiza una limpieza impecable, incluso en los rincones de más difícil acceso. Con este último producto, AEG eleva definitivamente los estándares de limpieza doméstica.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_3Q.jpg" width="550" height="auto" alt="Nuevo robot aspirador de AEG RX9">
+  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_3Q.jpg" width="400" height="auto" alt="Nuevo robot aspirador de AEG RX9">
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c">Comprar en Amazon</a>
@@ -21,7 +21,7 @@ La experiencia de la marca de electrodomésticos AEG en materia de aspiración e
 Un siglo más tade, AEG lanza la última revolución en aspiración. [El RX9](https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c) se presenta como el pináculo de los robots modernos, proporcionando una limpieza superior en cualquier momento. AEG ha diseñado este robot de forma que las personas usuarias puedan controlarlo tocando solamente un botón, gracias a una aplicación móvil, desde la que se puede programar previamente una sesión de limpieza.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_MobileApp.jpg" width="550" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_MobileApp.jpg" width="550" height="auto" alt="robot aspirador de AEG RX9">
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c">Comprar en Amazon</a>
@@ -32,7 +32,7 @@ El RX9 de AEG incluye un sistema X 3D Vision, de visión tridimensional. El RX9 
 Estas innovaciones responden al propósito de AEG de ir siempre un paso por delante, adenlantadose a las necesidades de sus clientes; una propuesta revolucionadora que empezó en 2001 con el lanzamiento lanzando al mercado el primer robot aspirador del mundo, Trilobite.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_Mapping.jpg" width="550" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_Mapping.jpg" width="550" height="auto" alt="Comprar robot aspirador de AEG RX9">
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c">Comprar en Amazon</a>
@@ -44,7 +44,7 @@ El robot aspirador RX9 es, pues, el compañero perfecto para los frenéticos est
 Para facilitar la limpieza y el proceso de aspiración, el [robot aspirador RX9](https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c) incorpora un kit que contiene **3 potentes cepillos laterales** PowerBrush™ de RX9, **2 filtros XXL lavables** y una barra del cepillo para mantener un rendimiento de limpieza continuo y de gran precisión. También viene acompañado de un kit de 4 cepillos laterales PowerBrushTM de RX9 para garantizar una limpieza óptima y sin esfuerzo en cualquier tipo de suelo.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_Corner.jpg" width="550" height="auto" alt="">
+  <img src="{{ site.url }}/assets/img/aegrx9/170410_AEG_Osiris_rx9_X-3Dvision_Corner.jpg" width="550" height="auto" alt="AEG RX9">
 </div>
 <div class="text-center">
   <a class="button" href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c">Comprar en Amazon</a>
