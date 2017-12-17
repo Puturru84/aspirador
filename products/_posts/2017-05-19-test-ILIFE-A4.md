@@ -37,7 +37,7 @@ discount: "0%"
 stars: "4"
 description: "Guia de compra del Robot aspiradora ILIFE A4, funcionamiento, aspirado, características y las mejores ofertas."
 link: "https://www.amazon.es/ILIFE-Aspirador-Limpieza-Suelos-Titanio/dp/B01MG64V4X/ref=as_li_ss_tl?ie=UTF8&qid=1495270640&sr=8-1&keywords=ILIFE+A4&th=1&linkCode=ll1&tag=lasaspirad-21&linkId=a743b0b05669da0216232e14f9ba212f"  
-link-gearbest: "http://www.gearbest.com/cleaning-appliances/pp_357188.html?wid=11&lkid=10748861"
+link-gearbest: "https://es.gearbest.com/articulos-de-limpieza/pp_353568.html?lkid=12363853"
 ---
 
 <div class="flex-video">
