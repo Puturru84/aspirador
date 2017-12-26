@@ -30,7 +30,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         Comprar el robot aspirador Xiaomi Mi en Gearbest por solo 257,66 €</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="200" height="auto" alt="aspirador xiaomi">
+        <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="400" height="auto" alt="aspirador xiaomi">
       </div>
       <div class="callout">
         <h5>Flash Sale Gearbest: Solo 141,11 € por el ILIFE X5</h5>
@@ -38,7 +38,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a target="_blank" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=11038246" title="Gearbest Only 141,11 € for ILIFE X5 Smart Robotic Vacuum Cleaner">Comprar aspirador ILIFE X5 por solo 141,11 €</a>
       </div>
       <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="200" height="auto" alt="aspirador ILIFE X5">
+        <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="400" height="auto" alt="aspirador ILIFE X5">
       </div>
       <div class="text-center">
         <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_603425.html?wid=21&lkid=12459881 " title="$149.99 from Gearbest"><img src="https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2016/12/27/goods-img/1501873898228205894.jpg" title="Gearbest $149.99 promotion" alt="Gearbest $149.99 promotion" /><br/>$149.99</a>    
