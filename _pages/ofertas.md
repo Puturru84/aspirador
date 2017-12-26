@@ -13,9 +13,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </p>
       <p class="lead">
         Para obtener un win - win, ambos ganamos, buscamos para ti las ofertas del momento para que puedas aprovechar y comprar tu aspiradora al mejor precio.<br>
-        **#compraraspiradoraya**<br>
-        **#buenobonitoybarato**<br>
-        **#nolodejesescapar**
 
       <div class="text-center">
         <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />  <br/>Promoción especial para los productos de Xiaomi!!</a>           
@@ -29,7 +26,8 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       <div class="callout">
         <h5>Flash Sale Gearbest: Xiaomi Mi Robot aspirador solo 257,66 €</h5>
         <p>No lo dejes pasar!</p>
-        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114" title="Comprar el Xiaomi Mi Robot Vacuum en Gearbest por solo 257,66 €"><img src="" title="Comprar el Xiaomi Mi Robot Vacuum en Gearbest por solo 257,66 €" alt="Comprar el Xiaomi Mi Robot Vacuum en Gearbest por solo 257,66 €" /><br/>Comprar el robot aspirador Xiaomi Mi en Gearbest por solo 257,66 €</a>
+        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114" title="Comprar el Xiaomi Mi Robot Vacuum en Gearbest por solo 257,66 €"><br/>
+        Comprar el robot aspirador Xiaomi Mi en Gearbest por solo 257,66 €</a>
       </div>
       <div class="text-center container-article">
         <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="200" height="auto" alt="aspirador xiaomi">
@@ -44,10 +42,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </div>
       <div class="text-center">
         <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_603425.html?wid=21&lkid=12459881 " title="$149.99 from Gearbest"><img src="https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2016/12/27/goods-img/1501873898228205894.jpg" title="Gearbest $149.99 promotion" alt="Gearbest $149.99 promotion" /><br/>$149.99</a>    
-      </div>
-      <div class="text-center">
-        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_603425.html?wid=21&lkid=12459881 " title="$149.99 from Gearbest"><img src="https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2016/12/27/goods-img/1501873898228205894.jpg" title="Gearbest $149.99 promotion" alt="Gearbest $149.99 promotion" /><br/>$149.99</a>    
-      </div>
      <div class="text-center show-for-large">
      <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_625062.html?wid=21&lkid=12459890 " title="$189.99 - envío gratis a España from Gearbest"><img src="https://gloimg.gbtcdn.com/gb/pdm-product-pic/Electronic/2017/04/26/goods-img/1502823995320185890.jpg" title="Gearbest $189.99 - envío gratis a España promotion" alt="Gearbest $189.99 - envío gratis a España promotion" /><br/>$189.99 - envío gratis a España</a>    
      </div>
