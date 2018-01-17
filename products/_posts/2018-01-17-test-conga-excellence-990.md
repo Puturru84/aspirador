@@ -38,7 +38,7 @@ discount: "0%"
 stars: "5"
 description: "¿Conoces el Conga excellence 990? te las contamos en nuestro análisis con todo detalle."
 link: "https://www.amazon.es/aspirador-Excellence-Programable-limpieza-Silencioso/dp/B01MUGXRT9/ref=as_li_ss_tl?s=kitchen&ie=UTF8&qid=1514301770&sr=1-1&keywords=conga+excellence+990&linkCode=ll1&tag=lasaspirad-21&linkId=e057e5dbf60df20c3a3e2597711f5fe7"
-link-ebay: "https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990"
+link-cecotec: "https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990"
 ---
 
 <div class="flex-video">
