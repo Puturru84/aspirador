@@ -44,17 +44,19 @@ link-cecotec: "https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=http
 <div class="flex-video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/dCzgFC2QfsY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
+
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
   {% include components/button-buy-cecotec.html %}
 </div>
+
 ✔️ Puntos fuertes  | ❌ Debilidades
 --|--
-Robot 2x1 aspira y friega| No tiene paredes virtuales
-Precio muy ajustado| El modo fregona deja el suelo algo mojado
-Se adapta a todo tipo de suelos|
-Fácil de mantener y limpiar|
-Producto nacional|
+Robot 2x1 aspira y friega | No tiene paredes virtuales
+Precio muy ajustado | El modo fregona deja el suelo algo mojado
+Se adapta a todo tipo de suelos |
+Fácil de mantener y limpiar |
+Producto nacional |
 
 #### Presentación
 
@@ -113,6 +115,7 @@ El boton de la hoja con el reloj nos permite programar el horario de limpieza de
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-cecotec.html %}
 </div>
 
 #### Mantenimiento
@@ -133,6 +136,7 @@ Este conga tiene una autonomia de 2 horas.
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
+  {% include components/button-buy-cecotec.html %}
 </div>
 
 #### Conclusión 4.8 pts / 5
@@ -143,7 +147,7 @@ Olvidate de pasar la escoba a diario e incluso la fregona tu casa se mantendra l
 Si bien en el mercado podemos encontrar otros aspiradores mas eficaces en cuanto a cobertura de superficie no sera en este rango de precios.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/mini-iRobot-Roomba-980.jpg" width="300" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
+  <img src="{{ site.url }}/assets/img/mini-conga-excellence-990.jpg" width="300" height="auto" alt="aplicacion Neato Robotics Botvac Connected">
 </div>
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
