@@ -40,10 +40,6 @@ link: "https://www.amazon.es/iRobot-Roomba-776p-Robot-aspirador/dp/B00VT8K372/re
 link-ebay: "https://rover.ebay.com/rover/1/1185-53479-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338046469&mpre=http%3A%2F%2Fwww.ebay.es%2Fitm%2FIROBOT-ROOMBA-776p-%2F252767766163%3Fhash%3Ditem3ada220693%3Ag%3AdyoAAOSwtfhYoLLz"
 ---
 
-<div class="flex-video">
-  <iframe width="560" height="315" src="http://media.irobot.com/video/1526/71934161_dc_Roomba_700_Series_Broll.mp4" frameborder="0" allowfullscreen></iframe>
-</div>
-
 <div class="text-center">
   {% include components/button-buy-amazon.html %}
   {% include components/button-buy-ebay.html %}
