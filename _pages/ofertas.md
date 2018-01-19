@@ -13,7 +13,7 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </p>
       <p class="lead">
         Para obtener un win - win, ambos ganamos, buscamos para ti las ofertas del momento para que puedas aprovechar y comprar tu aspiradora al mejor precio.<br>
-
+      </p>
       <div class="callout">
         <a target="_blank" href="https://www.gearbest.com/promotion-very-best-of-xiaomi-special-1635.html?lkid=11784249 " title="Promoción especial para los productos de Xiaomi!! from Gearbest">         
       <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />  <br/>Promoción especial para los productos de Xiaomi!!</a>     
@@ -27,4 +27,3 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       <div class="callout">
         <a target="_blank" href="https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990" title="El Conga Excellence de Cecotec esta de rebajas">         
       <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.png" width="400" height="auto" alt="aspirador conga">    
-      </div>
