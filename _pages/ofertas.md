@@ -25,23 +25,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
         <a href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c"><img src="{{ site.url }}/assets/img/aegrx9/!cid_705B15D3-5E57-4873-B07F-41F86326FD77@home.jpg" width="550" height="auto" alt="Promocion robot aspirador AEG X9"></a>
       </div>
       <div class="callout">
-        <h5>Flash Sale Gearbest: Xiaomi Mi Robot aspirador solo 257,66 €</h5>
-        <p>No lo dejes pasar!</p>
-        <a target="_blank" href="https://www.gearbest.com/robot-vacuum/pp_440546.html?lkid=11784114" title="Comprar el Xiaomi Mi Robot Vacuum en Gearbest por solo 257,66 €"><br/>
-        Comprar el robot aspirador Xiaomi Mi en Gearbest por solo 257,66 €</a>
-      </div>
-      <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/xiaomi-mi/ambiente-salon-xiaomi-mi.jpg" width="400" height="auto" alt="aspirador xiaomi">
-      </div>
-      <div class="callout">
-        <h5>Flash Sale Gearbest: Solo 141,11 € por el ILIFE X5</h5>
-        <p>No lo dejes pasar!</p>
-        <a target="_blank" href="http://www.gearbest.com/robotic-vacuum-cleaner/pp_366723.html?lkid=11038246" title="Gearbest Only 141,11 € for ILIFE X5 Smart Robotic Vacuum Cleaner">Comprar aspirador ILIFE X5 por solo 141,11 €</a>
-      </div>
-      <div class="text-center container-article">
-      <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="400" height="auto" alt="aspirador ILIFE X5">
-      </div>
-      <div class="callout">
         <a target="_blank" href="https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990" title="El Conga Excellence de Cecotec esta de rebajas">         
-      <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.png" width="400" height="auto" alt="aspirador xiaomi">    
+      <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.png" width="400" height="auto" alt="aspirador conga">    
       </div>
