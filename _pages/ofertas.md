@@ -42,11 +42,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       <img src="{{ site.url }}/assets/img/mini-ilife-x5.jpg" width="400" height="auto" alt="aspirador ILIFE X5">
       </div>
       <div class="callout">
-        <h5>El Conga Excellence de Cecotec esta de rebajas</h5>
-        <p>No lo dejes pasar!</p>
-        <a target="_blank" href="https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990" title="Comprar el Conga Excellence de Cecotec"><br/>
-        Comprar el robot aspirador Conga Excellence de Cecotec</a>
-      </div>
-      <div class="text-center container-article">
-        <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.jpg" width="400" height="auto" alt="aspirador xiaomi">
+        <a target="_blank" href="https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990" title="El Conga Excellence de Cecotec esta de rebajas">         
+      <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.png" width="400" height="auto" alt="aspirador xiaomi">    
       </div>
