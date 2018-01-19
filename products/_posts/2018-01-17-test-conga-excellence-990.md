@@ -61,7 +61,9 @@ Producto nacional |
 Lanzado en 2017 este nuevo robot aspirador con sabor español está siendo todo un éxito.
 El conga Excellence 990 de Cecotec se ha convertido en el mejor aliado de muchos hogares en nuestros país.
 Su ajustado precio, 239 €, y los buenos resultados lo han convertido en todo un desafio para la [gama 600](http://www.lasaspiradoras.com/test-iRobot-roomba-650/) e incluso [700](http://www.lasaspiradoras.com/test-iRobot-roomba-776p/) de Roomba.
+
 Por otro lado la empresa que comercializa el Conga Excellence 990 se llama Cecotec y está en España con lo que el producto tiene dos años de garantia y el servicio técnico dará una respuesta rápida.
+
 Vamos a ver que puede ofrecernos este robot aspirador cuyo nombre promete.
 
 <div class="text-center">
@@ -154,7 +156,9 @@ Este conga tiene una autonomia de 2 horas.
 
 Para nosotros el Conga Excellence es una estupenda opción relación calidad precio. Por poco más de 200 euros tienes un robot aspirador 2 en 1 que hará las tareas domésticas mucho mas llevaderas.
 Olvidate de pasar la escoba a diario e incluso la fregona, tu casa se mantendrá limpia aunque a ti no te apetezca moverte.
+
 Si bien en el mercado podemos encontrar otros aspiradores más eficaces en cuanto a cobertura de superficie no será en este rango de precios.
+
 Si quieres un robot aspirador con un presupuesto bajo el Conga Excellence es una de las mejores alternativas.
 
 <div class="text-center">
