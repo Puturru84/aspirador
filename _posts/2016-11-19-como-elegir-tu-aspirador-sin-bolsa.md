@@ -94,7 +94,9 @@ Es donde se almacena todo el polvo y la suciedad antes de tirarlo la basura. Su 
 Este criterio se expresa en decibelios (dB). La aspiradora sin bolsa más silenciosa del mercado, sin contar los robots aspirador, tiene un nivel de ruido de 66 dB (contra 62 dB o 66 dB de las aspiradoras con bolsa más silenciosas)y es la <a href="{{ site.url }}/test-bosch-bgs5sil66b-relaxx-prosilence/"> Bosch BGS5SIL66B Relaxx'x ProSilence.</a> Por lo tanto, podemos decir que un aspirador es silencioso por debajo de 70 dB bar.
 
 <div class="text-center">
-  <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=28AC9F&lc1=EA394F&t=lasaspirad-21&o=30&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B00LWVGMPS" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01JGM3T4G&linkId=bd2f06e45a7501143439f3b1ef618864&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B00LWVGMPS&linkId=7a29bd925cab6c4e4c604e66f5b8559d&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B00LWVGMPS&linkId=7a29bd925cab6c4e4c604e66f5b8559d&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
     </iframe>
 </div>
 
@@ -123,10 +125,11 @@ Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50%
 - Cepillo duro suelo: equipado con el pelo apretado, optimiza la eficiencia de la aspiradora de las baldosas y otras superficies irregulares.
 
 - Cepillos especiales: boquilla para juntas, boquilla para rincones, cepillo para tapicería, etc.<br>
+
 <div class="text-center">
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01N6N7ADH&linkId=f99e4d26ce16e223d619a1c7ab33e20a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
   <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B0142H7PXQ&linkId=ce1d5a6fd2d03ab162d4b583f6ab5362&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
-    </iframe>
   </iframe>
 </div>
 

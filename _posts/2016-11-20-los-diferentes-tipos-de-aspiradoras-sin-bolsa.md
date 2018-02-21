@@ -13,6 +13,13 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
   Hay diferentes tipos de aspiradoras para adaptarse a tus necesidades, basta con elegir bien entre las aspiradoras sin bolsa que están disponibles actualmente en el mercado.
 
   Para obtener más información te invitamos a consultar<a href="{{ site.url }}"> nuestra lista de los mejores aspiradores.</a>
+  <div class="text-center">
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01N6N7ADH&linkId=f99e4d26ce16e223d619a1c7ab33e20a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B0142H7PXQ&linkId=ce1d5a6fd2d03ab162d4b583f6ab5362&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+  </div>
+
 
   <h4>1. El aspirador sin bolsa ciclónico</h4>
 
@@ -48,6 +55,13 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 
   Por otra parte, las aspiradoras sin bolsa que utilizan estas dos tecnologías no requieren un filtro. Además, el aire gira a una velocidad tal que el polvo, grueso o fino, son expulsados continuamente del flujo de aire. Por lo tanto, la succión no pierde su poder y se mantiene constante.
 
+  <div class="text-center">
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B00LWVGMPS&linkId=7a29bd925cab6c4e4c604e66f5b8559d&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B00LWVGMPS&linkId=7a29bd925cab6c4e4c604e66f5b8559d&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+      </iframe>
+  </div>
+
   <h4>2. El aspirador trineo sin bolsa</h4>
 
 <div class="text-center">
@@ -74,6 +88,13 @@ desciption: "Te explicamos los diferentes modelos de aspiradores sin bolsa para 
 </div>
 
   James Dyson vendió en el mercado japonés el primer aspirador vertical sin bolsa bajo el nombre G-force. Pero fue con el aspirador sin bolsa DC01, que disfrutaba de la tecnología Dual Cyclone que James Dyson conquistó el Reino Unido.
+
+  <div class="text-center">
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01CIALC5G&linkId=c8047ef019f8dcf95728ab44f4a45f10&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+    <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B07587LM6H&linkId=e37cea284c14c0e97e92a35765f0bb53&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+  </div>
 
   El <a href="{{ site.url }}/tabla-caracteristicas-aspiradoras-escoba/">aspirador escoba sin bolsa</a> presenta ventajas interesantes para el hogar en comparación con el aspirador trineo sin bolsa:
 
