@@ -17,6 +17,12 @@ Amazon es una gran plataforma de comercio electrónico que reúne numerosos pres
 Cuando compramos a través de Amazon pueden ocurrir dos cosas.
 O bien que estemos comprando un producto vendido directamente a través de Amazon, o bien que estemos comprando un producto en la plataforma Amazon a un tercero. Esto es una empresa que usa <a href="https://www.amazon.es/ref=as_li_ss_tl?ie=UTF8&linkCode=ll2&tag=lasaspirad-21&linkId=7bc3a3dc0d9bfba1ccf0cdd89c8f83ad">amazon.es</a> para vender sus productos.  Esta es una práctica habitual ya que muchas empresas saben que un gran número de consumidores van directos a Amazon a realizar sus comprar.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B06XC58J3P&linkId=b6964b4a104482d148386fa487a9c099&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+   </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01KXM1A62&linkId=c77aab0ffd990f3e91c5d38b88bc1dcd&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+</div>
 
 <h4>¿Cuales son las ventajas de comprar en Amazon?</h4>
 
@@ -45,6 +51,14 @@ Tienes un mes de prueba gratis, luego el precio es de 19,95 € / año.
 <iframe src="//rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=288&l=ur1&category=premium&banner=1WF3JJFCASB5J6YZBYG2&f=ifr" width="320" height="50" scrolling="no" border="0" marginwidth="0" style="border:none;max-width:800px;max-height:600px;" frameborder="0">
 </iframe>
 </div>
+
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01IEEVDIQ&linkId=9c664dde6cf69717684ac0df2aaf3355&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01M9FZE3X&linkId=6bb1f429e52a895fb0f6d75c9da5427a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 
 La última ventaja es que puedes comprar con varias tarjetas (la compra es 100% segura) y enviar los productos a varias direcciones. Yo le compro cosas a mi madre, que no se anima todavía con "esto de comprar por internet" y que me tiene de intermediaria.
 
@@ -80,6 +94,14 @@ El seguimiento está genial, y puedes incluso una vez que has recibido el pedido
 Aproximadamente llevo comprando en Amazon unos 6 años, y de estos los 3 últimos con más asiduidad. Compro de casi todo, desde las recargas para el cepillo de dientes eléctrico, al móvil, el collar para el perro y especialmente libros en papel o en formato Kindle.
 
 La gran ventaja es que puedes comparar y encontrar de manera rápida los mejores precios del mercado. Puedes incluso hacer un seguimiento del precio de un producto que te interese a traves de la web <a href="http://es.camelcamelcamel.com/">camelcamelcamel</a>, y asi comprarlo cuando el articulo este al precio que te hayas marcado.
+
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01IEEVDIQ&linkId=9c664dde6cf69717684ac0df2aaf3355&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01M9FZE3X&linkId=6bb1f429e52a895fb0f6d75c9da5427a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 
 Yo, quizás haya sido por suerte, no he tenido que devolver nada. Sin embargo mi novio compró una mochila de montaña. A los pocos días de tenerla y usarla un par de veces  vio que una de las asas se había descosido. Como luego iba a llevarsela de viaje en modo mochilero decidió cambiarla.
 

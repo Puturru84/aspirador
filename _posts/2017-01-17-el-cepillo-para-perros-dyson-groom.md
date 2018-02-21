@@ -68,6 +68,11 @@ A continuación os dejamos el video de Dyson que muestra cómo usar esta herrami
   <iframe width="560" height="315" src="https://www.youtube.com/embed/TBgBf-NKGJk" frameborder="0" allowfullscreen></iframe>
 </div>
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B004CLPJRC&linkId=776be4c0caed15b0f9c342b6b0a84f5f&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 Conclusión:
 
 Tener un perro en casa es maravilloso. Sin embargo no podemos negar que nos hacen padecer enormemente en especial en primavera y otoño cuando cambian el pelo que invade la casa por completo.
