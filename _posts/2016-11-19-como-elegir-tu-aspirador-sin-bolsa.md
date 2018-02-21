@@ -122,6 +122,12 @@ Una aspiradora se proporciona generalmente con un cepillo, que constituye el 50%
 - Cepillo duro suelo: equipado con el pelo apretado, optimiza la eficiencia de la aspiradora de las baldosas y otras superficies irregulares.
 
 - Cepillos especiales: boquilla para juntas, boquilla para rincones, cepillo para tapicería, etc.<br>
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01N6N7ADH&linkId=f99e4d26ce16e223d619a1c7ab33e20a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B0142H7PXQ&linkId=ce1d5a6fd2d03ab162d4b583f6ab5362&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+  </iframe>
+</div>
 
 <h4>3. La etiqueta energética</h4>
 
