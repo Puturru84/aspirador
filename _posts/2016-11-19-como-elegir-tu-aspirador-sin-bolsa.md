@@ -1,5 +1,5 @@
 ---
-layout: "post" 
+layout: "post"
 title:  "¿Cómo elegir correctamente tu aspirador sin bolsa?"
 categories: "blog-updates"
 date: "2016-11-19 17:00:00"
@@ -32,6 +32,10 @@ Si tienes que aspirar una gran superficie, elige una aspiradora con gran capacid
 
 Por ejemplo, si tienes escaleras y tienes dolor muscular, haz atención al peso de la aspiradora y a su ergonomía (asa de transporte, tubo telescópico ajustable).
 
+<div class="text-center">
+  <img src="{{ site.url }}/assets/img/BoschBGS5SIL66BRelaxx'xProSilence/Bosch-BGS5SIL66B-Relaxx'x-ProSilence-detalle-filtros.jpg" width="400" height="auto" alt="Test Bosch BGS5SIL66B Relaxx'x ProSilence">
+</div>
+
 **- La composición de tu familia**
 
 Si hay personas en casa que tienen <a href="{{ site.url }}/blog-updates/2017/03/10/como-cuidar-de-las-personas-alergicas-en-el-hogar.html">alergia</a> o si teneis mascota, es mejor elegir un aspirador que cubra estas caracteristicas concretas.
@@ -62,6 +66,12 @@ Previamente hemos hablado de 2 de los criterios de la potencia del aspirador. No
 
 Muy a menudo, esta dato es inferior a la energía eléctrica, esto se debe a las pérdidas de energía del motor causadas por la fricción. La potencia útil puede ser alta si el aspirador tiene un caudal de aire y una fuerza de aspiración elevadas. Por lo tanto, la potencia útil informa del rendimiento real de tu aspirador sin bolsa.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01CIALC5G&linkId=c8047ef019f8dcf95728ab44f4a45f10&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B07587LM6H&linkId=e37cea284c14c0e97e92a35765f0bb53&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 **2.4 El peso:**
 
 Las diferentes marcas ofrecen actualmente aspiradores sin bolsa cada vez más ligeros. Los de gama baja son a menudo más pequeños y menos pesados, encontramos modelos a partir de 4 kilos.
@@ -83,7 +93,8 @@ Es donde se almacena todo el polvo y la suciedad antes de tirarlo la basura. Su 
 Este criterio se expresa en decibelios (dB). La aspiradora sin bolsa más silenciosa del mercado, sin contar los robots aspirador, tiene un nivel de ruido de 66 dB (contra 62 dB o 66 dB de las aspiradoras con bolsa más silenciosas)y es la <a href="{{ site.url }}/test-bosch-bgs5sil66b-relaxx-prosilence/"> Bosch BGS5SIL66B Relaxx'x ProSilence.</a> Por lo tanto, podemos decir que un aspirador es silencioso por debajo de 70 dB bar.
 
 <div class="text-center">
-  <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=28AC9F&lc1=EA394F&t=lasaspirad-21&o=30&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B00LWVGMPS" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+  <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=28AC9F&lc1=EA394F&t=lasaspirad-21&o=30&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B00LWVGMPS" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01JGM3T4G&linkId=bd2f06e45a7501143439f3b1ef618864&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
 </div>
 
 **2.8 El precio:**
