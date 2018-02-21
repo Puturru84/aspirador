@@ -65,6 +65,13 @@ Ya sabes que una aspiradora robot se pasea por tu casa. Sin embargo hay diferent
 
 El <b>modo conducción preprogramada</b>, el más simple. El robot aspirador está programado por el fabricante para entrar en una habitación, siguiendo una cierta <b>lógica optimizada</b>: por ejemplo, espiral, o cambiando de dirección a 90 ° cuando se encuentra con un obstáculo, etc.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01MUGXRT9&linkId=3d8be78762b2a289f7f8aefd18832900&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B06XDQR57M&linkId=9ce07d6f9ebb831f1a3bb8b9109d3543&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 Hay modelos que son moderadamente eficaces y poco eficientes energéticamente que pasan dos veces por el mismo lugar. Con lo cual, la batería se agota antes de permitir que el robot aspire una gran área.
 
 Con una autonomía de una a dos horas y dependiendo de la inteligencia de los diseños, estos robots aspiradora son adecuados para pisos de unos 60m² y para los usuarios más pacientes.
@@ -76,6 +83,13 @@ Por lo general le cuesta entre 50 y 80 minutos limpiar totalmente un piso de 100
 Otra ventaja: la gran mayoría de estos dispositivos son <b>capaces de volver</b> a su propia <b>base, y recargarse</b>.
 
 Los mejores pueden incluso una vez recargados, volver al trabajo para cubrir el doble de la superficie, como el <a href="http://www.lasaspiradoras.com/test-iRobot-roomba-980/"> iRobot Roomba 980</a>. Rápidos y eficaces, estos robots también consumen más energía, e inevitablemente requieren un vaciado más frecuente del depósito.
+
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B016ZIJAV0&linkId=b0bc4881d28eb7da705aadb0ed049b00&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01NC0OQB4&linkId=ac0fdb0ffc6ed58f6d1298e68a961a0b&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+    </iframe>
+</div>
 
 Pero en términos de navegación, eso no es todo:
 
@@ -127,6 +141,14 @@ Esto es en última instancia por lo que compramos un aspirador robot "X" u otro:
 
 Algunos dispositivos pueden ser <b>programados</b> para limpiar tu casa <b>ciertos días</b> de la semana a <b>ciertas horas.</b>
 En la gama baja, los aspiradores solo cuentan con un inicio diferido: puedes programarlos para empezar a trabajar una hora después de que te hayas ido, por ejemplo.
+
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01IEEVDIQ&linkId=9c664dde6cf69717684ac0df2aaf3355&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01M9FZE3X&linkId=6bb1f429e52a895fb0f6d75c9da5427a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+        </iframe>
+</div>
+
 
 La programación va a la par con la autonomía, ya que solo se puede programar si el robot aspirador cuenta con la autonomía suficiente para realizar el trabajo. Así, mientras que el tiempo de carga de la batería puede variar ampliamente (de una a cinco horas), la autonomía a plena carga también varía (por lo general entre una y dos horas).
 
