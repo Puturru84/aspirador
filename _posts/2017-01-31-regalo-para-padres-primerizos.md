@@ -21,6 +21,13 @@ Sin embargo, ¿qué le parecería tanto a la <b>mamá</b> como al <b>papa</b> co
 
 Tiempo para ocuparse con mayor tranquilidad de su recién nacido, tiempo para estar más descansados y relajados, tiempo para que sus papás lo mimen.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B071ZPSPNY&linkId=875505e0c1a82d41208574c1b8bd4e7c&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B008R5ZPL4&linkId=f6f126f9bf425c8757df7ccfe188a734&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 Los primeros meses de vida del bebé, son muy ajetreados, especialmente para padres primerizos. Noches en vela, cansancio, horarios de locos, muchas cosas por aprender, poco tiempo (y menos ganas) para ocuparse del hogar.  
 Un regalo práctico en el que no pensamos normalmente y que puede ser de gran ayuda para una pareja que acaba de tener un bebé es una aspiradora robot. Si, si…. como lo lees.
 
@@ -43,6 +50,13 @@ La  ventaja más significativa, que ha conquistado a más de un corazón, de <b>
 La segunda <b>garantiza la limpieza</b>, más o menos intensa según el modelo de aspiradora robot que elijas, de tu hogar. Tu casa estará libre de pelusas, cabello, pelos de mascota (si la tienes), polen, desperdicios y polvo.
 Muchas de las <a href="{{ site.url }}/blog-updates/2017/02/20/cual-es-el-mejor-robot-aspirador.html"> mejores aspiradoras robot</a> vienen con un filtro HEPA, lo que quiere decir que pueden absorber el 99,97% de las partículas que pasan a través de ellos que tengan un tamaño superior a los 0.3 micrómetros.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01BEUKZLI&linkId=8b812796eabcd9bccfdea5570f0b2056&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B0182G4BO4&linkId=90651774a4ebee11559e7bb564dc72a1&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 Otra ventaja es su <b>autonomía</b>, puedes <b>programarla</b> para que "trabaje" en el momento que más te convenga cada dia de la semana. Imagina el tiempo que vas a ganar, la aspiradora puede aspirar toda la casa cada dia lo que garantiza su limpieza mientras tu no tienes que preocuparte de nada. Las aspiradoras más modernas cuando se quedan sin batería se desplazan solas hasta su base para recargarse.
 
 Además, las aspiradoras robots <b>no requieren mucho mantenimiento</b>, basta con vaciar el depósito cuando esté lleno y limpiar los filtros de vez en cuando.
@@ -58,6 +72,13 @@ Por último, la aspiradora durará varios años con lo que este regalo que recib
 Con una gama de precios bastante amplia, a partir de 120 €  para la gama baja, de 300 € a 600 € para los robots de gama alta y a partir de 600 € para los de última generación, una aspiradora robot es el regalo perfecto para cualquier pareja que acabe de tener un hijo. El robot libera a los padres de una parte de las tareas domésticas y les permite dedicar ese tiempo a su bebé o simplemente a descansar mientras su casa está limpia.
 
 Para hacer la mejor elección os invitamos a consultar la lista de las <a href="http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/">mejores aspiradoras robot</a> donde encontrareis de manera clara y sencilla toda la información necesaria para hacer la mejor compra.
+
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B01BEUKZLI&linkId=8b812796eabcd9bccfdea5570f0b2056&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B016ZIJAV0&linkId=67111267d9766954cc03e54a6ca5143a&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
 
 #### Hablamos?
 
