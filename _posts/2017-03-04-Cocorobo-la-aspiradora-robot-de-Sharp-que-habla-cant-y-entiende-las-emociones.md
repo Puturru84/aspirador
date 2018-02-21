@@ -28,6 +28,13 @@ Aparentemente, la actualización se hizo después de que los usuarios comentasen
 
 Así que ahora, el Cocorobo toca canciones de [J-pop](https://es.wikipedia.org/wiki/J-pop) realizadas por un software de síntesis de voz de Yamaha, Vocaloid, que también le permite hablar con su propietario. La lista de reproducción puedes confugrarla tu mismo, o simplemente decirle a tu aspiradora lo que quieres escuchar.
 
+<div class="text-center">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B071ZPSPNY&linkId=875505e0c1a82d41208574c1b8bd4e7c&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="https://rcm-eu.amazon-adsystem.com/e/cm?ref=tf_til&t=lasaspirad-21&m=amazon&o=30&p=8&l=as1&IS2=1&asins=B008R5ZPL4&linkId=f6f126f9bf425c8757df7ccfe188a734&bc1=FFFFFF&lt1=_blank&fc1=333333&lc1=0066C0&bg1=FFFFFF&f=ifr">
+  </iframe>
+</div>
+
 El hecho más intrigante, sin embargo, es que Cocorobo también tiene "sentimientos". Si usas Cocorobo todos los días, o hablas con él todos los días, se pone de buen humor. Dependiendo de cómo se siente, sus palabras y movimientos varían mucho, por lo que puedes obtener una sensación de proximidad con ella.
 
 El grupo nipón no ha indicado de momento ni la fecha de lanzamiento ni el precio. Con de este prototipo Sharp quiere demostrar su voluntad de reinventar sus aparatos electrodomésticos con inteligencia artificial.
