@@ -27,7 +27,9 @@ Las aspiradoras han sido re-diseñadas acústicamente para **minimizar** las tur
 Los motores convencionales de corriente alterna pueden ser muy voluminosos, pesados y su velocidad es restringida; suelen pesar unos 800 gramos y giran a no más de 41.000 revoluciones por minuto.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-v10/Aspiradora_Dyson_Cyclone_V10_1-jpg-low_definition.JPG" width="400" height="auto" alt="Nuevo aspirador sin cable Dyson V10">
+  <img src="{{ site.url }}/assets/img/dyson-v10/Aspiradora_Dyson_Cyclone_V10_1-jpg-low_definition.jpg" width="400" height="auto" alt="Nuevo aspirador sin cable Dyson V10">
+</div>
+<div class="text-center">
   <a class="button" href="https://amzn.to/2IScxB4" >Comprar en Amazon</a>
 </div>
 
@@ -47,7 +49,9 @@ Características de la nueva aspiradora sin cable Dyson Cyclone V10™:
 **Accesorios**: los ingenieros de Dyson también tratan de desarrollar los accesorios que mejor solucionen cualquier problema de limpieza, desarrollando unos cabezales cepillos que permiten limpiar hasta las esquinas de más difícil acceso.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/dyson-v10/Aspiradora_Dyson_Cyclone_V10_1-jpg-low_definition.jpg" width="400" height="auto" alt="Nuevo aspirador sin cable Dyson V10">
+  <img src="{{ site.url }}/assets/img/dyson-v10/dysonv10.jpg" width="400" height="auto" alt="Nuevo aspirador sin cable Dyson V10">
+</div>
+<div class="text-center">
   <a class="button" href="https://amzn.to/2IScxB4" >Comprar en Amazon</a>
 </div>
 
