@@ -10,9 +10,9 @@ Este tipo de problemillas domésticos llegan siempre en el mejor momento. Tienes
 
 ![](https://s3-us-west-2.amazonaws.com/notion-static/970a0ba2f16f45c8ad0acae134824a15/reparar-mi-aspirador.jpg)
 
-Según un estudio llevado a cabo por el OCU los aspiradores de las marcas Bosch o Siemens son los más fáciles de reparar, ofreciendo además 10 años de disponibilidad de repuestos a nivel Europeo.
+Según un estudio llevado a cabo por el OCU los aspiradores de las [marcas Bosch](https://amzn.to/2pBY2tm) o [Siemens](https://amzn.to/2upZxQn) son los más fáciles de reparar, ofreciendo además 10 años de disponibilidad de repuestos a nivel Europeo.
 
-Por el contrario marcas como Dyson solo pueden ser reparadas por su servicio técnico oficial.
+Por el contrario marcas como [Dyson](https://amzn.to/2pAfu1p) solo pueden ser reparadas por su servicio técnico oficial.
 
 Hemos buscado informacion, hemos preguntado a varios profesionales y hemos resumido algunos consejos que compartimos contigo para ayudarte a decidir si vale la pena o no reparar tu aspirador.
 
@@ -26,7 +26,7 @@ A veces hacemos una compra y no acabamos de estar contentos con ella. Buscamos u
 
  **La mitad de lo que pagaste por él**
 
-Dependiendo de la calidad, la edad y el desgaste, se aconseja que la reparación no sea superior a la mitad de lo que pagaste por el aspirador. La vida útil de los aspiradores varía ampliamente. Por ejemplo, normalmente se dice que un Miele debe durar unos 20 años, un Dyson alrededor de 10, mientras que algunos nuevos modelos sin bolsa puede durar sólo de 3 a 4 años.
+Dependiendo de la calidad, la edad y el desgaste, se aconseja que la reparación no sea superior a la mitad de lo que pagaste por el aspirador. La vida útil de los aspiradores varía ampliamente. Por ejemplo, normalmente se dice que un Miele debe durar unos 20 años, un Dyson alrededor de 10, mientras que algunos nuevos [modelos sin bolsa](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/) puede durar sólo de 3 a 4 años.
 
 Si bien cada reparación es diferente te recomendamos tener en cuenta estos consejos para empezar a pensar en la reparación de tu aspiradora.
 
