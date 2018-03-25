@@ -14,6 +14,18 @@ Para prevenir cualquier tipo de accidente en el lugar de trabajo el [R.D. 486/19
 
 Para ayudarte a cumplir estas obligaciones y mantener tus instalaciones impolutas al mismo tiempo que realizas el trabajo de forma más rápida y con mejores resultados, te proponemos esta guía donde encontrarás las **mejores aspiradoras industriales**.
 
+<div class="text-center">
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=8&l=as1&asins=B00JU53C92&ref=tf_til&fc1=28AC9F&IS2=1&lt1=_blank&m=amazon&lc1=EA394F&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+</iframe>
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=8&l=as1&asins=B00514VSPG&ref=tf_til&fc1=28AC9F&IS2=1&lt1=_blank&m=amazon&lc1=EA394F&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+</iframe>
+<iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=8&l=as1&asins=B01M7408A0&ref=tf_til&fc1=28AC9F&IS2=1&lt1=_blank&m=amazon&lc1=EA394F&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+</iframe>
+  <iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?t=lasaspirad-21&o=30&p=8&l=as1&asins=B014HFNONS&ref=tf_til&fc1=28AC9F&IS2=1&lt1=_blank&m=amazon&lc1=EA394F&bc1=FFFFFF&bg1=FFFFFF&f=ifr" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+  <iframe src="http://rcm-eu.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&bg1=FFFFFF&fc1=28AC9F&lc1=3958EA&t=lasaspirad-21&o=30&p=8&l=as1&m=amazon&f=ifr&ref=tf_til&asins=B000ROB8FA" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0">
+  </iframe>
+</div>
+
 **Lo que hay que tener en cuenta para elegir el mejor aspirador industrial**
 
 ¿Necesita un aspirador que sea más duradero que el típico [aspirador escoba](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-escoba/) o [trineo](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-trineo/)? ¿Tu negocio requiere un aspirador capaz de manejar grandes cantidades de material húmedo y seco?
