@@ -26,4 +26,4 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       </div>
       <div class="callout">
         <a target="_blank" href="https://clk.tradedoubler.com/click?p=283907&a=3006258&g=&url=https://cecotec.es/robot-aspirador-conga-excellence-990" title="El Conga Excellence de Cecotec esta de rebajas">         
-      <img src="{{ site.url }}/assets/img/conga-excellence-990/conga-excellence-rebajas.png" width="400" height="auto" alt="aspirador conga">    
+      <img src="{{ site.url }}/assets/img/Día de la madre Productos Cecotec_FB_3 Conga Excellence 990.png" width="400" height="auto" alt="aspirador conga">    
