@@ -19,7 +19,7 @@ Bueno, los residuos más largos que se dejan en una alfombra más se hunden en l
 Además, muchas personas pueden escuchar "aspirar" y pensar en el suelo y alfombras solamente. Sin embargo, hay muchas otras superficies que acumulan polvo, pelo y pelusa que se pueden cuidar utilizando una [aspiradora con los accesorios adecuados](http://www.lasaspiradoras.com/blog-updates/2017/02/15/como-utilizar-correctamente-los-accesorios-para-aspiradoras.html), incluidos muebles, tratamientos para ventanas e incluso ropa de cama para mascotas.
 
 <div class="text-center">
-  <img src="{{ site.url }}/assets/img/varias/con-que-frecuencia-debo-aspirar.jpg" width="300" height="auto" alt="con que frecuencia debo aspirar">
+  <img src="{{ site.url }}/assets/img/varias/con-que-frecuencia-debo-aspirar.jpg" width="400" height="auto" alt="con que frecuencia debo aspirar">
 </div>
 
 #### Cuánto aspirar
