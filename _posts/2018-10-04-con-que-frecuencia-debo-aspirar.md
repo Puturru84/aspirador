@@ -2,7 +2,7 @@
 layout: "post"
 title:  "¿Con qué frecuencia debo aspirar?"
 categories: "blog-updates"
-date: "2018-10-04 08:00:00"
+date: "2018-10-04 07:00:00"
 description: "El aspirar es una tarea vital cuando se trata de mantener un hogar ordenado y limpio."
 ---
 
@@ -33,3 +33,7 @@ Por otro lado, si tu hogar consta de solo una o dos personas, puedes planear asp
 Como puedes ver, el [aspirado proporciona muchos beneficios tanto para tu hogar como para tu piso](http://www.lasaspiradoras.com/blog-updates/2017/03/17/8-razones-por-las-que-aspirar-tu-casa-a-diario.html). Sin embargo, los hogares que a menudo necesitan mayor aspiración suelen ser muy activos. Y todo el ajetreo y el bullicio de mantenerse al día con la tarea, la práctica de fútbol o pasear perros significa que probablemente tengas menos tiempo para limpiar.
 
 Si crees que necesitas ayuda para mantenerse al día con sus tareas domésticas de rutina, considera la ayuda de profesionales de limpieza o adquirir un [robot aspirador](http://www.lasaspiradoras.com/tabla-caracteristicas-aspiradoras-robot/), que limpie por ti.
+
+¿y tu, cada cuanto aspiras tu casa? Cuentanoslo!
+
+Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
