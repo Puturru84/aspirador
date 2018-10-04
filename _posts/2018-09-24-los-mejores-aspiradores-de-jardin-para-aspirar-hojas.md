@@ -30,6 +30,10 @@ Algunos de los mejores modelos, sin embargo, tienen **ambas funciones**: soplado
 
 Hace años muchos jardineros han considerado los sopladores de hojas un lujo o sólo necesario para los jardines profesionales. No creo que esto sea cierto ya que muchas de las **mejores aspiradoras de hojas** para jardines pequeños están disponibles por **menos de 100 €.**
 
+<div class="text-center">
+  <img src="{{ site.url }}/assets/img/varias/los-mejores-aspiradores-de-jardin-para-aspirar-hojas.jpg" width="300" height="auto" alt="Bosch ALS 25">
+</div>
+
 Es por eso que he seleccionado estos cinco aspiradores y sopladores de hojas. Cada uno ha sido altamente valorado por los compradores, ofrece una excelente relación calidad-precio y, lo que es más importante, hace que deshacerse de las hojas de otoño  sea rápido y fácil.
 
 Hay una serie de factores que afectan la calidad de un soplador de hoja de jardín o aspirador, pero los tres más importantes son: **la potencia, la facilidad de uso y la relación calidad-precio.**
@@ -54,18 +58,17 @@ Teniendo en cuenta que esto es un soplador, aspirador de jardín y trituradora, 
 
 En resumen, el [ALS 2500](https://amzn.to/2NDXMIa) es un poderoso soplador eléctrico de hojas de jardín que proporciona un gran valor. Es perfecto para deshacerse rápidamente de las hojas y otros desechos en pequeños jardines. Si bien no es tan conveniente como los modelos inalámbricos, y es relativamente pesado esto se compensa con su potencia y eficacia.
 
-Características principales:
+**Características principales:**
 
-Máquina versátil
-Relación calidad precio excepcional
-Soplador, aspirador y trituradora tres en uno
+- Máquina versátil
+- Relación calidad precio excepcional
+- Soplador, aspirador y trituradora tres en uno
 
-Especificación:
+**Especificación:**
 
-Peso: 4.4 kg (3.2 kg con soplador de hojas)
-Velocidad máxima: 300 km / hora
-Rango de precios: €
-Tamaño de la bolsa: 45 litros
+- Peso: 4.4 kg (3.2 kg con soplador de hojas)
+- Rango de precios: €
+- Tamaño de la bolsa: 45 litros
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/Bosch ALS 25.jpg" width="300" height="auto" alt="Bosch ALS 25">
@@ -89,18 +92,18 @@ Otras características incluyen un cable de 10 metros, siete ajustes de velocida
 
 Creemos que el Worx WG505E proporciona una excelente relación calidad-precio. Es potente, tiene una variedad de ajustes de velocidad y viene con una proporción de cobertura de 16: 1, por lo que es adecuado para hojas húmedas en casi cualquier superficie. El único inconveniente es que puede ser bastante engorroso debido al diseño de una sola asa y el peso relativamente pesado, aunque esto se compensa con la correa para el hombro.
 
-Características principales:
+**Características principales:**
 
-Aspiradora de jardín con cable
-Precio muy razonable
-Cubrir con mantillo a una proporción de 16: 1
+- Aspiradora de jardín con cable
+- Precio muy razonable
+- Cubrir con mantillo a una proporción de 16: 1
 
-Especificación:
+**Especificación:**
 
-Peso: 4.1kg
-Velocidad máxima: 335 km / hora
-Rango de precios: €
-Tamaño de la bolsa: 45 litros
+- Peso: 4.1kg
+- Velocidad máxima: 335 km / hora
+- Rango de precios: €
+- Tamaño de la bolsa: 45 litros
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/Worx WG505E.jpg" width="300" height="auto" alt="Worx WG505E">
@@ -123,18 +126,18 @@ Con un PVP de poco más de 72€ el GW2500 tiene un precio muy razonable. Esto l
 
 Si necesita un soplador de jardín y aspiradora para un jardín pequeño o mediano, entonces el Black + Decker GW2500 podría ser una excelente opción. Es potente, lo que le permite lidiar con casi cualquier tarea que su jardín le pueda lanzar, al tiempo que proporciona trituración y una bolsa grande.
 
-Características principales:
+**Características principales:**
 
-Potente poder de soplado
-Reducción de desechos de trituración 10: 1
-Gran capacidad de bolsa
+- Potente poder de soplado
+- Reducción de desechos de trituración 10: 1
+- Gran capacidad de bolsa
 
-Especificación:
+**Especificación:**
 
-Peso: 3.2kg
-Velocidad máxima: 310 km / hora
-Rango de precios: €
-Tamaño de la bolsa: 40 litros
+- Peso: 3.2kg
+- Velocidad máxima: 310 km / hora
+- Rango de precios: €
+- Tamaño de la bolsa: 40 litros
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/Black and Decker GW2500.jpg" width="300" height="auto" alt="Black and Decker GW2500">
@@ -157,17 +160,17 @@ Así que está claro que el S650 no es la mejor aspiradora de jardín, pero cump
 
 En resumen, el [Karcher S650](https://amzn.to/2Q1Rteu) solo vale la pena comprarlo para un único trabajo específico: si tiene una superficie grande, plana y al aire libre que necesita limpiarse regularmente de suciedad, polvo y otros desechos pequeños. Esto lo hace perfecto para la limpieza regular de caminos y caminos de entrada, pero si deseas limpiar hojas u otros tipos de terreno, entonces se requiere una de las otras opciones en esta lista.
 
-Características principales:
+**Características principales:**
 
-Barredora en lugar de aspiradora
-Alimentado por empuje (sin batería ni cable)
-Ideal para limpiar la suciedad de las entradas grandes (pero no es bueno para deshacerse de las hojas o escombros más grandes)
+- Barredora en lugar de aspiradora
+- Alimentado por empuje (sin batería ni cable)
+- Ideal para limpiar la suciedad de las entradas grandes (pero no es bueno para deshacerse de las hojas o escombros más grandes)
 
-Especificación:
+**Especificación:**
 
-Peso: 9.71kg
-Rango de precios: €
-Tamaño de la bolsa: 16 litros
+- Peso: 9.71kg
+- Rango de precios: €
+- Tamaño de la bolsa: 16 litros
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/Karcher s 650.jpg" width="300" height="auto" alt="Karcher s 650">
@@ -190,17 +193,18 @@ Nota: El ALB 36 LI de Bosch algunas veces se vende como "baretool", lo que signi
 
 El ALB 36 LI de Bosch es un soplador de hojas sorprendentemente eficaz y potente, a pesar de su diseño liviano. Es ideal para jardines pequeños, aunque el diseño inalámbrico lo hace inadecuado para trabajos más grandes. Sin embargo, es relativamente caro a menos que tengas otras máquinas Bosch que usen la misma batería. Aun así, creemos que es uno de los mejores sopladores de hojas en su rango de precio.
 
-Características principales:
+**Características principales:**
 
-Diseño inalámbrico
-Relativamente ligero
-Ajuste la salida entre 170-250 km / hora
-Especificación:
+- Diseño inalámbrico
+- Relativamente ligero
+- Ajuste la salida entre 170-250 km / hora
 
-Peso: 2.6kg
-Velocidad máxima: 250 km / hora
-Tiempo de ejecución: hasta 35 minutos
-Rango de precios: €
+
+**Especificación:**
+
+- Peso: 2.6kg
+- Tiempo de ejecución: hasta 35 minutos
+- Rango de precios: €
 
 <div class="text-center">
   <img src="{{ site.url }}/assets/img/varias/Bosch ALB 36 LI.jpg" width="300" height="auto" alt="Bosch ALB 36 LI">
@@ -248,3 +252,9 @@ De estos cinco modelos, nuestro favorito es el "Bosch ALS 2500". Es un modelo al
 ¿Tienes alguna pregunta sobre aspiradoras de jardín o sopladores de hojas? Háznoslo saber
 
 Hasta pronto — [@Las_aspiradoras](https://twitter.com/Las_aspiradoras)
+
+#### También te puede interesar:
+
+- [5 consejos para preparar tu jardin para el otoño y el invierno](http://www.lasaspiradoras.com/blog-updates/2017/12/03/5-consejos-para-preparar-tu-jardin-para-el-oto%C3%B1o-y-el-invierno.html)
+
+- [Los mejores aspiradores trineo por menos de 100 €](http://www.lasaspiradoras.com/blog-updates/2017/05/19/Los-mejores-aspiradores-por-menos-de-100.html)
