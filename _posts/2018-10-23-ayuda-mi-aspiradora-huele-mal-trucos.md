@@ -22,6 +22,7 @@ No queremos decir simplemente vaciar el contenedor de basura, ¡sino darle un bu
   <img src="{{ site.url }}/assets/img/varias/ayuda-mi-aspiradora-huele-mal-trucos.jpg" width="600" height="auto" alt="con que frecuencia debo aspirar">
 </div>
 
+Photo on <a href="https://visualhunt.com/re/355b3b">Visual hunt</a>
 
 #### 3. Reemplaza el filtro
 
