@@ -37,7 +37,7 @@ discount: "0%"
 stars: "5"
 description: "Guia de compra del Robot aspiradora Xiaomi Mi 2, funcionamiento, aspirado, características y las mejores ofertas."
 link-gearbest: "https://es.gearbest.com/home-applicances/pp_009757856338.html?wid=1451237&lkid=16777163"  
-link-amazon: "https://amzn.to/2yBoqrH"
+link: "https://amzn.to/2yBoqrH"
 ---
 
 <div class="flex-video">
