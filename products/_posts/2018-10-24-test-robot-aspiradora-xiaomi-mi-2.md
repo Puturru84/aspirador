@@ -13,7 +13,7 @@ technology: "Tecnología Roborock"
 power: "2000 Pa"
 power-op: "5"
 capacity: "0,48 L"
-capacity-op: ""
+capacity-op: "4"
 sound: "65 dB"
 sound-op: "4.5"
 filter: "HEPA"
@@ -41,7 +41,7 @@ link: "https://amzn.to/2yBoqrH"
 ---
 
 <div class="flex-video">
-  <iframe width="560" height="315" src="xxx" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zt7oLxIH0MY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <div class="text-center">
@@ -89,7 +89,7 @@ El Mi Robot 2 presenta un motor aún más potente y un mejor algoritmo de enruta
 El modelo de primera generación tenía un motor de 1800Pa, y el Mi Robot 2 viene con un motor de 2000Pa aún más potente. También hay un modo de alfombra en el que aumentará la succión si reconoce una alfombra. El modo de limpieza predeterminado está establecido en Equilibrado, pero se puede cambiar a Silencio, Turbo o Máx. Dirigiéndose a la configuración del robot en la aplicación Mi Home. También puede seleccionar un modo de limpieza puntual presionando el botón en la unidad o desde Mi Home, y la aspiradora comenzará a limpiar esa zona en particular.
 
  <div class="text-center">
- <img src="{{ site.url }}/assets/img/xiaomi-mi-2/xiaomi-mi-3.jpg" width="650" height="auto" alt="Test Robot aspiradora Xiaomi Mi">
+ <img src="{{ site.url }}/assets/img/xiaomi-mi-2/xiaomi-mi-3.jpg" width="350" height="auto" alt="Test Robot aspiradora Xiaomi Mi">
  </div>
 
  <div class="text-center">
@@ -104,7 +104,7 @@ Todo lo que necesitas hacer para iniciar el proceso de limpieza es presionar el 
 El algoritmo de enrutamiento ha mejorado mucho con respecto al modelo de primera generación, gracias a un nuevo sensor de distancia láser. La aspiradora tiene una batería de 5200 mAh que dura aproximadamente 45 minutos de tiempo de limpieza, y si se agota a mitad de camino, regresa automáticamente a la base de carga para recargarse. Se retira desde donde se detuvo una vez que está completamente cargada.
 
   <div class="text-center">
-    <img src="{{ site.url }}/assets/img/xiaomi-mi-2/xiaomi-mi-5.jpg" width="800" height="auto" alt="xiaomi-mi foto de ambiente">
+    <img src="{{ site.url }}/assets/img/xiaomi-mi-2/xiaomi-mi-5.jpg" width="400" height="auto" alt="xiaomi-mi foto de ambiente">
   </div>
 
   <div class="text-center">
