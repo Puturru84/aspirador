@@ -2,6 +2,7 @@
 permalink: "politica-de-cookies/"
 layout: "page"
 title:  "Politica de Cookies"
+description: "Politica de Cookies"
 ---
 
 <main>
