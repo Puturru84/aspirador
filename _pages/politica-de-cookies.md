@@ -97,7 +97,7 @@ navegador instalado en su ordenador:</p>
 
 <p class="lead">Aceptación de la Política de cookies</p>
 
-<p class="lead"><a href="http://www.lasaspiradoras.es/">Peluqueria Escandalo</a> asume que aceptas el uso de cookies. No obstante, muestra información sobre su Política de cookies en la parte
+<p class="lead"><a href="http://www.lasaspiradoras.es/">Las aspiradoras/a> asume que aceptas el uso de cookies. No obstante, muestra información sobre su Política de cookies en la parte
 inferior o superior de cualquier página del portal con cada inicio de sesión con el objeto de que seas consciente.</p>
 
 <p class="lead">Ante esta información es posible llevar a cabo las siguientes acciones:</p>
