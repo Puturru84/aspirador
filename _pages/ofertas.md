@@ -19,12 +19,6 @@ description: "Ofertas, cupones y planazos para comprar tu aspiradora al mejor pr
       <img src=" https://s3.amazonaws.com/mailcache.appinthestore.com/A+Rosalia+linq/%E5%B0%8F%E7%B1%B3%E4%B8%93%E9%A2%98/728x90.jpg" title="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" alt="Gearbest Promoci&oacute;n especial para los productos de Xiaomi!! promotion" />  <br/>Promoción especial para los productos de Xiaomi!!</a>     
       </div>
       <div class="callout">
-        <a target="_blank" href="https://www.gearbest.com/vacuum-cleaners/pp_3001437352206705.html?wid=2000001&lkid=78911883" title="Aiibot D3 Robot Vacuum Cleaner Strong Suction Infrared Sensors with Remote Control from Gearbest"><img src="https://nsm09.casimages.com/img/2019/08/16//19081608125524889816360049.jpg" title="Aiibot D3 Robot Vacuum Cleaner Strong Suction Infrared Sensors with Remote Control from Gearbest" alt="Gearbest Aiibot D3 Robot Vacuum Cleaner Strong Suction Infrared Sensors with Remote Control"/><br/>Aiibot D3 Robot Vacuum Cleaner Strong Suction Infrared Sensors with Remote Control only $164.99</a>
-      </div>
-      <div class="callout">
-        <a target="_blank" href="https://www.gearbest.com/vacuum-cleaners/pp_3009556701733143.html?wid=2000001&lkid=78911890" title="Aiibot Robot Vacuum Cleaner-Strong Suction-Intelligent Sensors-Good for Carpets and Hard Floors-HEPA from Gearbest"><img src="https://nsm09.casimages.com/img/2019/08/16//19081608124424889816360045.jpg" title="Aiibot Robot Vacuum Cleaner-Strong Suction-Intelligent Sensors-Good for Carpets and Hard Floors-HEPA from Gearbest" alt="Gearbest Aiibot Robot Vacuum Cleaner-Strong Suction-Intelligent Sensors-Good for Carpets and Hard Floors-HEPA"/><br/>Aiibot Robot Vacuum Cleaner-Strong Suction-Intelligent Sensors-Good for Carpets and Hard Floors-HEPA only $79.00</a>S    
-      </div>
-      <div class="callout">
         <a href="https://www.amazon.es/AEG-RX9-aspirador-triangular-especial/dp/B0748LKTH1/ref=as_li_ss_tl?ie=UTF8&qid=1512385719&sr=8-1&keywords=rx9&linkCode=ll1&tag=lasaspirad-21&linkId=c5d9763fbf1ed25a693a0d35de9cf22c"><img src="{{ site.url }}/assets/img/aegrx9/!cid_705B15D3-5E57-4873-B07F-41F86326FD77@home.jpg" width="550" height="auto" alt="Promocion robot aspirador AEG X9"></a>
       </div>
       <div class="callout">
