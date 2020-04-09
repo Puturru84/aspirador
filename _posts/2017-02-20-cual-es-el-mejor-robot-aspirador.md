@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title:  "Cuál es el mejor robot aspirador?"
+title:  "Mejor robot aspirador"
 date: "2017-02-20 08:00:00"
 categories: "blog-updates"
 description: "Se escriben muchos ríos de tinta respecto a cuál es el mejor robot aspirador y en mi opinión la respuesta ni es fácil ni única, todo depende de diversos criterios."

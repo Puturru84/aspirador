@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title:  "Los mejores aspiradores de jardin para aspirar hojas - Os revelamos el top 5"
+title:  "Los mejores aspiradores de jardin para aspirar hojas 2019 - Os revelamos el top 5"
 categories: "blog-updates"
-date: "2018-09-24 08:00:00"
+date: "2019-09-24 08:00:00"
 description: "Las hojas que caen en otoño pueden parecer bonitas, pero pueden ser una pesadilla para quitarlas. Revisamos las mejores aspiradoras de jardín y sopladores de hojas"
 ---
 
