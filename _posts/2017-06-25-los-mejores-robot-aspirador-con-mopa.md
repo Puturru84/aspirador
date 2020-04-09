@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title:  "Los mejores robot aspirador con mopa 2019"
+title:  "Los mejores robot aspirador con mopa"
 categories: "blog-updates"
-date: "2019-06-25 06:00:00"
+date: "2017-06-25 06:00:00"
 description: "Fregar el suelo de mi piso esta en uno de los primeros puestos en la lista de cosas que odio hacer.
 ¿Alguna vez has deseado contratar a alguien para realizar las tareas de limpieza de tu hogar?"
 ---

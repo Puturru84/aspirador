@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Guia de compra de una aspiradora robot 2020"
-date: "2020-01-23 17:00:00"
+title:  "Guia de compra de una aspiradora robot"
+date: "2016-12-23 17:00:00"
 categories: blog-updates
 desciption: "Guia para comprar tu aspiradora robot, todas las características que necesitas saber antes de hacer tu compra"
 ---
@@ -29,7 +29,7 @@ En lasaspiradoras.com queremos ofreceros opiniones de valor, para ello hemos pro
 <p>Fuente <a href="http://www.piperthibodeau.com/">piperthibodeau.com</a></p>
 </div>
 
-<h4>Guía de compra de un robot aspiradora diciembre de 2020: 5 criterios clave</h4>
+<h4>Guía de compra de un robot aspiradora diciembre de 2016: 5 criterios clave</h4>
 
 Básicamente, tienes que mirar cinco criterios principales para una elección consciente y responsable con respecto a un robot aspirador.
 

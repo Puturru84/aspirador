@@ -1,8 +1,8 @@
 ---
 layout: "post"
-title:  "Guia para elegir la mejor aspiradora de mano 2020"
+title:  "Guia para elegir la mejor aspiradora de mano"
 categories: "blog-updates"
-date: "2020-02-08 08:00:00"
+date: "2017-05-08 08:00:00"
 description: "La aspiradora de mano es un producto de aspecto muy simple pero que ofrece  un gran servicio en el día a día."
 ---
 
